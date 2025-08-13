@@ -17,7 +17,7 @@ HTML
 shopt -s nullglob
 count=0
 
-for f in $(printf '%s\n' "$DIR"/summary_*.md | sort -r); do
+for f in $(printf '%s\n' "$DIR"/*.md | sort -r); do
   b=${f##*/}              # e.g., summary_5168_City_Council_on_2025-02-05_330_PM.md
   t=${b#summary_}         # 5168_City_Council_on_2025-02-05_330_PM.md
   t=${t#*_}               # City_Council_on_2025-02-05_330_PM.md  (drop "5168_")
