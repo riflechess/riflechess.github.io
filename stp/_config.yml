@@ -1,0 +1,8 @@
+title: Saint Paul Meeting Summaries
+description: Summaries of Saint Paul City Council meetings
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+

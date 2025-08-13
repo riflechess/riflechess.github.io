@@ -1,3 +1,6 @@
+---
+---
+
 #### Meeting Info
 - Type: Truth in Taxation Hearing
 - Purpose: Discussion of the proposed 2025 budget and tax levy increase

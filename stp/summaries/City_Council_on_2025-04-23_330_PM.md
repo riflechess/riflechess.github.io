@@ -1,3 +1,6 @@
+---
+---
+
 #### Meeting Info
 - **Type**: City Council Meeting
 - **Purpose**: Regular City Council meeting to discuss various resolutions, ordinances, and public hearings.
