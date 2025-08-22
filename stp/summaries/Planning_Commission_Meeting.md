@@ -3,17 +3,19 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-* Type: Planning Commission Meeting
-* Purpose: To discuss and vote on various planning-related items, including zoning changes, development proposals, and policy updates.
-* Date/Time: March 12, 2023, at 2:00 PM
-* Location: City Hall, Room 300
+* **Type:** Planning Commission Meeting
+* **Purpose:** To discuss and vote on various planning-related items, including conditional use permits, zoning changes, and utility infrastructure.
+* **Date/Time:** January 10th, 2025 (approximate time not specified)
+* **Attendees:** Various city officials, staff members, and commissioners
 
 #### Summary
-The meeting began with a presentation by the city's planning department on several proposed zoning changes in the Highland Park neighborhood. The changes aim to rezone areas around commercial corridors to allow for more mixed-use development.
+The meeting began with the approval of the minutes from the previous meeting. The first item discussed was a conditional use permit for an emergency housing facility at 435 University Avenue. Commissioner Tagiaff expressed concerns about the expansion from 138 to 210 beds, citing that it would not meet the district's requirement for facilities serving fewer than 16 residents. He also argued that the modification of conditions did not align with the intent and purpose of the original restriction.
 
-Next, the commission discussed a proposal from Nacre (corrected spelling: Noecker) Development Group for a new high-rise apartment building near the Cathedral High School. The proposal includes 20 stories and over 200 units, with some concerns raised by nearby residents about increased traffic and noise pollution. After discussion, the commission voted 6-3 in favor of recommending approval of the proposal to City Council.
+Commissioner Tegahoff countered by highlighting the need for spaces to address homelessness and the facility's existing track record in the area. Commissioner Risberg, who had worked across the street from the facility, expressed support for the expansion, citing its potential benefits for community use. The vote on this item was 9-2 in favor of approval.
 
-A separate item on the agenda was a request from the St. Paul Parks Department for permission to construct a new community garden at the Hamline-Midway library site. The proposal includes space for plots and educational programs, with some commissioners expressing concerns about maintenance costs and potential disruption to surrounding residents.
+The next items discussed were a conditional use permit for a farmers market at Comel Park Lutheran and a utility building for US Internet. For the farmers market, there was little discussion, and it passed unanimously. For the utility building, Commissioner Riley raised concerns about the potential impact on the neighborhood node, but ultimately voted against it.
 
-Overall, the meeting lasted approximately two hours, with most attendees participating remotely due to public health guidelines.
+A roll call vote was held for both items, with all voting commissioners present except for one. The last item discussed was a presentation from the planning commission's intern on a new SharePoint site for accessing committee and commission materials. Commissioners asked questions about the site's functionality and organization, particularly regarding how to link to public-facing information.
+
+The meeting concluded with a discussion on improving communication between the planning commission and other city departments, including the BZA (Board of Zoning Appeals). It was noted that there are plans to have staff brief the commission on their relationship and how they work together in the future.
 
