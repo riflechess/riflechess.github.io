@@ -3,24 +3,22 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Planning Commission Meeting
-**Purpose:** To discuss and vote on various planning-related items, including zoning applications, committee chair nominations, and the annual report.
-**Date/Time:** March 7th, [time not specified]
-**Attendees:** Members of the Saint Paul Planning Commission, city staff, and guests.
+* **Meeting Type:** Planning Commission Meeting
+* **Purpose:** Discussion of various planning-related items, including the Mississippi River Critical Area Study and a non-performing use permit application.
+* **Date/Time:** March 21st (exact time not specified)
+* **Location:** City Hall Annex (13th floor)
 
 #### Summary
 
-The meeting began with the approval of the minutes from the February 21st, 2025 planning commission meeting. The first item on the agenda was a conditional use permit for 2145 Charles Road Cup, which was unanimously approved.
+The meeting began with the approval of minutes from the previous Planning Commission meeting. The chair then announced that staff would take items out of order to accommodate a planning director's absence.
 
-Commissioner Martison expressed concerns about the standards used in the application, citing the need for climate resilience and updating flood zone regulations. However, he ultimately voted to support the motion.
+Tony, representing Conference in Newburgh Planning, presented the Mississippi River Critical Area Study, which aims to protect the river's natural and cultural resources through coordinated land use planning and zoning regulations. The study involves adopting new rules from 2017 and incorporating optional provisions for better resource protection. However, there are concerns about bird-safe glass requirements, with some questioning whether murka is the right geography for this issue.
 
-The next items on the agenda were zoning applications for 635 Cleveland Avenue South and 642 Selby Avenue, both of which were unanimously recommended by the committee and approved by the commission.
+The Planning Commission discussed the adoption process, which involves getting approval from the Department of Natural Resources (DNR) after passing through the commission and city council. A public hearing was scheduled for May 2nd, but Commissioner Holtz moved to release the study for public review instead.
 
-The comprehensive neighborhood planning committee discussed minor text amendments to the zoning code, which was approved with a public hearing date set for April 18th. Commissioner Kenner abstained from voting on this item.
+In another matter, the commission voted to lay over a non-performing use permit application for further consideration due to updated findings. The item will be brought back in two weeks.
 
-The transportation committee meeting was rescheduled for April 7th, and no agenda had been determined at the time of the meeting.
+The meeting also touched on upcoming transportation-related items, including a new West Seventh Corridor concept and the grand opening of the Gold Line BRT. There was no old business or new business presented.
 
-Communications and nominations discussed officer and committee chair nominations, which were ultimately approved. The annual report was also presented, with some discussion about future projects and work plans. Commissioner Riley recommended approval of the report, and it was unanimously passed.
-
-Overall, the meeting covered a range of planning-related topics, including zoning applications, committee business, and staff updates.
+Notable discussion points included concerns about bird-safe glass requirements, the adoption process for the Mississippi River Critical Area Study, and the layover of the non-performing use permit application. The commission also discussed open meetings laws and the limitations on discussing zoning issues outside of formal meetings.
 
