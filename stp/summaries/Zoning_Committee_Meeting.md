@@ -3,26 +3,28 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type**: Zoning Committee Meeting
-* **Purpose**: To discuss and vote on several zoning-related items, including the approval of minutes from a previous meeting, site plan reviews, and an appeal of a similar use determination.
-* **Date/Time**: Thursday, February 13th, 2025 (3:30 pm)
-* **Location**: City Hall
-* **Attendees**: Zoning Committee members, staff, applicants, and community members
+**Meeting Type:** Zoning Committee Meeting
+**Date/Time:** Thursday, February 27th, 2025
+**Location:** City Hall in the basement (Room 40)
 
 #### Summary
 
-The meeting began with the approval of minutes from a previous meeting. The committee then moved on to discuss site plan reviews for two properties: an attached garage storage facility at 488-448 University Avenue West, and a compressed natural gas garbage truck filling facility and construction of bituminous pavement over an existing gravel parking lot at 560 Randolph Avenue.
+The meeting began with a review of the meeting minutes from the previous meeting on February 13th. The committee then moved on to discuss several items related to zoning and land use.
 
-The main item on the agenda was an appeal of a similar use determination for 560 Randolph Avenue. The Fort Road Federation appealed the determination that FCC Environmental Services' proposed truck dispatch and maintenance facility is similar in character and impact to a public works yard or maintenance facility. The committee heard testimony from both sides, with some community members expressing concerns about the potential impacts on the neighborhood, while others supported the project.
+**Item 1: Brentag Tanker Terminal Site Plan Review**
+The committee approved a layover for two weeks to allow staff to refine their findings on a non-conforming use permit application at 237 Richmond Street. This decision was made after the applicant requested a layover due to city staff needing more time to work on updated findings.
 
-After hearing testimony, Commissioner Grill made a motion to move the staff recommendation to deny the appeal, which was seconded by Commissioner Saeed. The committee then engaged in discussion and debate, with some members questioning the similarity between the proposed use and a public works yard or maintenance facility. Others raised concerns about the potential impacts on traffic, noise, and air quality.
+**Item 2: Childs Road CUP**
+The committee voted unanimously to recommend approval of a conditional use permit (CUP) for the construction of a new barge unloading terminal at 2145 Childs Road. The applicant, Mr. Williams, presented a detailed overview of the project and explained how it meets FEMA standards for development in the floodplain.
 
-The motion to deny the appeal passed 4-1, with Chair Tagayoff voting against it. The committee's recommendation will be forwarded to the Planning Commission for consideration at their next meeting.
+**Item 3: Rezoning at 635 Cleveland Avenue South**
+The committee voted unanimously to recommend approval of a rezoning application from OS (Office Service) to T2 (Traditional Neighborhoods) for a property located at 635 Cleveland Avenue South. The applicant, Montessori 3, plans to convert the existing building into a retail store and makerspace.
 
-In other business, the committee heard testimony from community members regarding a non-conforming use permit application for a service business with a workshop at 237 Richmond Street. Some neighbors expressed concerns about the potential impacts on traffic and noise, while others supported the project.
+**Item 4: Rezoning at 959 Payne Avenue**
+The committee laid over this item for four weeks to allow staff to prepare for a public hearing. This decision was made after the Payne Phelan Community Council requested a layover to discuss the application with District 5 residents.
 
-The committee ultimately decided to lay over the item for two weeks to allow staff to draft new findings supporting a potential denial by recommendation of denial from this committee.
+**Item 5: Conditional Use Permit at 642 Selby Avenue**
+The committee voted unanimously to recommend approval of a conditional use permit (CUP) to increase the maximum building height from 55 to 60 feet for a five-story mixed-use building at 642 Selby Avenue. The applicant, [name], presented a shadow study and explained how the increased height would not have significant impacts on surrounding properties.
 
-Finally, the committee adjourned early due to technical issues with the audio equipment.
+Note: There was some discussion about the applicant's reason for requesting an additional five feet in height, but it was determined that this was relevant only to the extent that it affected the project's viability.
 
