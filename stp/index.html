@@ -4,7 +4,7 @@ title: Saint Paul Meeting Summaries
 ---
 
 <h1>Saint Paul Meeting Summaries</h1>
-<p>Browse recent meetings below.</p>
+<p>Browse recent meetings below. Transcribed by <a href="https://github.com/ggml-org/whisper.cpp">whisper</a>, summarized by <a href="https://huggingface.co/meta-llama/Llama-3.1-8B">llama</a>. Not responsible for errors or hallucinations.</p>
 
 <ul>
   {% assign items = site.pages | where_exp: "p", "p.path contains 'summaries/'" | sort: "path" | reverse %}
