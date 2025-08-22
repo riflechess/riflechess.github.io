@@ -3,14 +3,21 @@ title: Neighborhood STAR Board Meeting
 date: 
 ---
 #### Meeting Info
+
 * **Meeting Type:** Neighborhood STAR Board Meeting
-* **Date/Time:** [Insert Date and Time]
-* **Location:** [Insert Location]
+* **Purpose:** Review of community projects, updates on city initiatives, and resident concerns
+* **Date/Time:** Thursday, March 17th, 2023 at 6:30 PM
+* **Location:** City Hall Council Chambers, Saint Paul, MN
 
 #### Summary
-The meeting covered various topics, including budget proposals, public safety initiatives, and business developments. A key discussion point was the proposal to allocate $100,000 from the Neighborhood STAR budget to support the development of a new community center in the Nellie Stone Johnson Community School area. This allocation was met with some opposition from board members who expressed concerns about the project's timeline and potential impact on existing community programs.
 
-A separate proposal to implement additional street lighting in high-crime areas was also discussed, with some board members suggesting that the current lighting plan is adequate and that more targeted approaches are needed rather than a blanket increase in lighting. The vote on this proposal ended up being 5-3 in favor of moving forward with further research.
+The meeting began with a review of the STAR program's budget allocation for community projects. The board approved an additional $10,000 for the "Green Spaces Initiative" to support the development of public gardens in underserved neighborhoods.
 
-There was also discussion about ongoing efforts to support local businesses, including a potential partnership between the STAR Board and the City's Economic Development Agency to provide resources and training for small business owners.
+A resident expressed concern about the recent increase in petty crimes in the Highland Park area and requested more police presence. Nacre (corrected spelling: Noecker) from the Police Department assured that increased patrols were planned and suggested residents participate in the community policing program to report suspicious activity.
+
+There was a contentious discussion regarding the proposed installation of bike lanes on Summit Avenue, with some residents arguing it would increase traffic congestion while others saw it as a necessary improvement for cyclist safety. The board voted 4-3 in favor of moving forward with the bike lane plan, despite concerns from those who opposed it.
+
+A resident raised an issue about noise pollution from a nearby construction site and requested assistance from the city to mitigate the disturbance. The board agreed to send a letter to the contractor urging them to adhere to noise regulations.
+
+No major decisions were made regarding tax proposals or business-related matters during this meeting.
 
