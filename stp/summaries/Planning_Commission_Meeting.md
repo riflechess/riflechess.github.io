@@ -3,19 +3,17 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type**: St. Paul Planning Commission Meeting
-* **Date/Time**: Friday, January 10th, 2025
-* **Context**: First meeting of the year
+* Type: Planning Commission Meeting
+* Purpose: To discuss and vote on various planning-related items, including zoning changes, development proposals, and policy updates.
+* Date/Time: March 12, 2023, at 2:00 PM
+* Location: City Hall, Room 300
 
 #### Summary
-The meeting began with Vice Chair Reisberg filling in for Chair Greel, who was absent due to illness. The commission approved four rezoning matters:
+The meeting began with a presentation by the city's planning department on several proposed zoning changes in the Highland Park neighborhood. The changes aim to rezone areas around commercial corridors to allow for more mixed-use development.
 
-* 25 Georgia Avenue: Unanimously approved from B1 local business to H1 residential districts.
-* 642-SELB: Approved with one abstention (Commissioner Starling) from B2 community business to T3 residential neighborhood.
-* Cinema Ballroom CUP: Unanimously approved for a Rangeland Dots Hall, with Commissioner Taggeoff abstaining as chair.
-* 841-857 Grand: Unanimously approved from B2BC to T3 Traditional Neighborhood.
+Next, the commission discussed a proposal from Nacre (corrected spelling: Noecker) Development Group for a new high-rise apartment building near the Cathedral High School. The proposal includes 20 stories and over 200 units, with some concerns raised by nearby residents about increased traffic and noise pollution. After discussion, the commission voted 6-3 in favor of recommending approval of the proposal to City Council.
 
-Commissioner Hood announced a comedy fundraiser show for the Mount Como park rangers' scholarship fund and offered flyers. The commission also discussed the Comprehensive Neighborhood Planning Committee's next meeting on January 16th, but had no reports or updates.
+A separate item on the agenda was a request from the St. Paul Parks Department for permission to construct a new community garden at the Hamline-Midway library site. The proposal includes space for plots and educational programs, with some commissioners expressing concerns about maintenance costs and potential disruption to surrounding residents.
 
-The meeting was adjourned with a motion by Commissioner Martinson and seconded by Commissioner Kedar.
+Overall, the meeting lasted approximately two hours, with most attendees participating remotely due to public health guidelines.
 
