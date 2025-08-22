@@ -3,24 +3,24 @@ title: PCIARC Meeting - Frogtown Community Center, 230 Como Ave, Saint Paul, MN 
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** PCIARC Meeting - Frogtown Community Center
-**Date/Time:** April [time not specified]
-**Location:** Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
-**Purpose:** Public meeting of the Police Civilian Review Commission (PCR) to review complaints and discuss policies
+* **Meeting Type:** PCIARC Meeting (Public Safety and Civilian Oversight Review Commission)
+* **Date/Time:** [Not specified]
+* **Location:** Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
+* **Purpose:** Discussion of policies and procedures related to public safety and civilian oversight
 
 #### Summary
 
-The meeting began with introductions from new commissioners, including Sarah Florman, Sierra, John Linson, Amy Boyer, Steve Petron, Beth Commerce, Catherine Grills, Nancy Rodenberg, Dan Featherstone, Chanel Webb, Mike Redmaker, Laura Forsham, and Kathy. The commissioners were sworn in by Chair Foreman on behalf of the mayor's office.
+The meeting began with the approval of the agenda and minutes from the previous meeting. The chair then introduced a discussion on tabling cases to allow for complainants to provide testimony. Coordinator Cumberland presented a proposal to delay cases by one month to give complainants an opportunity to provide live testimony, with three opportunities in total.
 
-The meeting minutes from February 5th and March 5th were approved without opposition. Commissioner Portia mentioned that the PCR has a new process for handling complaints independently submitted through email or letter, which was explained by Coordinator Cumberland. This process allows community members to provide complaints in various formats and ensures flexibility in the submission process.
+There was significant discussion among commissioners, with some arguing that this would create undue delays and not be effective in encouraging complainants to participate. Commissioner Vice Chair Korsha suggested that the policy should allow for cases to be held open as long as necessary to accommodate complainant testimony. Commissioner Roedberg proposed a compromise of two months.
 
-The Hero Department Report discussed the department's efforts to address problem properties, including CVS on the corner of Snellingham University. Commissioner Rosenberg expressed concerns about issuing fines to corporations versus individuals and asked why a $50,000 fine was not being considered. Coordinator Plummers explained that due process would be followed in such cases, with opportunities for appeal.
+The commission ultimately failed to pass a motion on the proposal due to a tie vote (6-6). The motion would have added language to the standard operating procedures (SOPs) requiring complainants to be given three opportunities to provide live testimony before the case is deliberated.
 
-The presentation and discussion on the PCR complaint review process were led by Coordinator Cumberland. The process involves reviewing complaints, conducting investigations, and making recommendations to Chief Henry. Commissioners asked questions about accessing policies and procedures, technology issues, and the role of police officers in providing testimony.
+After this discussion, the meeting moved on to other topics. Deputy Director of Commerce presented an update on the hero department's budget and staffing, including a reduction in their budget of $121,000. They also announced plans for a new employee, Katie Edmond, who will be starting as an office assistant on August 29th.
 
-A mock training process was suggested by Commissioner Robert to help new commissioners understand the PCR process. Chair Foreman emphasized the importance of following Robert's rules of order during deliberations.
+The commission then discussed upcoming events, including the annual NACOL conference, which will be held in Minneapolis from October 26-30. The conference is expected to cover topics related to civilian oversight and law enforcement accountability. Commissioner Hayes expressed his appreciation for Coordinator Cumberland's advocacy for the commission to attend the conference.
 
-The commission approved a policy allowing for more flexibility in handling complaints submitted independently through email or letter. Coordinator Cumberland explained that this process ensures community members can provide complaints in various formats and facilitates the submission process.
+The meeting concluded with a discussion of complaint data, including an update on the number of complaints received by internal affairs (IAU) in June. There was also a question about how complainants can refile their complaints if they are unable to provide testimony at the scheduled time.
 
-Finally, community updates were shared by Coordinator Carmelin, including an upcoming event at the Highland District Council's annual meeting and an understanding and responding to mass incarceration conference at Metropolitan State University.
+In the public comment section, one member of the public expressed concern about whether individuals who witness police misconduct but are not directly involved in the incident can file a complaint with IAU. Coordinator Cumberland clarified that IAU does accept complaints from witnesses, but the complainant must be identified and have standing to make the complaint.
 
