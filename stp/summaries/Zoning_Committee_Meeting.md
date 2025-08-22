@@ -3,26 +3,26 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** Review and discuss zoning applications, including conditional use permits (CUPs)
-**Date/Time:** Thursday, January 30th
-**Location:** City Hall
+
+* **Meeting Type**: Zoning Committee Meeting
+* **Purpose**: To discuss and vote on several zoning-related items, including the approval of minutes from a previous meeting, site plan reviews, and an appeal of a similar use determination.
+* **Date/Time**: Thursday, February 13th, 2025 (3:30 pm)
+* **Location**: City Hall
+* **Attendees**: Zoning Committee members, staff, applicants, and community members
 
 #### Summary
 
-The meeting began with the approval of the minutes from the previous meeting. The committee then reviewed two site plan reviews for new construction projects on Highland Bridge.
+The meeting began with the approval of minutes from a previous meeting. The committee then moved on to discuss site plan reviews for two properties: an attached garage storage facility at 488-448 University Avenue West, and a compressed natural gas garbage truck filling facility and construction of bituminous pavement over an existing gravel parking lot at 560 Randolph Avenue.
 
-The first item up for discussion was a CUP application (25-004-887) for a farmers market at 1545 Hamlin Avenue in the Como neighborhood. The applicant, Lindsay Stoner from St. Paul Farmer's Market, explained that they will be bringing 20 vendors selling local food and will operate on Thursdays from mid-May to October. Commissioner Saeed asked about the operation schedule, and Stoner replied that it would be one day a week.
+The main item on the agenda was an appeal of a similar use determination for 560 Randolph Avenue. The Fort Road Federation appealed the determination that FCC Environmental Services' proposed truck dispatch and maintenance facility is similar in character and impact to a public works yard or maintenance facility. The committee heard testimony from both sides, with some community members expressing concerns about the potential impacts on the neighborhood, while others supported the project.
 
-The committee held a public hearing, during which no opposition was raised, but some questions were asked by residents regarding parking and electromagnetic interference. The applicant addressed these concerns, stating that they will not have many employees working on-site, and their service is passive with no electromagnetic fields.
+After hearing testimony, Commissioner Grill made a motion to move the staff recommendation to deny the appeal, which was seconded by Commissioner Saeed. The committee then engaged in discussion and debate, with some members questioning the similarity between the proposed use and a public works yard or maintenance facility. Others raised concerns about the potential impacts on traffic, noise, and air quality.
 
-Commissioner Hood suggested creating a list of potential zoning code changes to be reviewed by the council in the future. Commissioner Starling expressed some concerns about the lot size for the farmers market but ultimately voted in favor of the CUP.
+The motion to deny the appeal passed 4-1, with Chair Tagayoff voting against it. The committee's recommendation will be forwarded to the Planning Commission for consideration at their next meeting.
 
-The next item discussed was a CUP application (25004-867) for a utility building at 1540 Randolph Avenue. The applicant, US Internet, explained that they will be installing a fiber internet switching station and removing some windows on the north side of the building. Commissioner Ochoa expressed concerns about the density of the use and how it may impact the neighborhood's character.
+In other business, the committee heard testimony from community members regarding a non-conforming use permit application for a service business with a workshop at 237 Richmond Street. Some neighbors expressed concerns about the potential impacts on traffic and noise, while others supported the project.
 
-The committee held another public hearing, during which one resident expressed concerns about parking and electromagnetic interference. The applicant addressed these concerns, stating that they will not have many employees working on-site and their service is passive with no electromagnetic fields.
+The committee ultimately decided to lay over the item for two weeks to allow staff to draft new findings supporting a potential denial by recommendation of denial from this committee.
 
-Commissioner Grell proposed a motion to approve the staff recommendation for the utility building CUP. Commissioner Schauer expressed some reservations but ultimately voted in favor of the motion. A friendly amendment was proposed by Commissioner Ochoa to remove one of the curb cuts, but it was not accepted by the proposers, and the original motion passed.
-
-The meeting concluded with a vote on the motion, which carried 5-0-0.
+Finally, the committee adjourned early due to technical issues with the audio equipment.
 
