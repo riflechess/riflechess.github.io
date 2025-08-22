@@ -1,10 +1,7 @@
----
----
-
 #### Meeting Info
-**Meeting Type:** Library Board meeting
+**Type:** Library Board meeting
+**Purpose:** To discuss library-related matters and make decisions for the City of Saint Paul
 **Date/Time:** 2025-08-06, 1:00 PM
-**Context:** This is a public meeting of the City of Saint Paul's Library Board.
 
-Unfortunately, it appears that this recording is incomplete and only contains repeated public service announcements. As such, there are no summaries to provide from this meeting.
+Unfortunately, due to an excessive amount of repetitive "We'll be right back" announcements at the beginning of the meeting, there is little substance to summarize. It appears that the actual discussion and decision-making parts of the meeting were skipped over.
 
