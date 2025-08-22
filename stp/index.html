@@ -6,22 +6,30 @@ title: Saint Paul Meeting Summaries
 <h1>Saint Paul Meeting Summaries</h1>
 <p>Browse recent meetings below. Transcribed by <a href="https://github.com/ggml-org/whisper.cpp">whisper</a>, summarized by <a href="https://huggingface.co/meta-llama/Llama-3.1-8B">llama</a>. Not responsible for errors or hallucinations.</p>
 
-
-
 {% assign dated = site.pages
-   | where_exp: "p", "p.path contains 'summaries/' and p.date"
-   | sort: "date" | reverse %}
+   | where_exp: 'p', 'p.path contains "summaries/"'
+   | where_exp: 'p', 'p.date'
+   | sort: 'date' | reverse %}
+
 {% assign undated = site.pages
-   | where_exp: "p", "p.path contains 'summaries/' and p.date == nil"
-   | sort: "path" %}
+   | where_exp: 'p', 'p.path contains "summaries/"'
+   | where_exp: 'p', 'p.date == nil'
+   | sort: 'path' %}
 
 <ul>
   {% for p in dated %}
-    <li><a href="{{ p.url | relative_url }}">{{ p.date | date: "%Y-%m-%d" }} – {{ p.title | default: p.path | split: '/' | last | split: '.' | first | replace: '_', ' ' }}</a></li>
+    <li>
+      <a href="{{ p.url | relative_url }}">
+        {{ p.date | date: "%Y-%m-%d" }} – {{ p.title | default: p.path | split: '/' | last | split: '.' | first | replace: '_', ' ' }}
+      </a>
+    </li>
   {% endfor %}
   {% for p in undated %}
-    <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.path | split: '/' | last | split: '.' | first | replace: '_', ' ' }}</a></li>
+    <li>
+      <a href="{{ p.url | relative_url }}">
+        {{ p.title | default: p.path | split: '/' | last | split: '.' | first | replace: '_', ' ' }}
+      </a>
+    </li>
   {% endfor %}
 </ul>
-
 
