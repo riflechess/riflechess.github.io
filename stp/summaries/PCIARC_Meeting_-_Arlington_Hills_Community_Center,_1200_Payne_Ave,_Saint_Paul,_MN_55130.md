@@ -3,17 +3,23 @@ title: PCIARC Meeting - Arlington Hills Community Center, 1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** PCIARC (Police Civilian Administrative Review Committee) Meeting
-* **Purpose:** Deliberations and updates on PCR activities
-* **Date/Time:** March 5th (time not specified)
-* **Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+**Type:** PCIARC Meeting
+**Purpose:** Review of traffic stop and use of force data by SPPD
+**Date/Time:** Not specified in the transcript
+**Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+**Attendees:** Members of PCIARC, representatives from SPPD
 
 #### Summary
-The meeting began with Coordinator Cumberland sharing updates on the PCR. Four new commissioner appointments were recommended to Mayor Carter, and three reappointments were also submitted for consideration. The coordinator also shared a brief new policy regarding PODPA (Peace Officer Discipline Procedures Act) complaints, which will be sent to commissioners and IA18 for review.
 
-The meeting touched on 2024 complaint data, with eight complaints in the withdrawn category. Two of these complaints were withdrawn after speaking with a supervisor, while two others were forwarded to a supervisor. One complaint was not cooperative with providing information during the investigation, and one was withdrawn at the complainant's request.
+The meeting began with approval of the agenda and minutes. The chair reported on attending a NAACP meeting where data was presented for the city, and Commander Jacob was scheduled to present some of that data tonight.
 
-In terms of departmental updates, Deputy Director of Commerce discussed budget cuts from last year's cycle and the department's plan to absorb these cuts through salary savings and new hires. The department is hiring a labor standards one investigator and a buyer position, and will have six months' worth of salary savings from the June or July start date.
+Commander Jacob presented traffic stop data for 2024, showing an increase of about 4,000 stops compared to 2023. He also showed demographics by race and gender for those stopped. Some attendees asked questions about the data, including whether it could be filtered to show specific types of enforcement actions, such as "bogus" enforcement emails.
 
-The meeting concluded with no further business for the public portion, and reconvened after two minutes for the closed portion (not summarized here).
+The discussion then turned to use of force data, with Commander Jacob presenting numbers showing a reduction in use of force incidents compared to 2023. He explained that the majority of these incidents were soft empty hand techniques, which are low-level methods used by officers to control individuals.
+
+Some attendees asked questions about the comparison to national or regional data, and Commander Jacob noted that while he did not have direct comparisons, his department had implemented additional deescalation training and response to aggression training in recent years, leading to a 37% reduction in use of force incidents since 2014.
+
+The meeting also included updates from other departments, including the hero department. Commissioner Bruce asked questions about the disproportionality of black residents experiencing youth workforce compared to white residents, and Deputy Director Cam responded that it was a complex issue with both socioeconomic and racial factors at play.
+
+Some attendees expressed interest in seeing statistics on communication barriers and mental health calls, which the SPPD director agreed to look into. The meeting adjourned after 10 minutes for a closed-door session.
 
