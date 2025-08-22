@@ -1,17 +1,16 @@
 #### Meeting Info
-**Meeting Type:** Housing & Redevelopment Authority (HRA) Public Meeting
-**Purpose:** To discuss and vote on resolutions related to conduit revenue bonds for charter schools and private schools.
-**Date/Time:** August 20, 2025, 2:00 PM
-**Location:** City of Saint Paul
+**Meeting Type:** Housing Redevelopment Authority Meeting
+**Date/Time:** 2025-08-20, 2:00 PM
+**Purpose:** Public hearing on two items related to conduit revenue bonds for charter schools and a private school project.
 
 #### Summary
-The meeting started with a brief discussion about the format for public hearings. The Chair explained that two-minute speaking limits would be enforced to allow staff to intervene if speakers exceeded the time limit.
+The meeting began with a public hearing on item one, which involved the issuance of conduit revenue bonds for a charter school project. Commissioner Yang expressed her concerns about the impact on the St. Paul Public Schools district and its budget challenges. She also stated that she would not be voting in support of the funding request due to her conflicting views on the matter.
 
-A public hearing was held on Item #1, Resolution Public Hearing 25-175, which authorized the issuance and sale of conduit revenue bonds for charter schools. Commissioner Yang expressed her concerns about the impact on the St. Paul Public Schools district, stating that she would not vote in support of the resolution due to conflicting feelings about the issue.
+The motion to close the public hearing and approve was made by Vice Chair Jost, with a unanimous vote (4-0) in favor, except for Commissioner Yang who opposed it.
 
-Despite Commissioner Yang's opposition, the motion to close the public hearing and approve the resolution was adopted with four votes in favor and one opposed.
+Item number two involved a resolution authorizing the issuance and sale of conduit charter school lease revenue refunding bonds for the Twin Cities Academy Project. A similar motion to close the public hearing and approve was made by Council President Nacre, with four votes in favor (including Chair Johnson) and one opposing vote from Commissioner Yang.
 
-The meeting then moved on to Item #2, Resolution Public Hearing 25-176, which authorized the issuance and sale of conduit charter school lease revenue refunding bonds for the Twin Cities Academy Project. A similar public hearing was held, but no speakers expressed opposition. The resolution was adopted with four votes in favor and one opposed.
+The meeting concluded with an acknowledgement of Commissioner Provatsky's service on the Housing and Redevelopment Authority board, which will be their last meeting before a new representative is sworn in for Ward 4. Commissioner Yang expressed her gratitude to Commissioner Provatsky for his work on various housing projects and his dedication to improving the city's infrastructure.
 
-The meeting concluded with Chair Johnson thanking Commissioner Provatsky for their service on the HRA and acknowledging the impact they had made during their time on the council. Commissioner Yang also expressed her appreciation for Commissioner Provatsky's work on housing projects.
+The contentious aspect of this meeting was Commissioner Yang's dissenting vote on both items due to her concerns about the impact on the St. Paul Public Schools district and its budget challenges. Her comments highlighted the need for more intentional conversations with the school district, teachers union, educators, and families regarding funding requests and financing decisions by the Housing Redevelopment Authority.
 
