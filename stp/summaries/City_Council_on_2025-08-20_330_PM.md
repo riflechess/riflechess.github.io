@@ -1,4 +1,5 @@
 ---
+date: 2025-08-20
 ---
 #### Meeting Info
 Meeting Type: City Council Meeting
