@@ -3,28 +3,20 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Date/Time:** Thursday, February 27th, 2025
-**Location:** City Hall in the basement (Room 40)
+* **Meeting Type:** Zoning Committee Meeting
+* **Purpose:** Public hearing and discussion of the 237 Richmond non-conforming use permit
+* **Date/Time:** Thursday, March 13th, 2025
+* **Location:** City Hall, Room (not specified)
 
 #### Summary
 
-The meeting began with a review of the meeting minutes from the previous meeting on February 13th. The committee then moved on to discuss several items related to zoning and land use.
+The meeting began with the approval of the minutes from the February 27th, 2025, Zoning Committee Meeting. The committee then moved on to discuss two site plan reviews: the United Village Interim Parking Lot and the YMCA Child Care Centre.
 
-**Item 1: Brentag Tanker Terminal Site Plan Review**
-The committee approved a layover for two weeks to allow staff to refine their findings on a non-conforming use permit application at 237 Richmond Street. This decision was made after the applicant requested a layover due to city staff needing more time to work on updated findings.
+However, the majority of the meeting focused on the 237 Richmond non-conforming use permit. Commissioner Hankerson presented two options for consideration: an updated staff report with additional conditions to address concerns raised at a previous public hearing, and alternative findings that would support denial.
 
-**Item 2: Childs Road CUP**
-The committee voted unanimously to recommend approval of a conditional use permit (CUP) for the construction of a new barge unloading terminal at 2145 Childs Road. The applicant, Mr. Williams, presented a detailed overview of the project and explained how it meets FEMA standards for development in the floodplain.
+The committee discussed various questions regarding the conditions, including enforcement procedures and the process for ensuring compliance. They also debated the appropriateness of the new business use in the area, citing concerns about compatibility with the comprehensive plan standards.
 
-**Item 3: Rezoning at 635 Cleveland Avenue South**
-The committee voted unanimously to recommend approval of a rezoning application from OS (Office Service) to T2 (Traditional Neighborhoods) for a property located at 635 Cleveland Avenue South. The applicant, Montessori 3, plans to convert the existing building into a retail store and makerspace.
+Commissioner Grill proposed a motion to recommend approval of the non-conforming use permit with the updated conditions. The motion was seconded and passed with three votes in favor and two opposed (including Commissioner Hood's "no" vote).
 
-**Item 4: Rezoning at 959 Payne Avenue**
-The committee laid over this item for four weeks to allow staff to prepare for a public hearing. This decision was made after the Payne Phelan Community Council requested a layover to discuss the application with District 5 residents.
-
-**Item 5: Conditional Use Permit at 642 Selby Avenue**
-The committee voted unanimously to recommend approval of a conditional use permit (CUP) to increase the maximum building height from 55 to 60 feet for a five-story mixed-use building at 642 Selby Avenue. The applicant, [name], presented a shadow study and explained how the increased height would not have significant impacts on surrounding properties.
-
-Note: There was some discussion about the applicant's reason for requesting an additional five feet in height, but it was determined that this was relevant only to the extent that it affected the project's viability.
+The committee concluded their discussion on this item, recommending approval to the full planning commission at their next meeting.
 
