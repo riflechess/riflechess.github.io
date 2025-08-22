@@ -4,23 +4,25 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Zoning Committee Meeting
-**Purpose:** To discuss and make recommendations on zoning-related matters, including conditional use permits (CUP) and site plan reviews.
-**Date/Time:** Thursday, January 16th, 2025
-**Location:** City Hall, Basement Room
+**Purpose:** Review and discuss zoning applications, including conditional use permits (CUPs)
+**Date/Time:** Thursday, January 30th
+**Location:** City Hall
 
 #### Summary
 
-The meeting began with a public hearing for a CUP at 435 University Ave. Estefan Hankerson, the planner assigned to the case, presented on behalf of Union Gospel Mission Twin Cities (UGMTC). The application seeks to expand an emergency housing facility from 138 beds to 210 beds.
+The meeting began with the approval of the minutes from the previous meeting. The committee then reviewed two site plan reviews for new construction projects on Highland Bridge.
 
-Commissioner Burrell asked if there were any additional modifications to the facility beyond the change in number of beds. Hankerson replied that they are only considering the expansion of the facility residents at this time.
+The first item up for discussion was a CUP application (25-004-887) for a farmers market at 1545 Hamlin Avenue in the Como neighborhood. The applicant, Lindsay Stoner from St. Paul Farmer's Market, explained that they will be bringing 20 vendors selling local food and will operate on Thursdays from mid-May to October. Commissioner Saeed asked about the operation schedule, and Stoner replied that it would be one day a week.
 
-Chair Tagiaff clarified that, if denied, UGMTC would still be able to operate the existing facility as a legal non-conforming use.
+The committee held a public hearing, during which no opposition was raised, but some questions were asked by residents regarding parking and electromagnetic interference. The applicant addressed these concerns, stating that they will not have many employees working on-site, and their service is passive with no electromagnetic fields.
 
-Pam Stewart-Axberg, CEO of UGMTC, spoke on behalf of the applicant. She explained that the renovation is primarily focused on upgrading the facility and providing more space for residents, including lockers, beds, and dining capacity.
+Commissioner Hood suggested creating a list of potential zoning code changes to be reviewed by the council in the future. Commissioner Starling expressed some concerns about the lot size for the farmers market but ultimately voted in favor of the CUP.
 
-The public hearing was closed, and a motion to approve the staff recommendation with modification to increase the maximum number of facility residents to 210 was made by Commissioner Saeed. The motion passed unanimously (5-0) with Commissioner Hood abstaining.
+The next item discussed was a CUP application (25004-867) for a utility building at 1540 Randolph Avenue. The applicant, US Internet, explained that they will be installing a fiber internet switching station and removing some windows on the north side of the building. Commissioner Ochoa expressed concerns about the density of the use and how it may impact the neighborhood's character.
 
-This recommendation will be sent to the Planning Commission for their consideration and action.
+The committee held another public hearing, during which one resident expressed concerns about parking and electromagnetic interference. The applicant addressed these concerns, stating that they will not have many employees working on-site and their service is passive with no electromagnetic fields.
 
-Note: There were no public comments or opposition to the application during the public hearing.
+Commissioner Grell proposed a motion to approve the staff recommendation for the utility building CUP. Commissioner Schauer expressed some reservations but ultimately voted in favor of the motion. A friendly amendment was proposed by Commissioner Ochoa to remove one of the curb cuts, but it was not accepted by the proposers, and the original motion passed.
+
+The meeting concluded with a vote on the motion, which carried 5-0-0.
 
