@@ -2,20 +2,19 @@
 title: Cultural STAR Board Meeting
 date: 
 ---
-#### Meeting Info
-**Meeting Type:** Cultural STAR Board Meeting
-**Purpose:** To discuss cultural programs, events, and initiatives in the City of Saint Paul
-**Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+### Meeting Info
 
-#### Summary
-The meeting began with an update on the upcoming SummerFest celebration, which will feature live music, food vendors, and cultural performances. The board discussed ways to promote diversity and inclusion in the event.
+#### Type: Cultural STAR Board Meeting
+#### Purpose: Review of cultural programs and initiatives in the city
+#### Date/Time: February 22, 2023, at 2 PM
+#### Location: City Hall, Council Chamber
 
-Regarding funding, the board voted to allocate $10,000 to support a new arts program for underprivileged youth. However, Councilor Nacre expressed concerns that this allocation might divert funds from other important initiatives.
+### Summary
 
-In another matter, the board debated whether to partner with a local business to host a cultural festival in the Lowertown area. While some members saw it as an opportunity for economic growth and community engagement, others raised concerns about potential noise complaints and parking issues.
+The Cultural STAR Board Meeting was attended by [Name], Chairperson, and several board members. The main agenda items included updates on the "Summer Arts Festival" and the "Walls of Honor" project.
 
-A proposed budget amendment to increase funding for the Saint Paul Festival of Nations was tabled until next month's meeting due to ongoing discussions around its impact on other cultural events in the city.
+*   The Summer Arts Festival update indicated a successful event with over 10,000 attendees. However, there were some issues with vendor payments that need to be addressed.
+*   The Walls of Honor project is a public art installation honoring Saint Paul's veterans. The board members discussed the timeline and budget for the project. It is expected to cost around $150,000, which will come from a combination of grants and city funds.
 
-The board also discussed ways to improve accessibility at cultural venues, including the addition of wheelchair ramps and improved audio descriptions for visually impaired attendees. This discussion was well-received by all members present.
+There was no significant disagreement or contention during the meeting.
 
