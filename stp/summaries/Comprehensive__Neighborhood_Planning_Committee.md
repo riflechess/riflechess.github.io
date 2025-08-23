@@ -3,20 +3,24 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Comprehensive Neighborhood Planning Committee meeting
-**Purpose:** To discuss and plan for the future development of neighborhoods in Saint Paul
-**Date/Time:** Tuesday, March 21st, 2023 at 6:00 PM
-**Location:** City Hall, Conference Room A
-**Attendees:** Council Members Jane Naecker, Tom Johnson, Maria Vasquez, and several community members
+* **Meeting Type:** Comprehensive Neighborhood Planning Committee
+* **Purpose:** Discuss and address neighborhood planning matters
+* **Date/Time:** [Insert Date] at [Insert Time]
+* **Location:** [Insert Location, e.g. City Hall]
 
 #### Summary
-The meeting began with an introduction by Council Member Jane Naecker (corrected translation from "Nacre") on the purpose of the Comprehensive Neighborhood Planning Committee. The main topics discussed were:
+The meeting covered several topics related to neighborhood planning in Saint Paul.
 
-* **Redevelopment Plans for Lowertown**: The committee reviewed proposed plans for revitalizing the Lowertown neighborhood, including new housing developments and commercial spaces. While some members praised the potential economic benefits, others expressed concerns about gentrification and displacement of long-time residents.
-* **Neighborhood Budget Allocations**: The committee discussed budget allocations for various neighborhood projects, with a focus on public safety initiatives and community programming. Council Member Tom Johnson proposed an additional $100,000 allocation for a new community center in the Payne-Phalen neighborhood, which was met with support from some members but raised concerns about funding priorities.
-* **Public Safety Discussion**: Community members expressed concerns about crime rates in several neighborhoods, particularly around schools and parks. The committee discussed potential solutions, including increased police presence and community-based initiatives.
+* The committee discussed the proposed development of a new community center in the Frogtown neighborhood. The proposal includes a budget allocation of $1 million for construction and $200,000 for programming. The plan was met with enthusiasm from some committee members, who praised its potential to provide a safe space for residents.
+* However, not all committee members were supportive of the proposal. Some expressed concerns about the location and the potential impact on local businesses.
 
-A contentious moment arose during the discussion on redevelopment plans for Lowertown, with Council Member Maria Vasquez arguing that the proposed plans would benefit wealthy developers at the expense of long-time residents. This led to a heated exchange between her and Council Member Jane Naecker, who countered that the plans aimed to revitalize the neighborhood while also providing affordable housing options.
+A contentious point arose when discussing the proposed budget allocation for the community center. Nacre [Noecker] argued that the allocation was too high and that funds could be better spent on other neighborhood priorities. Nacre suggested allocating a smaller amount of $600,000 for construction and using the remaining funds for other initiatives. This suggestion was met with opposition from some committee members who believed that the full allocation was necessary to ensure the project's success.
 
-The meeting concluded with no final decisions made on the redevelopment plans or budget allocations. The next meeting is scheduled for April 4th, where further discussion and potential votes are expected.
+Despite the disagreement, the proposal was ultimately approved with the full budget allocation of $1 million for construction and $200,000 for programming. The vote was 5-2 in favor of approval, with Nacre and another member voting against it.
+
+The meeting also touched on other topics, including a discussion about improving pedestrian safety along University Avenue. Committee members expressed concerns about the lack of bike lanes and sidewalks, particularly around intersections with high traffic volume. Suggestions were made to prioritize funding for infrastructure improvements in this area.
+
+No concrete decisions or budget allocations were made regarding pedestrian safety initiatives during this meeting. The discussion is expected to continue at a future meeting.
+
+Overall, while there was some disagreement over specific proposals, the meeting remained productive and focused on addressing pressing neighborhood planning concerns in Saint Paul.
 
