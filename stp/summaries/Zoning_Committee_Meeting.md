@@ -3,24 +3,19 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Zoning Committee Meeting
-* **Purpose:** To discuss and vote on conditional use permit applications for various properties in Saint Paul
-* **Date/Time:** Thursday, June 26, 2025
-* **Location:** City Hall (basement), Room 40
+**Meeting Type:** Zoning Committee Meeting
+**Purpose:** To discuss and vote on several zoning applications, including a Conditional Use Permit (CUP) for an emergency housing facility and a CUP for a shelter for battered persons.
+**Date/Time:** Thursday, July 17th, 2025
+**Location:** City Hall in the basement, Room 40
 
 #### Summary
-The meeting began with a review of the minutes from the previous Zoning Committee meeting. The committee then moved on to discuss three conditional use permit applications.
+The Zoning Committee meeting began with a discussion on the approval of minutes from the June 26, 2025 meeting. The committee then moved on to new business and considered three items: Interfaith Action's request for a CUP for an emergency housing facility at 1010 Bandana Boulevard, a reestablishment non-conforming use permit for a general store at 469 Anita Street, and a CUP for a shelter for battered persons at 362 Cleveland Ave North.
 
-**Item 1: Venue 1944 Rental Hall CUP**
-The first application was for a conditional use permit for a reception hall or rental hall at 839 University Avenue West in Frogtown. After reviewing the staff report and hearing public testimony, the committee voted unanimously (3-0) to approve the staff recommendation.
+**Interfaith Action's Request:** The committee discussed Interfaith Action's proposal to convert the former Best Western Hotel into an emergency housing facility. Staff recommended approval of the CUP with modification to allow more than 16 residents. After some discussion, Commissioner Ochoa suggested that the motion be modified to specify the intent behind modifying the special condition. The committee ultimately voted in favor of the motion as written, with the understanding that the language could be clarified at a later date.
 
-**Item 2: 2284 7th Street West CUP**
-The second application was for a conditional use permit for an adult care home at 2284 7th Street West in the Highland neighborhood. The committee discussed concerns about parking and accessibility, but ultimately voted (3-2) to approve the staff recommendation.
+**Reestablishment Non-Conforming Use Permit:** The committee considered an application for a reestablishment non-conforming use permit for a general store at 469 Anita Street. Staff recommended approval subject to conditions, including final plans approved by the zoning administrator and business hours limited to conclude at 10 p.m. The motion passed with no opposition.
 
-**Item 3: 1190 James Avenue CUP**
-The third application was for a conditional use permit for a wellness club on the main floor of a large structure at 1190 James Avenue in the Macalester Groveland neighborhood. The committee discussed concerns about parking, noise, and infrastructure, but ultimately voted (3-2) to approve the staff recommendation.
+**Shelter for Battered Persons:** The committee discussed an application for a CUP for a shelter for battered persons at 362 Cleveland Ave North. Staff recommended approval subject to conditions, including final plans approved by the zoning administrator. Commissioner Hurd raised questions about a change in state law regarding supportive housing facilities and how it relates to this application. After some discussion, Commissioner Grill moved to adopt the staff recommendation with modification of the minimum distance requirement from supportive housing facilities with more than six adult residents. The motion passed with no opposition.
 
-In each case, the committee recommended approval subject to certain conditions, such as maintaining the existing character of the building and ensuring that the use does not negatively impact the surrounding neighborhood.
-
-The meeting concluded with a brief discussion and vote on the final motion, which approved the staff recommendations for all three applications. The meeting adjourned shortly thereafter.
+Overall, the committee voted in favor of both applications, with some modifications to the language of one of the motions.
 
