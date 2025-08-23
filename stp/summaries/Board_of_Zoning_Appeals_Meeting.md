@@ -4,20 +4,21 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To review and decide requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
-**Date/Time:** Not specified
-**Location:** City Hall, Saint Paul
+**Purpose:** Review and decide requests for zoning code variances, administrative reviews, and home occupation requirements for handicapped individuals
+**Date/Time:** [Not specified]
+**Attendees:** Daniel Miller (Chair), David Eide, Yaya Tiyada, Josh Ladin, Maxine Linston
 
 #### Summary
-The meeting began with a presentation on two variance requests: one from Concordia University St. Paul to install new wall signs on their campus, and another from Ryan Companies (Block 2B) for a mixed-use development project at 2200 Ford Parkway. The Board of Zoning Appeals heard public comments and discussed the proposals.
 
-The first request from Concordia University was approved with a vote of 8-0 after staff presented findings that supported the requested variances, citing practical difficulties in complying with the zoning regulations due to the large size of the campus and unique development challenges.
+The Board of Zoning Appeals meeting focused on three main items: a variance request for an in-ground swimming pool at 1530 Edgecombe Road and three applications at 905 Woodlawn Avenue. The first item was approved with a vote of 7-0.
 
-The second proposal, Block 2B (2200 Ford Parkway), saw controversy among Board members. Some members questioned whether the project met the density requirements outlined in the Highland Bridge Master Plan, while others argued that the project did not comply with transportation policies, including bike parking requirements. The applicant had submitted a supplement addressing these concerns.
+For the swimming pool variance, David Eide presented the case, stating that the property owner proposes to install a non-obscuring fence along the eastern side of the pool, which is harmonious with the zoning code's general purpose and intent. Staff recommended approval, citing findings that the variance was in harmony with the zoning code, practical difficulties existed in complying with the provision, and the property owner had demonstrated unique circumstances.
 
-In a contentious discussion, Chair Miller pointed out inconsistencies between the proposal and the comprehensive plan, citing issues such as FAR (floor area ratio) variances, building height, lot coverage, and pedestrian easements. Board member Martinson proposed denying the variance request for Block 2B due to its failure to meet density requirements.
+The public hearing for this item saw no speakers in favor or opposition, and the Board voted 7-0 to approve the variance request.
 
-The vote on Block 2B resulted in a denial of the variance requests with a roll-call vote of 6-2 (Benner and Porter dissenting). Chair Miller then moved to discuss Zero Cretan Avenue, which saw similar concerns about meeting density requirements.
+For the Woodlawn Avenue applications, David Eide presented each case individually. The first unit (Unit E) requested a 0.39-foot variance due to an error in construction, which resulted in a shorter setback from the right-of-way than required. Staff recommended approval, citing findings that the variance was in harmony with the zoning code, practical difficulties existed in complying with the provision, and the property owner had demonstrated unique circumstances.
 
-In the end, both Block 2B (2200 Ford Parkway) and Zero Cretan Avenue received denied variance requests. The decisions are final unless appealed to the City Council within 10 days.
+The public hearing for these items saw no speakers in favor or opposition, and the Board voted 7-0 to approve each of the three variance requests (Units E, F, and G).
+
+There was no significant disagreement or arguing during the meeting.
 
