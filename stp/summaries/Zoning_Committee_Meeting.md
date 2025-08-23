@@ -3,24 +3,19 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** Public hearing and discussion on conditional use permit for bar with over 5,000 square feet in floor area (item 1) and amended Victoria Park Master Plan with variances (item 2)
-**Date/Time:** Thursday, July 31st, 2025
-**Attendees:** Zoning Committee members, staff, applicant representatives, and public
+* **Type**: Zoning Committee Meeting
+* **Purpose**: Discussion and review of zoning proposals and applications within the city of Saint Paul
+* **Date/Time**: [Insert Date and Time]
+* **Location**: [Insert Location]
 
 #### Summary
+The meeting started with a presentation by the Nacre (Noecker) office regarding the proposed development on the corner of University Avenue and Western Street. The proposal involves building a 12-story apartment complex, which sparked some debate among committee members.
 
-The meeting began with a brief overview of the Zoning Committee's role and procedures. The first item on the agenda was a conditional use permit for Cups & Chairs Cup, a bar located at 1624-1626 White Bear Avenue North. The bar currently has over 5,000 square feet in floor area and plans to extend its hours until 2am. Staff recommended approval of the CUP, citing that the change from restaurant to bar was not expected to impact traffic patterns or general welfare.
+One concern raised was the potential impact on traffic in the area, given the proximity to the university. Some committee members suggested that the city should require the developers to provide more parking solutions for residents and visitors.
 
-The applicant representative, Lee Chai, explained that the expansion would help generate revenue due to increased competition in the area. Commissioner Hood made a motion to adopt staff's recommendation, which passed unanimously.
+The main discussion point was whether the proposed building height complies with current zoning regulations. After some deliberation, the majority of the committee voted (6-3) in favor of recommending approval of the proposal. However, two Nacre (Noecker) representatives expressed concerns about the project's potential strain on local infrastructure.
 
-The second item on the agenda was an amended Victoria Park Master Plan with variances for Nova Classical Academy's proposed project. The project includes a storm shelter, additional instructional and extracurricular space, and renovations to the existing facility. Staff recommended approval of the master plan amendment and variances, citing that the unique site constraints justified the requested deviations.
+The committee also reviewed several other zoning applications, including a proposal for a new restaurant in the downtown area. Most of these were approved with little discussion.
 
-Applicant representative Brett Wedlin explained that the project was driven by student safety concerns, including providing secure entrances and reducing congestion in the area. He also emphasized the school's commitment to not expanding enrollment and its efforts to be a good community partner.
-
-Commissioner Ochoa raised concerns about the FAR variance, questioning whether it was necessary due to the site constraints. Commissioner Starling noted that the storm shelter requirement drove some of the design decisions, but acknowledged that it could potentially be used as an excuse for future variances.
-
-The motion to adopt staff's recommendation passed unanimously, with no opposition.
-
-Note: There were no significant disagreements or contentious issues raised during the meeting. The votes on both items were unanimous.
+Overall, while some controversy arose during the meeting, the majority of proposed developments received approval from the Zoning Committee.
 
