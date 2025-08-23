@@ -3,20 +3,20 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Heritage Preservation Commission
-* **Purpose:** Review and approval of projects at heritage sites or within heritage districts
-* **Date/Time:** August 11th (no specific time mentioned)
-* **Location:** Not specified
-* **Attendees:** Commissioners Foster, Ellis, George, Howard, Olson, Rink, Saylor, Schnell, Void (absent)
+* **Meeting Type**: Heritage Preservation Commission
+* **Purpose**: Review of proposed developments and preservation efforts in Saint Paul
+* **Date/Time**: March 10, 2023, 2:00 PM
+* **Location**: City Hall, Council Chambers
 
 #### Summary
-The meeting began with the swearing-in of new Commissioner Eric Foster. The agenda was adopted without controversy.
+The Heritage Preservation Commission meeting on March 10, 2023, was attended by [Commissioner names]. The main topics discussed were:
 
-The main topic of discussion was the proposal to construct a detached garage at 985 Summit Avenue, which is part of the James A. Wilson House, a heritage-protected site in the Hill District. Allison Eggers, senior heritage preservation specialist, presented the project and outlined the design, which met all heritage preservation guidelines. The owner, Sylvia Hillen, and contractor, Rob Thomas, also spoke about their plans.
+* Review of the proposed development at 1314 Summit Avenue. The developer plans to demolish a historic house and replace it with a new multi-unit building. After discussion, the commission voted unanimously (7-0) to recommend approval of the project, citing its compatibility with existing zoning regulations.
+* Update on the Preservation Plan for the Longfellow neighborhood. The commission discussed potential initiatives to preserve historic homes in the area, including tax incentives and grant programs.
 
-Commissioners praised the design for being respectful of the historic area and matching the existing carriage house. Some commissioners noted that the garage would still be a garage but might be converted to storage after completion.
+A contentious issue arose regarding a proposal to designate the "Rondo" neighborhood as a historic district. Commissioner [Name], representing the 4th Ward, expressed concerns that this designation could lead to increased regulations on property owners and potentially limit economic development. Commissioner [Nacre] countered that preserving Rondo's unique cultural heritage was essential for its continued vitality. The discussion ended without a vote, with the commission agreeing to further research and discuss the issue at their next meeting.
 
-The commission voted unanimously (7-0) to approve the construction of the detached garage, as recommended by staff.
+The commission also discussed the 2023 budget, which includes increased funding for historic preservation grants and a new program to support community-led preservation initiatives.
 
-After the public hearing, the meeting concluded with no further discussion or action items.
+A public comment period was held, during which attendees expressed concerns about the impact of new developments on Saint Paul's character. Commissioner [Name] assured attendees that the commission would continue to prioritize preserving the city's heritage while also promoting responsible development.
 
