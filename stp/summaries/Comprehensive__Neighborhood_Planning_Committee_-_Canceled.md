@@ -3,11 +3,12 @@ title: Comprehensive  Neighborhood Planning Committee - Canceled
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Comprehensive Neighborhood Planning Committee (CNPC) meeting
-* **Purpose:** Cancellation of scheduled CNPC meeting
-* **Date/Time:** N/A (meeting was canceled)
-* **Context:** Regularly scheduled public meeting of the Comprehensive Neighborhood Planning Committee, which typically discusses neighborhood planning initiatives and community development projects.
+* Type: Public Meeting (Canceled)
+* Purpose: Comprehensive & Neighborhood Planning Committee meeting
+* Date/Time: None held, as the meeting was canceled
+* Context: Normally held to discuss and plan comprehensive neighborhood projects in Saint Paul
+
 
 #### Summary
-The Comprehensive Neighborhood Planning Committee's scheduled meeting was canceled. There were no discussions or decisions made as a result of this cancellation, and no further information is available regarding future meetings or topics to be addressed.
+Unfortunately, this meeting was canceled without any discussion or updates. There is no summary to provide for now. The city will likely reschedule and notify citizens when new meetings are planned.
 
