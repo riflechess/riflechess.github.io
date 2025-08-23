@@ -3,17 +3,27 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** Review and decide requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
-**Date/Time:** [Not specified]
-**Attendees:** Daniel Miller (Chair), David Eide (Department of Safety and Inspections), Yaya Diada, Josh Ladd (Legal Counsel), Maxine Linston (Secretary)
+- Type: Board of Zoning Appeals Meeting
+- Purpose: Review and decide requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
+- Date/Time: Not specified in the text (presumably a past meeting)
+- Relevant Contextual Information: The meeting involves discussion and decision-making on several variance requests related to supportive housing facilities, which are subject to specific zoning regulations.
 
 #### Summary
-The Board of Zoning Appeals reviewed two variance requests. The first request was from Patrick McMahon for a detached garage at 280 Duke Street. The applicant requested variances for setback and square footage requirements. Staff recommended approval subject to conditions that the gazebo be demolished prior to issuance of the building permit, and the proposed garage be constructed with gutters and downspouts.
+The meeting begins with introductions and explanations of the purpose and process. The Board reviews and discusses various variance requests for supportive housing facilities in St. Paul.
 
-The second request was from Charles Colvin, representing St. Paul Public Schools, for an off-street surface parking facility at 1930 Como Avenue. The applicant requested variances for screening requirements along Loriant Street and from residential properties to the south. Staff recommended approval based on findings that the proposed variance aligns with the intent and purpose of the zoning code.
+1. **Variancy Request 1223 Van Buren Avenue**: The applicant is requesting a variance for a second-story dormer addition onto an existing single-family dwelling. David Eide from the Department of Safety and Inspections explains that the proposed addition meets all six findings, and staff recommends approval subject to specific conditions.
 
-Both requests were approved by a unanimous vote (5-0) after discussion and without public opposition or comment.
+2. **Old Business: Supportive Housing Variance Requests**: Josh Ladd discusses the requirements and legal framework for granting variances in supportive housing cases. He emphasizes the need for applicants to meet the six findings required by state law and the city's ordinance.
 
-Note: There was no significant contention or disagreement during either review, and both applicants were present to answer questions from the Board.
+3. **Supportive Housing Facility at 889 Igleheart Avenue**: The applicant is requesting a variance for a facility with up to 11 residents, which is within 1,320 feet of another congregate living facility. Staff recommends denial based on findings three, four, and six.
+
+4. **Supportive Housing Facility at 764 Lincoln Avenue**: This case involves a proposed supportive housing facility with eight residents, which would be licensed as an intensive residential treatment services program. The applicant explains the benefits of this model, including more stringent requirements for staff qualifications and services provided.
+
+5. **Supportive Housing Facility at 709 University Avenue West**: The applicant is requesting a variance to convert office space on the second floor into 19 units of supportive housing for homeless youth. David Ives from the Department of Safety and Inspections explains that while the proposal meets some findings, it does not meet others due to the property's proximity to other supportive housing facilities.
+
+6. **Variancy Request at 418 Sherburn Avenue**: This case involves a proposed supportive housing facility with 24 residents, which is within 513 feet of another congregate living facility. The applicant explains that the state's criteria for board and lodge licenses are different from the city's zoning regulations.
+
+7. **Supportive Housing Facility at 437 Shirt Run Avenue**: Robert McLean opposes the variance request due to concerns about the impact on his neighborhood, which has a high crime rate and already struggles with drug dealing and violence.
+
+The meeting concludes with the Board voting to deny several of the supportive housing variance requests, as they did not meet all the necessary findings or raised concerns about clustering and institutional environments in the neighborhoods.
 
