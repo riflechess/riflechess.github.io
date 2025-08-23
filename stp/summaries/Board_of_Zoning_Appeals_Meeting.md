@@ -3,17 +3,22 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Date/Time:** Not specified in the provided text
-**Purpose:** Review and decide upon requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
-**Context:** The meeting appears to be focused on a single case involving a proposal to establish three short-term rental dwelling units at 213 4th Street East in downtown Saint Paul.
+* **Meeting Type:** Board of Zoning Appeals
+* **Purpose:** Review and decide on zoning variance requests, administrative reviews, and requests to modify home occupation requirements for handicapped individuals
+* **Date/Time:** [Not specified]
+* **Location:** [Not specified]
+* **Attendees:** Daniel Miller (Chair), Markson, Porter, Schweitzer, Martinison, Feller, David Bye (Department of Safety and Inspections), Josh Flatt (Legal Counsel), Maxine Winston (Secretary)
 
 #### Summary
-The board reviewed a request from the applicant, Jacks, to establish three short-term rental dwelling units in a five-story building at 213 4th Street East. The proposal involves variances for zoning code limits on short-term rentals and occupancy limits. Staff recommended approval of the requested variances based on findings that the proposal is in harmony with the general purposes and intent of the zoning code, aligns with the comprehensive plan, and addresses practical difficulties.
+The meeting began with the review of minutes from a previous meeting. The first order of business was the approval of variance requests for two properties.
 
-However, there was a notable moment of contention when Kyle Erickson abstained from voting, but his reason for doing so was not specified. The meeting transcript does not provide further details on why Erickson chose to abstain.
+**Case 1: 2337 Shilcomb Avenue**
+The applicant proposed to construct a new driveway on the eastern side of the property to provide access to a proposed detached garage in the rear yard. Staff recommended approval, and the Board voted unanimously (5-0) to approve the request.
 
-The board ultimately approved the requested variances with a vote of 7-0, although it's worth noting that Dayton and Porter both abstained from voting. Despite the lack of opposition, the proposal still raised concerns about the potential impact on the neighborhood and the city's regulations regarding short-term rentals.
+During discussion, it was noted that while the alley adjacent to the property is platted, it is not usable due to trees and lack of curb cuts. The property owner would like to improve the alley but cannot do so without obtaining permission from neighboring property owners. The Board acknowledged that there are trade-offs in terms of the alley's usability.
 
-It is also worth mentioning that there were three letters submitted in opposition to the request, but they did not raise any significant points that were not addressed by staff during their presentation. Overall, the meeting seemed to focus primarily on the technical aspects of the proposal, with little discussion on potential community impacts or concerns.
+**Case 2: 1932 Berkeley Avenue**
+The applicant proposed to construct a single-story addition onto the rear of an existing single-family dwelling. Staff recommended approval subject to conditions, and the Board voted unanimously (5-0) to approve the request.
+
+During discussion, it was noted that the property has a unique circumstance due to its existing non-conforming setback. The applicant's proposal would not harm the essential character of the property, and the addition would provide more living space for the occupants.
 
