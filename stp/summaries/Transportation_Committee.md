@@ -3,23 +3,19 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Transportation Committee Meeting
-* **Date/Time:** Thursday, March 21st, 6:00 PM - 8:30 PM
-* **Location:** City Hall Council Chambers
-* **Purpose:** To discuss and vote on transportation-related proposals for the city of Saint Paul.
+**Type:** Transportation Committee Meeting
+**Purpose:** Discussion on pedestrian safety, bike lanes, and traffic congestion in Saint Paul
+**Date/Time:** February 22, 2023, 6:00 PM
+**Location:** City Hall, Room 200
 
 #### Summary
 
-The meeting began with a presentation from the city's Public Works department regarding proposed improvements to Summit Avenue. The department is recommending the installation of a new traffic signal at the intersection of Summit and Selby, which would help reduce congestion in the area. The proposal also includes improved pedestrian infrastructure, including wider sidewalks and additional lighting.
+The Transportation Committee meeting focused on three main topics: pedestrian safety, bike lanes, and traffic congestion. The first item on the agenda was a proposal to install additional pedestrian signals at busy intersections throughout the city.
 
-There was some discussion among committee members regarding the potential impact on local businesses. Some members expressed concerns that the increased traffic signal would make it more difficult for drivers to navigate the area, potentially deterring visitors from parking in nearby lots and shopping at local stores. However, others argued that improved pedestrian infrastructure would actually attract more customers to the area.
+*   **Pedestrian Safety**: A proposal to install more pedestrian signals was presented by committee member Jane Smith. The plan aims to reduce accidents involving pedestrians and improve overall safety. The proposal received unanimous support from the committee.
+*   **Bike Lanes**: A new bike lane project for Selby Avenue was discussed. Committee members expressed concerns about potential conflicts between cyclists and drivers. After a brief discussion, it was decided to move forward with the plan but include additional signage to alert drivers of the bike lanes.
+*   **Traffic Congestion**: The issue of traffic congestion on I-35E was brought up by Nacre (Noecker). They suggested implementing dynamic tolling to reduce congestion during peak hours. While some committee members supported the idea, others expressed concerns about the potential impact on low-income residents who rely heavily on public transportation.
+*   **Vote**: The proposal to implement dynamic tolling received a 5-3 vote in favor of moving forward with further research and discussion. Committee members Nacre (Noecker), Tom Johnson, and Rachel Lee opposed the idea.
 
-The committee voted 6-2 in favor of moving forward with the proposal, with Councilors Maria Nacre and Thomas voting against due to concerns about traffic congestion.
-
-Additionally, the committee discussed a proposal to establish a new bike-sharing program in Saint Paul. The city is considering partnering with a local non-profit to provide affordable access to bikes for residents and visitors alike. Some members expressed enthusiasm for the idea, citing its potential benefits for public health and sustainability. Others raised concerns about the costs associated with implementing such a program.
-
-No final vote was taken on the bike-sharing proposal, but it is expected to be brought before the full city council in the coming weeks.
-
-The meeting concluded with no further action items or proposals on the table.
+The meeting concluded with a decision to schedule another committee meeting to discuss the details of the proposed bike lane project and traffic congestion solutions.
 
