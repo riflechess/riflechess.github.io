@@ -4,23 +4,34 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Planning Commission Meeting
-**Date/Time:** Friday, July 25th (time not specified)
-**Context:** The meeting is a continuation of the Planning Commission's regular session.
+**Date/Time:** August 22nd, 2023 (approximate)
+**Location:** St. Paul City Hall
+**Purpose:** Review and discussion of various planning-related matters, including zoning applications, neighborhood plans, and transportation projects.
 
 #### Summary
-The meeting began with the approval of the minutes from the previous meeting on July 11th. Commissioner Syed pointed out a clerical error in the minutes regarding the mayor's office presentation on the 2025 budget, which did not occur. The minutes were subsequently corrected and approved by a vote of 4-1 (Commissioner Martinson abstaining).
 
-The chair announced that Commissioner Kadir's last meeting was on July 25th as he will be pursuing his degree in design and urban ecologies at the New York New School.
+The meeting began with the approval of the minutes from the previous Planning Commission meeting. The Chair announced their absence due to illness and apologized for any inconvenience caused.
 
-The Zoning Committee reported three items:
+Next, the Planning Director provided an update on the city's recovery from a recent cyber attack, which has affected the commission's communication and operations. They assured that efforts are being made to recover and restore services.
 
-* A final report on NCUP, reestablishing a non-performing commercial use general store. This item passed unanimously.
-* A conditional use permit for a shelter serving up to 24 adult residents and minor children. The application included a modification of the minimum distance requirement from 20 feet to 1,037 feet. Commissioner Tagiaf mentioned that this was a unanimous decision in the Zoning Committee. The motion to adopt the software as written passed with no opposition.
-* A traditional use permit for an emergency housing facility for families. This item had two options: allowing more than 16 residents or setting a limit of 60 families plus Interfaith Action living on-site for operational purposes. Commissioner Riley suggested adding language to address concerns about staffing and services provided by the shelter.
+The zoning committee reported on two applications:
 
-The motion to recommend approval subject to the condition that not more than 80 families are served passed with no opposition.
+1.  **Cups and Cheers Bar**: The commission unanimously recommended approval of a conditional use permit for a bar with over 5,000 square feet in floor area at 1624-1626 White Bear Avenue North.
+2.  **Nova Classical Academy**: The commission discussed variances requested by the school to facilitate expansion, including changes to the Master Plan Amendment and parcel designation. Commissioner Riley expressed concerns about the potential impact on residential development, while others supported the proposal.
 
-In other business, the Planning Commission discussed the Hamlin Midway neighborhood plan update and held a public hearing. The hearing was closed, and the record was left open until July 28th for additional written testimony.
+The Hamlin-Midway Neighborhood Plan was also presented for approval. After a brief discussion, the commission unanimously recommended its approval.
 
-The mayor's office presented an activity on the 2026 budget process and engagement. Commissioners participated in the exercise and were encouraged to share their feedback with the mayor's office.
+In other business:
+
+*   The transportation committee reported on the Robert Street reconstruction project, which is expected to improve safety and infrastructure in the area.
+*   Commissioner Martinson noted that the city council has requested a study on congregate living donor zoning, which will be discussed further at the next CNPC meeting.
+
+The Chair announced their upcoming absence for their wedding in September and thanked the commission for their support. The meeting concluded with the approval of various resolutions and plans.
+
+Key decisions made during the meeting include:
+
+*   Approval of the minutes from the previous Planning Commission meeting
+*   Recommendation to approve the Hamlin-Midway Neighborhood Plan
+*   Unanimous recommendation to approve the conditional use permit for Cups and Cheers Bar
+*   Discussion on variances requested by Nova Classical Academy
 
