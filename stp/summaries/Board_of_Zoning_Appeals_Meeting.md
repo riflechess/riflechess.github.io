@@ -3,23 +3,18 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To review and decide requests for zoning co-variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
-**Date/Time:** (Not specified in the provided transcript)
-**Location:** City of Saint Paul
-**Attendees:** Daniel Miller (Chair), Schweitzer, Benner, Martinson, David Eide (Department of Safety and Inspections), Josh Ladd (Legal Counsel), Maxine Linston (Secretary)
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** Review and decide requests for zoning code variances, administrator reviews, and requests to modify home occupation requirements for handicapped individuals.
+* **Date/Time:** Not specified in the provided text
+* **Context:** The meeting is focused on two variance requests: one for 550 Brunson Street and another for 1070 Jackson Street.
 
 #### Summary
 
-The meeting focused on a variance request for 981 University Avenue West, where the applicant is proposing to demolish an existing building and construct a commercial building. The proposed development would have a floor area ratio of 0.39, which requires a variance of 0.11 from the required 0.5 FAR.
+The Board of Zoning Appeals Meeting reviewed two variance requests. The first request, from 550 Brunson Street, was approved with a unanimous vote (6-0). The applicant proposed constructing a four-unit townhouse-style multiple-family dwelling on the vacant property, which aligns with the intent and purpose of the H2 zoning district.
 
-Staff presented findings that supported the proposal, citing practical difficulties in compliance with the zoning code due to the property's proximity to the light rail station and the alley along the north side. The proposed commercial building would frame University Avenue West and remove a curb cut from the avenue, improving urban design and safety.
+The second request, from 1070 Jackson Street, involved establishing a supportive housing facility for up to 16 residents. Staff recommended denying the requested variance due to concerns about creating an institutional feel in the neighborhood. However, Board Members Martinson, Benner, Clarkson, and Miller argued that adding a licensure for food delivery would create state oversight instead of allowing unregulated activities.
 
-The applicant, Remy, spoke on behalf of Arola Architecture Studio, explaining that they are seeking a minimal approval due to the proximity to the light rail station. They also discussed the need for surface parking in the back of the building and mentioned that they have reduced the number of packing requirements to accommodate the space.
+Board Member Clarkson proposed moving to overturn the staff recommendation, citing that the situation is not changing and there's more oversight with the licensure. The motion was seconded by Board Member Martinson. After some discussion, the roll call vote resulted in 4-1 approval of the variance request, with Board Member Porter voting against it.
 
-Board members asked questions about the design of the building and its relation to the surrounding area. The architect, Kelly, explained that a two-story structure was not considered due to land constraints and the difficulty in venting dryers.
-
-After closing public comments, the board voted unanimously (5-0) to approve the variance request based on staff's findings one through six. The decision is final unless appealed to the City Council within 10 days.
-
-Note: The meeting transcript mentions a contentious issue with sober homes switching to supportive housing uses, but this topic was not discussed in detail during the meeting.
+The decision is final unless appealed to the city council within 10 days.
 
