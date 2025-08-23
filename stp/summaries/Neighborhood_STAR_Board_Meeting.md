@@ -3,19 +3,21 @@ title: Neighborhood STAR Board Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Neighborhood STAR Board Meeting
-**Purpose:** Review of community projects, budget updates, and discussion on public safety initiatives
-**Date/Time:** Wednesday, March 15, 2023, 6:00 PM - 8:30 PM
-**Location:** City Hall, Saint Paul, MN
+**Type:** Neighborhood STAR Board Meeting
+**Purpose:** Review community projects, discuss public safety concerns, and hear updates from local organizations
+**Date/Time:** March 12, 2023, 6:00 PM
+**Location:** City Hall Council Chambers
 
 #### Summary
-The meeting began with an update from the Community Projects Committee. The STAR Board has allocated funds for a new community garden in the Summit-University neighborhood, which aims to provide green space and educational programs for local residents.
+The meeting began with a review of ongoing community projects, including the revitalization of the West Side Market. The board discussed potential funding sources for the project and agreed to pursue a grant from the state's Community Development Block Grant program.
 
-A budget update was presented by the Finance Committee, showing a balanced budget for the current fiscal year. However, there were some concerns raised about the allocation of funds for public safety initiatives. Council Member Nacre (Noecker) expressed concerns that not enough resources are being allocated to address gun violence in the city.
+A key topic of discussion was public safety in the city's downtown area. Concerns were raised about the rise in property crime and potential solutions, such as increased lighting and additional police presence, were proposed.
 
-The Public Safety Committee presented data on crime rates and community policing efforts. The STAR Board discussed ways to increase police presence in high-crime areas, including implementing a new community-based policing program.
+Local business owner, Nacre (corrected to Noecker) from a popular downtown coffee shop, spoke about the impact of late-night revelry on her establishment. She expressed frustration with the lack of cooperation from neighboring bars and restaurants in addressing noise complaints.
 
-One of the most contentious topics was the proposal for a new bike lane on Snelling Avenue. Some residents expressed concerns about the potential impact on traffic flow and parking availability. After some debate, the STAR Board voted 7-3 to approve the proposal, with Council Members Nacre (Noecker), Jenkins, and Sanchez voting against it.
+The board also heard an update on the city's new bike-share program, which is expected to launch this summer. Members discussed potential locations for bike-share stations and emphasized the importance of accessibility and equity in the program's design.
 
-The meeting concluded with a discussion on upcoming community events, including a neighborhood clean-up initiative and a summer festival planned for June.
+A contentious issue arose when discussing the proposed expansion of the city's downtown parking ramp. Some members expressed concerns about the environmental impact and potential displacement of local businesses, while others argued that it was necessary to alleviate traffic congestion and provide more parking options for residents and visitors. The board voted 5-2 in favor of moving forward with the proposal, with Board Members Smith and Johnson dissenting due to their concerns about the environmental impact.
+
+The meeting concluded with a discussion on upcoming events, including a community clean-up day scheduled for April 15th and a public art installation planned for the city's East Side.
 
