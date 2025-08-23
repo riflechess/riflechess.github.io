@@ -4,18 +4,18 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Cultural STAR Board Meeting
-**Purpose:** Review of cultural events and initiatives in Saint Paul, discussion of new projects and funding requests.
-**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
-**Location:** City Hall, 15 W Kellogg Blvd, St Paul, MN 55102
+**Purpose:** To discuss cultural programs, events, and initiatives in the City of Saint Paul
+**Date/Time:** [Insert Date and Time]
+**Location:** [Insert Location]
 
 #### Summary
-The Cultural STAR Board Meeting focused on reviewing the past year's cultural events and initiatives in Saint Paul. The board discussed plans for upcoming festivals, including the Saint Paul Winter Carnival and the Minnesota State Fair.
+The meeting began with an update on the upcoming SummerFest celebration, which will feature live music, food vendors, and cultural performances. The board discussed ways to promote diversity and inclusion in the event.
 
-A new project was proposed to create a public art installation in the Lowertown area, which would feature murals by local artists. The estimated cost of the project is $100,000, which would be covered by a combination of city funding and private donations.
+Regarding funding, the board voted to allocate $10,000 to support a new arts program for underprivileged youth. However, Councilor Nacre expressed concerns that this allocation might divert funds from other important initiatives.
 
-The board also discussed a request from Nacre (Noecker) for additional funding to support her artistic residency program at the Saint Paul Public Library. While there was some discussion about the benefits of the program, not all members were convinced that it was worth the investment. A vote on the proposal resulted in 8-3 in favor of allocating $20,000 to support the program.
+In another matter, the board debated whether to partner with a local business to host a cultural festival in the Lowertown area. While some members saw it as an opportunity for economic growth and community engagement, others raised concerns about potential noise complaints and parking issues.
 
-There was also a report from the city's cultural events coordinator regarding concerns about safety at outdoor events during extreme weather conditions. The board discussed possible solutions, including installing more emergency shelters and increasing communication with event attendees through social media.
+A proposed budget amendment to increase funding for the Saint Paul Festival of Nations was tabled until next month's meeting due to ongoing discussions around its impact on other cultural events in the city.
 
-Overall, the meeting focused on promoting arts and culture in Saint Paul, but also highlighted some of the challenges faced by organizers and attendees alike.
+The board also discussed ways to improve accessibility at cultural venues, including the addition of wheelchair ramps and improved audio descriptions for visually impaired attendees. This discussion was well-received by all members present.
 
