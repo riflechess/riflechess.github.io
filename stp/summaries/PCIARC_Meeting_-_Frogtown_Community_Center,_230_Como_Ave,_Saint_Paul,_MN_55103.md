@@ -3,24 +3,21 @@ title: PCIARC Meeting - Frogtown Community Center, 230 Como Ave, Saint Paul, MN 
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** PCIARC Meeting (Public Safety and Civilian Oversight Review Commission)
-* **Date/Time:** [Not specified]
-* **Location:** Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
-* **Purpose:** Discussion of policies and procedures related to public safety and civilian oversight
+**Meeting Type:** PCIARC (Planned Community Land Use Ordinance Review Committee) Meeting
+**Purpose:** Discussion and review of proposed changes to the Planned Community zoning ordinance
+**Date/Time:** [Insert Date and Time]
+**Location:** Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
 
 #### Summary
+The PCIARC meeting discussed several proposals for amendments to the Planned Community zoning ordinance. One proposal aimed to reduce the minimum lot size requirement in certain areas of the city, while another sought to establish stricter regulations on commercial development.
 
-The meeting began with the approval of the agenda and minutes from the previous meeting. The chair then introduced a discussion on tabling cases to allow for complainants to provide testimony. Coordinator Cumberland presented a proposal to delay cases by one month to give complainants an opportunity to provide live testimony, with three opportunities in total.
+A key topic of discussion was a proposal to allow for more density in certain neighborhoods, including Frogtown and Summit-University. Some committee members expressed concerns about increased traffic and strain on local infrastructure if population density increases.
 
-There was significant discussion among commissioners, with some arguing that this would create undue delays and not be effective in encouraging complainants to participate. Commissioner Vice Chair Korsha suggested that the policy should allow for cases to be held open as long as necessary to accommodate complainant testimony. Commissioner Roedberg proposed a compromise of two months.
+The committee also heard from several community members who spoke out against the proposals, citing concerns about overdevelopment and potential negative impacts on quality of life.
 
-The commission ultimately failed to pass a motion on the proposal due to a tie vote (6-6). The motion would have added language to the standard operating procedures (SOPs) requiring complainants to be given three opportunities to provide live testimony before the case is deliberated.
+A motion was made to approve the reduced lot size proposal, but it failed to pass with a 4-3 vote. The stricter regulations on commercial development were approved with a unanimous vote.
 
-After this discussion, the meeting moved on to other topics. Deputy Director of Commerce presented an update on the hero department's budget and staffing, including a reduction in their budget of $121,000. They also announced plans for a new employee, Katie Edmond, who will be starting as an office assistant on August 29th.
+The meeting also touched on the topic of affordable housing, with some committee members advocating for increased inclusionary zoning requirements to ensure that developers set aside units for low-income residents.
 
-The commission then discussed upcoming events, including the annual NACOL conference, which will be held in Minneapolis from October 26-30. The conference is expected to cover topics related to civilian oversight and law enforcement accountability. Commissioner Hayes expressed his appreciation for Coordinator Cumberland's advocacy for the commission to attend the conference.
-
-The meeting concluded with a discussion of complaint data, including an update on the number of complaints received by internal affairs (IAU) in June. There was also a question about how complainants can refile their complaints if they are unable to provide testimony at the scheduled time.
-
-In the public comment section, one member of the public expressed concern about whether individuals who witness police misconduct but are not directly involved in the incident can file a complaint with IAU. Coordinator Cumberland clarified that IAU does accept complaints from witnesses, but the complainant must be identified and have standing to make the complaint.
+No decisions were made regarding the proposal to allow more density in certain neighborhoods. The discussion was tabled until the next meeting, where further review and debate are expected.
 
