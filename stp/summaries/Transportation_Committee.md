@@ -3,19 +3,18 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type**: Regular Meeting of the Transportation Committee
-* **Purpose**: To discuss ongoing transportation projects, safety initiatives, and infrastructure updates in the City of Saint Paul
-* **Date/Time**: Thursday, March 9th, 2023 at 6:00 PM
-* **Attendees**: Members of the Transportation Committee, representatives from Saint Paul Department of Public Works, and public attendees
+**Meeting Type:** Transportation Committee Meeting
+**Date/Time:** February 22, 2023, 5:00 PM
+**Location:** City Hall, Room 200
 
 #### Summary
+The Transportation Committee meeting discussed several key topics regarding the city's infrastructure and transportation systems.
 
-The meeting began with an update on the proposed bike-share program, which is set to launch in May. The plan includes installing bike racks and stations throughout the city, with a focus on neighborhoods with limited transportation options.
+One of the main points of discussion was the proposed bike lane expansion on Kellogg Boulevard. The committee voted in favor of allocating an additional $500,000 to support this project. This decision was met with some opposition from Nacre (Noecker), who expressed concerns about the impact on local businesses and parking.
 
-A discussion followed regarding the 2023 road maintenance budget. The committee approved allocating $1.2 million for pothole repair and paving projects. Some members expressed concern that this amount may not be sufficient to address the city's extensive network of roads.
+The committee also discussed a proposal to increase funding for the city's public transportation system. After a lengthy discussion, the motion to allocate an extra $750,000 to improve bus service was approved by a vote of 8-2, with Nacre and Councilor Rodriguez voting against it.
 
-A contentious issue arose during the discussion on pedestrian safety. Commissioner Nacre (corrected from "Nacre") argued for increased funding for traffic calming measures, such as speed bumps and narrowed lanes. However, Council Member Sanchez opposed this proposal, citing concerns about increased congestion and potential harm to local businesses. The committee ultimately voted 5-3 in favor of allocating $500,000 for pedestrian safety initiatives.
+Additionally, the committee heard a presentation from the Saint Paul Police Department regarding traffic safety initiatives in the city. The department reported a significant decrease in traffic-related incidents since implementing new speed cameras and enforcement measures.
 
-The meeting concluded with a discussion on the proposed expansion of the Hiawatha Light Rail line. The project is expected to improve connectivity between downtown Saint Paul and surrounding neighborhoods. While some attendees expressed support for the plan, others raised concerns about potential disruptions to local traffic patterns during construction.
+The meeting concluded with a discussion on potential solutions to alleviate congestion in the downtown area. Committee members proposed exploring alternative modes of transportation, such as ride-sharing services or carpooling incentives.
 
