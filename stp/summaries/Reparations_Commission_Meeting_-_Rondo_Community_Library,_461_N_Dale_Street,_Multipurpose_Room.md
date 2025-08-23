@@ -3,23 +3,21 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Reparations Commission Meeting
-**Purpose:** To discuss and address the ongoing work of the Reparations Commission, including budget allocations, committee reports, and upcoming meetings.
-**Date/Time:** [Not specified]
-**Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** Discussion and updates on the commission's work plan, including the listening session, reparations report, and potential partnerships with community organizations.
+* **Date/Time:** [Not specified]
+* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
-The meeting began with a discussion on the city's legislation regarding fines and fees, with concerns raised about its potential impact on black residents. The commission reviewed the proposed schedule for 2025, which includes hosting meetings every Wednesday of the month at 6 PM, with some exceptions due to holidays.
 
-Commissioner Fikki reported on the archival work group's progress, including creating a live mini-work plan and organizing research efforts. Commissioner Robinson discussed the justice committee's work in creating a list of potential donors and legal themes for the harm report, as well as revisiting the pool of applicants from the first round of selections.
+The meeting began with a welcome and introduction of new Commissioner Markeia Connors. Chair Cruz then discussed the roles and responsibilities of the commission and staff, highlighting the importance of clear communication and coordination.
 
-The commission also heard reports on the listening sessions work group, which aims to host meetings in neighborhoods with high concentrations of black residents. The harm report committee discussed their research efforts, including analyzing city departments' impacts on the community and developing an RFP template for the harm report.
+The main topics of discussion were:
 
-Other topics discussed included:
+* The listening session: The commission will be hosting a community listening session on June 12th to gather input from residents on reparations. Commissioner Pickett suggested that all commissioners attend, while others recommended providing advance notice and ensuring that it is clearly labeled as a listening session rather than a meeting.
+* Reparations report: Research in Action and the African American Redress Network have submitted their scope of work and proposals for partnerships with the commission. The subcommittee has drafted recommendations to send to the City Council, but there was some confusion about whether these recommendations require full-body approval or can be sent from the subcommittee.
+* RFP (Request for Proposal) process: The procurement department will guide the commission through the RFP process, and updates will be provided as needed.
+* Commission vacancies: Two openings need to be filled due to Commissioner Pickett's resignation and a new commissioner who has moved to Minneapolis.
 
-* Budget allocation: The commission will determine how to split the $250,000 budget based on priorities set in the work plan.
-* Commissioner reappointments: Veronica announced that the resolution to reappoint Commissioners Nicolique, Kulia Fringle, and Jamila passed.
-* Genealogy and procurement: The commission is exploring resources for genealogical research and reviewing procurement processes.
-
-The meeting concluded with a discussion of upcoming meetings and events, including a reparations summit in North Minneapolis and a potential second part to the summit in February.
+The meeting concluded with no other business before adjournment.
 
