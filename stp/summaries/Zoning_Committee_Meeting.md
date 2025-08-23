@@ -3,22 +3,24 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Zoning Committee Meeting
-**Purpose:** To discuss and vote on rezoning applications for the Ham's Brewery site and other properties in St. Paul
-**Date/Time:** May 22, 2025
-**Location:** City Hall (basement)
-**Attendees:** Members of the Zoning Committee, staff from the Planning Department, representatives from the Housing and Redevelopment Authority, and members of the public
+* **Meeting Type:** Zoning Committee Meeting
+* **Purpose:** To discuss and vote on conditional use permit applications for various properties in Saint Paul
+* **Date/Time:** Thursday, June 26, 2025
+* **Location:** City Hall (basement), Room 40
 
 #### Summary
-The meeting began with a discussion on the approval of minutes from the previous meeting. The next item was a presentation by Valerie Quarles, a senior city planner, regarding a conditional use permit for a farmer's market at the corner of Rice and Larpenter streets. After some questions and discussion, the committee voted to approve the application.
+The meeting began with a review of the minutes from the previous Zoning Committee meeting. The committee then moved on to discuss three conditional use permit applications.
 
-The next item was a presentation by Ms. Hong regarding a conditional use permit for an event hall, short-term rental units, a Montessori school, and daycare at 325 Dayton Avenue. The applicant, Tom Struvi and Mohamed Suedan, presented their case, addressing concerns about parking and highlighting the benefits of the proposal.
+**Item 1: Venue 1944 Rental Hall CUP**
+The first application was for a conditional use permit for a reception hall or rental hall at 839 University Avenue West in Frogtown. After reviewing the staff report and hearing public testimony, the committee voted unanimously (3-0) to approve the staff recommendation.
 
-After some discussion, the committee voted to approve the application with conditions related to parking and transportation.
+**Item 2: 2284 7th Street West CUP**
+The second application was for a conditional use permit for an adult care home at 2284 7th Street West in the Highland neighborhood. The committee discussed concerns about parking and accessibility, but ultimately voted (3-2) to approve the staff recommendation.
 
-The final item was a rezoning application for the Ham's Brewery site. Director Nicole Newton from the Housing and Redevelopment Authority presented the proposal, which included mixed-use development, commercial space, and preservation of historic buildings. The proposal was met with some opposition from Commissioner Hood, who raised concerns about spot zoning and compatibility of use.
+**Item 3: 1190 James Avenue CUP**
+The third application was for a conditional use permit for a wellness club on the main floor of a large structure at 1190 James Avenue in the Macalester Groveland neighborhood. The committee discussed concerns about parking, noise, and infrastructure, but ultimately voted (3-2) to approve the staff recommendation.
 
-After further discussion, the committee voted to table the motion until more information could be provided. However, later in the meeting, Commissioner Grill made a new motion to approve the rezoning of parcels one and two from I-2 to RM2, which passed unanimously. The meeting concluded with a vote on the rezoning of parcel five from I-2 to H-2, which also passed.
+In each case, the committee recommended approval subject to certain conditions, such as maintaining the existing character of the building and ensuring that the use does not negatively impact the surrounding neighborhood.
 
-The meeting was adjourned after some praise for the new format of the packet provided by staff.
+The meeting concluded with a brief discussion and vote on the final motion, which approved the staff recommendations for all three applications. The meeting adjourned shortly thereafter.
 
