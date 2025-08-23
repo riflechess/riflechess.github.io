@@ -3,18 +3,20 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** Review and decide requests for zoning code variances, administrator reviews, and requests to modify home occupation requirements for handicapped individuals.
-* **Date/Time:** Not specified in the provided text
-* **Context:** The meeting is focused on two variance requests: one for 550 Brunson Street and another for 1070 Jackson Street.
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** Review and decide requests for zoning code variances, administrator reviews, and requests to modify home occupation requirements for handicapped individuals.
+**Date/Time:** [Not specified]
+**Location:** Saint Paul City Hall
 
 #### Summary
 
-The Board of Zoning Appeals Meeting reviewed two variance requests. The first request, from 550 Brunson Street, was approved with a unanimous vote (6-0). The applicant proposed constructing a four-unit townhouse-style multiple-family dwelling on the vacant property, which aligns with the intent and purpose of the H2 zoning district.
+The meeting began with the approval of resolutions for 1070 Jackson Street and 770 University Avenue West. The Board then reviewed two variance requests: one from XL Energy Siting and Land Rights Group to relocate and increase the height of a cellular antenna, and another from Horowitz Health to establish a supportive housing facility.
 
-The second request, from 1070 Jackson Street, involved establishing a supportive housing facility for up to 16 residents. Staff recommended denying the requested variance due to concerns about creating an institutional feel in the neighborhood. However, Board Members Martinson, Benner, Clarkson, and Miller argued that adding a licensure for food delivery would create state oversight instead of allowing unregulated activities.
+The first request was approved unanimously after staff presented findings that supported the variance, citing practical difficulties in complying with the zoning code due to the property's unique characteristics. The applicant explained the need for the taller tower to ensure adequate coverage for their private network.
 
-Board Member Clarkson proposed moving to overturn the staff recommendation, citing that the situation is not changing and there's more oversight with the licensure. The motion was seconded by Board Member Martinson. After some discussion, the roll call vote resulted in 4-1 approval of the variance request, with Board Member Porter voting against it.
+The second request was more contentious, with several neighbors and community members speaking out against it. They expressed concerns about increased traffic, noise, and parking congestion, as well as the potential impact on the neighborhood's character. However, Horowitz Health representatives presented evidence that their proposed supportive housing facility would provide essential services to residents, including 24-hour care, food, and peer support.
 
-The decision is final unless appealed to the city council within 10 days.
+After hearing public comments, the Board laid over the decision for further consideration at the next meeting. The motion to lay over was approved with a vote of 4-0. This decision allows for additional time to review the matter and potentially gather more information before making a final decision.
+
+It's worth noting that the Board also discussed the need for potential code amendments to better align with state licensure categories, which may impact future variance requests like this one. The applicants are facing a tight deadline to comply with new regulations, which has sparked concerns about their ability to continue operating without significant changes to their business model.
 
