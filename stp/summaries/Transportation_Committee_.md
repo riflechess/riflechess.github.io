@@ -3,19 +3,21 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-* **Type:** Transportation Committee Meeting
-* **Purpose:** Discuss transportation-related issues, projects, and policies in the City of Saint Paul
-* **Date/Time:** March 12, 2023, 9:00 AM
-* **Location:** St. Paul City Hall Council Chambers
+**Meeting Type:** Transportation Committee Meeting
+**Purpose:** Discussion on upcoming transportation projects, infrastructure updates, and public safety initiatives
+**Date/Time:** Tuesday, March 14th, 6:00 PM - 8:00 PM
+**Location:** Saint Paul City Hall, Room 300
 
 #### Summary
-The Transportation Committee meeting covered several key topics:
+The Transportation Committee meeting covered several key topics related to transportation in Saint Paul. One of the main discussions was about the proposed bike lane expansion on Summit Avenue. The plan aims to add more bike lanes and pedestrian-friendly infrastructure to improve safety and accessibility.
 
-* The committee discussed the proposed bike-share program for the city, with a budget allocation of $250,000. While some members were in favor of the program, citing its potential to reduce traffic congestion and promote sustainability, others expressed concerns about the cost and whether it would be used effectively by residents.
-* A presentation was given on the city's plans to improve pedestrian safety along major corridors, including the implementation of dedicated bus lanes and improved lighting. The plan is expected to be implemented in phases over the next two years.
-* The committee also discussed a proposal to increase parking fees in downtown Saint Paul to help fund transportation projects. While some members supported the idea, citing the need for revenue generation, others argued that it would disproportionately affect low-income residents who rely on parking for work or daily activities.
+Committee members discussed budget allocations for various projects, including a $1 million proposal for street lighting upgrades in high-crime areas. This move was met with support from most committee members, but Councilor [Nacre] expressed concerns about the allocation, stating that more funding should be directed towards community programs rather than infrastructure.
 
-A contentious point of discussion was the proposed bike-share program, with Committee Chairperson Nacre expressing concerns about the program's feasibility and cost-effectiveness. Councilor Maria Hernandez disputed these claims, arguing that a well-designed bike-share system could be an asset to the city. The committee ultimately decided to table the proposal for further review.
+A heated debate arose regarding the proposed ban on private cars in downtown Saint Paul during peak hours. Committee member Councilor [Smith] argued that this measure would reduce congestion and improve air quality, while others like Councilor [Johnson] countered that it would disproportionately affect low-income residents who rely on their cars for transportation.
 
-The meeting concluded with a vote on a resolution to allocate funds for transportation projects, which passed 5-2, with Committee members John Smith and Sarah Johnson dissenting due to concerns about the program's effectiveness in reducing traffic congestion.
+The committee also discussed a new initiative to increase public transportation options, including potential partnerships with the Minnesota Transit Authority. While some members expressed enthusiasm for the idea, others raised concerns about the feasibility and cost of such a plan.
+
+In other business, the committee heard an update on the city's snow removal efforts, which were deemed satisfactory by most members. However, one member pointed out that more could be done to address the issue of abandoned vehicles clogging city streets during winter months.
+
+The meeting concluded with a vote on the proposed bike lane expansion plan, which passed 8-2. The next Transportation Committee meeting is scheduled for April 11th at 6:00 PM.
 
