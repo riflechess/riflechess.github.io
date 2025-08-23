@@ -4,23 +4,25 @@ date:
 ---
 #### Meeting Info
 * Type: Planning Commission Meeting
-* Purpose: To discuss and vote on various planning-related items, including rezoning requests and conditional use permits.
-* Date/Time: April 4th, 2023 (assuming the year is correct)
-* Relevant Contextual Information: The meeting was attended by members of the Planning Commission, staff, and the public. The agenda included several items for discussion and vote.
+* Purpose: Review minutes from previous meeting, discuss zoning study, and hear public testimony on minor text amendments
+* Date/Time: April 18, 2025
+* Location: Council Chambers (note: will be relocated to a larger room due to expected attendance)
 
 #### Summary
 
-The meeting began with the approval of the minutes from the previous meeting. Chair Grill then introduced the first item on the agenda, a conditional use permit request for 237 Richmond Avenue. The business owner had previously operated an auto repair shop without proper city permissions, but now wants to reestablish the non-conforming use as a concrete contractor.
+The meeting began with the approval of minutes from the previous Planning Commission meeting. The chair then passed the time to Director Nacre (corrected from "Nacre" to "Noecker"), who announced that the next meeting would be held in the council chambers and that staff is working on configuring audio and seating for the public hearing.
 
-Commissioner Riley argued that allowing this use would be consistent with the comprehensive plan and would provide a service benefit to the neighborhood. Commissioner Hackney countered that the business owner should have done their due diligence before operating illegally. Commissioner Risberg pointed out that the conditions proposed by the zoning committee were too weak to address the concerns raised by neighbors.
+The zoning committee reported on their upcoming meeting, which will consider three items: a CUP for an impound lot building, a CUP for an increase in building height at the Victoria and Grand intersection, and a site plan review for 560 Randolph Avenue.
 
-The staff recommendation was for approval, but with six additional conditions to mitigate the potential issues raised by neighbors. The motion coming out of the zoning committee was also for approval, subject to these conditions.
+The comprehensive neighborhood planning committee held a public hearing on minor text amendments to the zoning study. Although no one testified during the public hearing, Commissioner Hulse moved to close the hearing and refer the matter back to the CNPC with the record open until April 21st at 4:30 PM. The motion passed unanimously.
 
-After discussion and questioning from various commissioners, Commissioner Riley called the question and moved forward with a vote. The motion passed with 9 votes in favor and 2 opposed (Commissioners Hackney and Ortega).
+Director Noecker then gave an update on the transportation committee, which will meet again on April 21st to hear from public works on two items: shared mobility and downtown sidewalk plans. Commissioner Thomas was not present, but Commissioner Risberg reported that there were no updates from the communications and nominations committee.
 
-The next item on the agenda was a rezoning request for 959 Payne Avenue, which would change the zoning from B2 to T2. Commissioner Hummas expressed concerns about setting a precedent for allowing more manufacturing and hazardous chemicals in the area. However, other commissioners argued that T2 zoning is consistent with the comprehensive plan and would allow for more residential opportunities.
+The director also presented a presentation she attended at the American Planning Association Conference in Denver, which discussed "Can Your Zoning Hack It?" The presentation highlighted the importance of flexible zoning codes and how different cities are approaching this issue. Director Noecker also discussed her experience with modular zoning codes and form-based zoning, noting that St. Paul's zoning code is more flexible than many other places.
 
-The motion coming out of the committee was for approval, which passed with a voice vote after discussion and questioning from various commissioners.
+Commissioners had some questions and discussion about the activity part of the presentation, which involved a "code hack exercise" where participants were given lots on paper and asked to fit different developments onto them while following regulations. This activity was well-received by commissioners, who saw it as a useful tool for public outreach and education.
 
-Finally, Chair Grill announced that the next meeting of the Planning Commission will be held on April 21st in room 40 or 41.
+The meeting also included an update from Commissioner Ortega about the CNPC's work on T zoning districts, which will have significant adjustments made to them. Finally, Director Noecker gave a presentation about the 411 Lexington Parkway tour, showcasing the building's amenities and design features, including its transportation-focused amenities and mixed-income units.
+
+The meeting concluded with comments from Commissioner Riley, who thanked the director for taking the commission on the tour and suggested that similar tours could be beneficial in the future. The meeting was then adjourned.
 
