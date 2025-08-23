@@ -3,12 +3,10 @@ title: Comprehensive  Neighborhood Planning Committee - Canceled
 date: 
 ---
 #### Meeting Info
-* Type: CANCELED meeting of the Comprehensive Neighborhood Planning Committee
-* Purpose: Discussion on comprehensive neighborhood planning initiatives in Saint Paul
-* Date/Time: No date or time specified ( likely a scheduled meeting that was canceled)
+**Type:** Comprehensive Neighborhood Planning Committee meeting (Canceled)
+**Purpose:** Discussion on comprehensive neighborhood planning initiatives for the City of Saint Paul
+**Date/Time:** No specific date/time was provided, as this meeting was canceled.
 
 #### Summary
-This meeting appears to have been canceled, and no discussion or decisions were made. It's unclear what specific topics were planned for discussion, but it seems that the committee intended to address comprehensive neighborhood planning initiatives in Saint Paul.
-
-If you're looking for updates on this topic, I recommend checking with the City of Saint Paul's website or contacting the relevant committee members directly for more information.
+This meeting was unfortunately canceled. As a result, there were no discussions or decisions made regarding comprehensive neighborhood planning initiatives. The city will need to reschedule this meeting at a later time to discuss and address the plans for Saint Paul's neighborhoods.
 
