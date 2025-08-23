@@ -4,19 +4,18 @@ date:
 ---
 #### Meeting Info
 * **Meeting Type:** Zoning Committee Meeting
-* **Purpose:** Public hearing and discussion of the 237 Richmond non-conforming use permit
-* **Date/Time:** Thursday, March 13th, 2025
-* **Location:** City Hall, Room (not specified)
+* **Purpose:** Public hearing and discussion of rezoning application for 959 Payne Ave from B2 Community Business to T2 Traditional Neighborhood
+* **Date/Time:** Thursday, March 27th, 2025
+* **Location:** City Hall
 
 #### Summary
+The Zoning Committee held a public hearing on the rezoning application for 959 Payne Ave. The applicant, Matt Kennevin and Kenneth Littleton, presented their proposal to establish a cannabis processing facility in the area. Staff recommended approval of the rezoning from B2 Community Business to T2 Traditional Neighborhood, citing consistency with the comprehensive plan and surrounding zoning patterns.
 
-The meeting began with the approval of the minutes from the February 27th, 2025, Zoning Committee Meeting. The committee then moved on to discuss two site plan reviews: the United Village Interim Parking Lot and the YMCA Child Care Centre.
+Commissioner Grell raised concerns about the application being centered around the use rather than the zoning change itself. However, Chair Tagayoff clarified that the committee is evaluating the land use and zoning changes separately.
 
-However, the majority of the meeting focused on the 237 Richmond non-conforming use permit. Commissioner Hankerson presented two options for consideration: an updated staff report with additional conditions to address concerns raised at a previous public hearing, and alternative findings that would support denial.
+The applicant addressed concerns from the neighborhood about external effects, such as odor and noise, by stating that their processing facility would be solventless and contained within the building. They also explained that they would be using a micro-business license, which allows for multiple verticals of cannabis production.
 
-The committee discussed various questions regarding the conditions, including enforcement procedures and the process for ensuring compliance. They also debated the appropriateness of the new business use in the area, citing concerns about compatibility with the comprehensive plan standards.
+After public testimony (or lack thereof), the committee moved to close the public hearing and discuss the application. Commissioner Stalling asked follow-up questions about the proposed use and its containment within the site.
 
-Commissioner Grill proposed a motion to recommend approval of the non-conforming use permit with the updated conditions. The motion was seconded and passed with three votes in favor and two opposed (including Commissioner Hood's "no" vote).
-
-The committee concluded their discussion on this item, recommending approval to the full planning commission at their next meeting.
+The committee ultimately voted unanimously to recommend approval of the rezoning to T2 Traditional Neighborhood, citing consistency with the comprehensive plan and surrounding zoning patterns, as well as the regulation of cannabis use by state and city agencies.
 
