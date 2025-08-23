@@ -3,21 +3,20 @@ title: Neighborhood STAR Board Meeting
 date: 
 ---
 #### Meeting Info
-
 * **Meeting Type:** Neighborhood STAR Board Meeting
-* **Purpose:** Review of community projects, updates on city initiatives, and resident concerns
-* **Date/Time:** Thursday, March 17th, 2023 at 6:30 PM
-* **Location:** City Hall Council Chambers, Saint Paul, MN
+* **Purpose:** Review neighborhood projects, discuss community issues, and make decisions regarding budget allocations
+* **Date/Time:** Wednesday, March 15, 2023, 6:00 PM - 8:30 PM
+* **Location:** City Hall, Council Chambers
 
 #### Summary
+The Neighborhood STAR Board Meeting was held to review ongoing neighborhood projects and address community concerns. Key topics discussed included:
 
-The meeting began with a review of the STAR program's budget allocation for community projects. The board approved an additional $10,000 for the "Green Spaces Initiative" to support the development of public gardens in underserved neighborhoods.
+* The Nacre Street revitalization project received an update on the progress of infrastructure improvements, with a focus on improving pedestrian safety.
+* The board voted 8-2 in favor of allocating $150,000 from the STAR budget for a new community garden initiative in the Summit-University neighborhood. Opponents argued that the funds could be better spent on more pressing issues such as public safety.
+* A proposal to establish a bike-sharing program in Saint Paul was tabled due to concerns over liability and funding.
+* The board discussed ways to address increasing crime rates in the city, with a focus on community-led initiatives.
 
-A resident expressed concern about the recent increase in petty crimes in the Highland Park area and requested more police presence. Nacre (corrected spelling: Noecker) from the Police Department assured that increased patrols were planned and suggested residents participate in the community policing program to report suspicious activity.
+A contentious debate arose regarding the allocation of funds for the new community garden. Members Nacre and Johnson expressed concerns that the project may not be well-received by the community, and that the funds could be better used elsewhere. Their arguments were countered by supporters, who emphasized the benefits of the initiative in promoting community engagement and beautification.
 
-There was a contentious discussion regarding the proposed installation of bike lanes on Summit Avenue, with some residents arguing it would increase traffic congestion while others saw it as a necessary improvement for cyclist safety. The board voted 4-3 in favor of moving forward with the bike lane plan, despite concerns from those who opposed it.
-
-A resident raised an issue about noise pollution from a nearby construction site and requested assistance from the city to mitigate the disturbance. The board agreed to send a letter to the contractor urging them to adhere to noise regulations.
-
-No major decisions were made regarding tax proposals or business-related matters during this meeting.
+The meeting concluded with a discussion on future projects and initiatives, including plans to establish a neighborhood watch program and improve lighting along major thoroughfares.
 
