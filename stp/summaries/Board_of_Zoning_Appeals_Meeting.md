@@ -4,19 +4,16 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** Review and decide requests for zoning code variances, administrator reviews, and requests to modify home occupation requirements for handicapped individuals.
+**Purpose:** Review and decide requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
 **Date/Time:** [Not specified]
-**Location:** Saint Paul City Hall
+**Attendees:** Daniel Miller (Chair), David Eide (Department of Safety and Inspections), Yaya Diada, Josh Ladd (Legal Counsel), Maxine Linston (Secretary)
 
 #### Summary
+The Board of Zoning Appeals reviewed two variance requests. The first request was from Patrick McMahon for a detached garage at 280 Duke Street. The applicant requested variances for setback and square footage requirements. Staff recommended approval subject to conditions that the gazebo be demolished prior to issuance of the building permit, and the proposed garage be constructed with gutters and downspouts.
 
-The meeting began with the approval of resolutions for 1070 Jackson Street and 770 University Avenue West. The Board then reviewed two variance requests: one from XL Energy Siting and Land Rights Group to relocate and increase the height of a cellular antenna, and another from Horowitz Health to establish a supportive housing facility.
+The second request was from Charles Colvin, representing St. Paul Public Schools, for an off-street surface parking facility at 1930 Como Avenue. The applicant requested variances for screening requirements along Loriant Street and from residential properties to the south. Staff recommended approval based on findings that the proposed variance aligns with the intent and purpose of the zoning code.
 
-The first request was approved unanimously after staff presented findings that supported the variance, citing practical difficulties in complying with the zoning code due to the property's unique characteristics. The applicant explained the need for the taller tower to ensure adequate coverage for their private network.
+Both requests were approved by a unanimous vote (5-0) after discussion and without public opposition or comment.
 
-The second request was more contentious, with several neighbors and community members speaking out against it. They expressed concerns about increased traffic, noise, and parking congestion, as well as the potential impact on the neighborhood's character. However, Horowitz Health representatives presented evidence that their proposed supportive housing facility would provide essential services to residents, including 24-hour care, food, and peer support.
-
-After hearing public comments, the Board laid over the decision for further consideration at the next meeting. The motion to lay over was approved with a vote of 4-0. This decision allows for additional time to review the matter and potentially gather more information before making a final decision.
-
-It's worth noting that the Board also discussed the need for potential code amendments to better align with state licensure categories, which may impact future variance requests like this one. The applicants are facing a tight deadline to comply with new regulations, which has sparked concerns about their ability to continue operating without significant changes to their business model.
+Note: There was no significant contention or disagreement during either review, and both applicants were present to answer questions from the Board.
 
