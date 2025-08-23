@@ -3,22 +3,20 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-* Type: Reparations Commission Meeting
-* Purpose: To discuss the Reparations Commission's progress and upcoming events, as well as potential partnerships with local organizations.
-* Date/Time: Not specified in the transcript
-* Relevant contextual information: The meeting appears to be a continuation of previous discussions regarding reparations and the commission's efforts to address historical injustices.
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** Discussion of Slavery Disclosure and Redress Ordinance
+* **Date/Time:** [Not specified]
+* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+* **Attendees:** Chair Cruz, Kulia Pringle, Nikita Kamen, Jeremy English, Nyla Golden, Nick Kalik, Maria McCoy, and Nick Muhammad
 
 #### Summary
+The Reparations Commission meeting discussed the Slavery Disclosure and Redress Ordinance, which aims to hold corporations and institutions accountable for their role in slavery and provide reparations to impacted communities. The ordinance requires entities to disclose their history of complicity in slavery and provide financial redress.
 
-The meeting begins with an acknowledgement of the transatlantic slave trade and its impact on communities of color. The Reparations Commission then moves on to approve last month's meeting minutes, which was motioned by Commissioner Robinson and seconded by another commissioner.
+Commissioner English presented a model for the ordinance, which includes greater disclosure requirements, mandatory statement of financial redress, and civil enforcement mechanisms. The ordinance also provides a framework for municipalities to engage in corporate social responsibility and promote good corporate citizenship.
 
-The next agenda item is a discussion on the listening session that took place recently. Approximately 16-20 individuals participated in the session, with some sharing their thoughts and feelings about reparations. However, it seems that the commission had hoped for more solutions-oriented contributions from attendees.
+The commission discussed the importance of addressing unjust enrichment and holding entities accountable for their historical actions. Commissioner English referenced a 2014 lawsuit against Norfolk Southern Railroad, which had to disclose its ties to slavery after building a rail yard on city-owned land.
 
-Commissioner [Last Name] mentions that they met with Council Member Nika Bowie to discuss potential partnerships between the Reparations Commission and the city council. They also mention a meeting with Unity Church regarding a potential donation of $100,000 for harm report research and other commission needs.
+The meeting also touched on the tobacco industry's liability for health issues caused by smoking, drawing an analogy between the two cases. The speaker emphasized that governments have a responsibility to hold entities accountable and ensure that they engage in disclosure and redress.
 
-The commission then discusses an update on the registrative process, including partnerships with libraries and archives. Commissioner [Last Name] mentions that they have been in contact with the St. Paul Club Library to create a more comprehensive registry of reparations-related resources.
-
-The majority of the meeting is spent discussing a report on African American Redress Network, which includes data on Black Minnesotans and their experiences with poverty rates, homeownership, and debt. The report highlights the unique challenges faced by different Black communities in Minnesota.
-
-Overall, the meeting appears to focus on discussions regarding partnerships, research, and community engagement, rather than making significant decisions or taking action towards reparations.
+The commission is considering implementing this ordinance in St. Paul, with some members expressing hope for "redress actions" coming out of the city. However, no specific decisions or votes were taken during the meeting.
 
