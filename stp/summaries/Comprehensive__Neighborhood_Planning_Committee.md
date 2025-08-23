@@ -4,19 +4,20 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type**: Comprehensive Neighborhood Planning Committee
-* **Date/Time**: [Insert Date and Time]
-* **Location**: [Insert Location or Virtual Meeting Link]
-
-The meeting was called to discuss the ongoing neighborhood planning efforts in various parts of Saint Paul.
+* **Meeting Type:** Comprehensive Neighborhood Planning Committee meeting
+* **Purpose:** Discuss and review neighborhood planning initiatives, hear public comments, and address committee business
+* **Date/Time:** March 10th, 2023 at 6:00 PM
+* **Location:** City Hall Council Chambers, Saint Paul, MN
 
 #### Summary
 
-The committee discussed the proposed redevelopment plan for the Nacre Avenue area. The plan aims to revitalize the commercial corridor by attracting new businesses and improving public spaces. However, some concerns were raised about the potential impact on existing small business owners and residents. One representative from the Nacre Avenue Merchants Association expressed worries that the increased foot traffic could lead to noise and safety issues.
+The Comprehensive Neighborhood Planning Committee meeting covered several key topics. The main agenda item was the review of the Nacre Street Reconstruction project. The committee discussed potential road closures and construction timelines, with some members expressing concerns about traffic congestion in the area.
 
-A budget allocation of $500,000 was proposed for the plan's implementation. The funds will be used for infrastructure improvements, marketing, and community engagement efforts. A vote on the budget allocation was taken, with 12 members in favor and 2 opposed. The dissenting members expressed concerns about the lack of transparency in the planning process and the potential displacement of low-income residents.
+Another significant topic was the proposal for a new community garden in the Rondo neighborhood. The proposal has received support from local residents and organizations, but there were discussions about the feasibility of locating the garden on city-owned land.
 
-The committee also discussed the proposed bike lane installation along Summit Avenue. While some members welcomed the idea as a safety measure and a way to promote sustainable transportation, others raised concerns about the impact on parking and traffic flow. A motion was made to table the discussion until further research is conducted on the potential effects of the bike lanes.
+A public comment period was held, during which several residents spoke out about issues related to public safety and crime prevention. One resident expressed concerns about a recent increase in break-ins in their neighborhood, while another suggested implementing a community watch program to improve visibility and deter crime.
 
-The next meeting will be held in two weeks to continue discussing these topics and other neighborhood planning initiatives.
+The committee also discussed potential updates to the city's zoning ordinances, with some members advocating for changes to allow for more mixed-use development. However, others raised concerns about preserving single-family home neighborhoods and maintaining historic character in certain areas.
+
+No formal votes were taken on these topics, but they will be revisited at future meetings. The next Comprehensive Neighborhood Planning Committee meeting is scheduled for April 14th, 2023.
 
