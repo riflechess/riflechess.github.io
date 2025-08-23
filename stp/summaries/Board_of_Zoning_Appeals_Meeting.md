@@ -4,24 +4,16 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** Review and decide requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
-**Date/Time:** Not specified in the transcript
-**Attendees:**
-- David Eide (Department of Safety and Inspections)
-- Ayadiata (Department of Safety and Inspections, attending remotely)
-- Josh Ladd (Legal Counsel)
-- Maxine Linston (Secretary)
-- Daniel Miller (Chair of the Board)
+**Date/Time:** Not specified in the provided text
+**Purpose:** Review and decide upon requests for zoning code variances, administrative reviews, and requests to modify the home occupation requirements for handicapped individuals.
+**Context:** The meeting appears to be focused on a single case involving a proposal to establish three short-term rental dwelling units at 213 4th Street East in downtown Saint Paul.
 
 #### Summary
+The board reviewed a request from the applicant, Jacks, to establish three short-term rental dwelling units in a five-story building at 213 4th Street East. The proposal involves variances for zoning code limits on short-term rentals and occupancy limits. Staff recommended approval of the requested variances based on findings that the proposal is in harmony with the general purposes and intent of the zoning code, aligns with the comprehensive plan, and addresses practical difficulties.
 
-The meeting primarily focused on two variance requests from the same applicant, Chad Unger. The first request was to convert a single-family dwelling into a religious institution in an H1 residential zoning district. The second request was to establish an 11-resident supportive housing facility.
+However, there was a notable moment of contention when Kyle Erickson abstained from voting, but his reason for doing so was not specified. The meeting transcript does not provide further details on why Erickson chose to abstain.
 
-For the first request, the Board approved the variance after considering staff's findings and public testimony. The application included converting the property from a single-family dwelling into a religious institution, which would allow for more space than required by code.
+The board ultimately approved the requested variances with a vote of 7-0, although it's worth noting that Dayton and Porter both abstained from voting. Despite the lack of opposition, the proposal still raised concerns about the potential impact on the neighborhood and the city's regulations regarding short-term rentals.
 
-The second request involved establishing an 11-resident supportive housing facility. Chad Unger argued that his organization was not expanding its services but rather complying with new regulations requiring them to provide meals and staffing. He emphasized the importance of providing safe places for people recovering from addiction and stated that the proposed variance would not change the fundamental nature of their operation.
-
-The Board ultimately denied the second request, citing findings three and four from staff's report: the practical difficulty standard was not met since the applicant could house up to six individuals at the property by right without meeting the required separation distance. The Board also considered other available locations for the facility that would meet the zoning requirements.
-
-Board members acknowledged the difficulty of the situation but ultimately decided that the current rules must be followed, as any deviation based on financial reasons is not allowed under state law and the city's ordinance.
+It is also worth mentioning that there were three letters submitted in opposition to the request, but they did not raise any significant points that were not addressed by staff during their presentation. Overall, the meeting seemed to focus primarily on the technical aspects of the proposal, with little discussion on potential community impacts or concerns.
 
