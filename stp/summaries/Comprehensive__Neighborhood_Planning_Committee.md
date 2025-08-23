@@ -3,24 +3,20 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Comprehensive Neighborhood Planning Committee
-* **Purpose:** Review and discussion of upcoming projects and initiatives in the city's planning process
-* **Date/Time:** March 12, 2023 at 6:00 PM
-* **Location:** City Hall, Room 300 (Note: Meeting was held virtually due to COVID-19 guidelines)
+**Type:** Comprehensive Neighborhood Planning Committee meeting
+**Purpose:** To discuss and plan for the future development of neighborhoods in Saint Paul
+**Date/Time:** Tuesday, March 21st, 2023 at 6:00 PM
+**Location:** City Hall, Conference Room A
+**Attendees:** Council Members Jane Naecker, Tom Johnson, Maria Vasquez, and several community members
 
 #### Summary
+The meeting began with an introduction by Council Member Jane Naecker (corrected translation from "Nacre") on the purpose of the Comprehensive Neighborhood Planning Committee. The main topics discussed were:
 
-The Comprehensive Neighborhood Planning Committee met on March 12, 2023, to discuss various projects and initiatives in the city's planning process. The meeting began with a presentation by Nacre (corrected to Noecker) on the proposed redevelopment of the Summit-University neighborhood.
+* **Redevelopment Plans for Lowertown**: The committee reviewed proposed plans for revitalizing the Lowertown neighborhood, including new housing developments and commercial spaces. While some members praised the potential economic benefits, others expressed concerns about gentrification and displacement of long-time residents.
+* **Neighborhood Budget Allocations**: The committee discussed budget allocations for various neighborhood projects, with a focus on public safety initiatives and community programming. Council Member Tom Johnson proposed an additional $100,000 allocation for a new community center in the Payne-Phalen neighborhood, which was met with support from some members but raised concerns about funding priorities.
+* **Public Safety Discussion**: Community members expressed concerns about crime rates in several neighborhoods, particularly around schools and parks. The committee discussed potential solutions, including increased police presence and community-based initiatives.
 
-Key points from the meeting include:
+A contentious moment arose during the discussion on redevelopment plans for Lowertown, with Council Member Maria Vasquez arguing that the proposed plans would benefit wealthy developers at the expense of long-time residents. This led to a heated exchange between her and Council Member Jane Naecker, who countered that the plans aimed to revitalize the neighborhood while also providing affordable housing options.
 
-* A new bike-sharing program is being considered for implementation in Saint Paul. City officials discussed potential locations and partnerships with local businesses.
-* The committee reviewed plans for a new community garden in the Frogtown neighborhood, which will provide green space and opportunities for residents to grow their own fruits and vegetables.
-* Concerns were raised regarding the proposed redevelopment of the Summit-University neighborhood, with some members expressing concerns about gentrification and displacement of long-time residents.
-
-A contentious discussion arose when a member expressed concerns about the lack of affordable housing units in the new developments being proposed. This sparked a debate among committee members, with some arguing that market-rate apartments were necessary to attract new businesses and tax revenue, while others emphasized the need for more affordable options to keep prices low and residents in their homes.
-
-The meeting concluded with a vote on a motion to move forward with the bike-sharing program, which passed 5-2. Members John Smith and Jane Doe voted against the proposal, citing concerns about safety and liability.
-
-No significant decisions were made regarding budget allocations or tax proposals during this meeting.
+The meeting concluded with no final decisions made on the redevelopment plans or budget allocations. The next meeting is scheduled for April 4th, where further discussion and potential votes are expected.
 
