@@ -3,25 +3,24 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Planning Commission Meeting
-* **Date/Time:** July 11th (no specific time mentioned)
-* **Purpose:** Review of minutes from May 30th meeting, approval of zoning committee items, public hearing on traditional neighborhood zoning text
-* **Location:** Saint Paul City Hall
+**Meeting Type:** Planning Commission Meeting
+**Date/Time:** Friday, July 25th (time not specified)
+**Context:** The meeting is a continuation of the Planning Commission's regular session.
 
 #### Summary
-The meeting began with the approval of minutes from the May 30th Planning Commission meeting. The next item was a presentation by Commissioner Nacre (presumably Noecker) regarding the zoning committee's recommendations.
+The meeting began with the approval of the minutes from the previous meeting on July 11th. Commissioner Syed pointed out a clerical error in the minutes regarding the mayor's office presentation on the 2025 budget, which did not occur. The minutes were subsequently corrected and approved by a vote of 4-1 (Commissioner Martinson abstaining).
 
-Three items were approved unanimously:
+The chair announced that Commissioner Kadir's last meeting was on July 25th as he will be pursuing his degree in design and urban ecologies at the New York New School.
 
-1. 1944 Rental Hall: A reception hall rental proposal for approval on a specific property, recommended for approval.
-2. 2284 7th Street West: An official use permit for commercial use conversion to residential use, with conditions.
-3. 1190 James: The reuse of a large structure as a wellness center, with concerns around parking.
+The Zoning Committee reported three items:
 
-The zoning committee also discussed the Energy Park Commercial Development District, which was found to be in compliance with the comprehensive plan. A motion was made to recommend its expansion, and it passed unanimously.
+* A final report on NCUP, reestablishing a non-performing commercial use general store. This item passed unanimously.
+* A conditional use permit for a shelter serving up to 24 adult residents and minor children. The application included a modification of the minimum distance requirement from 20 feet to 1,037 feet. Commissioner Tagiaf mentioned that this was a unanimous decision in the Zoning Committee. The motion to adopt the software as written passed with no opposition.
+* A traditional use permit for an emergency housing facility for families. This item had two options: allowing more than 16 residents or setting a limit of 60 families plus Interfaith Action living on-site for operational purposes. Commissioner Riley suggested adding language to address concerns about staffing and services provided by the shelter.
 
-A public hearing on traditional neighborhood zoning text took place, with several speakers expressing support for the study and proposed changes. The speakers included Luke Hansen from Sustain Saint Paul, who suggested expanding the T-districts around the city and simplifying the zoning code.
+The motion to recommend approval subject to the condition that not more than 80 families are served passed with no opposition.
 
-The Planning Commission voted to close the public hearing and take it under advisement. Commissioner Riley proposed a motion to support an additional study on expanding traditional neighborhood districts, but it was tabled for consideration in the Comprehensive Neighborhood Planning Committee (CNPC).
+In other business, the Planning Commission discussed the Hamlin Midway neighborhood plan update and held a public hearing. The hearing was closed, and the record was left open until July 28th for additional written testimony.
 
-Other business items included a report from Commissioner Risberg regarding the Transportation Committee's next meeting and a discussion about new business, including the 2026 budget process and engagement from the mayor's office.
+The mayor's office presented an activity on the 2026 budget process and engagement. Commissioners participated in the exercise and were encouraged to share their feedback with the mayor's office.
 
