@@ -3,24 +3,20 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Comprehensive Neighborhood Planning Committee
-* **Purpose:** Discuss and address neighborhood planning matters
-* **Date/Time:** [Insert Date] at [Insert Time]
-* **Location:** [Insert Location, e.g. City Hall]
+
+* **Meeting Type**: Comprehensive Neighborhood Planning Committee
+* **Date/Time**: [Insert Date and Time]
+* **Location**: [Insert Location or Virtual Meeting Link]
+
+The meeting was called to discuss the ongoing neighborhood planning efforts in various parts of Saint Paul.
 
 #### Summary
-The meeting covered several topics related to neighborhood planning in Saint Paul.
 
-* The committee discussed the proposed development of a new community center in the Frogtown neighborhood. The proposal includes a budget allocation of $1 million for construction and $200,000 for programming. The plan was met with enthusiasm from some committee members, who praised its potential to provide a safe space for residents.
-* However, not all committee members were supportive of the proposal. Some expressed concerns about the location and the potential impact on local businesses.
+The committee discussed the proposed redevelopment plan for the Nacre Avenue area. The plan aims to revitalize the commercial corridor by attracting new businesses and improving public spaces. However, some concerns were raised about the potential impact on existing small business owners and residents. One representative from the Nacre Avenue Merchants Association expressed worries that the increased foot traffic could lead to noise and safety issues.
 
-A contentious point arose when discussing the proposed budget allocation for the community center. Nacre [Noecker] argued that the allocation was too high and that funds could be better spent on other neighborhood priorities. Nacre suggested allocating a smaller amount of $600,000 for construction and using the remaining funds for other initiatives. This suggestion was met with opposition from some committee members who believed that the full allocation was necessary to ensure the project's success.
+A budget allocation of $500,000 was proposed for the plan's implementation. The funds will be used for infrastructure improvements, marketing, and community engagement efforts. A vote on the budget allocation was taken, with 12 members in favor and 2 opposed. The dissenting members expressed concerns about the lack of transparency in the planning process and the potential displacement of low-income residents.
 
-Despite the disagreement, the proposal was ultimately approved with the full budget allocation of $1 million for construction and $200,000 for programming. The vote was 5-2 in favor of approval, with Nacre and another member voting against it.
+The committee also discussed the proposed bike lane installation along Summit Avenue. While some members welcomed the idea as a safety measure and a way to promote sustainable transportation, others raised concerns about the impact on parking and traffic flow. A motion was made to table the discussion until further research is conducted on the potential effects of the bike lanes.
 
-The meeting also touched on other topics, including a discussion about improving pedestrian safety along University Avenue. Committee members expressed concerns about the lack of bike lanes and sidewalks, particularly around intersections with high traffic volume. Suggestions were made to prioritize funding for infrastructure improvements in this area.
-
-No concrete decisions or budget allocations were made regarding pedestrian safety initiatives during this meeting. The discussion is expected to continue at a future meeting.
-
-Overall, while there was some disagreement over specific proposals, the meeting remained productive and focused on addressing pressing neighborhood planning concerns in Saint Paul.
+The next meeting will be held in two weeks to continue discussing these topics and other neighborhood planning initiatives.
 
