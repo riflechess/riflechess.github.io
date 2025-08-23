@@ -4,18 +4,23 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Zoning Committee Meeting
-**Purpose:** To discuss and vote on several zoning applications, including a Conditional Use Permit (CUP) for an emergency housing facility and a CUP for a shelter for battered persons.
-**Date/Time:** Thursday, July 17th, 2025
-**Location:** City Hall in the basement, Room 40
+**Purpose:** Public hearing and discussion on conditional use permit for bar with over 5,000 square feet in floor area (item 1) and amended Victoria Park Master Plan with variances (item 2)
+**Date/Time:** Thursday, July 31st, 2025
+**Attendees:** Zoning Committee members, staff, applicant representatives, and public
 
 #### Summary
-The Zoning Committee meeting began with a discussion on the approval of minutes from the June 26, 2025 meeting. The committee then moved on to new business and considered three items: Interfaith Action's request for a CUP for an emergency housing facility at 1010 Bandana Boulevard, a reestablishment non-conforming use permit for a general store at 469 Anita Street, and a CUP for a shelter for battered persons at 362 Cleveland Ave North.
 
-**Interfaith Action's Request:** The committee discussed Interfaith Action's proposal to convert the former Best Western Hotel into an emergency housing facility. Staff recommended approval of the CUP with modification to allow more than 16 residents. After some discussion, Commissioner Ochoa suggested that the motion be modified to specify the intent behind modifying the special condition. The committee ultimately voted in favor of the motion as written, with the understanding that the language could be clarified at a later date.
+The meeting began with a brief overview of the Zoning Committee's role and procedures. The first item on the agenda was a conditional use permit for Cups & Chairs Cup, a bar located at 1624-1626 White Bear Avenue North. The bar currently has over 5,000 square feet in floor area and plans to extend its hours until 2am. Staff recommended approval of the CUP, citing that the change from restaurant to bar was not expected to impact traffic patterns or general welfare.
 
-**Reestablishment Non-Conforming Use Permit:** The committee considered an application for a reestablishment non-conforming use permit for a general store at 469 Anita Street. Staff recommended approval subject to conditions, including final plans approved by the zoning administrator and business hours limited to conclude at 10 p.m. The motion passed with no opposition.
+The applicant representative, Lee Chai, explained that the expansion would help generate revenue due to increased competition in the area. Commissioner Hood made a motion to adopt staff's recommendation, which passed unanimously.
 
-**Shelter for Battered Persons:** The committee discussed an application for a CUP for a shelter for battered persons at 362 Cleveland Ave North. Staff recommended approval subject to conditions, including final plans approved by the zoning administrator. Commissioner Hurd raised questions about a change in state law regarding supportive housing facilities and how it relates to this application. After some discussion, Commissioner Grill moved to adopt the staff recommendation with modification of the minimum distance requirement from supportive housing facilities with more than six adult residents. The motion passed with no opposition.
+The second item on the agenda was an amended Victoria Park Master Plan with variances for Nova Classical Academy's proposed project. The project includes a storm shelter, additional instructional and extracurricular space, and renovations to the existing facility. Staff recommended approval of the master plan amendment and variances, citing that the unique site constraints justified the requested deviations.
 
-Overall, the committee voted in favor of both applications, with some modifications to the language of one of the motions.
+Applicant representative Brett Wedlin explained that the project was driven by student safety concerns, including providing secure entrances and reducing congestion in the area. He also emphasized the school's commitment to not expanding enrollment and its efforts to be a good community partner.
+
+Commissioner Ochoa raised concerns about the FAR variance, questioning whether it was necessary due to the site constraints. Commissioner Starling noted that the storm shelter requirement drove some of the design decisions, but acknowledged that it could potentially be used as an excuse for future variances.
+
+The motion to adopt staff's recommendation passed unanimously, with no opposition.
+
+Note: There were no significant disagreements or contentious issues raised during the meeting. The votes on both items were unanimous.
 
