@@ -3,21 +3,20 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-**Type:** Heritage Preservation Commission meeting
-**Purpose:** To review applications for projects at heritage sites or within heritage districts and to serve as an advisory board to the mayor and city council on municipal heritage preservation matters.
-**Date/Time:** Monday, March 10th (no specific time mentioned)
-**Location:** Not specified
+* **Meeting Type**: Heritage Preservation Commission Meeting
+* **Purpose**: Review of applications for projects at heritage sites or within heritage districts in Saint Paul
+* **Date/Time**: Unspecified (approximate)
+* **Location**: Unspecified (likely City Hall or a similar venue)
 
 #### Summary
-The Heritage Preservation Commission met to discuss two main issues: a proposal for the removal of a contributing garage at 1846 Summit Avenue in the Summit Avenue West Historic District and a proposal to replace the cedar roofing and curved eaves on an English cottage-style structure at 482 Portland Avenue in the Hill Heritage Preservation District.
+The meeting covered three main topics related to the 2010 Summit Avenue property, which is part of the Summit West Heritage Preservation District. The Commission approved:
 
-For the first issue, staff recommended approval of the demolition of the historic two-stall garage and construction of a new one with conditions. The applicant agreed to consider salvaging as much of the historic brick as possible for use on the new garage and to make adjustments to the design to better relate to the main building.
+1. The demolition of an existing accessory structure at 2010 Summit Avenue, with a vote of 5-0.
+2. The construction of a new garage at 2010 Summit Avenue, with a vote of 5-0 (after some discussion about design and visibility).
 
-The second issue involved a proposal to replace the cedar roofing and curved eaves on an English cottage-style structure at 482 Portland Avenue in the Hill Heritage Preservation District. The staff report highlighted several concerns, including that the alteration of the curved eaves does not conform with St. Paul Legislative Code, Chapter 74 Standards. However, the applicant presented evidence of economic hardship due to the high cost of repairing or replacing the cedar roof and the fact that their insurance will no longer cover it.
+However, there was some contention regarding the design of the garage door. Commissioner Saylor expressed concerns that designing a single-door to look like two doors could be "disingenuous" and asked if there was a direct historical requirement for smaller doors. The applicant, Terra Firma Building and Remodeling, agreed to consider making changes.
 
-The commission discussed the proposal extensively, considering the costs of repair versus replacement, the feasibility of finding a suitable product for the curved eaves, and the reversibility of the proposed changes. After a lengthy discussion, Commissioner Osteen made a motion to approve the application with three conditions: that estimates show an economic hardship, work can be reversed in the future, and the owner will lose insurance if cedar is not replaced.
+The third topic, related to construction at the rear of the house (including a mudroom, living room, kitchen, fencing, and landscape improvements), was also approved with a vote of 5-0. However, there was some discussion about not seeing a sample of the rustic and smooth hardy material proposed for the project.
 
-The motion was seconded by Commissioner Rink, but Commissioner McDonald expressed concerns about the eyebrow dormer and suggested revisiting its design. The commission voted 3-2 to approve the application with the three conditions.
-
-Note: There was a significant amount of discussion on the issue of the curved eaves and whether it is feasible to find a suitable product that can be bent to replicate the original shape.
+The meeting concluded with a motion to adjourn, but some questions were raised about another item that had been removed from the agenda due to the libraries' decision not to participate at this time.
 
