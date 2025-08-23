@@ -3,19 +3,25 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Zoning Committee Meeting
-* **Purpose:** Public hearing and discussion of rezoning application for 959 Payne Ave from B2 Community Business to T2 Traditional Neighborhood
-* **Date/Time:** Thursday, March 27th, 2025
-* **Location:** City Hall
+Meeting Type: Zoning Committee Meeting
+Purpose: Review and discuss site plans for various development projects in Saint Paul
+Date/Time: Thursday, April 24th, 2025
+Location: City Hall, Saint Paul
+Relevant Contextual Information: The meeting was held to review and discuss site plans for several development projects in Saint Paul, including a public works yard or maintenance facility at 560 Randolph Avenue.
 
 #### Summary
-The Zoning Committee held a public hearing on the rezoning application for 959 Payne Ave. The applicant, Matt Kennevin and Kenneth Littleton, presented their proposal to establish a cannabis processing facility in the area. Staff recommended approval of the rezoning from B2 Community Business to T2 Traditional Neighborhood, citing consistency with the comprehensive plan and surrounding zoning patterns.
 
-Commissioner Grell raised concerns about the application being centered around the use rather than the zoning change itself. However, Chair Tagayoff clarified that the committee is evaluating the land use and zoning changes separately.
+The Zoning Committee Meeting on Thursday, April 24th, 2025, focused on reviewing and discussing site plans for various development projects in Saint Paul. The first item on the agenda was a conditional use permit (CUP) application for a new building at 810 Barge Channel Road Southeast. The staff recommendation was to approve the CUP with four conditions.
 
-The applicant addressed concerns from the neighborhood about external effects, such as odor and noise, by stating that their processing facility would be solventless and contained within the building. They also explained that they would be using a micro-business license, which allows for multiple verticals of cannabis production.
+The second item on the agenda was a conditional use permit application for a six-story vertical mixed-use building at 841 and 857 Grand Avenue. The applicant, Afton Park Development, presented their project and addressed concerns regarding shading of neighboring properties. The committee members discussed and debated the issue, but ultimately voted to approve the staff recommendation.
 
-After public testimony (or lack thereof), the committee moved to close the public hearing and discuss the application. Commissioner Stalling asked follow-up questions about the proposed use and its containment within the site.
+The third item on the agenda was a site plan review for a public works yard or maintenance facility at 560 Randolph Avenue. The applicant, FCC Environmental Services, presented their proposal and addressed concerns regarding pedestrian safety, traffic, and stormwater management. Several members of the public spoke in opposition to the project, citing concerns about the impact on the neighborhood.
 
-The committee ultimately voted unanimously to recommend approval of the rezoning to T2 Traditional Neighborhood, citing consistency with the comprehensive plan and surrounding zoning patterns, as well as the regulation of cannabis use by state and city agencies.
+After hearing from the public and discussing the issue, the committee members voted to approve the staff recommendation for the site plan with two conditions. The motion carried 5-0.
+
+The meeting also included a discussion on data requests and written testimony. One member of the public submitted written comments and asked questions regarding the contract between the city and FCC Environmental Services. The committee chair confirmed that they had received the letter from Mr. Purdy and provided it to the committee members.
+
+Overall, the Zoning Committee Meeting was focused on reviewing and discussing site plans for various development projects in Saint Paul. The committee members voted to approve several applications, including a conditional use permit for a new building at 810 Barge Channel Road Southeast and a site plan review for a public works yard or maintenance facility at 560 Randolph Avenue.
+
+There were concerns raised by the public regarding pedestrian safety, traffic, and stormwater management, but these issues were addressed during the discussion and debate. The committee members ultimately voted to approve the staff recommendations for all three items on the agenda.
 
