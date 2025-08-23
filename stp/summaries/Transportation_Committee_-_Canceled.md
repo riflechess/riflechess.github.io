@@ -3,12 +3,11 @@ title: Transportation Committee - Canceled
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Transportation Committee Meeting
-**Purpose:** Review of transportation infrastructure and planning
-**Date/Time:** (Unfortunately, this meeting was canceled)
+* **Meeting Name**: Transportation Committee
+* **Type**: Committee Meeting (Canceled)
+* **Purpose**: Discussion of transportation-related issues in the city of Saint Paul
+* **Date/Time**: N/A (Meeting was canceled)
 
 #### Summary
-This meeting was unfortunately canceled. I'll keep an eye out for when it's rescheduled so we can catch up on the discussions.
-
-Let me know if you'd like to review any upcoming meetings or have specific questions!
+Unfortunately, this meeting was canceled and no discussion or decisions were made. There is no information to summarize regarding transportation topics or any potential votes.
 
