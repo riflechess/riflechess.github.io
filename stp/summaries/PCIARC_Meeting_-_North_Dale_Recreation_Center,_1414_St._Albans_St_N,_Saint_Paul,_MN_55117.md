@@ -1,25 +1,25 @@
 ---
-titl: PCIARC Mting - th Dal Ratin Cnt, 1414 St. Albans St , Saint Paul, M 55117
-dat: 
+title: PCIARC Meeting - North Dale Recreation Center, 1414 St. Albans St N, Saint Paul, MN 55117
+date: 
 ---
-#### Mting Inf
-**Mting Typ:** PCIARC Mting (Publi Safty Cmmitt)
-**Dat/Tim:** May 7th (tim nt spifid)
-**Latin:** th Dal Ratin Cnt, 1414 St. Albans St , Saint Paul, M 55117
+#### Meeting Info
+**Meeting Type:** PCIARC Meeting (Public Safety Committee)
+**Date/Time:** May 7th (time not specified)
+**Location:** North Dale Recreation Center, 1414 St. Albans St N, Saint Paul, MN 55117
 
-#### Summay
+#### Summary
 
-Th mting bgan with intdutins and swaing in f nw Cmmissin Aan Hays by Chai Saah Flman. Th agnda was appvd, and th hai's pt mntind an upming annual summit n Cmmunity Fist Publi Safty.
+The meeting began with introductions and swearing in of new Commissioner Aaron Hayes by Chair Sarah Floorman. The agenda was approved, and the chair's report mentioned an upcoming annual summit on Community First Public Safety.
 
-Sni Cmmand Linsn fm SPPD psntd an updat n nypting adis, iting fdal gvnmnt quimnts t nypt pivat data tansmittd v adi by Januay 1st, 2026. H disussd nns abut tanspany and th ptntial f adi tansmissins t val psnal infmatin. A dashbad is bing dvlpd t pvid publi infmatin in al-tim.
+Senior Commander Linsen from SPPD presented an update on encrypting radios, citing federal government requirements to encrypt private data transmitted over radio by January 1st, 2026. He discussed concerns about transparency and the potential for radio transmissions to reveal personal information. A dashboard is being developed to provide public information in real-time.
 
-Cmmissin Hays qustind th impat f nyptin n mmuniatin btwn SPPD and Ramsy Cunty dispaths. Sni Cmmand Linsn xplaind that nyptd hannls wuld b usd f dinatin with th agnis, but nt f utin mmuniatins.
+Commissioner Hayes questioned the impact of encryption on communication between SPPD and Ramsey County dispatchers. Senior Commander Linsen explained that encrypted channels would be used for coordination with other agencies, but not for routine communications.
 
-Th mmissin mvd n t disussing th annual summit, whih will fatu psntatins fm Dit Wis, Chif Hny, and a panl disussin invlving Cmmissin Hays. Th summit's un f shw was viwd, and Cdinat Cumbland annund th additin f Dit Angi Wis as a spa.
+The commission moved on to discussing the annual summit, which will feature presentations from Director Wiese, Chief Henry, and a panel discussion involving Commissioner Hayes. The summit's run of show was reviewed, and Coordinator Cumberland announced the addition of Director Angie Wiese as a speaker.
 
-Dputy Dit f Cmm Chai Flman ptd n HERO Dpatmnt ativitis, inluding utah vnts and hiing psss. Th dpatmnt is still uiting f an invstigat psitin at th Lab Cnt.
+Deputy Director of Commerce Chair Florman reported on HERO Department activities, including outreach events and hiring processes. The department is still recruiting for an investigator position at the Labor Center.
 
-IAU psntd data n mplaints ivd in Apil, with 8 ttal mplaints, 2 fwadd t PCR Cps viw, and 4 nt snt t PCR Cps viw. Cmmissin Gss asd abut th numb f pn iminal ass (3) and hw invstigatins a handld whn mplys lav  sign.
+IAU presented data on complaints received in April, with 8 total complaints, 2 forwarded to PCR Corps review, and 4 not sent to PCR Corps review. Commissioner Gross asked about the number of open criminal cases (3) and how investigations are handled when employees leave or resign.
 
-Th mmissin disussd th pss f handling mplaints whn ffis lav  a n lng mplyd by th ity. Th IAU wuld withdaw th mplaint du t th la f disiplinay atin against a fm mply.
+The commission discussed the process for handling complaints when officers leave or are no longer employed by the city. The IAU would withdraw the complaint due to the lack of disciplinary action against a former employee.
 

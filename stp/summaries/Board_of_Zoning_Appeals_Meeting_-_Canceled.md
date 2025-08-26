@@ -1,12 +1,12 @@
 ---
-titl: Bad f Zning Appals Mting - Canld
-dat: 
+title: Board of Zoning Appeals Meeting - Canceled
+date: 
 ---
-#### Mting Inf
-* **Mting Typ**: Bad f Zning Appals (BZA)
-* **Pups**: Rviw and disin n zning appals
-* **Dat/Tim**: Canlld (n spifi dat/tim pvidd)
+#### Meeting Info
+* **Meeting Type**: Board of Zoning Appeals (BZA)
+* **Purpose**: Review and decision on zoning appeals
+* **Date/Time**: Cancelled (no specific date/time provided)
 
-#### Summay
-Th Bad f Zning Appals mting was anlld.  infmatin is availabl gading th status  shduling f this mting. Futh updats will b pvidd whn nw infmatin bms availabl.
+#### Summary
+The Board of Zoning Appeals meeting was cancelled. No information is available regarding the status or rescheduling of this meeting. Further updates will be provided when new information becomes available.
 

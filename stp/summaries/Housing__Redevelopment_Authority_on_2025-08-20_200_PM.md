@@ -1,17 +1,17 @@
 ---
-titl: Husing  Rdvlpmnt Authity n 2025-08-20 2:00 PM
-dat: 2025-08-20
+title: Housing  Redevelopment Authority on 2025-08-20 2:00 PM
+date: 2025-08-20
 ---
-#### Mting Inf
-**Typ:** Husing Rdvlpmnt Authity (HRA) mting
-**Pups:** Publi haings n tw itms latd t nduit vnu bnds f hat shls and pivat shls
-**Dat/Tim:** August 20, 2025, 2:00 PM
-**Latin:** City f Saint Paul
+#### Meeting Info
+**Type:** Housing Redevelopment Authority (HRA) meeting
+**Purpose:** Public hearings on two items related to conduit revenue bonds for charter schools and private schools
+**Date/Time:** August 20, 2025, 2:00 PM
+**Location:** City of Saint Paul
 
-#### Summay
-Th Husing Rdvlpmnt Authity hld a publi haing n tw itms latd t nduit vnu bnds f hat shls. Cmmissin Yang xpssd h nns abut th impat n th St. Paul Publi Shls and h nflitd flings abut suppting funding qusts that may ntibut t th hallngs fad by th shl distit.
+#### Summary
+The Housing Redevelopment Authority held a public hearing on two items related to conduit revenue bonds for charter schools. Commissioner Yang expressed her concerns about the impact on the St. Paul Public Schools and her conflicted feelings about supporting funding requests that may contribute to the challenges faced by the school district.
 
-Th fist itm, slutin 25-175, was passd with n ppsing vt fm Cmmissin Yang. Th snd itm, slutin 25-176, authizing th issuan and sal f nduit hat shl las vnu funding bnds f th Twin Citis Aadmy Pjt, was als appvd with n ppsing vt fm Cmmissin Yang.
+The first item, resolution 25-175, was passed with one opposing vote from Commissioner Yang. The second item, resolution 25-176, authorizing the issuance and sale of conduit charter school lease revenue refunding bonds for the Twin Cities Academy Project, was also approved with one opposing vote from Commissioner Yang.
 
-Cmmissin Pvtsy, wh will b laving th HRA sn, was anwldgd by Chai Jhnsn f his ntibutins t th authity and his mmitmnt t husing pjts and affdability. Cmmissin Yang xpssd h appiatin f Cmmissin Pvtsy's svi and ld fwad t ntinuing thi w tgth in th futu.
+Commissioner Provotsky, who will be leaving the HRA soon, was acknowledged by Chair Johnson for his contributions to the authority and his commitment to housing projects and affordability. Commissioner Yang expressed her appreciation for Commissioner Provotsky's service and looked forward to continuing their work together in the future.
 

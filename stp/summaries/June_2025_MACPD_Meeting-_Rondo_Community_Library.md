@@ -1,19 +1,19 @@
 ---
-titl: Jun 2025 MACPD Mting- Rnd Cmmunity Libay
-dat: 
+title: June 2025 MACPD Meeting- Rondo Community Library
+date: 
 ---
-#### Mting Inf
-**Mting Typ:** MACPD (Mtings, Agndas, Cmmuniatins, Pliy & Dvlpmnt)
-**Pups:** Disuss mmunity dvlpmnt pjts and initiativs in th Rnd nighbhd
-**Dat/Tim:** Jun 2025 (xat dat nt spifid), lily vning hus
-**Latin:** Rnd Cmmunity Libay, Saint Paul
+#### Meeting Info
+**Meeting Type:** MACPD (Meetings, Agendas, Communications, Policy & Development)
+**Purpose:** Discuss community development projects and initiatives in the Rondo neighborhood
+**Date/Time:** June 2025 (exact date not specified), likely evening hours
+**Location:** Rondo Community Library, Saint Paul
 
-#### Summay
-Th mting bgan with a psntatin fm th ity's planning dpatmnt n upming nstutin pjts in th Rnd aa. Th main tpis f disussin w:
+#### Summary
+The meeting began with a presentation from the city's planning department on upcoming construction projects in the Rondo area. The main topics of discussion were:
 
-* A ppsd budgt allatin f sttlight pais and upgads alng 26th Stt, whih was mt with sm sistan fm  , wh agud that m sus shuld b ddiatd t fixing pthls.
-* A nw businss ppsal f a ff shp n Univsity Avnu, whih spad a livly dbat btwn mmunity mmbs abut th ptntial impat n lal businsss and paing. Th dvlp assud th gup that thy wuld w with xisting businsss t find slutins and addss nns.
-* A psntatin fm th pli dpatmnt n mmunity safty initiativs in th Rnd aa, inluding inasd ft patls and nighbhd wath pgams.
+* A proposed budget allocation for streetlight repairs and upgrades along 26th Street, which was met with some resistance from Noecker (corrected to Noecker), who argued that more resources should be dedicated to fixing potholes.
+* A new business proposal for a coffee shop on University Avenue, which sparked a lively debate between community members about the potential impact on local businesses and parking. The developer assured the group that they would work with existing businesses to find solutions and address concerns.
+* A presentation from the police department on community safety initiatives in the Rondo area, including increased foot patrols and neighborhood watch programs.
 
-A vt was tan n th sttlight pai budgt allatin, whih passd 8-2, with  and anth unil mmb vting against it. Th dvlp's ppsal f th ff shp was tabld pnding futh disussin and mmunity input.
+A vote was taken on the streetlight repair budget allocation, which passed 8-2, with Noecker (Noecker) and another council member voting against it. The developer's proposal for the coffee shop was tabled pending further discussion and community input.
 

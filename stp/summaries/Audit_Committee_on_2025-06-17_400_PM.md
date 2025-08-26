@@ -1,37 +1,37 @@
 ---
-titl: Audit Cmmitt n 2025-06-17 4:00 PM
-dat: 2025-06-17
+title: Audit Committee on 2025-06-17 4:00 PM
+date: 2025-06-17
 ---
-#### Mting Inf
-* Typ: Audit Cmmitt mting
-* Pups: T disuss and slt th nxt tpi f audit
-* Dat/Tim: Jun 17, 2025, 4:00 PM
-* Attnds:
-	+ ia Vang (staff)
-	+ Jmy Lsttt (mmunity advis)
-	+ Rba  (St. Paul City Cunil mmb)
-	+ Jams Fanswth (mmunity advis)
-	+ ah MVigh (nw mmunity advis)
-	+ Stphani Dilwth (mmunity advis, Wad 1)
-	+ M. Pvatsy
-	+ D. Bitt (audit)
+#### Meeting Info
+* Type: Audit Committee meeting
+* Purpose: To discuss and select the next topic for audit
+* Date/Time: June 17, 2025, 4:00 PM
+* Attendees:
+	+ Nia Vang (staff)
+	+ Jeremy Lostetter (community advisor)
+	+ Rebecca Noecker (St. Paul City Council member)
+	+ James Farnsworth (community advisor)
+	+ Noah McVeigh (new community advisor)
+	+ Stephanie Dilworth (community advisor, Ward 1)
+	+ Mr. Povatsky
+	+ Dr. Britt (auditor)
 
-#### Summay
+#### Summary
 
-Th mting bgan with intdutins f th nw mmbs, inluding ah MVigh and Sia (wh will b staffing th mmitt). Th Chai thand vyn f thi patiipatin and aplgizd f nt having a ll all list.
+The meeting began with introductions of the new members, including Noah McVeigh and Soria (who will be staffing the committee). The Chair thanked everyone for their participation and apologized for not having a roll call list.
 
-Th disussin fusd n slting th nxt tpi f audit. M.  ppsd that th mmitt align its w with th ity unil's intsts and hav m intatin with th unil in hsing tpis. H suggstd viwing past idas, inluding ths fm intnal staff suvys and xtnal mmunity suvys, as wll as any nw idas.
+The discussion focused on selecting the next topic for audit. Mr. Noecker proposed that the committee align its work with the city council's interests and have more interaction with the council in choosing topics. He suggested reviewing past ideas, including those from internal staff surveys and external community surveys, as well as any new ideas.
 
-Sval mmbs shad thi thughts n ptntial tpis, inluding:
+Several members shared their thoughts on potential topics, including:
 
-* M. MVigh ppsd an ntpis is assssmnt f th ity
-* Ms. Dilwth mntind th hif budgt ffi and jint pws agmnt
-* M. Lastw suggstd ling at data qusts latd t th Data Patis At
-* Cunil Psidnt  suggstd xamining th husing dvlpmnt pss fm stat t finish
+* Mr. McVeigh proposed an enterprise risk assessment for the city
+* Ms. Dilworth mentioned the chief budget officer and joint powers agreement
+* Mr. Lastow suggested looking at data requests related to the Data Practices Act
+* Council President Noecker suggested examining the housing development process from start to finish
 
-Th mmitt disussd iss assiatd with vaius tpis, inluding mplian with th Data Patis At, mply tntin and tunv, and sidwals.
+The committee discussed risks associated with various topics, including compliance with the Data Practices Act, employee retention and turnover, and sidewalks.
 
-Aft nsiding all th suggstins, th mmitt didd t fwad tw tpis t th ity unil f a final vt: data patis and husing dvlpmnt pss. Thy agd t apply th is assssmnt ubi t ths tpis bf psnting thm t th unil.
+After considering all the suggestions, the committee decided to forward two topics to the city council for a final vote: data practices and housing development process. They agreed to apply the risk assessment rubric to these topics before presenting them to the council.
 
-Th mting nludd with a bif updat n mmunity ngagmnt fm M. Fanswth and an annunmnt that th ntat with Wild has bn nwd aft psitiv fdba fm mmitt mmbs.
+The meeting concluded with a brief update on community engagement from Mr. Farnsworth and an announcement that the contract with Wilder has been renewed after positive feedback from committee members.
 

@@ -1,22 +1,22 @@
 ---
-titl: Budgt Cmmitt n 2025-04-16 10:00 AM
-dat: 2025-04-16
+title: Budget Committee on 2025-04-16 10:00 AM
+date: 2025-04-16
 ---
-#### Mting Inf
-* **Typ:** Budgt Cmmitt mting
-* **Pups:** Disussin f lab latins, lltiv bagaining agmnts, and ivil svi uls in Saint Paul
-* **Dat/Tim:** Apil 16, 2025, 10:00 AM
-* **Attnds:** Jasn Shmidt (Lab Rlatins Dit), City Cunil mmbs
+#### Meeting Info
+* **Type:** Budget Committee meeting
+* **Purpose:** Discussion of labor relations, collective bargaining agreements, and civil service rules in Saint Paul
+* **Date/Time:** April 16, 2025, 10:00 AM
+* **Attendees:** Jason Schmidt (Labor Relations Director), City Council members
 
-#### Summay
+#### Summary
 
-Th Budgt Cmmitt mt t disuss lab latins, lltiv bagaining agmnts, and ivil svi uls in Saint Paul. Jasn Shmidt psntd n th ity's mplx lab latins nvinmnt, with 25 unins ganizd int 22 ntats and a uninizatin at f appximatly 98%. Th mmitt disussd th pss f ngtiating lltiv bagaining agmnts, whih an ta sval mnths  vn yas t mplt.
+The Budget Committee met to discuss labor relations, collective bargaining agreements, and civil service rules in Saint Paul. Jason Schmidt presented on the city's complex labor relations environment, with 25 unions organized into 22 contracts and a unionization rate of approximately 98%. The committee discussed the process for negotiating collective bargaining agreements, which can take several months or even years to complete.
 
-Cunil mmbs asd qustins abut th diffns btwn "tads" and "taditinal" unins, as wll as th pss f intst abitatin. Jasn Shmidt xplaind that intst abitatin is a last st whn ngtiatins fail, and that an utsid abitat mas a binding disin n ntat tms.
+Council members asked questions about the differences between "trades" and "traditional" unions, as well as the process for interest arbitration. Jason Schmidt explained that interest arbitration is a last resort when negotiations fail, and that an outside arbitrator makes a binding decision on contract terms.
 
-Th mmitt als disussd th ity's ivil svi uls, whih dat ba t 1914. Th unt systm is sn as utdatd, and hangs a bing ppsd t ma it m spnsiv t th mdn lab mat. Jasn Shmidt ntd that any hangs t th ivil svi uls will nd t b appvd by th City Cunil.
+The committee also discussed the city's civil service rules, which date back to 1914. The current system is seen as outdated, and changes are being proposed to make it more responsive to the modern labor market. Jason Schmidt noted that any changes to the civil service rules will need to be approved by the City Council.
 
-Sval unil mmbs xpssd intst in having m infmatin abut ntat ngtiatins and lltiv bagaining agmnts, patiulaly gading budgt impliatins and timlins f upming ngtiatins. Jasn Shmidt ffd t pvid a dumnt utlining th status f ah individual ntat and th timlin f upming ngtiatins.
+Several council members expressed interest in having more information about contract negotiations and collective bargaining agreements, particularly regarding budget implications and timelines for upcoming negotiations. Jason Schmidt offered to provide a document outlining the status of each individual contract and the timeline for upcoming negotiations.
 
-Th mmitt als disussd th imptan f llabatin btwn th City Cunil and lab latins staff duing th ngtiatin pss, inluding bifings and infmatin shaing. Cunil mmbs mphasizd thi dsi t b infmd and ngagd thughut th pss, patiulaly gading budgt impliatins and ptntial hangs t ivil svi uls.
+The committee also discussed the importance of collaboration between the City Council and labor relations staff during the negotiation process, including briefings and information sharing. Council members emphasized their desire to be informed and engaged throughout the process, particularly regarding budget implications and potential changes to civil service rules.
 

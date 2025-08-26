@@ -1,28 +1,28 @@
 ---
-titl: City Cunil n 2025-08-20 3:30 PM
-dat: 2025-08-20
+title: City Council on 2025-08-20 3:30 PM
+date: 2025-08-20
 ---
-#### Mting Inf
-**Typ:** City Cunil Mting
-**Pups:** Publi Mtings f City Cunil n 2025-08-20 3:30 PM f City f Saint Paul
-**Dat/Tim:** August 20, 2025, 3:30 PM
-**Cntxt:** Th mting was attndd by ity unil mmbs and inludd disussin and vting n vaius slutins, dinans, and publi haings.
+#### Meeting Info
+**Type:** City Council Meeting
+**Purpose:** Public Meetings of City Council on 2025-08-20 3:30 PM for City of Saint Paul
+**Date/Time:** August 20, 2025, 3:30 PM
+**Context:** The meeting was attended by city council members and included discussion and voting on various resolutions, ordinances, and public hearings.
 
-#### Summay
+#### Summary
 
-Th mting bgan with a mtin t appv th balan f th nsnt agnda, whih was adptd. Itm 18 was a slutin lbating th n-ya annivsay f th Minnsta Ty Libay in St. Paul. Th libay pvids tys f hildn fm bith t fiv yas ld and aims t du wast assiatd with playtim.
+The meeting began with a motion to approve the balance of the consent agenda, which was adopted. Item 18 was a resolution celebrating the one-year anniversary of the Minnesota Toy Library in St. Paul. The library provides toys for children from birth to five years old and aims to reduce waste associated with playtime.
 
-Cunil mmbs shad thi favit hildhd tys and paisd th libay's innvativ appah. Cunil Psidnt Jhnsn mmndd th libay's w and intdud its lads, wh xplaind hw th ty libay pats. Th slutin was adptd unanimusly.
+Council members shared their favorite childhood toys and praised the library's innovative approach. Council President Johnson commended the library's work and introduced its leaders, who explained how the toy library operates. The resolution was adopted unanimously.
 
-Itm 19 invlvd th final adptin f an dinan appving th appliatin f zning pptis at Six 94 Minnhaha Avnu East fm industial t sidntial. Chai Jhnsn supptd th mtin, stating that it wuld at affdabl husing and dvlp a vaant sit.
+Item 19 involved the final adoption of an ordinance approving the application for rezoning properties at Six 94 Minnehaha Avenue East from industrial to residential. Chair Johnson supported the motion, stating that it would create affordable housing and redevelop a vacant site.
 
-Th unil als disussd zning gulatins f sb huss and supptiv husing failitis. A publi haing was hld n Itm 21 gading hangs t Magat Stt btwn Aad and East 7th Stts. Th ppsd hang wuld nvt a n-way stt t tw-way taffi, but th w n spas in ppsitin.
+The council also discussed zoning regulations for sober houses and supportive housing facilities. A public hearing was held on Item 21 regarding changes to Margaret Street between Arcade and East 7th Streets. The proposed change would convert a one-way street to two-way traffic, but there were no speakers in opposition.
 
-Sval itms invlvd publi haings n slutins latd t pas and atin, inluding using paland ddiatin funds f th Linwd Pa impvmnts pjt. Anth slutin was adptd t apt gant funds f Hamsbuy dvlpmnt at 680-695 Minnhaha Avnu East.
+Several items involved public hearings on resolutions related to parks and recreation, including using parkland dedication funds for the Linwood Park improvements project. Another resolution was adopted to accept grant funds for Hamsbury redevelopment at 680-695 Minnehaha Avenue East.
 
-A ntntius itm was a publi haing n Itm 24, whih appvd th sund vaian qusts fm th Univsity f St. Thmas f vnts in th stadium. An advat fm th nighbhd xpssd nns abut nis lvls and ptntial impats n sidnts, but Cunil Pvadsy supptd th mtin, stating that it wuld bing thusands f fans t th aa.
+A contentious item was a public hearing on Item 24, which approved three sound variance requests from the University of St. Thomas for events in the stadium. An advocate from the neighborhood expressed concerns about noise levels and potential impacts on residents, but Councilor Provradsky supported the motion, stating that it would bring thousands of fans to the area.
 
-A spial tax assssmnt was disussd gading ppty at 815 Univsity Avnu Wst. Th ppty wn, Gg Ryan, tstifid that h had bn infmd by a pli ffi that th ity wuld v th lanup sts, lading t nfusin and mismmuniatin abut spnsibilitis. Aft disussin, th unil didd t lay v th slutin f tw ws t gath m infmatin.
+A special tax assessment was discussed regarding property at 815 University Avenue West. The property owner, Greg Ryan, testified that he had been informed by a police officer that the city would cover the cleanup costs, leading to confusion and miscommunication about responsibilities. After discussion, the council decided to lay over the resolution for two weeks to gather more information.
 
-Th mting nludd with tibuts t Cunil Pvadsy's svi as an intim mmb, with pais fm fllw unils and th may. Th last itm n th agnda was a publi haing n maining lgislativ itms, whih w lsd aft n futh spas w had.
+The meeting concluded with tributes to Councilor Provradsky's service as an interim member, with praise from fellow councilors and the mayor. The last item on the agenda was a public hearing on remaining legislative items, which were closed after no further speakers were heard.
 

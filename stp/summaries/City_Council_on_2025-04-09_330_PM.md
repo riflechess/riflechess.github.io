@@ -1,31 +1,31 @@
 ---
-titl: City Cunil n 2025-04-09 3:30 PM
-dat: 2025-04-09
+title: City Council on 2025-04-09 3:30 PM
+date: 2025-04-09
 ---
-#### Mting Inf
-- **Mting Typ:** City Cunil Mting
-- **Dat/Tim:** Apil 9, 2025, 3:30 PM
-- **Cntxtual Infmatin:** Th mting nsists f a sis f publi haings and disussins n vaius ity unil itms, inluding atifiatin f spial tax assssmnts, atin f a publi safty mmitt, and amndmnts t th nt stabilizatin dinan.
+#### Meeting Info
+- **Meeting Type:** City Council Meeting
+- **Date/Time:** April 9, 2025, 3:30 PM
+- **Contextual Information:** The meeting consists of a series of public hearings and discussions on various city council items, including ratification of special tax assessments, creation of a public safety committee, and amendments to the rent stabilization ordinance.
 
-#### Summay
+#### Summary
 
-Th mting bgan with a viw f nsnt agnda itms, whih w adptd withut disussin. 
+The meeting began with a review of consent agenda items, which were adopted without discussion. 
 
-Th fist maj itm disussd was th atifiatin f appald spial tax assssmnts f vaant building fs in vaius pptis ass th ity. Th unil had tstimny fm ppty wns and sidnts gading thi nns abut ths fs, patiulaly ths latd t th lngth f tim it tas t mplt nvatins  pais.
+The first major item discussed was the ratification of appealed special tax assessments for vacant building fees in various properties across the city. The council heard testimony from property owners and residents regarding their concerns about these fees, particularly those related to the length of time it takes to complete renovations or repairs.
 
-xt, th unil disussd a mtin t at a publi safty mmitt, whih wuld vs pliy dvlpmnt and viw lgislatin in aas suh as pli, fi, and mgny svis. Cunil Mmb Bwi advatd f th atin f this mmitt, iting th imptan f piitizing publi safty within th ity's stutu.
+Next, the council discussed a motion to create a public safety committee, which would oversee policy development and review legislation in areas such as police, fire, and emergency services. Council Member Bowie advocated for the creation of this committee, citing the importance of prioritizing public safety within the city's structure.
 
-Th mting thn tund t an dinan amnding Chapt 310.04 f th Lgislativ Cd t gulat a m ffiint mthd f anllatin whn linss a nt in mplian with pviding matials f linsd ativitis. Dit Angi Wis psntd th staff pt n this itm, xplaining that th unt pss an lad t issus suh as businsss staying pn withut nssay linss.
+The meeting then turned to an ordinance amending Chapter 310.04 of the Legislative Code to regulate a more efficient method of cancellation when licensees are not in compliance with providing materials for licensed activities. Director Angie Wiese presented the staff report on this item, explaining that the current process can lead to issues such as businesses staying open without necessary licenses.
 
-Fllwing this, th unil hld publi haings n Odinan 25-21 and 25-29, whih lat t zning hangs and nt stabilizatin, sptivly. Tstimny was had fm vaius stahlds, inluding dvlps, nts, and mmunity mmbs, gading thi nns abut ths dinans.
+Following this, the council held public hearings on Ordinance 25-21 and 25-29, which relate to zoning changes and rent stabilization, respectively. Testimony was heard from various stakeholders, including developers, renters, and community members, regarding their concerns about these ordinances.
 
-Finally, th mting nludd with a disussin n tw maj itms: an amndmnt t th nt stabilizatin dinan (Odinan 2529) and an dinan ating Chapt 193 f th Lgislativ Cd ptaining t tnant pttins (Odinan 2531). 
+Finally, the meeting concluded with a discussion on two major items: an amendment to the rent stabilization ordinance (Ordinance 2529) and an ordinance creating Chapter 193 of the Legislative Code pertaining to tenant protections (Ordinance 2531). 
 
-F Odinan 25-29, tstimny was had fm dvlps, nts, and mmunity mmbs gading thi nns abut this dinan. Many spas mphasizd that this amndmnt wuld pvid a m stabl nvinmnt f nw nstutin and attat invstmnt in th ity.
+For Ordinance 25-29, testimony was heard from developers, renters, and community members regarding their concerns about this ordinance. Many speakers emphasized that this amendment would provide a more stable environment for new construction and attract investment in the city.
 
-F Odinan 2531, whih ptains t tnant pttins, tstimny was givn by nts wh hav fad hallngs with vitins and suity dpsits. Many supptd th dinan, highlighting its imptan in pviding la guidlins and pttins f nts.
+For Ordinance 2531, which pertains to tenant protections, testimony was given by renters who have faced challenges with evictions and security deposits. Many supported the ordinance, highlighting its importance in providing clear guidelines and protections for renters.
 
-Cunil Mmb Pvatsy ntd that h has nns gading sm f th languag in Odinans 25-29 and 2531 but gnally suppts thi gals. Cunil Mmbs Jst and xpssd simila sntimnts, with a fus n nsuing fainss f all patis invlvd.
+Council Member Provatsky noted that he has concerns regarding some of the language in Ordinances 25-29 and 2531 but generally supports their goals. Council Members Jost and Noecker expressed similar sentiments, with a focus on ensuring fairness for all parties involved.
 
-Ovall, th mting highlightd vaius nns abut husing dvlpmnt and ntal gulatins within St. Paul. Whil th w diffing pinins gading th ppsd dinans, many spas mphasizd that piitizing publi safty and pviding la guidlins f nts a ssntial mpnnts f any pliy latd t husing.
+Overall, the meeting highlighted various concerns about housing development and rental regulations within St. Paul. While there were differing opinions regarding the proposed ordinances, many speakers emphasized that prioritizing public safety and providing clear guidelines for renters are essential components of any policy related to housing.
 

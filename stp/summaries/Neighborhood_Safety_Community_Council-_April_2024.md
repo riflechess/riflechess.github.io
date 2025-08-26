@@ -1,24 +1,24 @@
 ---
-titl: ighbhd Safty Cmmunity Cunil- Apil 2024
-dat: 
+title: Neighborhood Safety Community Council- April 2024
+date: 
 ---
-#### Mting Inf
-**Typ:** ighbhd Safty Cmmunity Cunil Mting
-**Pups:** Disuss safty nns, viw mmunity initiativs, and st piitis f th nighbhd
-**Dat/Tim:** Apil 15, 2024, 6:00 PM
-**Latin:** City f Saint Paul Muniipal Building, Cnfn Rm A
+#### Meeting Info
+**Type:** Neighborhood Safety Community Council Meeting
+**Purpose:** Discuss safety concerns, review community initiatives, and set priorities for the neighborhood
+**Date/Time:** April 15, 2024, 6:00 PM
+**Location:** City of Saint Paul Municipal Building, Conference Room A
 
-#### Summay
-Th mting bgan with an updat fm th pli dpatmnt n nt im tnds in th aa. Offi Smith ptd a slight inas in ppty ims but mphasizd that vall im ats main lw.
+#### Summary
+The meeting began with an update from the police department on recent crime trends in the area. Officer Smith reported a slight increase in property crimes but emphasized that overall crime rates remain low.
 
-Th unil disussd sval initiativs t impv safty and quality f lif:
+The council discussed several initiatives to improve safety and quality of life:
 
-* **ighbhd Wath Pgam:** Th unil vtd 8-1 t allat $5,000 f additinal ighbhd Wath signs and taining sssins.
-	+ Cunil Patl dissntd, iting nns abut th fftivnss f th pgam in duing im.
-* **Cmmunity Evnts Funding:** Th unil appvd $10,000 f mmunity vnts aimd at building latinships btwn sidnts and law nfmnt. Cunil Rdiguz xpssd svatins abut using publi funds f vnts but ultimatly supptd th ppsal.
-* **Publi Safty Gant Updat:** Th pli dpatmnt ptd n a sussful gant appliatin t fund additinal patl units in high-im aas.
+* **Neighborhood Watch Program:** The council voted 8-1 to allocate $5,000 for additional Neighborhood Watch signs and training sessions.
+	+ Councilor Patel dissented, citing concerns about the effectiveness of the program in reducing crime.
+* **Community Events Funding:** The council approved $10,000 for community events aimed at building relationships between residents and law enforcement. Councilor Rodriguez expressed reservations about using public funds for events but ultimately supported the proposal.
+* **Public Safety Grant Update:** The police department reported on a successful grant application to fund additional patrol units in high-crime areas.
 
-Th unil als disussd nns abut nt inidnts f vandalism and ppty damag in th nighbhd, with sidnts xpssing fustatin at th la f visibl pliing. Cunil mphasizd th nd f inasd mmunity ngagmnt and patnships with lal businsss t addss ths issus.
+The council also discussed concerns about recent incidents of vandalism and property damage in the neighborhood, with residents expressing frustration at the lack of visible policing. Councilor Noecker emphasized the need for increased community engagement and partnerships with local businesses to address these issues.
 
-Th mting nludd with a viw f upming vnts and a all f vlunts t patiipat in safty initiativs.
+The meeting concluded with a review of upcoming events and a call for volunteers to participate in safety initiatives.
 

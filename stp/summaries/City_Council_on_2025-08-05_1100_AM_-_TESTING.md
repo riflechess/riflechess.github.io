@@ -1,12 +1,12 @@
 ---
-titl: City Cunil n 2025-08-05 11:00 AM - TESTIG
-dat: 2025-08-05
+title: City Council on 2025-08-05 11:00 AM - TESTING
+date: 2025-08-05
 ---
-#### Mting Inf
-* **Mting Typ**: City Cunil Mting
-* **Dat/Tim**: 2025-08-05, 11:00 AM
-* **Dsiptin**: Liv and Rdd Publi mting f th City Cunil f th City f Saint Paul (t: This appas t b a tst  pati mting)
+#### Meeting Info
+* **Meeting Type**: City Council Meeting
+* **Date/Time**: 2025-08-05, 11:00 AM
+* **Description**: Live and Recorded Public meeting of the City Council for the City of Saint Paul (Note: This appears to be a test or practice meeting)
 
-#### Summay
-This mting was nt a al unil mting but ath a tst sssin. Th attnds waitd thugh a sis f "w'll b ight ba" annunmnts, withut any atual disussin  disin-maing taing pla. Thf, th a n y disins, budgt allatins,  th ntabl itms t pt.
+#### Summary
+This meeting was not a real council meeting but rather a test session. The attendees waited through a series of "we'll be right back" announcements, without any actual discussion or decision-making taking place. Therefore, there are no key decisions, budget allocations, or other notable items to report.
 

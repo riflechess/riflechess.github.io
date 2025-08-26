@@ -1,23 +1,23 @@
 ---
-titl: Husing  Rdvlpmnt Authity n 2025-04-16 2:00 PM
-dat: 2025-04-16
+title: Housing  Redevelopment Authority on 2025-04-16 2:00 PM
+date: 2025-04-16
 ---
-#### Mting Inf
-**Mting Typ:** Husing Rdvlpmnt Authity (HRA) mting
-**Pups:** T disuss and vt n vaius itms latd t husing and dvlpmnt in th City f Saint Paul
-**Dat/Tim:** Apil 16, 2025, 2:00 PM
-**Rlvant Cntxtual Infmatin:** Cmmissin Pabwsi t his ath f ffi as a mmissin f th HRA
+#### Meeting Info
+**Meeting Type:** Housing Redevelopment Authority (HRA) meeting
+**Purpose:** To discuss and vote on various items related to housing and redevelopment in the City of Saint Paul
+**Date/Time:** April 16, 2025, 2:00 PM
+**Relevant Contextual Information:** Commissioner Pabrowski took his oath of office as a commissioner of the HRA
 
-#### Summay
-Th mting bgan with Cmmissin Pabwsi's ath f ffi. Th fist itm f disussin was RES 25-545, whih authizd th issuan f nduit vnu bnds f th Halth Patns Obligatd Gup Pjt. Th bnd issuan is t finan pi bnds issud by th HRA in 2015, and staff mmndd appval. Cmmissin  mvd t appv th slutin, and it passd with a unanimus vt.
+#### Summary
+The meeting began with Commissioner Pabrowski's oath of office. The first item for discussion was RES 25-545, which authorized the issuance of conduit revenue bonds for the Health Partners Obligated Group Project. The bond issuance is to refinance prior bonds issued by the HRA in 2015, and staff recommended approval. Commissioner Noecker moved to approve the resolution, and it passed with a unanimous vote.
 
-Th snd itm was RES 25-575, whih amndd th 2025 Husing Rdvlpmnt Authity HRA Lan Entpis Fund Budgt t flt ayv fm th 2024 budgt f tw ntal hab pgam pjts. Staff mmndd appval, and Cmmissin Pavatsy mvd t appv th slutin, whih passd unanimusly.
+The second item was RES 25-575, which amended the 2025 Housing Redevelopment Authority HRA Loan Enterprise Fund Budget to reflect carryover from the 2024 budget for two rental rehab program projects. Staff recommended approval, and Commissioner Pravatsky moved to approve the resolution, which passed unanimously.
 
-Th thid itm was RES 25-581, apting a $1,999,991 gant fm th Minnsta Husing Finan Agny (MHFA) thugh th Minnsta Husing Cmmunity Hm Ownship Impat Fund. Th funds will b usd f th Dwn Paymnt Assistan Pgam and th Hmwns' Rhab Pgam itywid. Cmmissin Ying mvd t appv th slutin, and it passd unanimusly.
+The third item was RES 25-581, accepting a $1,999,991 grant from the Minnesota Housing Finance Agency (MHFA) through the Minnesota Housing Community Home Ownership Impact Fund. The funds will be used for the Down Payment Assistance Program and the Homeowners' Rehab Program citywide. Commissioner Ying moved to approve the resolution, and it passed unanimously.
 
-Th futh itm was a staff pt gading th mdifiatin f th 2002 hm lan t th St. Paul Family Pjt Limitd Patnship (Own f Jasn Stt Villag Pjt). Th HRA is qusting t fgiv $175,553 in aud intst n th lan upn matuity in 2032. Cmmissin Kim had bn bifd n this matt and xpssd stng suppt f th pjt. Cmmissin Pvatsy als sp abut h tansptatin xptis and hw th pjt's latin na a bi tail is bnfiial.
+The fourth item was a staff report regarding the modification of the 2002 home loan to the St. Paul Family Project Limited Partnership (Owner of Jackson Street Village Project). The HRA is requesting to forgive $175,553 in accrued interest on the loan upon maturity in 2032. Commissioner Kim had been briefed on this matter and expressed strong support for the project. Commissioner Povatsky also spoke about her transportation expertise and how the project's location near a bike trail is beneficial.
 
-Cmmissin Bwi asd qustins gading RS Edn's invlvmnt with affdabl husing, patiulaly aund thi ddiatin t dply affdabl husing. Calin Hd, Psidnt and CEO f RS Edn, xplaind that thy a an wn-pat, ppty manag, and svi pvid f this pjt. Sh als disussd th habilitatin sp and hw thy aim t sustain th pjt f 15 yas.
+Commissioner Bowie asked questions regarding RS Eden's involvement with affordable housing, particularly around their dedication to deeply affordable housing. Caroline Hood, President and CEO of RS Eden, explained that they are an owner-operator, property manager, and service provider for this project. She also discussed the rehabilitation scope and how they aim to sustain the project for 15 years.
 
-Th mting nludd with a bif disussin abut th sus f funds f th Jasn Stt Villag Pjt, inluding ngy bats fm Exl Engy and a sit assssmnt gant (SAG) fm Ramsy Cunty. Th nxt agnda itms will inlud th Pw f Hm and Halthy Hms Pgam guidlins, whih hav bn visd in spns t fdba fm pvius mtings.
+The meeting concluded with a brief discussion about the sources of funds for the Jackson Street Village Project, including energy rebates from Excel Energy and a site assessment grant (SAG) from Ramsey County. The next agenda items will include the Power of Home and Healthy Homes Program guidelines, which have been revised in response to feedback from previous meetings.
 

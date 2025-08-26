@@ -1,14 +1,14 @@
 ---
-titl: Planning Cmmissin Mting - Canld
-dat: 
+title: Planning Commission Meeting - Canceled
+date: 
 ---
-#### Mting Inf
-* **Mting Typ:** Planning Cmmissin Mting
-* **Pups:** Disussin f nging pjts and ppsals in th ity f Saint Paul
-* **Dat/Tim:** Shduld f [inst dat/tim], but was anld
+#### Meeting Info
+* **Meeting Type:** Planning Commission Meeting
+* **Purpose:** Discussion of ongoing projects and proposals in the city of Saint Paul
+* **Date/Time:** Scheduled for [insert date/time], but was canceled
 
-#### Summay
-Th mting was anld, s th w n disussins  disins mad. Th nxt shduld mting will b annund n th ity's wbsit and sial mdia hannls. If yu hav any qustins  nns abut upming mtings  pjts, plas ah ut t th Planning Cmmissin ffi ditly.
+#### Summary
+The meeting was canceled, so there were no discussions or decisions made. The next scheduled meeting will be announced on the city's website and social media channels. If you have any questions or concerns about upcoming meetings or projects, please reach out to the Planning Commission office directly.
 
-( futh infmatin is availabl sin th mting did nt u.)
+(No further information is available since the meeting did not occur.)
 

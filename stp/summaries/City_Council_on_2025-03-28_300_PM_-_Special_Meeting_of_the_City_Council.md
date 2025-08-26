@@ -1,17 +1,17 @@
 ---
-titl: City Cunil n 2025-03-28 3:00 PM - Spial Mting f th City Cunil
-dat: 2025-03-28
+title: City Council on 2025-03-28 3:00 PM - Special Meeting of the City Council
+date: 2025-03-28
 ---
-#### Mting Inf
-* **Typ:** City Cunil Spial Mting
-* **Pups:** T disuss and vt n an intim unil mmb f Wad 4
-* **Dat/Tim:** 2025-03-28, 3:00 PM
-* **Cntxt:** This was a spial mting hld t addss issus latd t th sltin f an intim unil mmb f Wad 4.
+#### Meeting Info
+* **Type:** City Council Special Meeting
+* **Purpose:** To discuss and vote on an interim council member for Ward 4
+* **Date/Time:** 2025-03-28, 3:00 PM
+* **Context:** This was a special meeting held to address issues related to the selection of an interim council member for Ward 4.
 
-#### Summay
-Th City Cunil mt in a spial sssin n Mah 28th t disuss and vt n an intim unil mmb f Wad 4. Hwv, th mting was adjund withut taing any atin du t ntvsy suunding a slutin that had bn amndd n Wdnsday.
+#### Summary
+The City Council met in a special session on March 28th to discuss and vote on an interim council member for Ward 4. However, the meeting was adjourned without taking any action due to controversy surrounding a resolution that had been amended on Wednesday.
 
-Cunil Psidnt (td fm ) xpssd fustatin with atins tan by sm mmbs duing a pvius mting, whih ld n andidat t withdaw fm th pss. Th Cunil Psidnt thn withdw th slutin, giving th unil m tim t ah nsnsus n th issu.
+Council President (corrected from Noecker) expressed frustration with actions taken by some members during a previous meeting, which led one candidate to withdraw from the process. The Council President then withdrew the resolution, giving the council more time to reach consensus on the issue.
 
-A pint f d was aisd gading spnsship f th slutin, but it did nt hang th utm. Th mting was adjund withut futh atin bing tan.
+A point of order was raised regarding sponsorship of the resolution, but it did not change the outcome. The meeting was adjourned without further action being taken.
 

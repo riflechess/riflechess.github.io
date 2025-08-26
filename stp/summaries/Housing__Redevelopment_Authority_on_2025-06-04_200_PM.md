@@ -6,7 +6,7 @@ date: 2025-06-04
 **Meeting Type:** Housing and Redevelopment Authority (HRA) Meeting
 **Purpose:** To discuss and vote on several resolutions related to the Minneapolis-St. Paul Housing Finance Board, as well as to receive a presentation on the T-District Zoning Update.
 **Date/Time:** June 4, 2025, 2:00 PM
-**Attendees:** Commissioner Chair Johnson, Commissioners Kim, Noecker, Yang, and others.
+**Attendees:** Commissioner Chair Johnson, Commissioners Kim, Noecker (corrected from "Noecker"), Yang, and others.
 
 #### Summary
 

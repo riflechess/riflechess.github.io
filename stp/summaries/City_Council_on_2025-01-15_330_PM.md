@@ -1,47 +1,47 @@
 ---
-titl: City Cunil n 2025-01-15 3:30 PM
-dat: 2025-01-15
+title: City Council on 2025-01-15 3:30 PM
+date: 2025-01-15
 ---
-#### Mting Inf
-- **Mting Typ:** City Cunil Mting
-- **Dat/Tim:** 2025-01-15, 3:30 PM
-- **Latin:** Liv and Rdd Publi mtings f City Cunil f City f Saint Paul
-- **Summay Pvidd By:** A itizn f Saint Paul wh summaizs ity unil mtings t p fllw itizns updatd.
+#### Meeting Info
+- **Meeting Type:** City Council Meeting
+- **Date/Time:** 2025-01-15, 3:30 PM
+- **Location:** Live and Recorded Public meetings of City Council for City of Saint Paul
+- **Summary Provided By:** A citizen of Saint Paul who summarizes city council meetings to keep fellow citizens updated.
 
-#### Summay
-Th mting vd tw main tpis: th publi haing n Odinan 25-2, amnding Chapt 6.03 f th ity hat ptaining t administativ itatins, and sval nsnt agnda itms, inluding a slutin t appv a gant fm th U.S. Dpatmnt f Tansptatin.
+#### Summary
+The meeting covered two main topics: the public hearing on Ordinance 25-2, amending Chapter 6.03 of the city charter pertaining to administrative citations, and several consent agenda items, including a resolution to approve a grant from the U.S. Department of Transportation.
 
-**Publi Haing n Odinan 25-2**
+**Public Hearing on Ordinance 25-2**
 
-- Th mting bgan with Cunil Psidnt Jalali xplaining that this was a publi haing f th dinan.
-- Tstimny was had fm multipl mmunity mmbs in suppt f administativ itatins as a tl t hld landlds and mplys auntabl f vilating ity dinans, patiulaly ths affting ws' ights and nt stabilizatin.
-- Sm spas mntind th nd f quity-fusd implmntatin and ppsd stablishing a mmunity-divn slutins pss, nsuing that fs and fins a usd quitably.
+- The meeting began with Council President Jalali explaining that this was a public hearing for the ordinance.
+- Testimony was heard from multiple community members in support of administrative citations as a tool to hold landlords and employers accountable for violating city ordinances, particularly those affecting workers' rights and rent stabilization.
+- Some speakers mentioned the need for equity-focused implementation and proposed establishing a community-driven solutions process, ensuring that fees and fines are used equitably.
 
-**Cnsnt Agnda Itms**
+**Consent Agenda Items**
 
-- Cunil Mmb Yang mvd t ls th publi haing n itm numb 25 (Odinan 25-2) aft n futh tstimny was givn.
-- Th unil thn vtd in fav f lsing th publi haing.
-- Cnsnt agnda itms 29 thugh 54 w als disussd, with staff mmnding taing itms spaatly f nsidatin.
+- Council Member Yang moved to close the public hearing on item number 25 (Ordinance 25-2) after no further testimony was given.
+- The council then voted in favor of closing the public hearing.
+- Consent agenda items 29 through 54 were also discussed, with staff recommending taking items separately for consideration.
 
-**Oth Itms**
+**Other Items**
 
-- Th ity ivd a gant fm th U.S. Dpatmnt f Tansptatin and will us it t xut a pativ agmnt.
-- A mtin was mad t ls th publi haings n nsnt agnda itms 29 t 54, whih passd withut ppsitin.
+- The city received a grant from the U.S. Department of Transportation and will use it to execute a cooperative agreement.
+- A motion was made to close the public hearings on consent agenda items 29 to 54, which passed without opposition.
 
-**Rslutins Passd**
+**Resolutions Passed**
 
-- Rslutin 25-7: Appving th Augustus Cn final plat and vaians f subdivisin dsign standads. (Laid v t Januay 22nd f final adptin)
-- Th ity aptd a gant fm th U.S. Dpatmnt f Tansptatin, with n futh disussin  ppsitin.
-- Itm numb 44 was passd withut dbat  ppsitin, ding th aising and mval f stutus at 1784 fl Avnu within 15 days aft th Januay 15th publi haing.
+- Resolution 25-7: Approving the Augustus Corner final plat and variances of subdivision design standards. (Laid over to January 22nd for final adoption)
+- The city accepted a grant from the U.S. Department of Transportation, with no further discussion or opposition.
+- Item number 44 was passed without debate or opposition, ordering the raising and removal of structures at 1784 Norfolk Avenue within 15 days after the January 15th public hearing.
 
-**tabl Disins**
+**Notable Decisions**
 
-- Cunil Mmb Jhnsn suggstd laying v itm numb 39 (RLH RSA 24-12) f n w t futh viw a nt inas appal.
-- Th unil didd t lay v itm 47, a spial tax assssmnt, and disussd pssibl dutins in th assssmnt amunt du t a misundstanding by th hmwn abut what was quid.
-- Cunil Mmb Bwi suggstd dlting th assssmnt ntily if th w n simila vilatins within tw mnths.
+- Council Member Johnson suggested laying over item number 39 (RLH RSA 24-12) for one week to further review a rent increase appeal.
+- The council decided to lay over item 47, a special tax assessment, and discussed possible reductions in the assessment amount due to a misunderstanding by the homeowner about what was required.
+- Council Member Bowie suggested deleting the assessment entirely if there were no similar violations within two months.
 
-**Oth Itms**
+**Other Items**
 
-- Ri Hll tstifid that h unffiially psntd pint-disabld ppl (als fd t as "pint vaiabl") and qustd a dlay in th pss until th ity's dumnts uld b mad fully assibl ading t thi pliy.
--  futh disussin  atin was tan n this itm.
+- Rick Heller testified that he unofficially represented print-disabled people (also referred to as "print variable") and requested a delay in the process until the city's documents could be made fully accessible according to their policy.
+- No further discussion or action was taken on this item.
 

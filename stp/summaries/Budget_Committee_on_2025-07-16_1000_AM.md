@@ -1,37 +1,37 @@
 ---
-titl: Budgt Cmmitt n 2025-07-16 10:00 AM
-dat: 2025-07-16
+title: Budget Committee on 2025-07-16 10:00 AM
+date: 2025-07-16
 ---
-#### Mting Inf
-**Mting Typ:** Budgt Cmmitt
-**Pups:** Rviw f ppulatin tnds in Saint Paul using 2020 nsus data psntd by D. Susan Bau, Minnsta Stat Dmgaph.
-**Dat/Tim:** 2025-07-16, 10:00 AM
-**Rlvant Cntxt:** Th mting was attndd by Cunil Mmbs Abhi Kim, Chai Yang, Vi Chai Jhnsn, , Pvatsy, Bwi, and Jst.
+#### Meeting Info
+**Meeting Type:** Budget Committee
+**Purpose:** Review of population trends in Saint Paul using 2020 census data presented by Dr. Susan Bauer, Minnesota State Demographer.
+**Date/Time:** 2025-07-16, 10:00 AM
+**Relevant Context:** The meeting was attended by Council Members Abhi Kim, Chair Yang, Vice Chair Johnson, Noecker, Pervatsky, Bowie, and Jost.
 
-#### Summay
+#### Summary
 
-D. Susan Bau psntd data n ppulatin tnds in Saint Paul using 2020 nsus data. Ky pints fm th psntatin inlud:
+Dr. Susan Bauer presented data on population trends in Saint Paul using 2020 census data. Key points from the presentation include:
 
-* Saint Paul xpind high gwth ats btwn 2010 and 2020, with a 9% inas in ppulatin.
-* Hwv, sin 2020, th gwth at has lvld ff, and th ity is nw xpining dissipatd gwth ut twads sububan aas.
-* Th stat f Minnsta as a whl is als sing lw lvls f gwth du t aging ppulatins and fw biths.
-* D. Bau ntd that apid gwth in Saint Paul last dad was pat f a natinal tnd, but dissipatd gwth has bgun, with ppl mving ut twads sububan aas.
+* Saint Paul experienced high growth rates between 2010 and 2020, with a 9% increase in population.
+* However, since 2020, the growth rate has leveled off, and the city is now experiencing dissipated growth out towards suburban areas.
+* The state of Minnesota as a whole is also seeing lower levels of growth due to aging populations and fewer births.
+* Dr. Bauer noted that rapid growth in Saint Paul last decade was part of a national trend, but dissipated growth has begun, with people moving out towards suburban areas.
 
-Th psntatin als vd th impat f ppulatin aging n publi budgts and svis, inluding:
+The presentation also covered the impact of population aging on public budgets and services, including:
 
-* Th baby bms hav bn ahing timnt ag, lading t lab f shtags and inasd dmands f haltha and sial svis.
-* Saint Paul is a lativly yung ity mpad t th U.S., but will still xpin impats fm aging ppulatins utsid f th ity.
+* The baby boomers have been reaching retirement age, leading to labor force shortages and increased demands for healthcare and social services.
+* Saint Paul is a relatively young city compared to the U.S., but will still experience impacts from aging populations outside of the city.
 
-Cunil Mmbs asd qustins abut th data, inluding:
+Council Members asked questions about the data, including:
 
-* Cunil Psidnt A asd hw Minnsta mpas t th stats in tms f ppulatin gwth and migatin pattns.
-* Cunil Mmb Bwi asd if D. Bau uld spa t hangs in lif xptany and sinmi fats ntibuting t aging ppulatins.
-* Cunil Mmb Jst asd abut th histy f dtaild a gups in nsus data.
+* Council President Aker asked how Minnesota compares to other states in terms of population growth and migration patterns.
+* Council Member Bowie asked if Dr. Bauer could speak to changes in life expectancy and socioeconomic factors contributing to aging populations.
+* Council Member Jost asked about the history of detailed race groups in census data.
 
-D. Bw (Bau) pvidd additinal infmatin n pvty ats, tansptatin, and husing units in Saint Paul, inluding:
+Dr. Brower (Bauer) provided additional information on poverty rates, transportation, and housing units in Saint Paul, including:
 
-* Abut 14% f Saint Paul sidnts liv in pvty, with high ats amng Hispani  Latin, bla  Afian Amian, and sm Suthast Asian ppulatins.
-* Th numb f sidnts wing fm hm has inasd sin th pandmi, with abut 20% untly wing mtly.
+* About 14% of Saint Paul residents live in poverty, with higher rates among Hispanic or Latino, black or African American, and some Southeast Asian populations.
+* The number of residents working from home has increased since the pandemic, with about 20% currently working remotely.
 
-Th mting nludd with appiatin f D. Bw's psntatin and xptis.
+The meeting concluded with appreciation for Dr. Brower's presentation and expertise.
 

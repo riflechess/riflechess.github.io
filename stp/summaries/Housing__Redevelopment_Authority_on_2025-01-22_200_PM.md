@@ -1,25 +1,25 @@
 ---
-titl: Husing  Rdvlpmnt Authity n 2025-01-22 2:00 PM
-dat: 2025-01-22
+title: Housing  Redevelopment Authority on 2025-01-22 2:00 PM
+date: 2025-01-22
 ---
-#### Mting Inf
-**Mting Typ:** Husing and Rdvlpmnt Authity (HRA) Mting
-**Dat/Tim:** Januay 22, 2025, 2:00 PM
-**Dsiptin:** Liv and Rdd Publi mting f Husing & Rdvlpmnt Authity f th City f Saint Paul.
+#### Meeting Info
+**Meeting Type:** Housing and Redevelopment Authority (HRA) Meeting
+**Date/Time:** January 22, 2025, 2:00 PM
+**Description:** Live and Recorded Public meeting of Housing & Redevelopment Authority for the City of Saint Paul.
 
-#### Summay
+#### Summary
 
-Th HRA mting fusd n disussing HRA-wnd pptis, thi ptntial uss, and th pss f dispsing f thm. Dit wtn intdud Mlani MMahn, wh psntd an vviw f th 200 pals f land wnd by th HRA ass vaius wads in Saint Paul. 
+The HRA meeting focused on discussing HRA-owned properties, their potential uses, and the process for disposing of them. Director Newton introduced Melanie McMahon, who presented an overview of the 200 parcels of land owned by the HRA across various wards in Saint Paul. 
 
-MMahn highlightd that ah pal has uniqu haatistis and nstaints, suh as nvinmntal viws, lng-tm lass,  spifi quimnts fm funding sus. Sh pvidd xampls f dvlpd pptis, inluding singl-family hms, multifamily buildings, and mmial dvlpmnts.
+McMahon highlighted that each parcel has unique characteristics and constraints, such as environmental reviews, long-term leases, or specific requirements from funding sources. She provided examples of redeveloped properties, including single-family homes, multifamily buildings, and commercial developments.
 
-Th disussin ntd n th tw main ways t disps f HRA-wnd pptis: Rqust f Ppsals (RFP) and dit thid-paty inquiis. Th RFP pss invlvs advtising ppsals f spifi sits, whil dit inquiis allw intstd patis t submit a ppsal ditly t th HRA.
+The discussion centered on the two main ways to dispose of HRA-owned properties: Request for Proposals (RFP) and direct third-party inquiries. The RFP process involves advertising proposals for specific sites, while direct inquiries allow interested parties to submit a proposal directly to the HRA.
 
-Cmmissin Yang asd abut th pss f initiating an RFP and hw staff dtmins whih pals t piitiz. Dit wtn xplaind that RFPs an b initiatd thugh vaius mans, inluding mmunity qusts  dvlp intst. Hwv, th hav bn nstaints n sus and pliy quimnts faving affdabl husing dvlpmnt.
+Commissioner Yang asked about the process for initiating an RFP and how staff determines which parcels to prioritize. Director Newton explained that RFPs can be initiated through various means, including community requests or developer interest. However, there have been constraints on resources and policy requirements favoring affordable housing development.
 
-Th disussin als tuhd n tanspany and mmuniatin with stahlds. Th HRA agd t pvid a list f addsss f ah pal, allwing mmissins t idntify whih pals a f intst and piity in thi wads.
+The discussion also touched on transparency and communication with stakeholders. The HRA agreed to provide a list of addresses for each parcel, allowing commissioners to identify which parcels are of interest and priority in their wards.
 
-Rgading paing amps, th HRA wns appximatly 7,200 paing spas ass vaius dwntwn latins. An RFP was issud last ya t pla quipmnt using ARPA funds, with th plamnt xptd this ya.
+Regarding parking ramps, the HRA owns approximately 7,200 parking spaces across various downtown locations. An RFP was issued last year to replace equipment using ARPA funds, with the replacement expected this year.
 
-Th mting nludd with disussins n fllw-up atins, inluding individual mtings with bad mmbs t viw dvlpabl pals within thi wads and xpling ways t disps f nn-dvlpabl pals.
+The meeting concluded with discussions on follow-up actions, including individual meetings with board members to review developable parcels within their wards and exploring ways to dispose of non-developable parcels.
 

@@ -1,15 +1,15 @@
 ---
-titl: Fbuay 2025 MACPD Mting- CACELLED
-dat: 
+title: February 2025 MACPD Meeting- CANCELLED
+date: 
 ---
-#### Mting Inf
-* **Mting Typ:** MACPD (Mtings, Agnda, and Cmmuniatins Pliy Ditiv) Mting
-* **Pups:** Rviw f mting pliis and pdus, disussin n upming mmunity vnts, and gnal businss
-* **Dat/Tim:** Fbuay 2025 (t: Th mting was anlld)
-* **Rlvant Cntxt:** This is a gula mting f th MACPD mmitt, whih vss th shduling and ganizatin f ity mtings
+#### Meeting Info
+* **Meeting Type:** MACPD (Meetings, Agenda, and Communications Policy Directive) Meeting
+* **Purpose:** Review of meeting policies and procedures, discussion on upcoming community events, and general business
+* **Date/Time:** February 2025 (Note: The meeting was cancelled)
+* **Relevant Context:** This is a regular meeting of the MACPD committee, which oversees the scheduling and organization of city meetings
 
-#### Summay
-Th Fbuay 2025 MACPD Mting has bn anlld. As a sult, n nw businss  disussins t pla. It's wth nting that this anllatin might impat upming mmunity vnts  disins mad by th mmitts that w dpndnt n this mting.
+#### Summary
+The February 2025 MACPD Meeting has been cancelled. As a result, no new business or discussions took place. It's worth noting that this cancellation might impact upcoming community events or decisions made by other committees that were dependent on this meeting.
 
-Th a n signifiant disins  disagmnts t pt as th mting did nt ta pla.
+There are no significant decisions or disagreements to report as the meeting did not take place.
 

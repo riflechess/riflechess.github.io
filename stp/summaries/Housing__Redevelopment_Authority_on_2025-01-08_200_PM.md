@@ -1,29 +1,29 @@
 ---
-titl: Husing  Rdvlpmnt Authity n 2025-01-08 2:00 PM
-dat: 2025-01-08
+title: Housing  Redevelopment Authority on 2025-01-08 2:00 PM
+date: 2025-01-08
 ---
-#### Mting Inf
-**Mting Typ:** Husing Rdvlpmnt Authity (HRA) Publi Mting
-**Pups:** Rviw and disuss vaius pjts and initiativs f th HRA in 2025
-**Dat/Tim:** Januay 8, 2025, 2:00 PM
-**Attnds:** Dit wtn, Chai , Cmmissins, Dputy Dit Gn
+#### Meeting Info
+**Meeting Type:** Housing Redevelopment Authority (HRA) Public Meeting
+**Purpose:** Review and discuss various projects and initiatives for the HRA in 2025
+**Date/Time:** January 8, 2025, 2:00 PM
+**Attendees:** Director Newton, Chair Noecker, Commissioners, Deputy Director Green
 
-#### Summay
+#### Summary
 
-Th mting vd sval y tpis latd t th Husing Rdvlpmnt Authity (HRA) pjts and initiativs f 2025. Sm f th ntabl pints inlud:
+The meeting covered several key topics related to the Housing Redevelopment Authority (HRA) projects and initiatives for 2025. Some of the notable points include:
 
-* Th appval f a slutin t dla suplus ppty at th Ham sit, whih is nssay t las th land fm stat gnal bligatin bnd gant bligatins.
-* A staff pt n th HRA's pviw f 2025, whih inludd an updat n vaius pgams and initiativs, suh as th Cmmial Cids Pgam, Emgny Rntal Assistan and Evitin Pvntin Pgam, and Halthy Hms and Pw f Hm.
-* Th implmntatin f th dwntwn invstmnt statgy, whih inluds suppting lgislatin aund ffi-t-husing nvsins and ana nvatins.
-* Th dvlpmnt f a dashbad t ta husing data and affdability in St. Paul, in patnship with th Fdal Rsv Ban f Minnaplis.
-* A disussin n th itywid nmi dvlpmnt statgy, inluding a mphnsiv analysis f lal nmy stngths and wansss, stting gals f nmi gwth, and dvlping wf sills.
-* Updats n maj dvlpmnt sits and mast plans, inluding th Unitd Villag pjt and th dwntwn plan.
-* Th las f an RFP f th HRA's mini paing amps, t intdu mptitin amng pats and impv piing.
+* The approval of a resolution to declare surplus property at the Ham site, which is necessary to release the land from state general obligation bond grant obligations.
+* A staff report on the HRA's preview of 2025, which included an update on various programs and initiatives, such as the Commercial Corridors Program, Emergency Rental Assistance and Eviction Prevention Program, and Healthy Homes and Power of Home.
+* The implementation of the downtown investment strategy, which includes supporting legislation around office-to-housing conversions and arena renovations.
+* The development of a dashboard to track housing data and affordability in St. Paul, in partnership with the Federal Reserve Bank of Minneapolis.
+* A discussion on the citywide economic development strategy, including a comprehensive analysis of local economy strengths and weaknesses, setting goals for economic growth, and developing workforce skills.
+* Updates on major development sites and master plans, including the United Village project and the downtown plan.
+* The release of an RFP for the HRA's mini parking ramps, to introduce competition among operators and improve pricing.
 
-Sm aas f ntntin  disagmnt inludd:
+Some areas of contention or disagreement included:
 
-* Cmmissin  xpssd nns abut "study p," wh a study tis t fix all pblms at n, ath than fusing n spifi mmndatins.
-* Cmmissin Jalali mphasizd th nd f ugny in addssing nmi fats utsid f th ity's ntl, suh as fdal taiffs and pliy hangs.
+* Commissioner Necker expressed concerns about "study creep," where a study tries to fix all problems at once, rather than focusing on specific recommendations.
+* Commissioner Jalali emphasized the need for urgency in addressing economic factors outside of the city's control, such as federal tariffs and policy changes.
 
-Th mting nludd with a disussin n futu psntatins and tpis f th HRA mtings, inluding th husing pliy study. Th nxt mting is shduld f Januay 22, 2025.
+The meeting concluded with a discussion on future presentations and topics for the HRA meetings, including the housing policy study. The next meeting is scheduled for January 22, 2025.
 

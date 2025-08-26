@@ -1,23 +1,23 @@
 ---
-titl: Libay Bad n 2025-02-05 1:00 PM
-dat: 2025-02-05
+title: Library Board on 2025-02-05 1:00 PM
+date: 2025-02-05
 ---
-#### Mting Inf
-Mting Typ: Libay Bad Mting
-Dat/Tim: 2025-02-05 1:00 PM
-Latin: City f Saint Paul
-Pups: Liv and Rdd Publi mtings f Libay Bad n 2025-02-05 1:00 PM f City f Saint Paul
+#### Meeting Info
+Meeting Type: Library Board Meeting
+Date/Time: 2025-02-05 1:00 PM
+Location: City of Saint Paul
+Purpose: Live and Recorded Public meetings of Library Board on 2025-02-05 1:00 PM for City of Saint Paul
 
-#### Summay
-Th mting bgan with th appval f minuts fm th pvius mting. Th nxt itm was Rslutin 25-214, appinting ffis f th Libay Bad. Chai Jns annund that sh wuld b staying as hai and Cunilmmb Bwi wuld b vi hai.
+#### Summary
+The meeting began with the approval of minutes from the previous meeting. The next item was Resolution 25-214, appointing officers of the Library Board. Chair Jones announced that she would be staying as chair and Councilmember Bowie would be vice chair.
 
-Aft a bif disussin, th slutin was appvd unanimusly. Th staff pt n libay mmuniatins bgan with an intdutin by Stay Opitz fm th libay's mating and mmuniatins tam (MaCm). Thy disussd thi l in pmting th libay and its svis thugh vaius hannls. 
+After a brief discussion, the resolution was approved unanimously. The staff report on library communications began with an introduction by Stacey Opitz from the library's marketing and communications team (MarCom). They discussed their role in promoting the library and its services through various channels. 
 
-Th highlight f this psntatin was th nw band idntity that MaCm had dvlpd, whih inludd a nw lg, l paltt, and pattns. Th band is dsignd t b inlusiv, assibl, and flxibl, flting th valus f blnging, divsity, and mmunity. Th tam als intdud thi ampaign, "Hus Campaign," aimd at inasing awanss and undstanding f th libay amng St. Paul sidnts.
+The highlight of this presentation was the new brand identity that MarCom had developed, which included a new logo, color palette, and patterns. The brand is designed to be inclusive, accessible, and flexible, reflecting the values of belonging, diversity, and community. The team also introduced their campaign, "Hours Campaign," aimed at increasing awareness and understanding of the library among St. Paul residents.
 
-Cunil mmbs paisd th banding ffts and xpssd nthusiasm f pmting it in thi nwsltts and sial mdia. Cunil Miang appiatd th ativ appah t stytlling and th way th lg psnts diffnt aspts f th libay's svis.
+Council members praised the rebranding efforts and expressed enthusiasm for promoting it in their newsletters and social media. Councilor Moriang appreciated the creative approach to storytelling and the way the logo represents different aspects of the library's services.
 
-Th final itm n th agnda was a psntatin by Ruia Abadi, mmunity spialist, abut Smali bilingual family stytim. Sh shad h psnal sty f hw sh fund sla in th publi libay aft aiving in St. Paul and hw it hlpd h t build a nw lif f hslf and h hildn. Sh als disussd h w with stytim, pviding languag suppt and pmting litay amng immigant familis.
+The final item on the agenda was a presentation by Rukia Abadi, community specialist, about Somali bilingual family storytime. She shared her personal story of how she found solace in the public library after arriving in St. Paul and how it helped her to build a new life for herself and her children. She also discussed her work with storytime, providing language support and promoting literacy among immigrant families.
 
-Cunil mmbs paisd Ruia's passin and ddiatin t h w, appiating h mmitmnt t sving th mmunity thugh stytlling and languag suppt. Th mting nludd with gnitin f Cunil Psidnt Jalali's ntibutins t th libay bad and a fawll mssag fm Chai Jst as sh ppas t lav City Hall.
+Council members praised Rukia's passion and dedication to her work, appreciating her commitment to serving the community through storytelling and language support. The meeting concluded with recognition of Council President Jalali's contributions to the library board and a farewell message from Chair Jost as she prepares to leave City Hall.
 

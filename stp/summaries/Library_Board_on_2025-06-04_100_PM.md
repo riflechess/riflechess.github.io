@@ -1,24 +1,24 @@
 ---
-titl: Libay Bad n 2025-06-04 1:00 PM
-dat: 2025-06-04
+title: Library Board on 2025-06-04 1:00 PM
+date: 2025-06-04
 ---
-#### Mting Inf
-**Mting Typ:** Libay Bad Mting
-**Pups:** T disuss th libay's pgams and svis
-**Dat/Tim:** Jun 4, 2025, 1:00 PM
-**Latin:** Liv and dd publi mting (n physial latin spifid)
+#### Meeting Info
+**Meeting Type:** Library Board Meeting
+**Purpose:** To discuss the library's programs and services
+**Date/Time:** June 4, 2025, 1:00 PM
+**Location:** Live and recorded public meeting (no physical location specified)
 
-#### Summay
+#### Summary
 
-Th Libay Bad mt t disuss vaius aspts f th libay's pgams and svis. Th mting bgan with a psntatin by Dinisia Slis n th Libay G pgam, whih pvids vitual -ads f studnts in St. Paul Publi Shls. Th pgam has sn signifiant gwth, with v 87,000 aunts as f Mah 2025.
+The Library Board met to discuss various aspects of the library's programs and services. The meeting began with a presentation by Dionisia Solis on the Library Go program, which provides virtual e-cards for students in St. Paul Public Schools. The program has seen significant growth, with over 87,000 accounts as of March 2025.
 
-Cunil Psidnt xpssd appiatin f th w dn n th ast sid and suggstd that m ffts b mad t ah familis wh may hav bais t assing libay sus. Cunilmmb Ptsy anwldgd th libay's pativ appah in pgamming duing th Hamlin Midway Libay nstutin.
+Council President Noecker expressed appreciation for the work done on the east side and suggested that more efforts be made to reach families who may have barriers to accessing library resources. Councilmember Perrotsky acknowledged the library's proactive approach in programming during the Hamlin Midway Library construction.
 
-Malna, Publi Svis Manag, psntd n libay pgams, mphasizing th imptan f undstanding th "why" bhind thm. Sh highlightd th libay's missin and hw pgams suppt it by inasing ass t lltins, pmting svis, and ating spas f mmunity nntin. Th psntatin als tuhd n valuatin mthds, inluding masuing utms bynd attndan numbs.
+Marlena, Public Services Manager, presented on library programs, emphasizing the importance of understanding the "why" behind them. She highlighted the library's mission and how programs support it by increasing access to collections, promoting services, and creating spaces for community connection. The presentation also touched on evaluation methods, including measuring outcomes beyond attendance numbers.
 
-Cunil Psidnt  asd abut ptntial vlap btwn ity dpatmnts and shls in pviding pgamming and sus. Malna anwldgd that dinatin is nssay but ntd that th libay's appah fuss n mmunity nds and patnships.
+Council President Noecker asked about potential overlap between city departments and schools in providing programming and resources. Marlena acknowledged that coordination is necessary but noted that the library's approach focuses on community needs and partnerships.
 
-Th mting nludd with a disussin f th libay's divs ang f pgamming and appiatin f th ativ ffts put int vnts li Libay In Th Pa. Chai Jst annund an upming vnt lbating th nstutin f th Hamlin Midway Libay, fatuing a DJ, i am, and th ativitis.
+The meeting concluded with a discussion of the library's diverse range of programming and appreciation for the creative efforts put into events like Library In The Park. Chair Jost announced an upcoming event celebrating the construction of the Hamlin Midway Library, featuring a DJ, ice cream, and other activities.
 
- ntntius vts  maj disagmnts w ntd duing th mting.
+No contentious votes or major disagreements were noted during the meeting.
 

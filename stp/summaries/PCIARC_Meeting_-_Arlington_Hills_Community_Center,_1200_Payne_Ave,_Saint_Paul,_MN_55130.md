@@ -1,19 +1,19 @@
 ---
-titl: PCIARC Mting - Alingtn Hills Cmmunity Cnt, 1200 Payn Av, Saint Paul, M 55130
-dat: 
+title: PCIARC Meeting - Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+date: 
 ---
-#### Mting Inf
-**Typ:** PCIARC (Planning Cmmissin f th Intnighbhds Assistan Rvitalizatin Cmmitt) Mting
-**Pups:** T disuss vaius mmunity dvlpmnt pjts and initiativs in th Alingtn Hills nighbhd
-**Dat/Tim:** [Inst Dat and Tim]
-**Latin:** Alingtn Hills Cmmunity Cnt, 1200 Payn Av, Saint Paul, M 55130
+#### Meeting Info
+**Type:** PCIARC (Planning Commission of the Interneighborhoods Assistance Revitalization Committee) Meeting
+**Purpose:** To discuss various community development projects and initiatives in the Arlington Hills neighborhood
+**Date/Time:** [Insert Date and Time]
+**Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
 
-#### Summay
-Th mting vd sval tpis latd t mmunity dvlpmnt in th Alingtn Hills nighbhd. tabl disussins inludd:
+#### Summary
+The meeting covered several topics related to community development in the Arlington Hills neighborhood. Notable discussions included:
 
-* Th ppsal f a nw mmunity gadn n th n f Aad Stt and Payn Avnu. Th ppsal was mt with nthusiasm fm sidnts wh s it as an pptunity t bautify th aa and pmt sustainability. Hwv, sm nns w aisd abut th ptntial impat n lal paing.
-* A disussin n impving stt lighting in th nighbhd, patiulaly alng Aad Stt. Rsidnts ptd instans f a ba-ins and th safty nns du t inadquat lighting. Th ity agd t install nw lights and inas maintnan fquny.
-* A qust fm a lal businss wn f assistan with vitalizing th mmial aa n Payn Avnu. PCIARC mmbs disussd pssibl initiativs, suh as faad gants and mating ffts, t suppt small businsss in th nighbhd.
+* The proposal for a new community garden on the corner of Arcade Street and Payne Avenue. The proposal was met with enthusiasm from residents who see it as an opportunity to beautify the area and promote sustainability. However, some concerns were raised about the potential impact on local parking.
+* A discussion on improving street lighting in the neighborhood, particularly along Arcade Street. Residents reported instances of car break-ins and other safety concerns due to inadequate lighting. The city agreed to install new lights and increase maintenance frequency.
+* A request from a local business owner for assistance with revitalizing the commercial area on Payne Avenue. PCIARC members discussed possible initiatives, such as facade grants and marketing efforts, to support small businesses in the neighborhood.
 
-Th ppsal f th mmunity gadn was appvd with nditins t addss paing nns. Th stt lighting impvmnt plan is xptd t bgin sn, pnding mpltin f an nvinmntal assssmnt.
+The proposal for the community garden was approved with conditions to address parking concerns. The street lighting improvement plan is expected to begin soon, pending completion of an environmental assessment.
 

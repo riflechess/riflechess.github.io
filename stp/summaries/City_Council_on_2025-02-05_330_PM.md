@@ -1,28 +1,28 @@
 ---
-titl: City Cunil n 2025-02-05 3:30 PM
-dat: 2025-02-05
+title: City Council on 2025-02-05 3:30 PM
+date: 2025-02-05
 ---
-#### Mting Inf
-**Mting Typ:** Saint Paul City Cunil Mting
-**Dat/Tim:** 2025-02-05, 3:30 PM
-**Pups:** Publi mting f th ity unil t disuss and vt n vaius slutins and dinans.
+#### Meeting Info
+**Meeting Type:** Saint Paul City Council Meeting
+**Date/Time:** 2025-02-05, 3:30 PM
+**Purpose:** Public meeting for the city council to discuss and vote on various resolutions and ordinances.
 
-#### Summay
-Th mting bgan with a gnitin f Mita Jalali's ladship and svi t th ity. Th unil vtd unanimusly t adpt Rslutin 25-260, gnizing Mita Jalali's ladship and svi. May Cat psntd a plamatin dlaing Fbuay 5th as Mita Jalali Day in th ity f St. Paul.
+#### Summary
+The meeting began with a recognition of Mitra Jalali's leadership and service to the city. The council voted unanimously to adopt Resolution 25-260, recognizing Mitra Jalali's leadership and service. Mayor Carter presented a proclamation declaring February 5th as Mitra Jalali Day in the city of St. Paul.
 
-Th mting thn mvd n t disuss vaius slutins and dinans, inluding:
+The meeting then moved on to discuss various resolutions and ordinances, including:
 
-* Rslutin 25-161, appving advs atin against a tba shp lins hld by Pts Mat, In., was laid v f n w.
-* Rslutin 25-213, gnizing Bla Histy Mnth in th ity f St. Paul, was adptd aft a publi haing.
-* Rslutin 25-16, appving a sund lvl vaian f Bug M's Luy Palza vnt, was lsd and appvd aft a publi haing.
+* Resolution 25-161, approving adverse action against a tobacco shop license held by Peters Market, Inc., was laid over for one week.
+* Resolution 25-213, recognizing Black History Month in the city of St. Paul, was adopted after a public hearing.
+* Resolution 25-16, approving a sound level variance for Burger Moe's Lucky Palooza event, was closed and approved after a public hearing.
 
-Th unil als disussd sval dinans latd t zning and gant managmnt. Th Offi f Finanial Svis (OFS) psntd an dinan stablishing th OFS Gants Divisin, whih was laid v t Fbuay 12th f snd ading.
+The council also discussed several ordinances related to zoning and grant management. The Office of Financial Services (OFS) presented an ordinance establishing the OFS Grants Division, which was laid over to February 12th for second reading.
 
-Additinally, th unil had publi haings n sval itms, inluding:
+Additionally, the council heard public hearings on several items, including:
 
-* A summay abatmnt d against ma C. Rbts at 411 Chals Avnu, whih was mdifid and xtndd until May 1st.
-* An appal f a vhil abatmnt d against William A. Sylvst at 1463 Midway Paway, whih was supptd by th unil.
-* A vaant building f assssmnt f ppty at 1769 St. Anthny Avnu, whih was disussd and will b bught ba t th unil nxt w.
+* A summary abatement order against Norma C. Roberts at 411 Charles Avenue, which was modified and extended until May 1st.
+* An appeal of a vehicle abatement order against William A. Sylvester at 1463 Midway Parkway, which was supported by the council.
+* A vacant building fee assessment for property at 1769 St. Anthony Avenue, which was discussed and will be brought back to the council next week.
 
-Th mting nludd with th adptin f sval dinans and slutins, inluding th gant managmnt dinan and th Bla Histy Mnth slutin.
+The meeting concluded with the adoption of several ordinances and resolutions, including the grant management ordinance and the Black History Month resolution.
 

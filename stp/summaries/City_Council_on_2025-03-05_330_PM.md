@@ -1,25 +1,25 @@
 ---
-titl: City Cunil n 2025-03-05 3:30 PM
-dat: 2025-03-05
+title: City Council on 2025-03-05 3:30 PM
+date: 2025-03-05
 ---
-#### Mting Inf
-**Mting Typ:** City Cunil Mting
-**Pups:** Disussing vaius ity dinans and slutins, inluding zning appals, wat svis d hangs, and gant funding.
-**Dat/Tim:** 2025-03-05, 3:30 PM
-**Latin:** Saint Paul City Hall
+#### Meeting Info
+**Meeting Type:** City Council Meeting
+**Purpose:** Discussing various city ordinances and resolutions, including zoning appeals, water services code changes, and grant funding.
+**Date/Time:** 2025-03-05, 3:30 PM
+**Location:** Saint Paul City Hall
 
-#### Summay
-Th mting nsistd f vaius itms n th agnda, but th main fus was n tw itms: ABZA 25-1 (appal by San Ryan, Ryan Cmpanis, U.S. In.) and APC 25-1 (appal by th Univsity f St. Thmas). Bth itms w latd t nditinal us pmits (CUP) and zning appals.
+#### Summary
+The meeting consisted of various items on the agenda, but the main focus was on two items: ABZA 25-1 (appeal by Sean Ryan, Ryan Companies, U.S. Inc.) and APC 25-1 (appeal by the University of St. Thomas). Both items were related to conditional use permits (CUP) and zoning appeals.
 
-F ABZA 25-1, Ms. Jst xplaind that th unil did nt hav nugh vts t ta atin n th itm, s it was withdawn p Minnsta Statut 1599. This mans that if n atin is tan by th ity administativ viw pid f 60 days (Mah 17th), th appliatin will b appvd by patin f law.
+For ABZA 25-1, Ms. Jost explained that the council did not have enough votes to take action on the item, so it was withdrawn per Minnesota Statute 1599. This means that if no action is taken by the city administrative review period of 60 days (March 17th), the application will be approved by operation of law.
 
-F APC 25-1, th Univsity f St. Thmas appald th Planning Cmmissin's disin t uphld Cnditin 16 in its unt stat, whih quis th mval f a divway n Gdih Avnu that pvids ass t th univsity's Suth Campus. Sval spas tstifid duing th publi haing, inluding psntativs fm th univsity and nighbs.
+For APC 25-1, the University of St. Thomas appealed the Planning Commission's decision to uphold Condition 16 in its current state, which requires the removal of a driveway on Goodrich Avenue that provides access to the university's South Campus. Several speakers testified during the public hearing, including representatives from the university and neighbors.
 
-Th spas psntd vaius agumnts f and against mdifying th nditinal us pmit (CUP) t allw th Gdih Avnu div t main in pla. Sm agud that mving th divway wuld mpmis safty and mgny ass, whil ths blivd that it was unnssay and uld lad t taffi ngstin.
+The speakers presented various arguments for and against modifying the conditional use permit (CUP) to allow the Goodrich Avenue drive to remain in place. Some argued that removing the driveway would compromise safety and emergency access, while others believed that it was unnecessary and could lead to traffic congestion.
 
-Aft haing fm all spas, Cunil Mmb Jst mad a mtin t lay th itm v f n w, whih was appvd by th unil. This will allw m tim f nsidatin f th appal and pssibl disussin with th univsity.
+After hearing from all speakers, Council Member Jost made a motion to lay the item over for one week, which was approved by the council. This will allow more time for consideration of the appeal and possible discussion with the university.
 
-Oth itms n th agnda inludd sval publi haings latd t wat svis d hangs, gant funding, and budgt amndmnts. All f ths itms w passd withut muh disussin  ppsitin.
+Other items on the agenda included several public hearings related to water services code changes, grant funding, and budget amendments. All of these items were passed without much discussion or opposition.
 
-Ovall, th mting fusd pimaily n zning appals and nditinal us pmits, with signifiant attntin givn t th Univsity f St. Thmas's appal gading th Gdih Avnu divway.
+Overall, the meeting focused primarily on zoning appeals and conditional use permits, with significant attention given to the University of St. Thomas's appeal regarding the Goodrich Avenue driveway.
 

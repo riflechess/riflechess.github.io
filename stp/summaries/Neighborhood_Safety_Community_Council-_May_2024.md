@@ -15,7 +15,7 @@ The Neighborhood Safety Community Council held a meeting to discuss ongoing effo
 *   **Crime Prevention Initiatives**: The council reviewed a proposal to allocate $150,000 from the community policing budget to support local crime prevention programs. This funding will help establish a mentorship program for at-risk youth and enhance neighborhood watch initiatives.
 *   **Community Engagement**: Council members discussed strategies to increase public participation in safety meetings. Ideas included hosting town hall events and creating social media groups for residents to share concerns and ideas.
 
-There was some disagreement regarding the proposed allocation of funds, with Councilor Noeckerxpressing concerns that the money could be better spent on more targeted initiatives. However, the majority of council members agreed that the programs would provide a valuable service to the community.
+There was some disagreement regarding the proposed allocation of funds, with Councilor Noecker expressing concerns that the money could be better spent on more targeted initiatives. However, the majority of council members agreed that the programs would provide a valuable service to the community.
 
 The meeting concluded with an update from the police department on recent crime statistics and a preview of upcoming events aimed at improving neighborhood safety.
 

@@ -1,33 +1,33 @@
 ---
-titl: City Cunil n 2025-02-12 3:30 PM
-dat: 2025-02-12
+title: City Council on 2025-02-12 3:30 PM
+date: 2025-02-12
 ---
-#### Mting Inf
-Typ: City Cunil Mting
-Pups: T disuss and vt n vaius slutins, dinans, and publi haings latd t zning, budgting, and mmunity dvlpmnt.
-Dat/Tim: Fbuay 12, 2025, 3:30 PM
-Cntxtual Infmatin: Th mting is th ntinuatin f a pvius mting wh sval itms w laid v f futh disussin and atin.
+#### Meeting Info
+Type: City Council Meeting
+Purpose: To discuss and vote on various resolutions, ordinances, and public hearings related to zoning, budgeting, and community development.
+Date/Time: February 12, 2025, 3:30 PM
+Contextual Information: The meeting is the continuation of a previous meeting where several items were laid over for further discussion and action.
 
-#### Summay
+#### Summary
 
-**Elting w Offis**
-Th ity unil ltd Cunil Mmb  as th nw psidnt and anth mmb as vi psidnt. Th slutin was appvd with six vts in fav and n ppsitin.
+**Electing New Officers**
+The city council elected Council Member Noecker as the new president and another member as vice president. The resolution was approved with six votes in favor and no opposition.
 
-**Zning Vaian Appals**
-Ryan Cmpanis, U.S., In. appald a disin by th Bad f Zning Appals (BZA) t dny zning vaian qusts f tw pptis: Bl 2B at 2200 Fd Paway and Bl 2C at Z Cightn Avnu Suth. Th unil will ntinu t ha tstimny and disuss th appals.
+**Zoning Variance Appeals**
+Ryan Companies, U.S., Inc. appealed a decision by the Board of Zoning Appeals (BZA) to deny zoning variance requests for two properties: Block 2B at 2200 Ford Parkway and Block 2C at Zero Creighton Avenue South. The council will continue to hear testimony and discuss the appeals.
 
-**Publi Haing f Odinan 25-17**
-Th publi haing n Odinan 25-17, whih gants an appliatin t zn ppty fm B1 Lal Businss t H1 Rsidntial, was lsd with n n tstifying in fav f  against it. Th dinan will b laid v t Fbuay 19th f final adptin.
+**Public Hearing for Ordinance 25-17**
+The public hearing on Ordinance 25-17, which grants an application to rezone property from B1 Local Business to H1 Residential, was closed with no one testifying in favor of or against it. The ordinance will be laid over to February 19th for final adoption.
 
-**Publi Haing f Odinan 25-18**
-Th publi haing n Odinan 25-18, whih gants an appliatin t zn ppty fm B2 Cmmunity Businss t T3 Taditinal ighbhd, was lsd with n n tstifying in fav f  against it. Th dinan will b laid v t Fbuay 19th f final adptin.
+**Public Hearing for Ordinance 25-18**
+The public hearing on Ordinance 25-18, which grants an application to rezone property from B2 Community Business to T3 Traditional Neighborhood, was closed with no one testifying in favor of or against it. The ordinance will be laid over to February 19th for final adoption.
 
-**Publi Haing f Odinan 25-19**
-Th publi haing n Odinan 25-19, whih amnds Chapt 2.02 f th Administativ Cd t add a nw stin gading an Offi f Finanial Svis Gants Stin, was lsd with n n tstifying in fav f  against it. Th dinan will b laid v t Fbuay 19th f final adptin.
+**Public Hearing for Ordinance 25-19**
+The public hearing on Ordinance 25-19, which amends Chapter 2.02 of the Administrative Code to add a new section regarding an Office of Financial Services Grants Section, was closed with no one testifying in favor of or against it. The ordinance will be laid over to February 19th for final adoption.
 
-**Lgislativ Haing Cnsnt Agnda Itms**
-Th unil appvd sval lgislativ haing nsnt agnda itms, inluding th atifiatin f a spial tax assssmnt f ppty at 2130 IB Avnu East and th aptan f gant funds f th bnfit f th Eastsid Tnnis and Cmmunity Cnt.
+**Legislative Hearing Consent Agenda Items**
+The council approved several legislative hearing consent agenda items, including the ratification of a special tax assessment for property at 2130 IB Avenue East and the acceptance of grant funds for the benefit of the Eastside Tennis and Community Center.
 
-**Spial Tax Assssmnt**
-Cunil Mmb Jhnsn mvd t waiv th assssmnt f f a gabag bill that was inud pi t th wnship f a nw hmwn. Th mtin faild with tw vts in fav (Bwi and ) and fu ppsd (Jst, Kim, Yang, and Jhnsn).
+**Special Tax Assessment**
+Council Member Johnson moved to waive the assessment fee for a garbage bill that was incurred prior to the ownership of a new homeowner. The motion failed with two votes in favor (Bowie and Noecker) and four opposed (Jost, Kim, Yang, and Johnson).
 

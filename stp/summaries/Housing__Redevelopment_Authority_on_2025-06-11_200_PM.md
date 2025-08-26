@@ -1,29 +1,29 @@
 ---
-titl: Husing  Rdvlpmnt Authity n 2025-06-11 2:00 PM
-dat: 2025-06-11
+title: Housing  Redevelopment Authority on 2025-06-11 2:00 PM
+date: 2025-06-11
 ---
-#### Mting Inf
-**Mting Typ:** Husing and Rdvlpmnt Authity (HRA) mting
-**Pups:** Disussin f vaius HRA pjts and initiativs, inluding paing agmnts, hst appval f bnd issuan, and finaning f pldgd paing bnds.
-**Dat/Tim:** Jun 11, 2025, 2:00 PM
+#### Meeting Info
+**Meeting Type:** Housing and Redevelopment Authority (HRA) meeting
+**Purpose:** Discussion of various HRA projects and initiatives, including parking agreements, host approval for bond issuance, and refinancing of pledged parking bonds.
+**Date/Time:** June 11, 2025, 2:00 PM
 
-#### Summay
+#### Summary
 
-Th mting bgan with a publi haing n Rslutin 25-120, whih appvd a paing lins agmnt btwn th HRA and th Minnsta Dpatmnt f Administatin f paing spas in th Lw Twn paing amp. Th mtin t ls th publi haing was passd unanimusly.
+The meeting began with a public hearing on Resolution 25-120, which approved a parking license agreement between the HRA and the Minnesota Department of Administration for parking spaces in the Lower Town parking ramp. The motion to close the public hearing was passed unanimously.
 
-xt, th staff pt n Itm 2 intdud a qust fm 180 Dgs, In. f hst appval f ban-qualifid nduit vnu bnds t finan a taxabl lan f nvatins at Bittany's Pla. Dit Jnny Wlf xplaind that nduit vnu bnds a spial bligatins f a gvnmntal issu and allw nnpfits li 180 Dgs t ass tax-xmpt finaning.
+Next, the staff report on Item 2 introduced a request from 180 Degrees, Inc. for host approval for bank-qualified conduit revenue bonds to refinance a taxable loan for renovations at Brittany's Place. Director Jenny Wolfe explained that conduit revenue bonds are special obligations of a governmental issuer and allow nonprofits like 180 Degrees to access tax-exempt financing.
 
-Cmmissin a asd why th ity wuldn't issu th bnds itslf, and Dit Wlf xplaind that th ity dsn't typially issu ban-qualifid bnds, but ath hsts thm thugh th issus. Cmmissin Bwi asd f laifiatin n th pss f hst appval and hw it diffs fm issuing th bnds thmslvs.
+Commissioner Neaker asked why the city wouldn't issue the bonds itself, and Director Wolfe explained that the city doesn't typically issue bank-qualified bonds, but rather hosts them through other issuers. Commissioner Bowie asked for clarification on the process of host approval and how it differs from issuing the bonds themselves.
 
-Dan Fa, Psidnt and CEO f 180 Dgs, xplaind th ganizatin's us f nduit vnu bnds t finan a lan at a lw intst at. Th ity will pvid hst appval f th bnds, whih will allw 180 Dgs t sav tns f thusands f dllas in intst paymnts.
+Dan Farr, President and CEO of 180 Degrees, explained the organization's use of conduit revenue bonds to refinance a loan at a lower interest rate. The city will provide host approval for the bonds, which will allow 180 Degrees to save tens of thousands of dollars in interest payments.
 
-Th staff pt n Itm 3 intdud a finaning ppsal f pldgd paing bnds. Ginny Wlf xplaind that th HRA wns 7,062 paing spas in dwntwn St. Paul and has issud pldgd paing vnu bnds v th yas. Th unt pinipal balan f th pi bnds is $19,920,000, and th HRA ppss t issu nw bnds t finan th xisting dbt.
+The staff report on Item 3 introduced a refinancing proposal for pledged parking bonds. Ginny Wolfe explained that the HRA owns 7,062 parking spaces in downtown St. Paul and has issued pledged parking revenue bonds over the years. The current principal balance of the prior bonds is $19,920,000, and the HRA proposes to issue new bonds to refinance the existing debt.
 
-Cmmissin  asd why tain paing failitis w inludd in th pldg whil ths, suh as th Lawsn amp, w nt. Dit Wlf xplaind that th Lawsn amp still has dbt n it fm th iginal finaning and that th gal is t siz th faility's nt pating inm with th dbt svi.
+Commissioner Noecker asked why certain parking facilities were included in the pledge while others, such as the Lawson ramp, were not. Director Wolfe explained that the Lawson ramp still has debt on it from the original financing and that the goal is to size the facility's net operating income with the debt service.
 
-Th ppsal will du th annual dbt svi paymnt t 1.3 millin and xtnd th final matuity 10 yas t 2045. Th ity will ntinu t pldg $3 millin f mt and fin vnu, but this is nly f dit nhanmnt and t allw f th lwst bwing st. Th finaning will b dn thugh taxabl bnds f th Rbt Stt amp.
+The proposal will reduce the annual debt service payment to 1.3 million and extend the final maturity 10 years to 2045. The city will continue to pledge $3 million of meter and fine revenue, but this is only for credit enhancement and to allow for the lowest borrowing cost. The refinancing will be done through taxable bonds for the Robert Street ramp.
 
-Th nxt stps inlud appval by th HRA bad and th City Cunil, as wll as xutin f dumnts latd t th finaning. Th ity will ff an ffing dumnt t th bnd mat, pi th bnds, giv nti t pi bndhlds, and ls n July 9th.
+The next steps include approval by the HRA board and the City Council, as well as execution of documents related to the financing. The city will offer an offering document to the bond market, price the bonds, give notice to prior bondholders, and close on July 9th.
 
-Cmmissin Pvatsy asd abut th unt dbt svi and nw dbt svi, whih Dit Wlf xplaind wuld b signifiantly dud. Cmmissin  als asd qustins and xpssd appiatin f th tam's w n this pjt.
+Commissioner Provatsky asked about the current debt service and new debt service, which Director Wolfe explained would be significantly reduced. Commissioner Noecker also asked questions and expressed appreciation for the team's work on this project.
 

@@ -1,21 +1,21 @@
 ---
-titl: City Cunil n 2025-02-19 3:30 PM
-dat: 2025-02-19
+title: City Council on 2025-02-19 3:30 PM
+date: 2025-02-19
 ---
-#### Mting Inf
-**Mting Typ:** City Cunil Mting
-**Dat/Tim:** Fbuay 19, 2025, 3:30 PM
-**Cntxt:** Th mting fatus disussins n vaius agnda itms, inluding zning appals, zning ppsals, and gant allatins.
+#### Meeting Info
+**Meeting Type:** City Council Meeting
+**Date/Time:** February 19, 2025, 3:30 PM
+**Context:** The meeting features discussions on various agenda items, including zoning appeals, rezoning proposals, and grant allocations.
 
-#### Summay
+#### Summary
 
-Th ity unil mting bgan with th adptin f th nsnt agnda, whih inludd a slutin authizing th ity t nt int a pativ funding agmnt f th Ri Stt and Lamand Avnu Gatway Allian Cnsulting Svis. Vi Psidnt Kim highlightd th patnship's suss in vitalizing th aa, iting impvd publi safty and mmunity ngagmnt.
+The city council meeting began with the adoption of the consent agenda, which included a resolution authorizing the city to enter into a cooperative funding agreement for the Rice Street and Larmander Avenue Gateway Alliance Consulting Services. Vice President Kim highlighted the partnership's success in revitalizing the area, citing improved public safety and community engagement.
 
-xt, th unil hnd Fan Whit f his ntibutins t Afian Amian histy and ultu in St. Paul. Cunil Mmb Bwi psntd a slutin gnizing Whit's ffts and anwldgd th impat f his w n psving histial landmas and lgais.
+Next, the council honored Frank White for his contributions to African American history and culture in St. Paul. Council Member Bowie presented a resolution recognizing White's efforts and acknowledged the impact of his work on preserving historical landmarks and legacies.
 
-Th mting als addssd tw zning appals, ABZA 25-1 and ABZA 25-2, whih invlvd vaians f mixd-us dvlpmnts at Highland Bidg. Cunil Jst psntd agumnts in fav f ganting th appals, iting vidn f s in fat-finding and pdu by th Bad f Zning Appals (BZA). Hwv, a ll-all vt sultd in a ti, with th unil mmbs vting in fav and th ppsd.
+The meeting also addressed two zoning appeals, ABZA 25-1 and ABZA 25-2, which involved variances for mixed-use developments at Highland Bridge. Councilor Jost presented arguments in favor of granting the appeals, citing evidence of errors in fact-finding and procedure by the Board of Zoning Appeals (BZA). However, a roll-call vote resulted in a tie, with three council members voting in favor and three opposed.
 
-In th businss, th unil appvd dinans f zning pptis at 25 Gg St. East and 642 Slby Avnu, as wll as adpting an dinan amnding Chapt 2.02 f th Administativ Cd t add Stin G10, stablishing an Offi f Finanial Svis gants stin. Th mting nludd with a disussin n lgislativ haing nsnt agnda itms and annunmnts fm unil mmbs abut upming vnts in thi wads.
+In other business, the council approved ordinances for rezoning properties at 25 George St. East and 642 Selby Avenue, as well as adopting an ordinance amending Chapter 2.02 of the Administrative Code to add Section G10, establishing an Office of Financial Services grants section. The meeting concluded with a discussion on legislative hearing consent agenda items and announcements from council members about upcoming events in their wards.
 
-tabl disagmnts as duing th disussin n ABZA 25-1, wh Cunil Mmbs Kim, Yang, and  vtd against ganting th appal du t nns abut patial diffiultis and th BZA's disin-maing pss.
+Notable disagreements arose during the discussion on ABZA 25-1, where Council Members Kim, Yang, and Noecker voted against granting the appeal due to concerns about practical difficulties and the BZA's decision-making process.
 

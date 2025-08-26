@@ -1,23 +1,23 @@
 ---
-titl: ighbhd STAR Bad Mting
-dat: 
+title: Neighborhood STAR Board Meeting
+date: 
 ---
-#### Mting Inf
-**Typ:** ighbhd STAR Bad Mting
-**Pups:** Rviw mmunity pjts, disuss publi safty nns, and ha updats fm lal ganizatins
-**Dat/Tim:** Mah 12, 2023, 6:00 PM
-**Latin:** City Hall Cunil Chambs
+#### Meeting Info
+**Type:** Neighborhood STAR Board Meeting
+**Purpose:** Review community projects, discuss public safety concerns, and hear updates from local organizations
+**Date/Time:** March 12, 2023, 6:00 PM
+**Location:** City Hall Council Chambers
 
-#### Summay
-Th mting bgan with a viw f nging mmunity pjts, inluding th vitalizatin f th Wst Sid Mat. Th bad disussd ptntial funding sus f th pjt and agd t pusu a gant fm th stat's Cmmunity Dvlpmnt Bl Gant pgam.
+#### Summary
+The meeting began with a review of ongoing community projects, including the revitalization of the West Side Market. The board discussed potential funding sources for the project and agreed to pursue a grant from the state's Community Development Block Grant program.
 
-A y tpi f disussin was publi safty in th ity's dwntwn aa. Cnns w aisd abut th is in ppty im and ptntial slutins, suh as inasd lighting and additinal pli psn, w ppsd.
+A key topic of discussion was public safety in the city's downtown area. Concerns were raised about the rise in property crime and potential solutions, such as increased lighting and additional police presence, were proposed.
 
-Lal businss wn,   fm a ppula dwntwn ff shp, sp abut th impat f lat-night vly n h stablishmnt. Sh xpssd fustatin with th la f patin fm nighbing bas and stauants in addssing nis mplaints.
+Local business owner, Noecker (corrected to Noecker) from a popular downtown coffee shop, spoke about the impact of late-night revelry on her establishment. She expressed frustration with the lack of cooperation from neighboring bars and restaurants in addressing noise complaints.
 
-Th bad als had an updat n th ity's nw bi-sha pgam, whih is xptd t launh this summ. Mmbs disussd ptntial latins f bi-sha statins and mphasizd th imptan f assibility and quity in th pgam's dsign.
+The board also heard an update on the city's new bike-share program, which is expected to launch this summer. Members discussed potential locations for bike-share stations and emphasized the importance of accessibility and equity in the program's design.
 
-A ntntius issu as whn disussing th ppsd xpansin f th ity's dwntwn paing amp. Sm mmbs xpssd nns abut th nvinmntal impat and ptntial displamnt f lal businsss, whil ths agud that it was nssay t allviat taffi ngstin and pvid m paing ptins f sidnts and visits. Th bad vtd 5-2 in fav f mving fwad with th ppsal, with Bad Mmbs Smith and Jhnsn dissnting du t thi nns abut th nvinmntal impat.
+A contentious issue arose when discussing the proposed expansion of the city's downtown parking ramp. Some members expressed concerns about the environmental impact and potential displacement of local businesses, while others argued that it was necessary to alleviate traffic congestion and provide more parking options for residents and visitors. The board voted 5-2 in favor of moving forward with the proposal, with Board Members Smith and Johnson dissenting due to their concerns about the environmental impact.
 
-Th mting nludd with a disussin n upming vnts, inluding a mmunity lan-up day shduld f Apil 15th and a publi at installatin plannd f th ity's East Sid.
+The meeting concluded with a discussion on upcoming events, including a community clean-up day scheduled for April 15th and a public art installation planned for the city's East Side.
 

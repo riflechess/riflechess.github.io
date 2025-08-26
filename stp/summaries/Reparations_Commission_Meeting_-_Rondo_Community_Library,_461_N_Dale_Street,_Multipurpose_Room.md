@@ -1,22 +1,22 @@
 ---
-titl: Rpaatins Cmmissin Mting - Rnd Cmmunity Libay, 461  Dal Stt, Multipups Rm
-dat: 
+title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Street, Multipurpose Room
+date: 
 ---
-#### Mting Inf
-* **Mting Typ:** Rpaatins Cmmissin Mting
-* **Pups:** Disussin f Slavy Dislsu and Rdss Odinan
-* **Dat/Tim:** [t spifid]
-* **Latin:** Rnd Cmmunity Libay, 461  Dal Stt, Multipups Rm
-* **Attnds:** Chai Cuz, Kulia Pingl, iita Kamn, Jmy English, yla Gldn, i Kali, Maia MCy, and i Muhammad
+#### Meeting Info
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** Discussion of Slavery Disclosure and Redress Ordinance
+* **Date/Time:** [Not specified]
+* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+* **Attendees:** Chair Cruz, Kulia Pringle, Nikita Kamen, Jeremy English, Nyla Golden, Nick Kalik, Maria McCoy, and Nick Muhammad
 
-#### Summay
-Th Rpaatins Cmmissin mting disussd th Slavy Dislsu and Rdss Odinan, whih aims t hld patins and institutins auntabl f thi l in slavy and pvid paatins t impatd mmunitis. Th dinan quis ntitis t disls thi histy f mpliity in slavy and pvid finanial dss.
+#### Summary
+The Reparations Commission meeting discussed the Slavery Disclosure and Redress Ordinance, which aims to hold corporations and institutions accountable for their role in slavery and provide reparations to impacted communities. The ordinance requires entities to disclose their history of complicity in slavery and provide financial redress.
 
-Cmmissin English psntd a mdl f th dinan, whih inluds gat dislsu quimnts, mandaty statmnt f finanial dss, and ivil nfmnt mhanisms. Th dinan als pvids a famw f muniipalitis t ngag in pat sial spnsibility and pmt gd pat itiznship.
+Commissioner English presented a model for the ordinance, which includes greater disclosure requirements, mandatory statement of financial redress, and civil enforcement mechanisms. The ordinance also provides a framework for municipalities to engage in corporate social responsibility and promote good corporate citizenship.
 
-Th mmissin disussd th imptan f addssing unjust nihmnt and hlding ntitis auntabl f thi histial atins. Cmmissin English fnd a 2014 lawsuit against fl Suthn Railad, whih had t disls its tis t slavy aft building a ail yad n ity-wnd land.
+The commission discussed the importance of addressing unjust enrichment and holding entities accountable for their historical actions. Commissioner English referenced a 2014 lawsuit against Norfolk Southern Railroad, which had to disclose its ties to slavery after building a rail yard on city-owned land.
 
-Th mting als tuhd n th tba industy's liability f halth issus ausd by sming, dawing an analgy btwn th tw ass. Th spa mphasizd that gvnmnts hav a spnsibility t hld ntitis auntabl and nsu that thy ngag in dislsu and dss.
+The meeting also touched on the tobacco industry's liability for health issues caused by smoking, drawing an analogy between the two cases. The speaker emphasized that governments have a responsibility to hold entities accountable and ensure that they engage in disclosure and redress.
 
-Th mmissin is nsiding implmnting this dinan in St. Paul, with sm mmbs xpssing hp f "dss atins" ming ut f th ity. Hwv, n spifi disins  vts w tan duing th mting.
+The commission is considering implementing this ordinance in St. Paul, with some members expressing hope for "redress actions" coming out of the city. However, no specific decisions or votes were taken during the meeting.
 

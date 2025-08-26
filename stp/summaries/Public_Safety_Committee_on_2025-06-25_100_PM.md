@@ -1,24 +1,24 @@
 ---
-titl: Publi Safty Cmmitt n 2025-06-25 1:00 PM
-dat: 2025-06-25
+title: Public Safety Committee on 2025-06-25 1:00 PM
+date: 2025-06-25
 ---
-#### Mting Inf
-* Typ: Publi Safty Cmmitt Mting
-* Pups: Disuss publi safty initiativs and pliis in Saint Paul
-* Dat/Tim: Jun 25, 2025, 1:00 PM
-* Rlvant Cntxt: This is th fist mting f th nwly fmd Publi Safty Cmmitt, whih aims t hav gula and tanspant disussins n pgams and pliis ass th bad.
+#### Meeting Info
+* Type: Public Safety Committee Meeting
+* Purpose: Discuss public safety initiatives and policies in Saint Paul
+* Date/Time: June 25, 2025, 1:00 PM
+* Relevant Context: This is the first meeting of the newly formed Public Safety Committee, which aims to have regular and transparent discussions on programs and policies across the board.
 
-#### Summay
+#### Summary
 
-Th mting statd with an intdutin by Chai Bwi, wh xpssd pid in stablishing th Publi Safty Cmmitt. Th fist agnda itm was binging awanss t atinal Gun Viln Awanss Mnth, psntd by th Offi f ighbhd Safty (OS). Dit Blay intdud mmunity patns, inluding Wld Yuth Cnnt, Hid, and Mms Dmand Atin, whih w n gun pvntin and viln dutin initiativs.
+The meeting started with an introduction by Chair Bowie, who expressed pride in establishing the Public Safety Committee. The first agenda item was bringing awareness to National Gun Violence Awareness Month, presented by the Office of Neighborhood Safety (ONS). Director Blakey introduced community partners, including World Youth Connect, Hired, and Moms Demand Action, which work on gun prevention and violence reduction initiatives.
 
-Th snd agnda itm was staff pt 25-114, Saf Summ ights Evnts. Cmmand MCab fm th St. Paul Pli Dpatmnt psntd an vviw f th vnt, whih statd 12 yas ag with a bafast mting btwn Tm Campin and thn-Chif Tdd Axtll. Th vnt has vlvd t pvid mmunity svis, inluding su tabls, publi halth utah, and finanial suity advi.
+The second agenda item was staff report 25-114, Safe Summer Nights Events. Commander McCabe from the St. Paul Police Department presented an overview of the event, which started 12 years ago with a breakfast meeting between Tom Campion and then-Chief Todd Axtell. The event has evolved to provide community services, including resource tables, public health outreach, and financial security advice.
 
-Th thid agnda itm was uitmnt and tntin in th St. Paul Fi Dpatmnt. Assistant Chif Jmiah Milquist psntd n th imptan f uitmnt and taining in maintaining a wll-taind and divs tam. H disussd th dpatmnt's ffts t impv adinss, inluding xtnding lad tim and aadmy duatin. Th psntatin als highlightd th us f affinity gups, suh as Twin Citis Fmal Fifight Fitnss (TCF3), Fifights Unitd, and Ls Bmbs, t uit and tain fifights.
+The third agenda item was recruitment and retention in the St. Paul Fire Department. Assistant Chief Jeremiah Milquist presented on the importance of recruitment and training in maintaining a well-trained and diverse team. He discussed the department's efforts to improve readiness, including extending lead time and academy duration. The presentation also highlighted the use of affinity groups, such as Twin Cities Female Firefighter Fitness (TCF3), Firefighters United, and Los Bomberos, to recruit and retain firefighters.
 
-Th mmitt thn disussd th hiing pss f th fi dpatmnt, with Assistant Chif Milquist xplaining that tsts a nw ndutd vy n t tw yas. Th disussin als tuhd n th us f vtim t bafill psitins duing taining, as wll as th xpansin f BLS (Basi Lif Suppt) t suppt patinal nds.
+The committee then discussed the hiring process for the fire department, with Assistant Chief Milquist explaining that tests are now conducted every one to two years. The discussion also touched on the use of overtime to backfill positions during training, as well as the expansion of BLS (Basic Life Support) to support operational needs.
 
-Th mting nludd with a psntatin by Assistant Chif Milquist n statgi vhiing, whih aims t hi 12-20 abv th FTE ap t du vtim and fill gaps in staffing. Th mmitt als disussd th imptan f invsting in ppl, planning, and plas t maintain a wll-funtining dpatmnt that flts th mmunity it svs.
+The meeting concluded with a presentation by Assistant Chief Milquist on strategic overhiring, which aims to hire 12-20 above the FTE cap to reduce overtime and fill gaps in staffing. The committee also discussed the importance of investing in people, planning, and places to maintain a well-functioning department that reflects the community it serves.
 
-Ovall, th mting fusd n publi safty initiativs, inluding gun viln pvntin, Saf Summ ights Evnts, and uitmnt and tntin in th St. Paul Fi Dpatmnt.
+Overall, the meeting focused on public safety initiatives, including gun violence prevention, Safe Summer Nights Events, and recruitment and retention in the St. Paul Fire Department.
 

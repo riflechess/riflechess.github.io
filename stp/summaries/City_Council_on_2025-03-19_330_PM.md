@@ -1,36 +1,36 @@
 ---
-titl: City Cunil n 2025-03-19 3:30 PM
-dat: 2025-03-19
+title: City Council on 2025-03-19 3:30 PM
+date: 2025-03-19
 ---
-#### Mting Inf
-**City Cunil Mting**
-* Dat: Mah 19, 2025
-* Tim: 3:30 PM
-* Typ: Rgula Mting
-* Pups: T disuss and vt n vaius slutins and dinans latd t zning, pas and atin, budgt, and publi haing itms.
+#### Meeting Info
+**City Council Meeting**
+* Date: March 19, 2025
+* Time: 3:30 PM
+* Type: Regular Meeting
+* Purpose: To discuss and vote on various resolutions and ordinances related to zoning, parks and recreation, budget, and public hearing items.
 
-#### Summay
+#### Summary
 
-Th ity unil mting bgan with th appval f th nsnt agnda, whih inludd sval slutins and dinans. Th main tpis disussd w:
+The city council meeting began with the approval of the consent agenda, which included several resolutions and ordinances. The main topics discussed were:
 
-1. **Rslutin 25-401**: Stting August 12, 2025 as th spial ltin dat t fill th vaany f th Wad 4 City Cunil mmb.
-2. **Rslutin 25-461**: Appving updatd uls and gulatins f th Dpatmnt f Pas and Ratin.
-3. **Odinan 25-23**: Ganting th appliatin f St. Paul Ppty Gup LLC t zn pptis at 10 Riv Pa Plaza fm T3M Taditinal ighbhd with Mast Plan t ITM Tansitinal Industial with Mast Plan.
+1. **Resolution 25-401**: Setting August 12, 2025 as the special election date to fill the vacancy of the Ward 4 City Council member.
+2. **Resolution 25-461**: Approving updated rules and regulations for the Department of Parks and Recreation.
+3. **Ordinance 25-23**: Granting the application of St. Paul Property Group LLC to rezone properties at 10 River Park Plaza from T3M Traditional Neighborhood with Master Plan to ITM Transitional Industrial with Master Plan.
 
-A publi haing was hld n Odinan 25-23, and sval spas tstifid against th ppsd zning, iting nns abut taffi, nis, and nvinmntal impats. Th unil vtd t lay v th dinan until Mah 26, 2025 f final adptin.
+A public hearing was held on Ordinance 25-23, and several speakers testified against the proposed rezoning, citing concerns about traffic, noise, and environmental impacts. The council voted to lay over the ordinance until March 26, 2025 for final adoption.
 
-Th unil als disussd and vtd n vaius slutins latd t pas and atin, inluding:
+The council also discussed and voted on various resolutions related to parks and recreation, including:
 
-1. **Rslutin Publi Haing 25-44**: Authizing th Dpatmnt f Pas and R t amnd th finaning and spnding plan in th amunt f $125,000 and t nt int a gant agmnt with th Mt Cunil.
-2. **Rslutin Publi Haing 25-45**: Amnding th finaning and spnding plans in th Dpatmnt f Pas and in th Dpatmnt f Publi Ws, apital budgt f th Randlph Bidg pjt.
+1. **Resolution Public Hearing 25-44**: Authorizing the Department of Parks and Rec to amend the financing and spending plan in the amount of $125,000 and to enter into a grant agreement with the Met Council.
+2. **Resolution Public Hearing 25-45**: Amending the financing and spending plans in the Department of Parks and in the Department of Public Works, capital budget for the Randolph Bridge project.
 
-Th unil vtd t adpt bth slutins.
+The council voted to adopt both resolutions.
 
-A publi haing was als hld n th appal f th Planning Cmmissin's disin gading th dtminatin f simila us f a ppsd slid wast tu dispath nt and maintnan faility at 560 Randlph Avnu. Sval spas tstifid against th ppsal, iting nns abut taffi, nis, and nvinmntal impats. Th unil vtd t gant th appal and jt th mislassifiatin f FCC's faility.
+A public hearing was also held on the appeal of the Planning Commission's decision regarding the determination of similar use for a proposed solid waste truck dispatch center and maintenance facility at 560 Randolph Avenue. Several speakers testified against the proposal, citing concerns about traffic, noise, and environmental impacts. The council voted to grant the appeal and reject the misclassification of FCC's facility.
 
-Th lgislativ haing nsnt agnda itms 28 thugh 70 w als nsidd, inluding sval appals latd t vhil abatmnt ds and vaant building gistatin fs.
+The legislative hearing consent agenda items 28 through 70 were also considered, including several appeals related to vehicle abatement orders and vacant building registration fees.
 
-Finally, th unil hld a publi haing n th atifiatin f spial tax assssmnts f vaius pptis in St. Paul. Th unil vtd t appv th mmndatins f th lgislativ haing ffi f mst f th itms, but fd n itm ba t th lgislativ haings mmitt f futh viw.
+Finally, the council held a public hearing on the ratification of special tax assessments for various properties in St. Paul. The council voted to approve the recommendations of the legislative hearing officer for most of the items, but referred one item back to the legislative hearings committee for further review.
 
-Th mting nludd with sval annunmnts and gd nws itms, inluding th upming sping hliday anival at th Alingtn Hills Cmmunity Cnt and th pm sal hstd by th St. Paul Pas and R Dpatmnt.
+The meeting concluded with several announcements and good news items, including the upcoming spring holiday carnival at the Arlington Hills Community Center and the prom sale hosted by the St. Paul Parks and Rec Department.
 

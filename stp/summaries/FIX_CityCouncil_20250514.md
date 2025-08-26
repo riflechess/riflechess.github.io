@@ -1,27 +1,27 @@
 ---
-titl: FIX_CityCunil_20250514
-dat: 
+title: FIX_CityCouncil_20250514
+date: 
 ---
-#### Mting Inf
-**Mting Typ:** City Cunil Mting
-**Dat/Tim:** May 14, 2025
-**Pups:** Disussin and vting n vaius slutins, inluding a sund lvl vaian f th Baaway Musi Fstival, a gant f th Pli Dpatmnt's bmb squad, and amndmnts t th tax inmnt finaning plan f th Fd Sit Rdvlpmnt Tax Inmnt Finaning Distit.
+#### Meeting Info
+**Meeting Type:** City Council Meeting
+**Date/Time:** May 14, 2025
+**Purpose:** Discussion and voting on various resolutions, including a sound level variance for the Breakaway Music Festival, a grant for the Police Department's bomb squad, and amendments to the tax increment financing plan for the Ford Site Redevelopment Tax Increment Financing District.
 
-#### Summay
+#### Summary
 
-Th mting bgan with a psntatin fm th ganizs f th Baaway Musi Fstival gading thi qust f a sund lvl vaian. Thy psntd vidn that thy had mad signifiant hangs t mitigat nis nns, inluding lating th main stag and adjusting sund lvls thughut th day. Hwv, Cunil Mmb Jhnsn xpssd nns abut th ppsd sund lvl bing high than pvius fstivals and qustind whth it was nssay.
+The meeting began with a presentation from the organizers of the Breakaway Music Festival regarding their request for a sound level variance. They presented evidence that they had made significant changes to mitigate noise concerns, including relocating the main stage and adjusting sound levels throughout the day. However, Council Member Johnson expressed concerns about the proposed sound level being higher than previous festivals and questioned whether it was necessary.
 
-Aft sm disussin, th unil vtd n th slutin, with fiv mmbs in fav (Kim, Bwi, Jst, Pvatsy, and Yang) and tw ppsd (Jhnsn and ). Th slutin passd with th amndmnt t du th sund lvl vaian fm 103 dibls at 125 ft t 100 dibls at 100 ft.
+After some discussion, the council voted on the resolution, with five members in favor (Kim, Bowie, Jost, Provatsky, and Yang) and two opposed (Johnson and Noecker). The resolution passed with the amendment to reduce the sound level variance from 103 decibels at 125 feet to 100 decibels at 100 feet.
 
-Th mting als inludd psntatins fm th Pli Dpatmnt gading a gant f a bat t aid in undwat xplsiv dvi mitigatin. Cunil Mmb Jhnsn asd abut ptntial fdal tis  nns, and Dputy Chif Fd assud h that th funding was stat-basd with n fdal invlvmnt.
+The meeting also included presentations from the Police Department regarding a grant for a boat to aid in underwater explosive device mitigation. Council Member Johnson asked about potential federal ties or concerns, and Deputy Chief Ford assured her that the funding was state-based with no federal involvement.
 
-Th unil thn mvd n t disuss a slutin authizing th aptan f $20,250 in gant funding fm th St. Paul and Minnsta Fundatin f dit guaantd inm paymnts t St. Paul familis in th llg-bund bst pgam. This slutin passd withut ppsitin.
+The council then moved on to discuss a resolution authorizing the acceptance of $20,250 in grant funding from the St. Paul and Minnesota Foundation for direct guaranteed income payments to St. Paul families in the college-bound boost program. This resolution passed without opposition.
 
-A publi haing was hld gading a tax inmnt finaning plan amndmnt f th Fd Sit Rdvlpmnt Tax Inmnt Finaning Distit. Cunil Mmb Yang aisd nns abut th affdability lvls f husing units n th sit, and psntativs fm Ryan Cmpanis and Widn Apatmnt Hms tstifid t addss h qustins.
+A public hearing was held regarding a tax increment financing plan amendment for the Ford Site Redevelopment Tax Increment Financing District. Council Member Yang raised concerns about the affordability levels of housing units on the site, and representatives from Ryan Companies and Widener Apartment Homes testified to address her questions.
 
-Aft sm disussin, th unil vtd n th slutin, with fiv mmbs in fav (Bwi, Jst, Pvatsy, Kim, and ) and tw ppsd (Yang and Jhnsn). Th slutin passd.
+After some discussion, the council voted on the resolution, with five members in favor (Bowie, Jost, Provatsky, Kim, and Noecker) and two opposed (Yang and Johnson). The resolution passed.
 
-Th mting nludd with a psntatin fm Lgislativ Haing Offi Masha Mmnt gading ppsd lgislativ haing agnda itms. Sh mmndd dasing th vaant building assssmnt f ppty at 736 Oadal Avnu, whih was in adan with h iginal mmndatin t halv th f du t DSI's  in lsing th appliatin. Th unil vtd t appv this slutin.
+The meeting concluded with a presentation from Legislative Hearing Officer Marsha Mormont regarding proposed legislative hearing agenda items. She recommended decreasing the vacant building assessment for property at 736 Oakdale Avenue, which was in accordance with her original recommendation to halve the fee due to DSI's error in losing the application. The council voted to approve this resolution.
 
-Th mting als inludd a ll all vt n th atifiatin f assssmnts, inluding n f ppty at 2054 Laul Avnu, and disussin f vaius th slutins and agnda itms.
+The meeting also included a roll call vote on the ratification of assessments, including one for property at 2054 Laurel Avenue, and discussion of various other resolutions and agenda items.
 
