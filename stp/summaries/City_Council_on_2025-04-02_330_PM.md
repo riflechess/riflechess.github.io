@@ -1,17 +1,17 @@
 ---
-title: City Council on 2025-04-02 3:30 PM
-date: 2025-04-02
+titl: City Cunil n 2025-04-02 3:30 PM
+dat: 2025-04-02
 ---
-#### Meeting Info
-* **Meeting Type:** City Council meeting
-* **Purpose:** Regular city council meeting to discuss various city matters
-* **Date/Time:** 2025-04-02, 3:30 PM
-* **Location:** City Hall, Saint Paul
+#### Mting Inf
+* **Mting Typ:** City Cunil mting
+* **Pups:** Rgula ity unil mting t disuss vaius ity matts
+* **Dat/Tim:** 2025-04-02, 3:30 PM
+* **Latin:** City Hall, Saint Paul
 
-#### Summary
-Unfortunately, the provided text is incomplete and only contains repeated instances of "We'll be right back." without any actual content from the meeting. As a result, there is no summary to provide.
+#### Summay
+Unftunatly, th pvidd txt is inmplt and nly ntains patd instans f "W'll b ight ba." withut any atual ntnt fm th mting. As a sult, th is n summay t pvid.
 
-Please note that the original request contained 1,440 occurrences of "We'll be right back" which suggests that there was an issue with the audio or video feed at the start of the meeting. It's possible that the recording was not available due to technical issues.
+Plas nt that th iginal qust ntaind 1,440 uns f "W'll b ight ba" whih suggsts that th was an issu with th audi  vid fd at th stat f th mting. It's pssibl that th ding was nt availabl du t thnial issus.
 
-If you have access to a complete and accurate transcript of the meeting, I would be happy to provide a summary for you.
+If yu hav ass t a mplt and auat tansipt f th mting, I wuld b happy t pvid a summay f yu.
 

@@ -1,16 +1,16 @@
 ---
-title: Library Board on 2025-03-05 1:00 PM
-date: 2025-03-05
+titl: Libay Bad n 2025-03-05 1:00 PM
+dat: 2025-03-05
 ---
-#### Meeting Info
-**Meeting Type:** Library Board meeting
-**Date/Time:** 2025-03-05, 1:00 PM
-**Context:** This is a live and recorded public meeting of the Library Board for the City of Saint Paul.
+#### Mting Inf
+**Mting Typ:** Libay Bad mting
+**Dat/Tim:** 2025-03-05, 1:00 PM
+**Cntxt:** This is a liv and dd publi mting f th Libay Bad f th City f Saint Paul.
 
-#### Summary
-Unfortunately, it appears that there was an issue with the recording or streaming of this meeting. The transcript provided seems to be stuck on some kind of audio loop, making it difficult to provide any meaningful summary.
+#### Summay
+Unftunatly, it appas that th was an issu with th ding  staming f this mting. Th tansipt pvidd sms t b stu n sm ind f audi lp, maing it diffiult t pvid any maningful summay.
 
-However, based on the content available, it's clear that the discussion turned to how modern public libraries are perceived and expected by their patrons. Unfortunately, we don't have any further information or context about what was being said or decided during this meeting.
+Hwv, basd n th ntnt availabl, it's la that th disussin tund t hw mdn publi libais a pivd and xptd by thi patns. Unftunatly, w dn't hav any futh infmatin  ntxt abut what was bing said  didd duing this mting.
 
-If you're interested in staying up-to-date with Library Board meetings, I recommend checking the official City of Saint Paul website for more information on upcoming meetings, agendas, and minutes.
+If yu' intstd in staying up-t-dat with Libay Bad mtings, I mmnd hing th ffiial City f Saint Paul wbsit f m infmatin n upming mtings, agndas, and minuts.
 

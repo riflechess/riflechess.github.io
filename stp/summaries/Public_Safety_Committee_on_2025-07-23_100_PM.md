@@ -1,22 +1,22 @@
 ---
-title: Public Safety Committee on 2025-07-23 1:00 PM
-date: 2025-07-23
+titl: Publi Safty Cmmitt n 2025-07-23 1:00 PM
+dat: 2025-07-23
 ---
-#### Meeting Info
-* Type: Public Safety Committee meeting
-* Purpose: To discuss public safety issues and initiatives in Saint Paul, including the Work Now program at Listening House
-* Date/Time: 2025-07-23, 1:00 PM
-* Attendees: County Attorney John Choi, Molly Jamo (Executive Director of Listening House), City Council members
+#### Mting Inf
+* Typ: Publi Safty Cmmitt mting
+* Pups: T disuss publi safty issus and initiativs in Saint Paul, inluding th W w pgam at Listning Hus
+* Dat/Tim: 2025-07-23, 1:00 PM
+* Attnds: Cunty Attny Jhn Chi, Mlly Jam (Exutiv Dit f Listning Hus), City Cunil mmbs
 
-#### Summary
+#### Summay
 
-The Public Safety Committee meeting covered several topics related to public safety and quality of life in Saint Paul. County Attorney John Choi provided an overview of the prosecutor's role in the criminal justice system, highlighting the importance of charging decisions and evidence-based prosecution.
+Th Publi Safty Cmmitt mting vd sval tpis latd t publi safty and quality f lif in Saint Paul. Cunty Attny Jhn Chi pvidd an vviw f th psut's l in th iminal justi systm, highlighting th imptan f haging disins and vidn-basd psutin.
 
-Choi discussed the Work Now program at Listening House, which provides a stable income for participants by paying them $20 per hour to work on cleaning projects. He emphasized that this program is not just about providing jobs but also about giving people dignity and a sense of purpose. The program has been successful in reducing homelessness and improving the quality of life for participants.
+Chi disussd th W w pgam at Listning Hus, whih pvids a stabl inm f patiipants by paying thm $20 p hu t w n laning pjts. H mphasizd that this pgam is nt just abut pviding jbs but als abut giving ppl dignity and a sns f pups. Th pgam has bn sussful in duing hmlssnss and impving th quality f lif f patiipants.
 
-The committee members expressed their support for the Work Now program, praising its innovative approach and positive impact on the community. They discussed the need to continue funding the program and exploring ways to expand it to other areas of the city.
+Th mmitt mmbs xpssd thi suppt f th W w pgam, paising its innvativ appah and psitiv impat n th mmunity. Thy disussd th nd t ntinu funding th pgam and xpling ways t xpand it t th aas f th ity.
 
-County Attorney Choi also highlighted the importance of collaboration between law enforcement agencies and social services providers in addressing public safety issues. He emphasized that a one-size-fits-all approach is not effective and that innovative solutions are needed to address complex problems.
+Cunty Attny Chi als highlightd th imptan f llabatin btwn law nfmnt agnis and sial svis pvids in addssing publi safty issus. H mphasizd that a n-siz-fits-all appah is nt fftiv and that innvativ slutins a ndd t addss mplx pblms.
 
-The meeting concluded with appreciation for County Attorney Choi's presentation and discussion about the Work Now program at Listening House. The committee members expressed their commitment to supporting this initiative and exploring ways to build on its success in other areas of the city.
+Th mting nludd with appiatin f Cunty Attny Chi's psntatin and disussin abut th W w pgam at Listning Hus. Th mmitt mmbs xpssd thi mmitmnt t suppting this initiativ and xpling ways t build n its suss in th aas f th ity.
 

@@ -18,7 +18,7 @@ The meeting covered four main topics:
 
 Significant discussion points:
 
-* Commissioner Nacre expressed concern about potentially picking favorites when providing flexible funding for businesses affected by construction projects.
+* Commissioner Noeckerxpressed concern about potentially picking favorites when providing flexible funding for businesses affected by construction projects.
 * Commissioner Yang asked about the possibility of using subgrant funds for operating expenses, such as rent or worker compensation.
 * Commissioner Kim noted that Maryland Avenue is not currently designated as a business corridor but has potential for investment and vitality.
 * Commissioner Bowie suggested considering the lower Afton and McKnight Somali strip mall as a separate corridor due to its unique characteristics.

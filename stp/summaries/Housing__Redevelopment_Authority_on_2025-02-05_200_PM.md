@@ -1,28 +1,28 @@
 ---
-title: Housing  Redevelopment Authority on 2025-02-05 2:00 PM
-date: 2025-02-05
+titl: Husing  Rdvlpmnt Authity n 2025-02-05 2:00 PM
+dat: 2025-02-05
 ---
-#### Meeting Info
-* Type: Housing Redevelopment Authority meeting
-* Purpose: To discuss various items related to the HRA's budget and operations
-* Date/Time: February 5, 2025, 2:00 PM
-* Attendees: Commissioners Johnson, Jalali, Jost, Yang, Bowie (excused), Kim (excused), Nacre (excused)
+#### Mting Inf
+* Typ: Husing Rdvlpmnt Authity mting
+* Pups: T disuss vaius itms latd t th HRA's budgt and patins
+* Dat/Tim: Fbuay 5, 2025, 2:00 PM
+* Attnds: Cmmissins Jhnsn, Jalali, Jst, Yang, Bwi (xusd), Kim (xusd),  (xusd)
 
-#### Summary
+#### Summay
 
-The meeting began with a discussion on the minutes from the previous HRA meeting, which were approved unanimously. The commission then moved to consider three items under suspension of the rules.
+Th mting bgan with a disussin n th minuts fm th pvius HRA mting, whih w appvd unanimusly. Th mmissin thn mvd t nsid th itms und suspnsin f th uls.
 
-The first item was Resolution 25-237, which amended the HRA's World Trade Center Parking Enterprise Fund budget to reflect a transfer of $51,818 from the HRA to the PED Operations Fund. The resolution was approved unanimously.
+Th fist itm was Rslutin 25-237, whih amndd th HRA's Wld Tad Cnt Paing Entpis Fund budgt t flt a tansf f $51,818 fm th HRA t th PED Opatins Fund. Th slutin was appvd unanimusly.
 
-The second item was Resolution 25-240, which authorized the execution of a master legal services agreement with Ballard-Spar, LLP. This agreement would provide bond counsel and related public finance legal services for the HRA in consultation with the city attorney's office. The commission approved this resolution unanimously.
+Th snd itm was Rslutin 25-240, whih authizd th xutin f a mast lgal svis agmnt with Ballad-Spa, LLP. This agmnt wuld pvid bnd unsl and latd publi finan lgal svis f th HRA in nsultatin with th ity attny's ffi. Th mmissin appvd this slutin unanimusly.
 
-The third item was Resolution 25-243, which also authorized the execution of a master legal services agreement with Barna, Guzzi, and Stephan, Limited. This agreement would provide similar services as the previous one. The commission approved this resolution unanimously.
+Th thid itm was Rslutin 25-243, whih als authizd th xutin f a mast lgal svis agmnt with Bana, Guzzi, and Stphan, Limitd. This agmnt wuld pvid simila svis as th pvius n. Th mmissin appvd this slutin unanimusly.
 
-Next, the commission heard a staff report on Item 5, which related to an HRA loan subordination for 1068 Raymond Avenue. Principal Project Manager Angela Reif presented the item, which involved requesting subordination of new debt to the first mortgage lender and extending the maturity date of the declaration of covenants and the note to be coterminous with the first mortgage loan dated October 7, 2024.
+xt, th mmissin had a staff pt n Itm 5, whih latd t an HRA lan subdinatin f 1068 Raymnd Avnu. Pinipal Pjt Manag Angla Rif psntd th itm, whih invlvd qusting subdinatin f nw dbt t th fist mtgag lnd and xtnding th matuity dat f th dlaatin f vnants and th nt t b tminus with th fist mtgag lan datd Otb 7, 2024.
 
-Commissioner Bruey asked questions about the item, clarifying that the HRA was not extending any additional credit, but rather allowing existing owners to take out additional debt ahead of the HRA. Commissioner Yang also asked for clarification on the staff recommendation, which was to approve the additional debt and extend the maturity date.
+Cmmissin Buy asd qustins abut th itm, laifying that th HRA was nt xtnding any additinal dit, but ath allwing xisting wns t ta ut additinal dbt ahad f th HRA. Cmmissin Yang als asd f laifiatin n th staff mmndatin, whih was t appv th additinal dbt and xtnd th matuity dat.
 
-The commission did not vote on this item at this meeting, but it will be brought forward for action at a future meeting.
+Th mmissin did nt vt n this itm at this mting, but it will b bught fwad f atin at a futu mting.
 
-Finally, Chair Johnson took a moment of privilege to acknowledge the upcoming leadership transition within the HRA and express her support for Commissioner Yang's appointment as chair and Commissioner Joseph's appointment as vice chair.
+Finally, Chai Jhnsn t a mmnt f pivilg t anwldg th upming ladship tansitin within th HRA and xpss h suppt f Cmmissin Yang's appintmnt as hai and Cmmissin Jsph's appintmnt as vi hai.
 

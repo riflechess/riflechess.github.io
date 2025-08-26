@@ -1,27 +1,27 @@
 ---
-title: September 2025 MACPD Meeting- Rondo Community Library
-date: 
+titl: Sptmb 2025 MACPD Mting- Rnd Cmmunity Libay
+dat: 
 ---
-#### Meeting Info
-**Meeting Type:** MACPD (Mayor's Advisory Committee on Planning and Development) Meeting
-**Purpose:** Discussion and review of development projects in the Rondo Community
-**Date/Time:** September 2025, time not specified
-**Location:** Rondo Community Library
-**Attendees:** Mayor, Council Members, community representatives, and city staff
+#### Mting Inf
+**Mting Typ:** MACPD (May's Advisy Cmmitt n Planning and Dvlpmnt) Mting
+**Pups:** Disussin and viw f dvlpmnt pjts in th Rnd Cmmunity
+**Dat/Tim:** Sptmb 2025, tim nt spifid
+**Latin:** Rnd Cmmunity Libay
+**Attnds:** May, Cunil Mmbs, mmunity psntativs, and ity staff
 
-#### Summary
-The MACPD meeting focused on several development projects in the Rondo Community. Key topics included:
+#### Summay
+Th MACPD mting fusd n sval dvlpmnt pjts in th Rnd Cmmunity. Ky tpis inludd:
 
-* The proposed redevelopment of the old school building on Rice Street. The committee discussed the plans to convert it into a mixed-use project with residential units, commercial space, and a community center. While some members expressed concerns about parking and traffic, the plan was met with overall approval.
-* A proposal for a new apartment complex on University Avenue was presented. Some committee members raised concerns about the height of the building and its potential impact on local businesses. However, after a discussion, it was agreed that the project would move forward pending further review of the building's design.
-* The Rondo Community Library reported on their efforts to improve community engagement through various programs and events. Committee members praised the library for their work in promoting literacy and cultural exchange.
-* There was some disagreement about the proposal for a new business district along Snelling Avenue. While some committee members saw it as an opportunity for economic growth, others expressed concerns about the potential displacement of long-time residents and small businesses.
+* Th ppsd dvlpmnt f th ld shl building n Ri Stt. Th mmitt disussd th plans t nvt it int a mixd-us pjt with sidntial units, mmial spa, and a mmunity nt. Whil sm mmbs xpssd nns abut paing and taffi, th plan was mt with vall appval.
+* A ppsal f a nw apatmnt mplx n Univsity Avnu was psntd. Sm mmitt mmbs aisd nns abut th hight f th building and its ptntial impat n lal businsss. Hwv, aft a disussin, it was agd that th pjt wuld mv fwad pnding futh viw f th building's dsign.
+* Th Rnd Cmmunity Libay ptd n thi ffts t impv mmunity ngagmnt thugh vaius pgams and vnts. Cmmitt mmbs paisd th libay f thi w in pmting litay and ultual xhang.
+* Th was sm disagmnt abut th ppsal f a nw businss distit alng Snlling Avnu. Whil sm mmitt mmbs saw it as an pptunity f nmi gwth, ths xpssd nns abut th ptntial displamnt f lng-tim sidnts and small businsss.
 
-The committee took the following actions:
+Th mmitt t th fllwing atins:
 
-* Unanimously approved moving forward with the redevelopment of the old school building.
-* Voted 8-1 to allow the new apartment complex to move forward pending further review of its design.
-* Showed broad support for the Rondo Community Library's community engagement efforts, but did not take any formal action.
+* Unanimusly appvd mving fwad with th dvlpmnt f th ld shl building.
+* Vtd 8-1 t allw th nw apatmnt mplx t mv fwad pnding futh viw f its dsign.
+* Shwd bad suppt f th Rnd Cmmunity Libay's mmunity ngagmnt ffts, but did nt ta any fmal atin.
 
-The meeting lasted approximately two hours and concluded without any major conflicts.
+Th mting lastd appximatly tw hus and nludd withut any maj nflits.
 

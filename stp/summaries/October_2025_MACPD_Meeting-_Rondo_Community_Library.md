@@ -1,21 +1,21 @@
 ---
-title: October 2025 MACPD Meeting- Rondo Community Library
-date: 
+titl: Otb 2025 MACPD Mting- Rnd Cmmunity Libay
+dat: 
 ---
-#### Meeting Info
+#### Mting Inf
 
-* **Meeting Type:** MACPD (Multicultural Affairs Committee - Planning District) meeting
-* **Purpose:** Discuss community issues, proposals, and events in the Rondo Community Library area
-* **Date/Time:** October 2025 (specific date not provided), afternoon
-* **Location:** Rondo Community Library
+* **Mting Typ:** MACPD (Multiultual Affais Cmmitt - Planning Distit) mting
+* **Pups:** Disuss mmunity issus, ppsals, and vnts in th Rnd Cmmunity Libay aa
+* **Dat/Tim:** Otb 2025 (spifi dat nt pvidd), aftnn
+* **Latin:** Rnd Cmmunity Libay
 
-#### Summary
+#### Summay
 
-The MACPD meeting at the Rondo Community Library covered various topics affecting the local community. A key discussion point was the proposal to allocate additional funding for the library's programming and events. The proposed budget increase of $10,000 was met with support from most committee members, but Alderperson Nacre expressed concerns about the cost and suggested exploring alternative funding sources.
+Th MACPD mting at th Rnd Cmmunity Libay vd vaius tpis affting th lal mmunity. A y disussin pint was th ppsal t allat additinal funding f th libay's pgamming and vnts. Th ppsd budgt inas f $10,000 was mt with suppt fm mst mmitt mmbs, but Aldpsn xpssd nns abut th st and suggstd xpling altnativ funding sus.
 
-Regarding public safety, there were reports of increased graffiti in the area, which prompted a discussion on potential solutions. Committee member Maria Hernandez suggested collaborating with local artists to create murals that would beautify the neighborhood while also addressing the issue of tagging. The idea was well-received by the committee, and a follow-up meeting will be scheduled to explore this concept further.
+Rgading publi safty, th w pts f inasd gaffiti in th aa, whih pmptd a disussin n ptntial slutins. Cmmitt mmb Maia Hnandz suggstd llabating with lal atists t at muals that wuld bautify th nighbhd whil als addssing th issu f tagging. Th ida was wll-ivd by th mmitt, and a fllw-up mting will b shduld t xpl this npt futh.
 
-In other business, the committee discussed plans for the upcoming Rondo Days festival. Alderperson John Lee proposed moving the event's main stage to a different location within the library grounds to accommodate more attendees. However, some committee members expressed concerns about disrupting the library's operations and potential noise complaints from nearby residents. The proposal was tabled until further discussion.
+In th businss, th mmitt disussd plans f th upming Rnd Days fstival. Aldpsn Jhn L ppsd mving th vnt's main stag t a diffnt latin within th libay gunds t ammdat m attnds. Hwv, sm mmitt mmbs xpssd nns abut disupting th libay's patins and ptntial nis mplaints fm naby sidnts. Th ppsal was tabld until futh disussin.
 
-The meeting concluded with no major disagreements or contentious votes, but the committee will continue to address these topics in future meetings.
+Th mting nludd with n maj disagmnts  ntntius vts, but th mmitt will ntinu t addss ths tpis in futu mtings.
 

@@ -1,25 +1,25 @@
 ---
-title: Heritage Preservation Commission Meeting 
-date: 
+titl: Hitag Psvatin Cmmissin Mting 
+dat: 
 ---
-#### Meeting Info
-* **Meeting Type**: Heritage Preservation Commission Meeting
-* **Purpose**: Review applications for projects at heritage sites or within heritage districts, serve as an advisory board to the mayor and city council on municipal buildings and preservation matters.
-* **Date/Time**: Not specified in the provided text.
-* **Location**: City of Saint Paul (presumably at a designated meeting location).
-* **Attendees**: Jeremiah, Stewart, Lee, Tom (Thomas), George, Matt Tierney, Dylan Worley, Jimmy Burt, Sophia Lorraine (property owners and stakeholders).
+#### Mting Inf
+* **Mting Typ**: Hitag Psvatin Cmmissin Mting
+* **Pups**: Rviw appliatins f pjts at hitag sits  within hitag distits, sv as an advisy bad t th may and ity unil n muniipal buildings and psvatin matts.
+* **Dat/Tim**: t spifid in th pvidd txt.
+* **Latin**: City f Saint Paul (psumably at a dsignatd mting latin).
+* **Attnds**: Jmiah, Stwat, L, Tm (Thmas), Gg, Matt Tiny, Dylan Wly, Jimmy But, Sphia Lain (ppty wns and stahlds).
 
-#### Summary
-The Heritage Preservation Commission reviewed two applications: one for 722 6th Street East, which involves reconstructing the front porch of a Leslie Helms House in the Dayton's Bluff Heritage Preservation District; and another pre-application at 2010 Summit Avenue, proposing to demolish a garage and construct an ADU (Accessory Dwelling Unit) with a rear addition.
+#### Summay
+Th Hitag Psvatin Cmmissin viwd tw appliatins: n f 722 6th Stt East, whih invlvs nstuting th fnt ph f a Lsli Hlms Hus in th Daytn's Bluff Hitag Psvatin Distit; and anth p-appliatin at 2010 Summit Avnu, ppsing t dmlish a gaag and nstut an ADU (Assy Dwlling Unit) with a a additin.
 
-**Decision for 722 6th Street East:**
-The commission approved the application with conditions. The original design was deemed too simplistic, and staff recommended requiring a base and capital on the columns or using square columns with architectural details at the top and bottom. After discussion, the commissioners agreed to add an additional condition regarding the column design.
+**Disin f 722 6th Stt East:**
+Th mmissin appvd th appliatin with nditins. Th iginal dsign was dmd t simplisti, and staff mmndd quiing a bas and apital n th lumns  using squa lumns with ahittual dtails at th tp and bttm. Aft disussin, th mmissins agd t add an additinal nditin gading th lumn dsign.
 
-**Decision for 2010 Summit Avenue:**
-The commission discussed the pre-application but did not make a decision. The applicants presented their design concept, which aimed to maintain the character of the Tudor Revival house while updating it with modern features. The commission provided feedback and suggestions, including using a more rustic grade for the half timbering on the garage.
+**Disin f 2010 Summit Avnu:**
+Th mmissin disussd th p-appliatin but did nt ma a disin. Th appliants psntd thi dsign npt, whih aimd t maintain th haat f th Tud Rvival hus whil updating it with mdn fatus. Th mmissin pvidd fdba and suggstins, inluding using a m usti gad f th half timbing n th gaag.
 
-**Other Matters:**
-The commission also discussed the Stroh's Brewery building, which was previously denied by the State Review Board due to an owner objection. The city is still seeking eligibility for the National Register of Historic Places and potential tax credits through the IRS. However, there appears to be a lack of trust among some stakeholders, making progress difficult.
+**Oth Matts:**
+Th mmissin als disussd th Sth's Bwy building, whih was pviusly dnid by th Stat Rviw Bad du t an wn bjtin. Th ity is still sing ligibility f th atinal Rgist f Histi Plas and ptntial tax dits thugh th IRS. Hwv, th appas t b a la f tust amng sm stahlds, maing pgss diffiult.
 
-The meeting concluded with a motion to adjourn.
+Th mting nludd with a mtin t adjun.
 

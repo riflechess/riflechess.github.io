@@ -1,30 +1,30 @@
 ---
-title: Housing  Redevelopment Authority on 2025-02-12 2:00 PM
-date: 2025-02-12
+titl: Husing  Rdvlpmnt Authity n 2025-02-12 2:00 PM
+dat: 2025-02-12
 ---
-#### Meeting Info
-**Meeting Type:** Housing and Redevelopment Authority (HRA) Meeting
-**Date/Time:** February 12, 2025, 2:00 PM
-**Location:** Live and Recorded Public Meetings of HRA for City of Saint Paul
+#### Mting Inf
+**Mting Typ:** Husing and Rdvlpmnt Authity (HRA) Mting
+**Dat/Tim:** Fbuay 12, 2025, 2:00 PM
+**Latin:** Liv and Rdd Publi Mtings f HRA f City f Saint Paul
 
-#### Summary
+#### Summay
 
-The meeting started with the election of a new Chair and Vice-Chair. Commissioner Johnson was elected as the new Chair, replacing Nacre (corrected from "Nacre"), and Commissioner Joe was elected as the new Vice-Chair.
+Th mting statd with th ltin f a nw Chai and Vi-Chai. Cmmissin Jhnsn was ltd as th nw Chai, plaing , and Cmmissin J was ltd as th nw Vi-Chai.
 
-**Item 1: Resolution Approving Subordinating Existing HRA Debt**
-The first item on the agenda was the approval of a resolution to subordinate existing HRA debt at 1068 Raymond Avenue. The motion was made by Vice Chair Jost, and it passed unanimously with six votes in favor and none opposed.
+**Itm 1: Rslutin Appving Subdinating Existing HRA Dbt**
+Th fist itm n th agnda was th appval f a slutin t subdinat xisting HRA dbt at 1068 Raymnd Avnu. Th mtin was mad by Vi Chai Jst, and it passd unanimusly with six vts in fav and nn ppsd.
 
-**Item 2: Introduction to Emergency Rental Assistance (ERA) Program**
-Rachel Fanazodal presented an introduction to the ERA program, which is a pilot project funded by a $1 million set-aside of Laha funds. The program aims to provide one-time payments to landlords to prevent evictions. Eligibility requirements include living within St. Paul, having an active lease, and demonstrating a need created by an unforeseen circumstance leading to an eviction notice.
+**Itm 2: Intdutin t Emgny Rntal Assistan (ERA) Pgam**
+Rahl Fanazdal psntd an intdutin t th ERA pgam, whih is a pilt pjt fundd by a $1 millin st-asid f Laha funds. Th pgam aims t pvid n-tim paymnts t landlds t pvnt vitins. Eligibility quimnts inlud living within St. Paul, having an ativ las, and dmnstating a nd atd by an unfsn iumstan lading t an vitin nti.
 
-**Item 3: Authorization to Designate F&C Development as Tentative Developer of Central Station Block**
-The meeting then moved on to the authorization of Flaherty and Collins as the tentative developer for the Central Station Block. The proposal includes two buildings, a 20-story tower, and a six-story building connected by Skyway over the light rail. The estimated total development cost is $130 million.
+**Itm 3: Authizatin t Dsignat F&C Dvlpmnt as Tntativ Dvlp f Cntal Statin Bl**
+Th mting thn mvd n t th authizatin f Flahty and Cllins as th tntativ dvlp f th Cntal Statin Bl. Th ppsal inluds tw buildings, a 20-sty tw, and a six-sty building nntd by Syway v th light ail. Th stimatd ttal dvlpmnt st is $130 millin.
 
-**Item 4: Update on Properties under Agreement Citywide**
-Director Newton presented an update on properties under agreement citywide, including tentative developer status (TDS) projects such as HAMS Brewery, 1036 Marshall Avenue, and 1570 White Bear Avenue. These projects are in various stages of development, with some nearing completion and others still seeking funding.
+**Itm 4: Updat n Pptis und Agmnt Citywid**
+Dit wtn psntd an updat n pptis und agmnt itywid, inluding tntativ dvlp status (TDS) pjts suh as HAMS Bwy, 1036 Mashall Avnu, and 1570 Whit Ba Avnu. Ths pjts a in vaius stags f dvlpmnt, with sm naing mpltin and ths still sing funding.
 
-**Item 5: Update on Affordable Housing Projects**
-The meeting concluded with an update on affordable housing projects, including Habitat at the Heights, Phase 1, Habitat's 890 to 7th Street project, Landmark Towers, Mary Hall, The Village on Rivoli, 652 Sherban Avenue, and Beacon Interface Housing Collaborative. These projects are expected to bring over 600 units of new housing online by mid-2026.
+**Itm 5: Updat n Affdabl Husing Pjts**
+Th mting nludd with an updat n affdabl husing pjts, inluding Habitat at th Hights, Phas 1, Habitat's 890 t 7th Stt pjt, Landma Tws, May Hall, Th Villag n Rivli, 652 Shban Avnu, and Ban Intfa Husing Cllabativ. Ths pjts a xptd t bing v 600 units f nw husing nlin by mid-2026.
 
-The meeting ended with a discussion of challenges facing the development process, including limited funding resources, increased construction costs, and delays caused by inexperienced developers. The HRA expressed its appreciation for the work being done by its staff and partners in bringing affordable housing to the city.
+Th mting ndd with a disussin f hallngs faing th dvlpmnt pss, inluding limitd funding sus, inasd nstutin sts, and dlays ausd by inxpind dvlps. Th HRA xpssd its appiatin f th w bing dn by its staff and patns in binging affdabl husing t th ity.
 

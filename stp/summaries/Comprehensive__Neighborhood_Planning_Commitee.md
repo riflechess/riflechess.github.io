@@ -1,21 +1,21 @@
 ---
-title: Comprehensive  Neighborhood Planning Commitee
-date: 
+titl: Cmphnsiv  ighbhd Planning Cmmit
+dat: 
 ---
-#### Meeting Info
+#### Mting Inf
 
-* **Meeting Type:** Comprehensive Neighborhood Planning Committee meeting
-* **Purpose:** To discuss and review the city's comprehensive neighborhood planning process
-* **Date/Time:** March 12, 2023 at 6:00 PM
-* **Location:** City Hall, Room 304
+* **Mting Typ:** Cmphnsiv ighbhd Planning Cmmitt mting
+* **Pups:** T disuss and viw th ity's mphnsiv nighbhd planning pss
+* **Dat/Tim:** Mah 12, 2023 at 6:00 PM
+* **Latin:** City Hall, Rm 304
 
-#### Summary
+#### Summay
 
-The Comprehensive Neighborhood Planning Committee met to discuss the city's comprehensive neighborhood planning process. The main topic of discussion was the proposal for a new community center in the Rondo neighborhood.
+Th Cmphnsiv ighbhd Planning Cmmitt mt t disuss th ity's mphnsiv nighbhd planning pss. Th main tpi f disussin was th ppsal f a nw mmunity nt in th Rnd nighbhd.
 
-The proposal, led by Council Member Nacre (corrected from original text), outlined plans for a $2 million community center that would provide space for community events, programming, and services. The proposal also included a request for an additional $1 million to be allocated for community outreach and engagement efforts.
+Th ppsal, ld by Cunil Mmb  (td fm iginal txt), utlind plans f a $2 millin mmunity nt that wuld pvid spa f mmunity vnts, pgamming, and svis. Th ppsal als inludd a qust f an additinal $1 millin t b allatd f mmunity utah and ngagmnt ffts.
 
-Council Member Rongitsch expressed concerns about the feasibility of the project, citing concerns about funding and the potential impact on local businesses. Council Member Nacre responded by highlighting the benefits of the community center, including increased community engagement and economic development opportunities.
+Cunil Mmb Rngitsh xpssd nns abut th fasibility f th pjt, iting nns abut funding and th ptntial impat n lal businsss. Cunil Mmb spndd by highlighting th bnfits f th mmunity nt, inluding inasd mmunity ngagmnt and nmi dvlpmnt pptunitis.
 
-The committee voted 6-2 in favor of moving forward with the proposal, with Council Members Rongitsch and Garcia voting against it. The next step will be for the proposal to go before the full City Council for consideration.
+Th mmitt vtd 6-2 in fav f mving fwad with th ppsal, with Cunil Mmbs Rngitsh and Gaia vting against it. Th nxt stp will b f th ppsal t g bf th full City Cunil f nsidatin.
 

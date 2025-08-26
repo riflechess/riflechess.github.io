@@ -1,27 +1,27 @@
 ---
-title: Housing  Redevelopment Authority on 2025-03-05 2:00 PM
-date: 2025-03-05
+titl: Husing  Rdvlpmnt Authity n 2025-03-05 2:00 PM
+dat: 2025-03-05
 ---
-#### Meeting Info
-**Meeting Type:** Housing Redevelopment Authority (HRA) meeting
-**Purpose:** Discussion and approval of various items related to housing redevelopment and financing
-**Date/Time:** March 5, 2025, 2:00 PM
-**Location:** Live and recorded public meeting for the City of Saint Paul
+#### Mting Inf
+**Mting Typ:** Husing Rdvlpmnt Authity (HRA) mting
+**Pups:** Disussin and appval f vaius itms latd t husing dvlpmnt and finaning
+**Dat/Tim:** Mah 5, 2025, 2:00 PM
+**Latin:** Liv and dd publi mting f th City f Saint Paul
 
-#### Summary
-The meeting covered several key topics:
+#### Summay
+Th mting vd sval y tpis:
 
-* **Avis Car Rental Lease**: The HRA approved a lease agreement with Avis car rental to occupy a small retail space in the Block 19 ramp. Staff recommended approval, citing the vacant space's potential impact on the area.
-* **Land Donation at 1366 Fremont Avenue**: The HRA accepted a land donation from West Fargo Bank, N.A., and Leo of Payment of Demolition Assessment, District 4, Ward 7. Director Newton explained that the donated land would be used for residential development, potentially supporting five to six units of housing.
-* **Commerce Building Phase 1 and 2**: Director Newton introduced a staff report on the Commerce Building sale, which included details about the property's history, current ownership structure, and proposed sale to Pack Properties. The meeting also discussed partial loan forgiveness of HRA debt related to the Commerce Building project.
+* **Avis Ca Rntal Las**: Th HRA appvd a las agmnt with Avis a ntal t upy a small tail spa in th Bl 19 amp. Staff mmndd appval, iting th vaant spa's ptntial impat n th aa.
+* **Land Dnatin at 1366 Fmnt Avnu**: Th HRA aptd a land dnatin fm Wst Fag Ban, .A., and L f Paymnt f Dmlitin Assssmnt, Distit 4, Wad 7. Dit wtn xplaind that th dnatd land wuld b usd f sidntial dvlpmnt, ptntially suppting fiv t six units f husing.
+* **Cmm Building Phas 1 and 2**: Dit wtn intdud a staff pt n th Cmm Building sal, whih inludd dtails abut th ppty's histy, unt wnship stutu, and ppsd sal t Pa Pptis. Th mting als disussd patial lan fgivnss f HRA dbt latd t th Cmm Building pjt.
 
-Some key points from the discussion include:
+Sm y pints fm th disussin inlud:
 
-* Commissioner Nacre asked about the mechanism for donating land in lieu of payment of a demolition assessment and received clarification that it was an unusual arrangement made possible by CDBG funds.
-* Director Newton explained that repaying HRA loans would result in program income, which could be redeployed to support affordable housing projects.
-* Laura Hainston clarified that while some resources might return sooner than expected due to the sale's timeline, the process of determining loan forgiveness and repayment terms involved negotiations with PED staff, leadership, and lenders.
+* Cmmissin  asd abut th mhanism f dnating land in liu f paymnt f a dmlitin assssmnt and ivd laifiatin that it was an unusual aangmnt mad pssibl by CDBG funds.
+* Dit wtn xplaind that paying HRA lans wuld sult in pgam inm, whih uld b dplyd t suppt affdabl husing pjts.
+* Laua Hainstn laifid that whil sm sus might tun sn than xptd du t th sal's timlin, th pss f dtmining lan fgivnss and paymnt tms invlvd ngtiatins with PED staff, ladship, and lnds.
 
-Commissioner Nacre expressed strong support for the project, highlighting the local developer's experience in maintaining historic buildings and filling commercial spaces. The meeting concluded with a discussion about transition plans for residents and the importance of preserving affordability.
+Cmmissin xpssd stng suppt f th pjt, highlighting th lal dvlp's xpin in maintaining histi buildings and filling mmial spas. Th mting nludd with a disussin abut tansitin plans f sidnts and th imptan f psving affdability.
 
-The agenda items will be revisited next week for action steps, and staff is available to answer questions or provide further clarification on any points discussed during the meeting.
+Th agnda itms will b visitd nxt w f atin stps, and staff is availabl t answ qustins  pvid futh laifiatin n any pints disussd duing th mting.
 

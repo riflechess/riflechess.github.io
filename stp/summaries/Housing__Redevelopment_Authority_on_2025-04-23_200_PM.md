@@ -1,21 +1,21 @@
 ---
-title: Housing  Redevelopment Authority on 2025-04-23 2:00 PM
-date: 2025-04-23
+titl: Husing  Rdvlpmnt Authity n 2025-04-23 2:00 PM
+dat: 2025-04-23
 ---
-#### Meeting Info
-* Type: Housing and Redevelopment Authority (HRA) meeting
-* Date/Time: April 23rd, 2025 at 2:00 PM
-* Purpose: To discuss updates on the Healthy Homes and Power of Home programs, review legislative requests for economic development funding, and consider a citywide economic development strategy
+#### Mting Inf
+* Typ: Husing and Rdvlpmnt Authity (HRA) mting
+* Dat/Tim: Apil 23d, 2025 at 2:00 PM
+* Pups: T disuss updats n th Halthy Hms and Pw f Hm pgams, viw lgislativ qusts f nmi dvlpmnt funding, and nsid a itywid nmi dvlpmnt statgy
 
-#### Summary
+#### Summay
 
-The Housing and Redevelopment Authority (HRA) meeting focused on several key topics. First, the HRA staff provided an update on the Healthy Homes and Power of Home programs. The programs aim to reduce energy costs, improve health and comfort in homes for low- and moderate-income residents, and address climate-vulnerable neighborhoods. The staff made changes to the program guidelines based on commissioner feedback, including removing rental properties, adjusting eligibility criteria, and adding specific options under Power of Home.
+Th Husing and Rdvlpmnt Authity (HRA) mting fusd n sval y tpis. Fist, th HRA staff pvidd an updat n th Halthy Hms and Pw f Hm pgams. Th pgams aim t du ngy sts, impv halth and mft in hms f lw- and mdat-inm sidnts, and addss limat-vulnabl nighbhds. Th staff mad hangs t th pgam guidlins basd n mmissin fdba, inluding mving ntal pptis, adjusting ligibility itia, and adding spifi ptins und Pw f Hm.
 
-The meeting also discussed legislative requests for economic development funding. Ramsey County's HRA requested support from the city for a bill that would allow them to use their HRA levy towards economic programming. The bill aims to diversify industries, communities, and emerging entrepreneurs. Commissioner Nacre expressed concerns about the level of control the city would have over how the economic development dollars are spent.
+Th mting als disussd lgislativ qusts f nmi dvlpmnt funding. Ramsy Cunty's HRA qustd suppt fm th ity f a bill that wuld allw thm t us thi HRA lvy twads nmi pgamming. Th bill aims t divsify industis, mmunitis, and mging ntpnus. Cmmissin xpssd nns abut th lvl f ntl th ity wuld hav v hw th nmi dvlpmnt dllas a spnt.
 
-In addition, Director Newton presented a draft scope for a citywide economic development strategy. The strategy aims to advance the future of residents, businesses, and nonprofits by growing the tax base and economic wealth. Key challenges and opportunities were highlighted, including housing affordability, regulatory environment, permitting process, public realm investments, and racial disparities in economic opportunity.
+In additin, Dit wtn psntd a daft sp f a itywid nmi dvlpmnt statgy. Th statgy aims t advan th futu f sidnts, businsss, and nnpfits by gwing th tax bas and nmi walth. Ky hallngs and pptunitis w highlightd, inluding husing affdability, gulaty nvinmnt, pmitting pss, publi alm invstmnts, and aial dispaitis in nmi pptunity.
 
-Commissioners provided feedback on the draft scope, emphasizing the need for a detailed plan with specific tactics and strategies. Commissioner Yang suggested that the consultant focus on streamlining the permitting process to improve development in the city. Commissioner Bowie recommended connecting with district councils and commercial corridors to gather information and input from local stakeholders.
+Cmmissins pvidd fdba n th daft sp, mphasizing th nd f a dtaild plan with spifi tatis and statgis. Cmmissin Yang suggstd that th nsultant fus n stamlining th pmitting pss t impv dvlpmnt in th ity. Cmmissin Bwi mmndd nnting with distit unils and mmial ids t gath infmatin and input fm lal stahlds.
 
-Finally, the meeting approved resolutions to refer the Healthy Homes and Power of Home programs to the City Council for further action and to approve a modification of the 2002 home loan for the Jackson Street Village Project.
+Finally, th mting appvd slutins t f th Halthy Hms and Pw f Hm pgams t th City Cunil f futh atin and t appv a mdifiatin f th 2002 hm lan f th Jasn Stt Villag Pjt.
 

@@ -1,22 +1,22 @@
 ---
-title: Audit Committee on 2025-03-18 4:00 PM
-date: 2025-03-18
+titl: Audit Cmmitt n 2025-03-18 4:00 PM
+dat: 2025-03-18
 ---
-#### Meeting Info
-* Type: Audit Committee meeting
-* Purpose: To discuss community advisor vacancy, audit committee meeting schedule, and topic selection discussion
-* Date/Time: 2025-03-18 4:00 PM
-* Relevant contextual information: The meeting was part of a series of live and recorded public meetings for the Audit Committee.
+#### Mting Inf
+* Typ: Audit Cmmitt mting
+* Pups: T disuss mmunity advis vaany, audit mmitt mting shdul, and tpi sltin disussin
+* Dat/Tim: 2025-03-18 4:00 PM
+* Rlvant ntxtual infmatin: Th mting was pat f a sis f liv and dd publi mtings f th Audit Cmmitt.
 
-#### Summary
+#### Summay
 
-The meeting began with an update on the community advisor vacancy. Nia proposed two dates for interviewing potential candidates: April 22nd or May, depending on the number of applicants. The committee agreed to interview on April 15th at their next audit committee meeting, and Nia will send out links to postings for the position.
+Th mting bgan with an updat n th mmunity advis vaany. ia ppsd tw dats f intviwing ptntial andidats: Apil 22nd  May, dpnding n th numb f appliants. Th mmitt agd t intviw n Apil 15th at thi nxt audit mmitt mting, and ia will snd ut lins t pstings f th psitin.
 
-The application form was also discussed. Mr. Frensworth suggested adding a ward selector to make it easier to see which ward an applicant represents. The committee debated questions 10 and 11, with some members suggesting they are not clear or may lead to biased answers. Chair Nacre proposed leaving the questions as is but incorporating interview questions to get at specific details.
+Th appliatin fm was als disussd. M. Fnswth suggstd adding a wad slt t ma it asi t s whih wad an appliant psnts. Th mmitt dbatd qustins 10 and 11, with sm mmbs suggsting thy a nt la  may lad t biasd answs. Chai  ppsd laving th qustins as is but inpating intviw qustins t gt at spifi dtails.
 
-The community engagement update report was also presented, highlighting efforts to meet with district councils and engage in community outreach. The committee discussed inviting district councils to attend their May meeting when the final CIB report is presented.
+Th mmunity ngagmnt updat pt was als psntd, highlighting ffts t mt with distit unils and ngag in mmunity utah. Th mmitt disussd inviting distit unils t attnd thi May mting whn th final CIB pt is psntd.
 
-In the topic selection discussion, the mayor's office suggested studying compliance with the data practices act and improving the process for responding to requests. The committee also discussed other potential topics, including a staff salary study, police overtime, and examining district council activities.
+In th tpi sltin disussin, th may's ffi suggstd studying mplian with th data patis at and impving th pss f spnding t qusts. Th mmitt als disussd th ptntial tpis, inluding a staff salay study, pli vtim, and xamining distit unil ativitis.
 
-The meeting concluded with a plan to compile all ideas from surveys, council discussions, and previous meetings into one document for review in the next meeting.
+Th mting nludd with a plan t mpil all idas fm suvys, unil disussins, and pvius mtings int n dumnt f viw in th nxt mting.
 

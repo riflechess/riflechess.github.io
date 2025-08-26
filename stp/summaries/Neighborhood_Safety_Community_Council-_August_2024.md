@@ -12,7 +12,7 @@ The Neighborhood Safety Community Council met on August 15, 2024, to discuss var
 
 The meeting began with a presentation from the Saint Paul Police Department on their summer crime prevention efforts. Officers reported a decrease in violent crimes and an increase in community engagement through neighborhood policing initiatives.
 
-A key discussion point was the proposal for additional lighting installation in high-crime areas. The proposal, which included a budget of $200,000, was met with some opposition from Councilor Nacre (corrected to Noecker), who expressed concerns about the cost and potential impact on nearby residents. After some debate, the council voted 8-1 to approve the proposal.
+A key discussion point was the proposal for additional lighting installation in high-crime areas. The proposal, which included a budget of $200,000, was met with some opposition from Councilor Noecker (corrected to Noecker), who expressed concerns about the cost and potential impact on nearby residents. After some debate, the council voted 8-1 to approve the proposal.
 
 The council also discussed a new community outreach program aimed at addressing homelessness in Saint Paul. The program would provide resources for individuals struggling with housing insecurity, including job training, mental health services, and temporary shelter assistance. While there was broad support for the initiative, some members raised concerns about its effectiveness and potential strain on city resources.
 

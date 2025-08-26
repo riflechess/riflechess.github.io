@@ -1,31 +1,31 @@
 ---
-title: Organizational Committee on 2025-05-28 10:00 AM
-date: 2025-05-28
+titl: Oganizatinal Cmmitt n 2025-05-28 10:00 AM
+dat: 2025-05-28
 ---
-#### Meeting Info
+#### Mting Inf
 
-* **Meeting Type:** Organizational Committee meeting
-* **Date/Time:** 2025-05-28, 10:00 AM
-* **Context:** The meeting was held to discuss the finances and operations of Como Zoo and Conservatory in Saint Paul.
+* **Mting Typ:** Oganizatinal Cmmitt mting
+* **Dat/Tim:** 2025-05-28, 10:00 AM
+* **Cntxt:** Th mting was hld t disuss th finans and patins f Cm Z and Cnsvaty in Saint Paul.
 
-#### Summary
+#### Summay
 
-The meeting began with a presentation from the Parks and Recreation Department on the financial picture of Como Zoo. Director Rodriguez and his team provided an overview of the zoo's budget, attendance numbers, and revenue sources. They discussed the importance of earned revenue sources, including food and beverage sales, facility rentals, and special events.
+Th mting bgan with a psntatin fm th Pas and Ratin Dpatmnt n th finanial pitu f Cm Z. Dit Rdiguz and his tam pvidd an vviw f th z's budgt, attndan numbs, and vnu sus. Thy disussd th imptan f and vnu sus, inluding fd and bvag sals, faility ntals, and spial vnts.
 
-Council Member Yang asked about potential missed opportunities for revenue generation, particularly with regards to concession stands and kiosks being under-staffed during peak times. Director Rodriguez acknowledged the issue and stated that they are always looking for ways to improve revenue streams.
+Cunil Mmb Yang asd abut ptntial missd pptunitis f vnu gnatin, patiulaly with gads t nssin stands and iss bing und-staffd duing pa tims. Dit Rdiguz anwldgd th issu and statd that thy a always ling f ways t impv vnu stams.
 
-The meeting also touched on the topic of equity and fairness in regards to zoo attendance and funding. Council Member Johnson mentioned that St. Paul residents make up only 16% of zoo visitors, but bear 45% of the cost through taxes. She suggested exploring models where St. Paul residents receive free or discounted services.
+Th mting als tuhd n th tpi f quity and fainss in gads t z attndan and funding. Cunil Mmb Jhnsn mntind that St. Paul sidnts ma up nly 16% f z visits, but ba 45% f th st thugh taxs. Sh suggstd xpling mdls wh St. Paul sidnts iv f  disuntd svis.
 
-Regarding the big cat exhibit project, Director Rodriguez explained that it was originally requested for $20 million, but due to state priorities and competing requests, it may not be funded this legislative session. Council Member Kim asked about the roadmap for the project, including a timeline and potential fundraising efforts by Como Friends.
+Rgading th big at xhibit pjt, Dit Rdiguz xplaind that it was iginally qustd f $20 millin, but du t stat piitis and mpting qusts, it may nt b fundd this lgislativ sssin. Cunil Mmb Kim asd abut th admap f th pjt, inluding a timlin and ptntial fundaising ffts by Cm Finds.
 
-The meeting concluded with a discussion on the accreditation process and its implications for philanthropy and revenue generation. Council Member Yang suggested promoting voluntary donations as a way to encourage more giving from both St. Paul residents and non-residents.
+Th mting nludd with a disussin n th aditatin pss and its impliatins f philanthpy and vnu gnatin. Cunil Mmb Yang suggstd pmting vluntay dnatins as a way t nuag m giving fm bth St. Paul sidnts and nn-sidnts.
 
-Overall, the meeting highlighted several key issues, including:
+Ovall, th mting highlightd sval y issus, inluding:
 
-* The importance of earned revenue sources and exploring new ways to generate revenue
-* Equity and fairness concerns regarding zoo attendance and funding
-* The potential for the big cat exhibit project to be delayed or not funded
-* The implications of accreditation on philanthropy and revenue generation
+* Th imptan f and vnu sus and xpling nw ways t gnat vnu
+* Equity and fainss nns gading z attndan and funding
+* Th ptntial f th big at xhibit pjt t b dlayd  nt fundd
+* Th impliatins f aditatin n philanthpy and vnu gnatin
 
-Several follow-up items were agreed upon, including providing data on concession amenities seasonality, fee discounts for St. Paul residents, and a deeper dive into financials (known as "nerd work").
+Sval fllw-up itms w agd upn, inluding pviding data n nssin amnitis sasnality, f disunts f St. Paul sidnts, and a dp div int finanials (nwn as "nd w").
 

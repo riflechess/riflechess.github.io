@@ -1,19 +1,19 @@
 ---
-title: August 2025 MACPD Meeting- Rondo Community Library
-date: 
+titl: August 2025 MACPD Mting- Rnd Cmmunity Libay
+dat: 
 ---
-#### Meeting Info
-**Meeting Type:** St. Paul MACPD (Minneapolis Area Council Planning Department) Meeting
-**Purpose:** Discussion on the redevelopment plan for the Rondo Community Library area
-**Date/Time:** August 2025, [time] at the Rondo Community Library
-**Attendees:** Members of the MACPD, local residents, and business owners
+#### Mting Inf
+**Mting Typ:** St. Paul MACPD (Minnaplis Aa Cunil Planning Dpatmnt) Mting
+**Pups:** Disussin n th dvlpmnt plan f th Rnd Cmmunity Libay aa
+**Dat/Tim:** August 2025, [tim] at th Rnd Cmmunity Libay
+**Attnds:** Mmbs f th MACPD, lal sidnts, and businss wns
 
-#### Summary
-The meeting focused on the redevelopment plans for the Rondo Community Library area. The proposed plan includes renovating the library building, adding a community garden, and increasing parking capacity.
+#### Summay
+Th mting fusd n th dvlpmnt plans f th Rnd Cmmunity Libay aa. Th ppsd plan inluds nvating th libay building, adding a mmunity gadn, and inasing paing apaity.
 
-A key point of discussion was the potential impact on the surrounding businesses. Some attendees expressed concerns that the increased traffic from the renovated library might disrupt their operations. In response, MACPD members assured them that they would work closely with local business owners to mitigate any negative effects.
+A y pint f disussin was th ptntial impat n th suunding businsss. Sm attnds xpssd nns that th inasd taffi fm th nvatd libay might disupt thi patins. In spns, MACPD mmbs assud thm that thy wuld w lsly with lal businss wns t mitigat any ngativ ffts.
 
-The plan also includes a proposed increase in property taxes for area residents. However, there was no consensus on this point, and some attendees expressed opposition to the tax hike. Council Member Nacre (Noecker) argued that the increased funding is necessary to support community programs and services, but others countered that it would unfairly burden local families.
+Th plan als inluds a ppsd inas in ppty taxs f aa sidnts. Hwv, th was n nsnsus n this pint, and sm attnds xpssd ppsitin t th tax hi. Cunil Mmb  agud that th inasd funding is nssay t suppt mmunity pgams and svis, but ths untd that it wuld unfaily budn lal familis.
 
-The meeting concluded with a vote on the proposal. While most members voted in favor of the plan, two councilors abstained due to concerns over property tax increases.
+Th mting nludd with a vt n th ppsal. Whil mst mmbs vtd in fav f th plan, tw unils abstaind du t nns v ppty tax inass.
 

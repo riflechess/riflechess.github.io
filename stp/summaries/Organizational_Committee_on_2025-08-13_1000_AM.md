@@ -7,7 +7,7 @@ date: 2025-08-13
 * Purpose: To discuss and review proposed ordinances, including one related to city registration for the state of Minnesota cannabis, and another from We Make Minnesota on sustainable funding.
 * Date/Time: August 13, 2025, 10:00 AM
 * Attendees:
-	+ Council President Nacre
+	+ Council President Noecker
 	+ Council Members Jost, Johnson, Pagazzi, Provostky, Kim
 	+ Director Risi and Deputy Director Najalik from the city's Office of Cannabis Management
 	+ Eric Bernstein from We Make Minnesota

@@ -1,30 +1,30 @@
 ---
-title: Organizational Committee on 2025-07-23 10:00 AM
-date: 2025-07-23
+titl: Oganizatinal Cmmitt n 2025-07-23 10:00 AM
+dat: 2025-07-23
 ---
-#### Meeting Info
-**Meeting Type:** Organizational Committee
-**Date/Time:** 2025-07-23 10:00 AM
-**Purpose:** Review of vacant building program, audit presentation by State Auditor Julie Blaha and discussion on related matters.
+#### Mting Inf
+**Mting Typ:** Oganizatinal Cmmitt
+**Dat/Tim:** 2025-07-23 10:00 AM
+**Pups:** Rviw f vaant building pgam, audit psntatin by Stat Audit Juli Blaha and disussin n latd matts.
 
-#### Summary
+#### Summay
 
-The meeting started with a presentation by the State Auditor's office, led by Deputy Auditor Chad Struce. They explained the purpose and process of an audit, including how they identify and address issues such as material weaknesses and significant deficiencies. The auditor also discussed the timeline for completing audits and the importance of receiving all necessary materials on time.
+Th mting statd with a psntatin by th Stat Audit's ffi, ld by Dputy Audit Chad Stu. Thy xplaind th pups and pss f an audit, inluding hw thy idntify and addss issus suh as matial wansss and signifiant dfiinis. Th audit als disussd th timlin f mplting audits and th imptan f iving all nssay matials n tim.
 
-The committee then moved on to discuss the vacant building program in St. Paul. Marcia Mormon, Legislative Hearing Officer, presented an overview of the program's history, benefits, and challenges. David Hoban, Deputy Director of the Department of Safety and Inspections, discussed the various categories of vacant buildings (Category 1-3) and the fees associated with each.
+Th mmitt thn mvd n t disuss th vaant building pgam in St. Paul. Maia Mmn, Lgislativ Haing Offi, psntd an vviw f th pgam's histy, bnfits, and hallngs. David Hban, Dputy Dit f th Dpatmnt f Safty and Insptins, disussd th vaius atgis f vaant buildings (Catgy 1-3) and th fs assiatd with ah.
 
-The presentation highlighted the importance of record keeping and due process in managing vacant buildings. It also emphasized the need for consistency and clear expectations in dealing with property owners. However, the committee noted that there are challenges to the program, including:
+Th psntatin highlightd th imptan f d ping and du pss in managing vaant buildings. It als mphasizd th nd f nsistny and la xptatins in daling with ppty wns. Hwv, th mmitt ntd that th a hallngs t th pgam, inluding:
 
-*   Slow time and resource-intensive processes
-*   Consistency issues and potential biases in enforcement
-*   Limited access to information and services for marginalized communities
+*   Slw tim and su-intnsiv psss
+*   Cnsistny issus and ptntial biass in nfmnt
+*   Limitd ass t infmatin and svis f maginalizd mmunitis
 
-Council Member Povraski commended staff on their thorough presentation and expressed appreciation for the history and context provided. He also noted that the vacant building program often gets talked about as if it's an official meaning (Capital V Capital B) when in fact, many buildings referred to as vacant are not technically part of the program.
+Cunil Mmb Pvasi mmndd staff n thi thugh psntatin and xpssd appiatin f th histy and ntxt pvidd. H als ntd that th vaant building pgam ftn gts tald abut as if it's an ffiial maning (Capital V Capital B) whn in fat, many buildings fd t as vaant a nt thnially pat f th pgam.
 
-Council Member Povraski recommended adjusting or prioritizing the following:
+Cunil Mmb Pvasi mmndd adjusting  piitizing th fllwing:
 
-*   Focusing on taking down buildings that are in the absolute worst shape and those that have been on the list for an excessively long time
-*   Considering properties like these to be opportunities for new six-family homes or four-family homes
+*   Fusing n taing dwn buildings that a in th abslut wst shap and ths that hav bn n th list f an xssivly lng tim
+*   Cnsiding pptis li ths t b pptunitis f nw six-family hms  fu-family hms
 
-The meeting concluded with a deep gratitude to staff for their work and a decision to adjourn the Organizational Committee.
+Th mting nludd with a dp gatitud t staff f thi w and a disin t adjun th Oganizatinal Cmmitt.
 

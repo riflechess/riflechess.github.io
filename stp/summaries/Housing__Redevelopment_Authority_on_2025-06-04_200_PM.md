@@ -6,11 +6,11 @@ date: 2025-06-04
 **Meeting Type:** Housing and Redevelopment Authority (HRA) Meeting
 **Purpose:** To discuss and vote on several resolutions related to the Minneapolis-St. Paul Housing Finance Board, as well as to receive a presentation on the T-District Zoning Update.
 **Date/Time:** June 4, 2025, 2:00 PM
-**Attendees:** Commissioner Chair Johnson, Commissioners Kim, Nacre (corrected from "Nacre"), Yang, and others.
+**Attendees:** Commissioner Chair Johnson, Commissioners Kim, Noecker, Yang, and others.
 
 #### Summary
 
-The meeting began with a brief discussion of some minor issues before moving on to the main agenda items. The first item was the approval of the May 2025 HRA meeting minutes, which was approved unanimously. Next, the board discussed Resolution RES 25-868, approving the nomination of Commissioner Nacre to the Minneapolis-St. Paul Housing Finance Board. This resolution was also approved unanimously.
+The meeting began with a brief discussion of some minor issues before moving on to the main agenda items. The first item was the approval of the May 2025 HRA meeting minutes, which was approved unanimously. Next, the board discussed Resolution RES 25-868, approving the nomination of Commissioner Noecker to the Minneapolis-St. Paul Housing Finance Board. This resolution was also approved unanimously.
 
 The third item on the agenda was Resolution RES 25-869, which involves reserving funds for certain St. Paul projects applying for funding from the Minneapolis Housing Finance Agency. This resolution was approved with a unanimous vote as well.
 

@@ -1,21 +1,21 @@
 ---
-title: Organizational Committee on 2025-04-23 10:00 AM
-date: 2025-04-23
+titl: Oganizatinal Cmmitt n 2025-04-23 10:00 AM
+dat: 2025-04-23
 ---
-#### Meeting Info
-* **Meeting Type:** Organizational Committee meeting
-* **Date/Time:** 2025-04-23, 10:00 AM
-* **Context:** The meeting focused on downtown revitalization and the role of the St. Paul Downtown Development Corporation in achieving this goal.
+#### Mting Inf
+* **Mting Typ:** Oganizatinal Cmmitt mting
+* **Dat/Tim:** 2025-04-23, 10:00 AM
+* **Cntxt:** Th mting fusd n dwntwn vitalizatin and th l f th St. Paul Dwntwn Dvlpmnt Cpatin in ahiving this gal.
 
-#### Summary
+#### Summay
 
-The meeting began with a presentation by Director Weezy from the Department of Safety and Inspections (DSI), discussing the property risk management task force created to address issues with deteriorating buildings in downtown St. Paul. The task force is led by DSI and involves collaboration with various city departments, stakeholders, and partners.
+Th mting bgan with a psntatin by Dit Wzy fm th Dpatmnt f Safty and Insptins (DSI), disussing th ppty is managmnt tas f atd t addss issus with dtiating buildings in dwntwn St. Paul. Th tas f is ld by DSI and invlvs llabatin with vaius ity dpatmnts, stahlds, and patns.
 
-The meeting then turned to a presentation by Joe Spencer from the St. Paul Downtown Alliance, who discussed the downtown investment strategy and the formation of the downtown development corporation (DDC). The DDC aims to address challenges facing downtown St. Paul, including commercial real estate values and office vacancies.
+Th mting thn tund t a psntatin by J Spn fm th St. Paul Dwntwn Allian, wh disussd th dwntwn invstmnt statgy and th fmatin f th dwntwn dvlpmnt patin (DDC). Th DDC aims t addss hallngs faing dwntwn St. Paul, inluding mmial al stat valus and ffi vaanis.
 
-Dave Higgins, the new president of the DDC, presented on the organization's goals and initiatives, including property redevelopment, key partnerships, policy and process opportunities for streamlining, and the creation of a narrative around St. Paul's revitalization efforts.
+Dav Higgins, th nw psidnt f th DDC, psntd n th ganizatin's gals and initiativs, inluding ppty dvlpmnt, y patnships, pliy and pss pptunitis f stamlining, and th atin f a naativ aund St. Paul's vitalizatin ffts.
 
-Council Members discussed various aspects of downtown revitalization, including property tax values, pedestrian-friendly corridors, public assets, and community engagement. They also asked questions about the DDC's goals, benchmarks, and fundraising strategy.
+Cunil Mmbs disussd vaius aspts f dwntwn vitalizatin, inluding ppty tax valus, pdstian-findly ids, publi assts, and mmunity ngagmnt. Thy als asd qustins abut th DDC's gals, bnhmas, and fundaising statgy.
 
-Overall, the meeting highlighted the importance of collaboration among city departments, stakeholders, and partners in achieving downtown revitalization goals. The discussion emphasized the need for long-term planning, creative solutions, and innovative partnerships to address the complex challenges facing downtown St. Paul.
+Ovall, th mting highlightd th imptan f llabatin amng ity dpatmnts, stahlds, and patns in ahiving dwntwn vitalizatin gals. Th disussin mphasizd th nd f lng-tm planning, ativ slutins, and innvativ patnships t addss th mplx hallngs faing dwntwn St. Paul.
 

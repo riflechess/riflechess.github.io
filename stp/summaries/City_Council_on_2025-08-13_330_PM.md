@@ -8,7 +8,7 @@ date: 2025-08-13
 * Purpose: Public Hearing and Regular Meeting
 * Date/Time: 2025-08-13, 3:30 PM
 * Location: Saint Paul City Hall
-* Attendees: Council President Nacre, Council Members Johnson, Yang, Kim, Jost, Provradsky, Womps, Wilms, Favatsky, Bowie (excused)
+* Attendees: Council President Noecker, Council Members Johnson, Yang, Kim, Jost, Provradsky, Womps, Wilms, Favatsky, Bowie (excused)
 
 #### Summary
 

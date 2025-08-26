@@ -1,22 +1,22 @@
 ---
-title: Heritage Preservation Commission
-date: 
+titl: Hitag Psvatin Cmmissin
+dat: 
 ---
-#### Meeting Info
-* **Meeting Type**: Heritage Preservation Commission
-* **Purpose**: Review of proposed developments and preservation efforts in Saint Paul
-* **Date/Time**: March 10, 2023, 2:00 PM
-* **Location**: City Hall, Council Chambers
+#### Mting Inf
+* **Mting Typ**: Hitag Psvatin Cmmissin
+* **Pups**: Rviw f ppsd dvlpmnts and psvatin ffts in Saint Paul
+* **Dat/Tim**: Mah 10, 2023, 2:00 PM
+* **Latin**: City Hall, Cunil Chambs
 
-#### Summary
-The Heritage Preservation Commission meeting on March 10, 2023, was attended by [Commissioner names]. The main topics discussed were:
+#### Summay
+Th Hitag Psvatin Cmmissin mting n Mah 10, 2023, was attndd by [Cmmissin nams]. Th main tpis disussd w:
 
-* Review of the proposed development at 1314 Summit Avenue. The developer plans to demolish a historic house and replace it with a new multi-unit building. After discussion, the commission voted unanimously (7-0) to recommend approval of the project, citing its compatibility with existing zoning regulations.
-* Update on the Preservation Plan for the Longfellow neighborhood. The commission discussed potential initiatives to preserve historic homes in the area, including tax incentives and grant programs.
+* Rviw f th ppsd dvlpmnt at 1314 Summit Avnu. Th dvlp plans t dmlish a histi hus and pla it with a nw multi-unit building. Aft disussin, th mmissin vtd unanimusly (7-0) t mmnd appval f th pjt, iting its mpatibility with xisting zning gulatins.
+* Updat n th Psvatin Plan f th Lngfllw nighbhd. Th mmissin disussd ptntial initiativs t psv histi hms in th aa, inluding tax inntivs and gant pgams.
 
-A contentious issue arose regarding a proposal to designate the "Rondo" neighborhood as a historic district. Commissioner [Name], representing the 4th Ward, expressed concerns that this designation could lead to increased regulations on property owners and potentially limit economic development. Commissioner [Nacre] countered that preserving Rondo's unique cultural heritage was essential for its continued vitality. The discussion ended without a vote, with the commission agreeing to further research and discuss the issue at their next meeting.
+A ntntius issu as gading a ppsal t dsignat th "Rnd" nighbhd as a histi distit. Cmmissin [am], psnting th 4th Wad, xpssd nns that this dsignatin uld lad t inasd gulatins n ppty wns and ptntially limit nmi dvlpmnt. Cmmissin [] untd that psving Rnd's uniqu ultual hitag was ssntial f its ntinud vitality. Th disussin ndd withut a vt, with th mmissin aging t futh sah and disuss th issu at thi nxt mting.
 
-The commission also discussed the 2023 budget, which includes increased funding for historic preservation grants and a new program to support community-led preservation initiatives.
+Th mmissin als disussd th 2023 budgt, whih inluds inasd funding f histi psvatin gants and a nw pgam t suppt mmunity-ld psvatin initiativs.
 
-A public comment period was held, during which attendees expressed concerns about the impact of new developments on Saint Paul's character. Commissioner [Name] assured attendees that the commission would continue to prioritize preserving the city's heritage while also promoting responsible development.
+A publi mmnt pid was hld, duing whih attnds xpssd nns abut th impat f nw dvlpmnts n Saint Paul's haat. Cmmissin [am] assud attnds that th mmissin wuld ntinu t piitiz psving th ity's hitag whil als pmting spnsibl dvlpmnt.
 

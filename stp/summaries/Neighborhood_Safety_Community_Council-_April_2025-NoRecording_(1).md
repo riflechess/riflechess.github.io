@@ -12,7 +12,7 @@ date:
 
 The Neighborhood Safety Community Council met to discuss ongoing concerns about property crime in the city. Council members reported an uptick in break-ins in the Dayton's Bluff neighborhood, with several residents sharing their own experiences of being targeted.
 
-Nacre mentioned that the council had been working with the Saint Paul Police Department to increase patrols in high-crime areas, but expressed frustration that more hadn't been done to address the issue. Council member Maria stated that additional resources were needed to support community-led initiatives aimed at reducing crime.
+Noecker mentioned that the council had been working with the Saint Paul Police Department to increase patrols in high-crime areas, but expressed frustration that more hadn't been done to address the issue. Council member Maria stated that additional resources were needed to support community-led initiatives aimed at reducing crime.
 
 The council also discussed a proposal to establish a neighborhood watch program in the Midway area, with some members expressing concerns about the feasibility and effectiveness of such an initiative. After some debate, the council voted 6-3 to move forward with planning for the program, with dissenting members citing concerns about resources and community buy-in.
 

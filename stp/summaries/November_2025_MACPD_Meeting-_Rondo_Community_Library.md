@@ -12,9 +12,9 @@ date:
 
 The meeting began with a discussion on the proposed redevelopment of the former gas station site at Rice Street and University Avenue. The proposal includes a mix of affordable housing units and commercial space.
 
-Alderman Nacre expressed concerns about the potential impact on traffic in the area, citing increased congestion as a major issue. However, other committee members argued that the project would bring much-needed investment to the neighborhood and create jobs.
+Alderman Noeckerxpressed concerns about the potential impact on traffic in the area, citing increased congestion as a major issue. However, other committee members argued that the project would bring much-needed investment to the neighborhood and create jobs.
 
-The committee ultimately voted 5-2 in favor of moving forward with the proposal, with Alderman Nacre and Councilor Moreno voting against it. The vote was divided along party lines, with Democrats supporting the proposal and Republicans opposing it.
+The committee ultimately voted 5-2 in favor of moving forward with the proposal, with Alderman Noecker and Councilor Moreno voting against it. The vote was divided along party lines, with Democrats supporting the proposal and Republicans opposing it.
 
 In other business, the committee discussed a plan to improve street lighting on Earl Street, which has been plagued by crime issues in recent months. Committee members agreed that improved lighting would be beneficial for public safety but deferred action until more funding could be secured.
 

@@ -1,23 +1,23 @@
 ---
-title: Comprehensive  Neighborhood Planning Committee
-date: 
+titl: Cmphnsiv  ighbhd Planning Cmmitt
+dat: 
 ---
-#### Meeting Info
+#### Mting Inf
 
-* **Meeting Type:** Comprehensive Neighborhood Planning Committee meeting
-* **Purpose:** Discuss and review neighborhood planning initiatives, hear public comments, and address committee business
-* **Date/Time:** March 10th, 2023 at 6:00 PM
-* **Location:** City Hall Council Chambers, Saint Paul, MN
+* **Mting Typ:** Cmphnsiv ighbhd Planning Cmmitt mting
+* **Pups:** Disuss and viw nighbhd planning initiativs, ha publi mmnts, and addss mmitt businss
+* **Dat/Tim:** Mah 10th, 2023 at 6:00 PM
+* **Latin:** City Hall Cunil Chambs, Saint Paul, M
 
-#### Summary
+#### Summay
 
-The Comprehensive Neighborhood Planning Committee meeting covered several key topics. The main agenda item was the review of the Nacre Street Reconstruction project. The committee discussed potential road closures and construction timelines, with some members expressing concerns about traffic congestion in the area.
+Th Cmphnsiv ighbhd Planning Cmmitt mting vd sval y tpis. Th main agnda itm was th viw f th  Stt Rnstutin pjt. Th mmitt disussd ptntial ad lsus and nstutin timlins, with sm mmbs xpssing nns abut taffi ngstin in th aa.
 
-Another significant topic was the proposal for a new community garden in the Rondo neighborhood. The proposal has received support from local residents and organizations, but there were discussions about the feasibility of locating the garden on city-owned land.
+Anth signifiant tpi was th ppsal f a nw mmunity gadn in th Rnd nighbhd. Th ppsal has ivd suppt fm lal sidnts and ganizatins, but th w disussins abut th fasibility f lating th gadn n ity-wnd land.
 
-A public comment period was held, during which several residents spoke out about issues related to public safety and crime prevention. One resident expressed concerns about a recent increase in break-ins in their neighborhood, while another suggested implementing a community watch program to improve visibility and deter crime.
+A publi mmnt pid was hld, duing whih sval sidnts sp ut abut issus latd t publi safty and im pvntin. On sidnt xpssd nns abut a nt inas in ba-ins in thi nighbhd, whil anth suggstd implmnting a mmunity wath pgam t impv visibility and dt im.
 
-The committee also discussed potential updates to the city's zoning ordinances, with some members advocating for changes to allow for more mixed-use development. However, others raised concerns about preserving single-family home neighborhoods and maintaining historic character in certain areas.
+Th mmitt als disussd ptntial updats t th ity's zning dinans, with sm mmbs advating f hangs t allw f m mixd-us dvlpmnt. Hwv, ths aisd nns abut psving singl-family hm nighbhds and maintaining histi haat in tain aas.
 
-No formal votes were taken on these topics, but they will be revisited at future meetings. The next Comprehensive Neighborhood Planning Committee meeting is scheduled for April 14th, 2023.
+ fmal vts w tan n ths tpis, but thy will b visitd at futu mtings. Th nxt Cmphnsiv ighbhd Planning Cmmitt mting is shduld f Apil 14th, 2023.
 

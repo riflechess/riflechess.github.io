@@ -1,20 +1,20 @@
 ---
-title: Cultural STAR Board Meeting
-date: 
+titl: Cultual STAR Bad Mting
+dat: 
 ---
-### Meeting Info
+### Mting Inf
 
-#### Type: Cultural STAR Board Meeting
-#### Purpose: Review of cultural programs and initiatives in the city
-#### Date/Time: February 22, 2023, at 2 PM
-#### Location: City Hall, Council Chamber
+#### Typ: Cultual STAR Bad Mting
+#### Pups: Rviw f ultual pgams and initiativs in th ity
+#### Dat/Tim: Fbuay 22, 2023, at 2 PM
+#### Latin: City Hall, Cunil Chamb
 
-### Summary
+### Summay
 
-The Cultural STAR Board Meeting was attended by [Name], Chairperson, and several board members. The main agenda items included updates on the "Summer Arts Festival" and the "Walls of Honor" project.
+Th Cultual STAR Bad Mting was attndd by [am], Chaipsn, and sval bad mmbs. Th main agnda itms inludd updats n th "Summ Ats Fstival" and th "Walls f Hn" pjt.
 
-*   The Summer Arts Festival update indicated a successful event with over 10,000 attendees. However, there were some issues with vendor payments that need to be addressed.
-*   The Walls of Honor project is a public art installation honoring Saint Paul's veterans. The board members discussed the timeline and budget for the project. It is expected to cost around $150,000, which will come from a combination of grants and city funds.
+*   Th Summ Ats Fstival updat indiatd a sussful vnt with v 10,000 attnds. Hwv, th w sm issus with vnd paymnts that nd t b addssd.
+*   Th Walls f Hn pjt is a publi at installatin hning Saint Paul's vtans. Th bad mmbs disussd th timlin and budgt f th pjt. It is xptd t st aund $150,000, whih will m fm a mbinatin f gants and ity funds.
 
-There was no significant disagreement or contention during the meeting.
+Th was n signifiant disagmnt  ntntin duing th mting.
 

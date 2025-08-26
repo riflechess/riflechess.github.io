@@ -1,26 +1,26 @@
 ---
-title: Library Board on 2025-05-07 1:00 PM
-date: 2025-05-07
+titl: Libay Bad n 2025-05-07 1:00 PM
+dat: 2025-05-07
 ---
-#### Meeting Info
-* **Meeting Type:** Library Board Meeting
-* **Purpose:** Review and discuss library programs, services, and initiatives
-* **Date/Time:** May 7, 2025, 1:00 PM
-* **Attendees:** Library Board members, Director Hartman, Osteen von Bergling (volunteer coordinator), Savitri Santaran (mobile library manager)
+#### Mting Inf
+* **Mting Typ:** Libay Bad Mting
+* **Pups:** Rviw and disuss libay pgams, svis, and initiativs
+* **Dat/Tim:** May 7, 2025, 1:00 PM
+* **Attnds:** Libay Bad mmbs, Dit Hatman, Ostn vn Bgling (vlunt dinat), Saviti Santaan (mbil libay manag)
 
-#### Summary
+#### Summay
 
-The meeting began with the approval of minutes from the previous meeting. The first item on the agenda was a staff report on Homework Centers and Reading Together programs.
+Th mting bgan with th appval f minuts fm th pvius mting. Th fist itm n th agnda was a staff pt n Hmw Cnts and Rading Tgth pgams.
 
-Osteen von Bergling presented the Homework Centers program, which provides free spaces for students to get help with homework from tutors or work independently. The program is available at five libraries across the city, and over 841 individual students participated in 2024. The program also offers Help Now Live Online Tutoring, a resource that is free with a library card.
+Ostn vn Bgling psntd th Hmw Cnts pgam, whih pvids f spas f studnts t gt hlp with hmw fm tuts  w indpndntly. Th pgam is availabl at fiv libais ass th ity, and v 841 individual studnts patiipatd in 2024. Th pgam als ffs Hlp w Liv Onlin Tuting, a su that is f with a libay ad.
 
-Next, Osteen von Bergling presented the Reading Together program, which matches participants with volunteer mentors for weekly sessions. The program has seen a significant increase in participation and engagement, with 131 learners participating last year and a 127% increase in hours of mentee-mentor engagement.
+xt, Ostn vn Bgling psntd th Rading Tgth pgam, whih maths patiipants with vlunt mnts f wly sssins. Th pgam has sn a signifiant inas in patiipatin and ngagmnt, with 131 lans patiipating last ya and a 127% inas in hus f mnt-mnt ngagmnt.
 
-Council Member Provotsky asked about how people find out about these programs, and Osteen von Bergling explained that word-of-mouth is a big factor, as well as outreach to schools and communities. Council Member Ager asked if homework help is available in all libraries across the city, and was told that it's not available at all libraries, but rather at five of the busiest ones.
+Cunil Mmb Pvtsy asd abut hw ppl find ut abut ths pgams, and Ostn vn Bgling xplaind that wd-f-muth is a big fat, as wll as utah t shls and mmunitis. Cunil Mmb Ag asd if hmw hlp is availabl in all libais ass th ity, and was tld that it's nt availabl at all libais, but ath at fiv f th busist ns.
 
-The second item on the agenda was a staff report on the mobile library (MOBI). Savitri Santaran presented an update on MOBI's first year of operation, which has seen 32,273 visitors and 31,073 items borrowed. The mobile library has been well-received by the community, with patrons praising its convenience and accessibility.
+Th snd itm n th agnda was a staff pt n th mbil libay (MOBI). Saviti Santaan psntd an updat n MOBI's fist ya f patin, whih has sn 32,273 visits and 31,073 itms bwd. Th mbil libay has bn wll-ivd by th mmunity, with patns paising its nvnin and assibility.
 
-Council Member Baratsky asked about how MOBI chooses which schools to visit, and Savitri explained that they have strong relationships with several St. Paul public schools and charter schools. Council Member Ryan expressed enthusiasm for MOBI and the homework center and Reading Together programs, highlighting their importance in introducing people to libraries and meeting communities where they are.
+Cunil Mmb Baatsy asd abut hw MOBI hss whih shls t visit, and Saviti xplaind that thy hav stng latinships with sval St. Paul publi shls and hat shls. Cunil Mmb Ryan xpssd nthusiasm f MOBI and th hmw nt and Rading Tgth pgams, highlighting thi imptan in intduing ppl t libais and mting mmunitis wh thy a.
 
-The meeting concluded with no further discussion or action items.
+Th mting nludd with n futh disussin  atin itms.
 

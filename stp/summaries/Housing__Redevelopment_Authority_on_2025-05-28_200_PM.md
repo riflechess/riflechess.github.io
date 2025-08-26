@@ -1,25 +1,25 @@
 ---
-title: Housing  Redevelopment Authority on 2025-05-28 2:00 PM
-date: 2025-05-28
+titl: Husing  Rdvlpmnt Authity n 2025-05-28 2:00 PM
+dat: 2025-05-28
 ---
-#### Meeting Info
-* **Meeting Type:** Housing Redevelopment Authority (HRA) meeting
-* **Date/Time:** 2025-05-28, 2:00 PM
-* **Purpose:** Discussion and approval of reservation of funding for six projects applying to the Minnesota Housing Finance Agency (MHFA) grant program
+#### Mting Inf
+* **Mting Typ:** Husing Rdvlpmnt Authity (HRA) mting
+* **Dat/Tim:** 2025-05-28, 2:00 PM
+* **Pups:** Disussin and appval f svatin f funding f six pjts applying t th Minnsta Husing Finan Agny (MHFA) gant pgam
 
-#### Summary
-The HRA meeting discussed the reservation of funding for six projects that will be applying to the MHFA grant program. The projects are:
+#### Summay
+Th HRA mting disussd th svatin f funding f six pjts that will b applying t th MHFA gant pgam. Th pjts a:
 
-1. Hams East End Apartments: a new construction of 110 affordable units with a total development cost of approximately $48 million.
-2. Gloryville: a mixed-use project with 87 affordable units and 23,000 square feet of commercial space, including a grocery store, with a total development cost of approximately $50 million.
-3. Face-to-Face: a four-story mixed-use project with 24 deeply affordable housing units and 6,000 square feet of office for face-to-face services, with a total development cost of approximately $13 million.
-4. Torrey de San Miguel: an existing project on the west side consisting of 142 two-, three-, and four-bedroom townhome units, with a comprehensive rehab estimated at about $60 million.
-5. Aragon by Beacon: a new 53-unit workforce building serving households at 30% and 50% of AMI, with approximately 25% of those units being three- and four-bedrooms.
-6. Ramsey Hill Project: owned by Trellis, consisting of 54 units, serving households at 30% and 50% of area median income in six buildings.
+1. Hams East End Apatmnts: a nw nstutin f 110 affdabl units with a ttal dvlpmnt st f appximatly $48 millin.
+2. Glyvill: a mixd-us pjt with 87 affdabl units and 23,000 squa ft f mmial spa, inluding a gy st, with a ttal dvlpmnt st f appximatly $50 millin.
+3. Fa-t-Fa: a fu-sty mixd-us pjt with 24 dply affdabl husing units and 6,000 squa ft f ffi f fa-t-fa svis, with a ttal dvlpmnt st f appximatly $13 millin.
+4. Ty d San Migul: an xisting pjt n th wst sid nsisting f 142 tw-, th-, and fu-bdm twnhm units, with a mphnsiv hab stimatd at abut $60 millin.
+5. Aagn by Ban: a nw 53-unit wf building sving hushlds at 30% and 50% f AMI, with appximatly 25% f ths units bing th- and fu-bdms.
+6. Ramsy Hill Pjt: wnd by Tllis, nsisting f 54 units, sving hushlds at 30% and 50% f aa mdian inm in six buildings.
 
-The HRA will be providing a reservation of funding for these projects, which is not a binding or enforceable legal agreement but rather a commitment to hold funds in the event that a project receives funding through this year's RFP. The next meeting will discuss approval of the resolution for action.
+Th HRA will b pviding a svatin f funding f ths pjts, whih is nt a binding  nfabl lgal agmnt but ath a mmitmnt t hld funds in th vnt that a pjt ivs funding thugh this ya's RFP. Th nxt mting will disuss appval f th slutin f atin.
 
-In other business, Director Newton presented on the HRA Parking Enterprise Fund, discussing its revenue and expenses, as well as its reserves. Commissioner Nacre asked about prioritizing the use of excess funds in the parking fund, and Director Newton explained that historically, any surplus has been rolled into reserves. The meeting concluded with a discussion on the neighborhood parking program, which has not been used extensively due to decreased revenues.
+In th businss, Dit wtn psntd n th HRA Paing Entpis Fund, disussing its vnu and xpnss, as wll as its svs. Cmmissin  asd abut piitizing th us f xss funds in th paing fund, and Dit wtn xplaind that histially, any suplus has bn lld int svs. Th mting nludd with a disussin n th nighbhd paing pgam, whih has nt bn usd xtnsivly du t dasd vnus.
 
-There were no contentious votes or disagreements during this meeting.
+Th w n ntntius vts  disagmnts duing this mting.
 

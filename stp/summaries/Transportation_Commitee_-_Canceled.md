@@ -1,13 +1,13 @@
 ---
-title: Transportation Commitee - Canceled
-date: 
+titl: Tansptatin Cmmit - Canld
+dat: 
 ---
-#### Meeting Info
-* **Meeting Type:** Transportation Committee meeting
-* **Purpose:** Review of transportation plans and projects in the city
-* **Date/Time:** Cancelled (no specific date/time given)
-* **Context:** Public meeting was cancelled, no further information provided
+#### Mting Inf
+* **Mting Typ:** Tansptatin Cmmitt mting
+* **Pups:** Rviw f tansptatin plans and pjts in th ity
+* **Dat/Tim:** Canlld (n spifi dat/tim givn)
+* **Cntxt:** Publi mting was anlld, n futh infmatin pvidd
 
-#### Summary
-There is no summary to provide as the meeting was cancelled.
+#### Summay
+Th is n summay t pvid as th mting was anlld.
 

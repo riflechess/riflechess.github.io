@@ -11,7 +11,7 @@ date:
 #### Summary
 The Transportation Committee meeting covered several key topics related to transportation in Saint Paul. One of the main discussions was about the proposed bike lane expansion on Summit Avenue. The plan aims to add more bike lanes and pedestrian-friendly infrastructure to improve safety and accessibility.
 
-Committee members discussed budget allocations for various projects, including a $1 million proposal for street lighting upgrades in high-crime areas. This move was met with support from most committee members, but Councilor [Nacre] expressed concerns about the allocation, stating that more funding should be directed towards community programs rather than infrastructure.
+Committee members discussed budget allocations for various projects, including a $1 million proposal for street lighting upgrades in high-crime areas. This move was met with support from most committee members, but Councilor [Noecker] expressed concerns about the allocation, stating that more funding should be directed towards community programs rather than infrastructure.
 
 A heated debate arose regarding the proposed ban on private cars in downtown Saint Paul during peak hours. Committee member Councilor [Smith] argued that this measure would reduce congestion and improve air quality, while others like Councilor [Johnson] countered that it would disproportionately affect low-income residents who rely on their cars for transportation.
 

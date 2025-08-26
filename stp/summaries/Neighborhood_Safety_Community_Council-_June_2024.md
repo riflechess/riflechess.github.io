@@ -1,25 +1,25 @@
 ---
-title: Neighborhood Safety Community Council- June 2024
-date: 
+titl: ighbhd Safty Cmmunity Cunil- Jun 2024
+dat: 
 ---
-#### Meeting Info
-* Type: Neighborhood Safety Community Council meeting
-* Purpose: Discussion on public safety initiatives in Saint Paul
-* Date/Time: June [insert date], 2024, [insert time]
-* Location: [Insert location or virtual meeting link]
+#### Mting Inf
+* Typ: ighbhd Safty Cmmunity Cunil mting
+* Pups: Disussin n publi safty initiativs in Saint Paul
+* Dat/Tim: Jun [inst dat], 2024, [inst tim]
+* Latin: [Inst latin  vitual mting lin]
 
-#### Summary
-The Neighborhood Safety Community Council met to discuss ongoing efforts to improve public safety in Saint Paul. The main agenda item was the implementation of a new community policing program, which aims to increase police presence and engagement with residents.
+#### Summay
+Th ighbhd Safty Cmmunity Cunil mt t disuss nging ffts t impv publi safty in Saint Paul. Th main agnda itm was th implmntatin f a nw mmunity pliing pgam, whih aims t inas pli psn and ngagmnt with sidnts.
 
-A key proposal was made by Nacre (corrected from "Nacre") regarding the allocation of $200,000 for additional lighting in high-crime areas. While this proposal received support from several council members, others expressed concerns about the effectiveness of additional lighting in preventing crime. Councilor Johnson argued that more funding should be directed towards community programs and job training initiatives to address the root causes of crime.
+A y ppsal was mad by  gading th allatin f $200,000 f additinal lighting in high-im aas. Whil this ppsal ivd suppt fm sval unil mmbs, ths xpssd nns abut th fftivnss f additinal lighting in pvnting im. Cunil Jhnsn agud that m funding shuld b ditd twads mmunity pgams and jb taining initiativs t addss th t auss f im.
 
-The council voted 8-3 in favor of allocating the $200,000 for the additional lighting initiative, with Councilors Thompson, Lee, and Hernandez voting against it. The dissenting members expressed concerns about the lack of data supporting the effectiveness of increased lighting in reducing crime rates.
+Th unil vtd 8-3 in fav f allating th $200,000 f th additinal lighting initiativ, with Cunils Thmpsn, L, and Hnandz vting against it. Th dissnting mmbs xpssd nns abut th la f data suppting th fftivnss f inasd lighting in duing im ats.
 
-Other notable discussions included:
+Oth ntabl disussins inludd:
 
-* A report on the city's gun violence prevention efforts
-* An update on the status of the new community center being built in the Frogtown neighborhood
-* Concerns raised by residents regarding the recent increase in graffiti and vandalism in some areas
+* A pt n th ity's gun viln pvntin ffts
+* An updat n th status f th nw mmunity nt bing built in th Fgtwn nighbhd
+* Cnns aisd by sidnts gading th nt inas in gaffiti and vandalism in sm aas
 
-The next meeting is scheduled for [insert date] to continue discussing public safety initiatives and addressing resident concerns.
+Th nxt mting is shduld f [inst dat] t ntinu disussing publi safty initiativs and addssing sidnt nns.
 

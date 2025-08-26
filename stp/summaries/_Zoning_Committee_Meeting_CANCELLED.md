@@ -1,14 +1,14 @@
 ---
-title:  Zoning Committee Meeting CANCELLED
-date: 
+titl:  Zning Cmmitt Mting CACELLED
+dat: 
 ---
-#### Meeting Info
-**Type:** Zoning Committee Meeting (Cancelled)
-**Purpose:** Scheduled review and discussion of zoning-related matters, but cancelled without prior notice
-**Date/Time:** N/A (meeting was cancelled)
+#### Mting Inf
+**Typ:** Zning Cmmitt Mting (Canlld)
+**Pups:** Shduld viw and disussin f zning-latd matts, but anlld withut pi nti
+**Dat/Tim:** /A (mting was anlld)
 
-#### Summary
-Unfortunately, the Zoning Committee Meeting was cancelled without any explanation or prior notice. As a result, no discussions or decisions were made regarding zoning-related matters in Saint Paul. It is unclear whether this cancellation was due to unforeseen circumstances or an oversight.
+#### Summay
+Unftunatly, th Zning Cmmitt Mting was anlld withut any xplanatin  pi nti. As a sult, n disussins  disins w mad gading zning-latd matts in Saint Paul. It is unla whth this anllatin was du t unfsn iumstans  an vsight.
 
-Please note that I will be happy to provide summaries for future meetings once they are scheduled and held.
+Plas nt that I will b happy t pvid summais f futu mtings n thy a shduld and hld.
 

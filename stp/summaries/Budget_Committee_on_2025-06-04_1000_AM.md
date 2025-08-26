@@ -1,36 +1,36 @@
 ---
-title: Budget Committee on 2025-06-04 10:00 AM
-date: 2025-06-04
+titl: Budgt Cmmitt n 2025-06-04 10:00 AM
+dat: 2025-06-04
 ---
-#### Meeting Info
-**Meeting Type:** Budget Committee
-**Purpose:** To discuss the 2025-06-04 presentation on the economic forecast and its implications for the city's budget.
-**Date/Time:** June 4, 2025, 10:00 AM
+#### Mting Inf
+**Mting Typ:** Budgt Cmmitt
+**Pups:** T disuss th 2025-06-04 psntatin n th nmi fast and its impliatins f th ity's budgt.
+**Dat/Tim:** Jun 4, 2025, 10:00 AM
 
-#### Summary
+#### Summay
 
-The meeting began with a presentation by Dr. Anthony Becker, State Economist, and Amanda Einz, Manager of the Economic Analysis Unit at the Minnesota Management and Budget (MMB). They discussed the economic forecast for the United States and Minnesota, highlighting the impact of policy uncertainty on the economy.
+Th mting bgan with a psntatin by D. Anthny B, Stat Enmist, and Amanda Einz, Manag f th Enmi Analysis Unit at th Minnsta Managmnt and Budgt (MMB). Thy disussd th nmi fast f th Unitd Stats and Minnsta, highlighting th impat f pliy untainty n th nmy.
 
-Some key points from the presentation include:
+Sm y pints fm th psntatin inlud:
 
-* The forecast predicts low growth in GDP, below 2%, due to trade policies and tariffs.
-* Inflation is expected to rise, with a potential spike in the second quarter.
-* The Federal Reserve's monetary policy will likely remain unchanged until December, with possible rate cuts in 2026.
-* Business fixed investment is expected to decline, which can precede a recession.
+* Th fast pdits lw gwth in GDP, blw 2%, du t tad pliis and taiffs.
+* Inflatin is xptd t is, with a ptntial spi in th snd quat.
+* Th Fdal Rsv's mntay pliy will lily main unhangd until Dmb, with pssibl at uts in 2026.
+* Businss fixd invstmnt is xptd t dlin, whih an pd a ssin.
 
-Amanda Imes discussed Minnesota's economy, highlighting its diverse industry base and high levels of innovation. She noted that the state has a strong headquarters economy and a highly educated labor force, but faces challenges related to population growth and immigration.
+Amanda Ims disussd Minnsta's nmy, highlighting its divs industy bas and high lvls f innvatin. Sh ntd that th stat has a stng hadquats nmy and a highly duatd lab f, but fas hallngs latd t ppulatin gwth and immigatin.
 
-Some key points from Amanda Imes' presentation include:
+Sm y pints fm Amanda Ims' psntatin inlud:
 
-* Minnesota has a triple-A rating and consistently ranks high in quality-of-life indicators.
-* The state has a diverse industry base, with a large share of employment in healthcare services, manufacturing, and financial activities.
-* Fortune 500 companies are concentrated in Minnesota, particularly in the Twin Cities.
+* Minnsta has a tipl-A ating and nsistntly ans high in quality-f-lif indiats.
+* Th stat has a divs industy bas, with a lag sha f mplymnt in haltha svis, manufatuing, and finanial ativitis.
+* Ftun 500 mpanis a nntatd in Minnsta, patiulaly in th Twin Citis.
 
-The discussion turned to the implications for St. Paul's budget, with Council Members asking about the impact on poverty rates, unemployment rates, and wages. Dr. Becker and Amanda Imes noted that while some of these metrics may be affected by national trends, Minnesota's economy is expected to respond similarly to the U.S. economy.
+Th disussin tund t th impliatins f St. Paul's budgt, with Cunil Mmbs asing abut th impat n pvty ats, unmplymnt ats, and wags. D. B and Amanda Ims ntd that whil sm f ths mtis may b afftd by natinal tnds, Minnsta's nmy is xptd t spnd similaly t th U.S. nmy.
 
-Council President Nacre asked about the recommendations for city elected officials as they enter budget season. Dr. Becker suggested considering livability, taxes, arts, social situation, job location, and education, while Amanda Imes emphasized the importance of education, connecting people to jobs, and affordable housing.
+Cunil Psidnt  asd abut th mmndatins f ity ltd ffiials as thy nt budgt sasn. D. B suggstd nsiding livability, taxs, ats, sial situatin, jb latin, and duatin, whil Amanda Ims mphasizd th imptan f duatin, nnting ppl t jbs, and affdabl husing.
 
-Finally, Council Member Johnson asked about the advice being given to the legislature regarding fiscal policy, particularly in light of potential economic uncertainty. Dr. Becker and Amanda Imes noted that cities should be aware of potential revenue shortfalls and plan accordingly, considering a lower bound for sales tax revenue and other streams of revenue.
+Finally, Cunil Mmb Jhnsn asd abut th advi bing givn t th lgislatu gading fisal pliy, patiulaly in light f ptntial nmi untainty. D. B and Amanda Ims ntd that itis shuld b awa f ptntial vnu shtfalls and plan adingly, nsiding a lw bund f sals tax vnu and th stams f vnu.
 
-The meeting concluded with thanks to Dr. Becker and Amanda Imes for their time and expertise, and the announcement of Council Vice Chair Kim's assumption of chairing duties while Chair Yang is on maternity leave.
+Th mting nludd with thans t D. B and Amanda Ims f thi tim and xptis, and th annunmnt f Cunil Vi Chai Kim's assumptin f haiing dutis whil Chai Yang is n matnity lav.
 

@@ -1,23 +1,23 @@
 ---
-title: Library Board on 2025-04-09 1:00 PM
-date: 2025-04-09
+titl: Libay Bad n 2025-04-09 1:00 PM
+dat: 2025-04-09
 ---
-#### Meeting Info
-**Type:** Library Board meeting
-**Purpose:** To discuss various library-related topics, including the Rondo Frogtown Loop, budget priorities and needs assessment for 2026, and safety initiatives.
-**Date/Time:** April 9th, 2025, 1:00 PM
-**Attendees:** Chair Jost, Council Members Bowie, Bratsky, Buoy, Johnson, Porosky, Provoskie, and Renegar, Library Director Hartman
+#### Mting Inf
+**Typ:** Libay Bad mting
+**Pups:** T disuss vaius libay-latd tpis, inluding th Rnd Fgtwn Lp, budgt piitis and nds assssmnt f 2026, and safty initiativs.
+**Dat/Tim:** Apil 9th, 2025, 1:00 PM
+**Attnds:** Chai Jst, Cunil Mmbs Bwi, Batsy, Buy, Jhnsn, Psy, Pvsi, and Rnga, Libay Dit Hatman
 
-#### Summary
-The meeting began with a welcome to new council member Bratsky and a celebration of National Library Week. The first item on the agenda was the approval of minutes from the previous meeting, which was approved unanimously.
+#### Summay
+Th mting bgan with a wlm t nw unil mmb Batsy and a lbatin f atinal Libay W. Th fist itm n th agnda was th appval f minuts fm th pvius mting, whih was appvd unanimusly.
 
-The second item was a presentation by Callie Freeman and Ben Loving about the Rondo Frogtown Loop, a collaborative network between libraries and recreation centers in Ward 1 to provide transportation and access to programs for young people. The loop has been funded by a state grant and is expected to be a sustainable program even after the grant expires.
+Th snd itm was a psntatin by Calli Fman and Bn Lving abut th Rnd Fgtwn Lp, a llabativ ntw btwn libais and atin nts in Wad 1 t pvid tansptatin and ass t pgams f yung ppl. Th lp has bn fundd by a stat gant and is xptd t b a sustainabl pgam vn aft th gant xpis.
 
-Council Members Provoskie and Renegar asked questions about the cost of the loop and its potential expansion to other wards in the city. Council Member Bowie expressed enthusiasm for the program and suggested that it could be shared with other cities as a model for collaboration between libraries and recreation centers.
+Cunil Mmbs Pvsi and Rnga asd qustins abut th st f th lp and its ptntial xpansin t th wads in th ity. Cunil Mmb Bwi xpssd nthusiasm f th pgam and suggstd that it uld b shad with th itis as a mdl f llabatin btwn libais and atin nts.
 
-The final item on the agenda was a presentation by Library Director Hartman on the 2026 library priorities and needs assessment. Director Hartman presented an overview of the library's goals, challenges, and initiatives, including the transformation of library buildings to meet current and future needs, the development of safety specialists, and the importance of literacy in the community.
+Th final itm n th agnda was a psntatin by Libay Dit Hatman n th 2026 libay piitis and nds assssmnt. Dit Hatman psntd an vviw f th libay's gals, hallngs, and initiativs, inluding th tansfmatin f libay buildings t mt unt and futu nds, th dvlpmnt f safty spialists, and th imptan f litay in th mmunity.
 
-Council Members Paratsky and Nacre asked questions about the circulation cost of e-books versus physical materials and the impact of federal funding on libraries. Council Member Bowie expressed concern about staff support and the need for a safe and welcoming space for library patrons.
+Cunil Mmbs Paatsy and  asd qustins abut th iulatin st f -bs vsus physial matials and th impat f fdal funding n libais. Cunil Mmb Bwi xpssd nn abut staff suppt and th nd f a saf and wlming spa f libay patns.
 
-The meeting ended with a discussion of the importance of libraries in the community, particularly in terms of providing access to resources and programs for young people. The council members thanked Director Hartman and her staff for their presentation and expressed enthusiasm for the library's initiatives.
+Th mting ndd with a disussin f th imptan f libais in th mmunity, patiulaly in tms f pviding ass t sus and pgams f yung ppl. Th unil mmbs thand Dit Hatman and h staff f thi psntatin and xpssd nthusiasm f th libay's initiativs.
 

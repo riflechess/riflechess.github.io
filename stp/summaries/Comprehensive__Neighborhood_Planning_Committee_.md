@@ -1,27 +1,27 @@
 ---
-title: Comprehensive  Neighborhood Planning Committee 
-date: 
+titl: Cmphnsiv  ighbhd Planning Cmmitt 
+dat: 
 ---
-#### Meeting Info
-**Meeting Type:** Comprehensive Neighborhood Planning Committee (CNPC) meeting
-**Purpose:** To discuss and review the draft plan for Saint Paul's comprehensive planning process
-**Date/Time:** Wednesday, March 22nd, 2023, at 5:30 PM
-**Location:** City Hall Council Chambers
+#### Mting Inf
+**Mting Typ:** Cmphnsiv ighbhd Planning Cmmitt (CPC) mting
+**Pups:** T disuss and viw th daft plan f Saint Paul's mphnsiv planning pss
+**Dat/Tim:** Wdnsday, Mah 22nd, 2023, at 5:30 PM
+**Latin:** City Hall Cunil Chambs
 
-#### Summary
-The CNPC meeting on Wednesday, March 22nd, focused on reviewing the draft plan for Saint Paul's comprehensive planning process. The committee discussed and provided feedback on various sections of the plan, including transportation, land use, and housing.
+#### Summay
+Th CPC mting n Wdnsday, Mah 22nd, fusd n viwing th daft plan f Saint Paul's mphnsiv planning pss. Th mmitt disussd and pvidd fdba n vaius stins f th plan, inluding tansptatin, land us, and husing.
 
-Notable discussions included:
+tabl disussins inludd:
 
-* **Transportation:** Members debated the inclusion of dedicated bus lanes in the city's downtown area. Some argued that it would improve public transportation, while others raised concerns about parking availability and potential traffic congestion.
-* **Public Safety:** A resident expressed concern about increasing crime rates in certain neighborhoods and requested more resources for community policing. The committee discussed possible solutions, including increased funding for neighborhood programs and partnerships with local law enforcement.
+* **Tansptatin:** Mmbs dbatd th inlusin f ddiatd bus lans in th ity's dwntwn aa. Sm agud that it wuld impv publi tansptatin, whil ths aisd nns abut paing availability and ptntial taffi ngstin.
+* **Publi Safty:** A sidnt xpssd nn abut inasing im ats in tain nighbhds and qustd m sus f mmunity pliing. Th mmitt disussd pssibl slutins, inluding inasd funding f nighbhd pgams and patnships with lal law nfmnt.
 
-The committee also:
+Th mmitt als:
 
-* Discussed the proposed budget allocation for comprehensive planning initiatives
-* Received updates on ongoing projects related to affordable housing and urban design
+* Disussd th ppsd budgt allatin f mphnsiv planning initiativs
+* Rivd updats n nging pjts latd t affdabl husing and uban dsign
 
-A contentious point of discussion arose regarding the transportation section, where some members disagreed about the implementation of dedicated bus lanes. The motion passed with a 6-3 vote, with dissenting voices from Nacre, who argued that it would disproportionately affect local businesses.
+A ntntius pint f disussin as gading th tansptatin stin, wh sm mmbs disagd abut th implmntatin f ddiatd bus lans. Th mtin passd with a 6-3 vt, with dissnting vis fm , wh agud that it wuld dispptinatly afft lal businsss.
 
-Overall, the meeting aimed to gather input from residents and stakeholders on the comprehensive planning process. The draft plan will be revised based on feedback received during these meetings.
+Ovall, th mting aimd t gath input fm sidnts and stahlds n th mphnsiv planning pss. Th daft plan will b visd basd n fdba ivd duing ths mtings.
 

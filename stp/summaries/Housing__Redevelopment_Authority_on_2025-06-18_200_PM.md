@@ -1,22 +1,22 @@
 ---
-title: Housing  Redevelopment Authority on 2025-06-18 2:00 PM
-date: 2025-06-18
+titl: Husing  Rdvlpmnt Authity n 2025-06-18 2:00 PM
+dat: 2025-06-18
 ---
-#### Meeting Info
-Meeting: Housing and Redevelopment Authority
-Date/Time: June 18, 2025, 2:00 PM
-Type: Live and Recorded Public meeting for City of Saint Paul
+#### Mting Inf
+Mting: Husing and Rdvlpmnt Authity
+Dat/Tim: Jun 18, 2025, 2:00 PM
+Typ: Liv and Rdd Publi mting f City f Saint Paul
 
-#### Summary
-The Housing and Redevelopment Authority met on June 18, 2025, to discuss various topics related to housing and redevelopment. The meeting started with the approval of two resolutions regarding parking enterprise revenue refunding bonds.
+#### Summay
+Th Husing and Rdvlpmnt Authity mt n Jun 18, 2025, t disuss vaius tpis latd t husing and dvlpmnt. Th mting statd with th appval f tw slutins gading paing ntpis vnu funding bnds.
 
-Chris Michaels from the Office of Neighborhood Safety presented an update on the Familiar Faces program, which aims to provide intensive care management services to individuals experiencing homelessness. The program has had initial success, with 20 individuals facilitated into housing and 8 more scheduled for placement by the end of the month. However, the team faces challenges in accessing resources, particularly from Ramsey County.
+Chis Mihals fm th Offi f ighbhd Safty psntd an updat n th Familia Fas pgam, whih aims t pvid intnsiv a managmnt svis t individuals xpining hmlssnss. Th pgam has had initial suss, with 20 individuals failitatd int husing and 8 m shduld f plamnt by th nd f th mnth. Hwv, th tam fas hallngs in assing sus, patiulaly fm Ramsy Cunty.
 
-The meeting also discussed the Familiar Families program, which is a pilot initiative aimed at providing similar services to families experiencing homelessness. Deputy Mayor Jamie Tencher explained that the program was designed based on the successes of the Familiar Faces program and has received $500,000 from the Housing Trust Fund, matched by the St. Paul and Minnesota Foundation.
+Th mting als disussd th Familia Familis pgam, whih is a pilt initiativ aimd at pviding simila svis t familis xpining hmlssnss. Dputy May Jami Tnh xplaind that th pgam was dsignd basd n th susss f th Familia Fas pgam and has ivd $500,000 fm th Husing Tust Fund, mathd by th St. Paul and Minnsta Fundatin.
 
-Commissioners expressed concerns about the long-term funding plan for both programs and asked for more information on the structure and goals of the Familiar Families program. They also discussed potential partnerships with Ramsey County and explored ways to address accountability in service delivery.
+Cmmissins xpssd nns abut th lng-tm funding plan f bth pgams and asd f m infmatin n th stutu and gals f th Familia Familis pgam. Thy als disussd ptntial patnships with Ramsy Cunty and xpld ways t addss auntability in svi dlivy.
 
-The meeting concluded with discussions about facilities for families, including a new shelter space at Bandana Square, and the direction of the Heading Home Ramsey governing board.
+Th mting nludd with disussins abut failitis f familis, inluding a nw shlt spa at Bandana Squa, and th ditin f th Hading Hm Ramsy gvning bad.
 
-Overall, the meeting highlighted the city's efforts to address homelessness through various initiatives and emphasized the importance of collaboration and partnership between different stakeholders.
+Ovall, th mting highlightd th ity's ffts t addss hmlssnss thugh vaius initiativs and mphasizd th imptan f llabatin and patnship btwn diffnt stahlds.
 

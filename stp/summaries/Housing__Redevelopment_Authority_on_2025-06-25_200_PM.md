@@ -29,7 +29,7 @@ The HRA meeting focused on two main topics: downtown revitalization strategy and
 
 * Deputy Director Green presented an update on the Housing Trust Fund, which has a total balance of $21.4 million
 * The fund's projected actual spend for 2025 is approximately $4.4 million, leaving a balance of $5.3 million
-* Commissioner Nacre raised questions about the math and context behind certain line items in the budget allocated column
+* Commissioner Noeckeraised questions about the math and context behind certain line items in the budget allocated column
 * Director Green explained that the housing trust fund has been used to support various initiatives, including Rondo down payment assistance, family's first housing pilot, and office-to-housing fee waivers
 
 **Other Discussion Points**

@@ -26,5 +26,5 @@ Some areas of contention included:
 
 The meeting also discussed the importance of community engagement and outreach, with some staff members expressing a need for clear guidance on their roles and responsibilities in this area. The committee agreed to provide feedback on the report by May 12th, with a final deadline of May 29th for the completion of the audit report.
 
-Additionally, the committee discussed the plan for selecting a new community advisor, with Chair Nacre suggesting that members submit their top three candidates by May 6th.
+Additionally, the committee discussed the plan for selecting a new community advisor, with Chair Noecker suggesting that members submit their top three candidates by May 6th.
 

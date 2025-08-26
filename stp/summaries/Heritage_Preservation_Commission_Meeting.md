@@ -1,19 +1,19 @@
 ---
-title: Heritage Preservation Commission Meeting
-date: 
+titl: Hitag Psvatin Cmmissin Mting
+dat: 
 ---
-#### Meeting Info
-**Meeting Type:** Heritage Preservation Commission Meeting
-**Purpose:** Review and discuss applications for projects at heritage sites or within heritage districts, as well as serve as an advisory body to the mayor and city council on municipal heritage preservation matters.
-**Date/Time:** Not specified in the transcript
-**Relevant Context:** The meeting is being held to review several items, including a proposal for a new front porch at 722 6th Street East in Dayton's Bluff, comments on the Metro Transit G Line, and consideration of the Theodore Ham Brewing Company Historic District nomination for the National Register of Historic Places.
+#### Mting Inf
+**Mting Typ:** Hitag Psvatin Cmmissin Mting
+**Pups:** Rviw and disuss appliatins f pjts at hitag sits  within hitag distits, as wll as sv as an advisy bdy t th may and ity unil n muniipal hitag psvatin matts.
+**Dat/Tim:** t spifid in th tansipt
+**Rlvant Cntxt:** Th mting is bing hld t viw sval itms, inluding a ppsal f a nw fnt ph at 722 6th Stt East in Daytn's Bluff, mmnts n th Mt Tansit G Lin, and nsidatin f th Thd Ham Bwing Cmpany Histi Distit nminatin f th atinal Rgist f Histi Plas.
 
-#### Summary
-The Heritage Preservation Commission meeting covered several topics. The commission approved the minutes from the December 9th meeting after correcting a minor error. They then held a public hearing on a proposal to replace the front porch at 722 6th Street East in Dayton's Bluff. Commissioners raised concerns about the design of the new columns, with some suggesting that they be more historically accurate or consistent with the surrounding area.
+#### Summay
+Th Hitag Psvatin Cmmissin mting vd sval tpis. Th mmissin appvd th minuts fm th Dmb 9th mting aft ting a min . Thy thn hld a publi haing n a ppsal t pla th fnt ph at 722 6th Stt East in Daytn's Bluff. Cmmissins aisd nns abut th dsign f th nw lumns, with sm suggsting that thy b m histially auat  nsistnt with th suunding aa.
 
-The commission also reviewed and commented on the Metro Transit G Line, which will provide fast and reliable transit service in the Rice and Robert Street corridor of St. Paul. The HPC may give comments if they choose, but they will not take action or approve a resolution. No public comments were received on this item.
+Th mmissin als viwd and mmntd n th Mt Tansit G Lin, whih will pvid fast and liabl tansit svi in th Ri and Rbt Stt id f St. Paul. Th HPC may giv mmnts if thy hs, but thy will nt ta atin  appv a slutin.  publi mmnts w ivd n this itm.
 
-Regarding the Theodore Ham Brewing Company Historic District nomination for the National Register of Historic Places, several speakers testified in support of the nomination, including Ashley Bisner from J.B. Vang Partners and Paul Hart from the St. Paul Historic Preservation Political Committee. However, Sean Ryan from CLAP Investments opposed the nomination, citing concerns that it would fast-track financing and harm their businesses and investments at the site.
+Rgading th Thd Ham Bwing Cmpany Histi Distit nminatin f th atinal Rgist f Histi Plas, sval spas tstifid in suppt f th nminatin, inluding Ashly Bisn fm J.B. Vang Patns and Paul Hat fm th St. Paul Histi Psvatin Plitial Cmmitt. Hwv, San Ryan fm CLAP Invstmnts ppsd th nminatin, iting nns that it wuld fast-ta finaning and ham thi businsss and invstmnts at th sit.
 
-The commission ultimately voted to support the nomination, with all members present voting in favor. The next step will be for the State Historic Preservation Review Board to review the nomination on February 18th.
+Th mmissin ultimatly vtd t suppt th nminatin, with all mmbs psnt vting in fav. Th nxt stp will b f th Stat Histi Psvatin Rviw Bad t viw th nminatin n Fbuay 18th.
 

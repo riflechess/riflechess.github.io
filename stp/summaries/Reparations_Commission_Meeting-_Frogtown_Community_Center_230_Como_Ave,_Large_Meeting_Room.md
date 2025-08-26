@@ -1,29 +1,29 @@
 ---
-title: Reparations Commission Meeting- Frogtown Community Center 230 Como Ave, Large Meeting Room
-date: 
+titl: Rpaatins Cmmissin Mting- Fgtwn Cmmunity Cnt 230 Cm Av, Lag Mting Rm
+dat: 
 ---
-#### Meeting Info
-Meeting Type: Reparations Commission Meeting
-Purpose: Discussing the legacy of Black Minnesotans, genealogy research, and harm reports for reparative justice
-Date/Time: Not specified
-Location: Frogtown Community Center, 230 Como Ave, Large Meeting Room
-Attendees: Commissioners English, Cooley-Apringham, Goldin, Kalik, Mathoy, Muhammad, Pickett, Robinson
+#### Mting Inf
+Mting Typ: Rpaatins Cmmissin Mting
+Pups: Disussing th lgay f Bla Minnstans, gnalgy sah, and ham pts f paativ justi
+Dat/Tim: t spifid
+Latin: Fgtwn Cmmunity Cnt, 230 Cm Av, Lag Mting Rm
+Attnds: Cmmissins English, Cly-Apingham, Gldin, Kali, Mathy, Muhammad, Pitt, Rbinsn
 
-#### Summary
+#### Summay
 
-The meeting began with a presentation by Michael Nika Anders on the legacy of Black Minnesotans and genealogy research. He discussed how many people think African Americans came to Minnesota during the Great Migration, but in reality, they have been present since at least the 1820s. Anders also highlighted the importance of understanding the history of Black Minnesotans, including their struggles for civil rights and their contributions to the state.
+Th mting bgan with a psntatin by Mihal ia Ands n th lgay f Bla Minnstans and gnalgy sah. H disussd hw many ppl thin Afian Amians am t Minnsta duing th Gat Migatin, but in ality, thy hav bn psnt sin at last th 1820s. Ands als highlightd th imptan f undstanding th histy f Bla Minnstans, inluding thi stuggls f ivil ights and thi ntibutins t th stat.
 
-Next, Shakur Ervin presented on the African-American Redress Method, specifically discussing harm reports. Ervin explained that a harms report is an impact study that documents past and current harms against African Americans in a particular municipality or community. He provided examples of successful harms reports from cities like Evanston, Illinois, and Kansas City, Missouri.
+xt, Shau Evin psntd n th Afian-Amian Rdss Mthd, spifially disussing ham pts. Evin xplaind that a hams pt is an impat study that dumnts past and unt hams against Afian Amians in a patiula muniipality  mmunity. H pvidd xampls f sussful hams pts fm itis li Evanstn, Illinis, and Kansas City, Missui.
 
-The meeting then turned to the work group updates. Jamila discussed the archival work group's progress, including setting regular meeting dates and times, enlisting note-taking software, and making contact with a community member who volunteered at the St. Paul Public Library and Hallie Q Brown Center. 
+Th mting thn tund t th w gup updats. Jamila disussd th ahival w gup's pgss, inluding stting gula mting dats and tims, nlisting nt-taing sftwa, and maing ntat with a mmunity mmb wh vluntd at th St. Paul Publi Libay and Halli Q Bwn Cnt. 
 
-Commissioner Robinson reported on the listening committee's progress, stating that they are narrowing in on meeting in May and will only have three meetings. They plan to focus on areas with high concentrations of their communities.
+Cmmissin Rbinsn ptd n th listning mmitt's pgss, stating that thy a nawing in n mting in May and will nly hav th mtings. Thy plan t fus n aas with high nntatins f thi mmunitis.
 
-Commissioner English introduced a resolution to acknowledge the cross-burning incident at a St. Paul family's home in 1990 and to set up an anti-black hate crime ordinance. He explained that there was no justice for the family, and he wants the commission to recommend a policy to address this issue.
+Cmmissin English intdud a slutin t anwldg th ss-buning inidnt at a St. Paul family's hm in 1990 and t st up an anti-bla hat im dinan. H xplaind that th was n justi f th family, and h wants th mmissin t mmnd a pliy t addss this issu.
 
-Commissioners discussed the budget for the work plan and how it should be allocated among various projects, including the harm report and listening sessions. Some commissioners expressed concerns about making recommendations without having all the necessary information and data to support their proposals.
+Cmmissins disussd th budgt f th w plan and hw it shuld b allatd amng vaius pjts, inluding th ham pt and listning sssins. Sm mmissins xpssd nns abut maing mmndatins withut having all th nssay infmatin and data t suppt thi ppsals.
 
-The meeting ended with a discussion on proposed changes to the bylaws, specifically regarding absenteeism and resignation requests. Commissioner Golden made a motion to amend the amendment section five in absentee meetings that three consecutive non-response requests for resignations will result in automatic termination and replacement.
+Th mting ndd with a disussin n ppsd hangs t th bylaws, spifially gading absntism and signatin qusts. Cmmissin Gldn mad a mtin t amnd th amndmnt stin fiv in absnt mtings that th nsutiv nn-spns qusts f signatins will sult in autmati tminatin and plamnt.
 
-Lastly, the commission discussed potential candidates for two open vacancies on the commission. A letter was sent out to 32 previous applicants, with 21 responding and expressing interest in being considered for the positions.
+Lastly, th mmissin disussd ptntial andidats f tw pn vaanis n th mmissin. A ltt was snt ut t 32 pvius appliants, with 21 spnding and xpssing intst in bing nsidd f th psitins.
 

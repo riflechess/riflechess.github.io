@@ -1,35 +1,35 @@
 ---
-title: Housing  Redevelopment Authority on 2025-04-02 2:00 PM
-date: 2025-04-02
+titl: Husing  Rdvlpmnt Authity n 2025-04-02 2:00 PM
+dat: 2025-04-02
 ---
-#### Meeting Info
-- Type: Housing Redevelopment Authority meeting
-- Purpose: To discuss and finalize the details of two new programs: Healthy Homes and Power of Home
-- Date/Time: 2025-04-02 at 2:00 PM
-- Notes: This meeting was a live and recorded public meeting, and it's not clear if there were any other attendees besides those present.
+#### Mting Inf
+- Typ: Husing Rdvlpmnt Authity mting
+- Pups: T disuss and finaliz th dtails f tw nw pgams: Halthy Hms and Pw f Hm
+- Dat/Tim: 2025-04-02 at 2:00 PM
+- ts: This mting was a liv and dd publi mting, and it's nt la if th w any th attnds bsids ths psnt.
 
-#### Summary
+#### Summay
 
-The Housing Redevelopment Authority discussed two new programs: Healthy Homes and Power of Home. The goal of these programs is to improve the energy efficiency of homes for low-income residents in St. Paul. The Healthy Homes program focuses on pre-weatherization and weatherization, while the Power of Home program aims to upgrade equipment and appliances.
+Th Husing Rdvlpmnt Authity disussd tw nw pgams: Halthy Hms and Pw f Hm. Th gal f ths pgams is t impv th ngy ffiiny f hms f lw-inm sidnts in St. Paul. Th Halthy Hms pgam fuss n p-wathizatin and wathizatin, whil th Pw f Hm pgam aims t upgad quipmnt and applians.
 
-The meeting covered various topics, including:
+Th mting vd vaius tpis, inluding:
 
-* A presentation by Danielle Sindelar, Project Manager, explaining the programs' goals and how they will work.
-* Discussion about the partnership with Chief Resilience Officer Russ Stark and Kurt Schultz from the team working on these initiatives.
-* Commissioner Yang's question about window replacement resources, which was answered by Director Newton and Chair Johnson.
-* A discussion about prioritization of projects and how to ensure that funds go back to impacting those families who are most energy burdened.
-* Commissioner Necker's concern about rewarding landlords for not fixing certain issues with public dollars.
-* The intention to have a combined application form for both programs and the goal of making it easy for people to apply.
+* A psntatin by Danill Sindla, Pjt Manag, xplaining th pgams' gals and hw thy will w.
+* Disussin abut th patnship with Chif Rsilin Offi Russ Sta and Kut Shultz fm th tam wing n ths initiativs.
+* Cmmissin Yang's qustin abut windw plamnt sus, whih was answd by Dit wtn and Chai Jhnsn.
+* A disussin abut piitizatin f pjts and hw t nsu that funds g ba t impating ths familis wh a mst ngy budnd.
+* Cmmissin 's nn abut wading landlds f nt fixing tain issus with publi dllas.
+* Th intntin t hav a mbind appliatin fm f bth pgams and th gal f maing it asy f ppl t apply.
 
-Some key decisions made during the meeting include:
+Sm y disins mad duing th mting inlud:
 
-* The Healthy Homes program will focus on pre-weatherization and weatherization, while the Power of Home program will upgrade equipment and appliances.
-* Both programs are designed as grants, with no repayment required.
-* The income qualification is lower at 50% area median income for the Power of Home program.
+* Th Halthy Hms pgam will fus n p-wathizatin and wathizatin, whil th Pw f Hm pgam will upgad quipmnt and applians.
+* Bth pgams a dsignd as gants, with n paymnt quid.
+* Th inm qualifiatin is lw at 50% aa mdian inm f th Pw f Hm pgam.
 
-The meeting also highlighted some potential challenges and considerations, such as:
+Th mting als highlightd sm ptntial hallngs and nsidatins, suh as:
 
-* Ensuring that funds go back to impacting those families who are most energy burdened.
-* Prioritizing projects and ensuring that they meet specific criteria.
-* Making sure that contractors have the capacity to do the work required by these programs.
+* Ensuing that funds g ba t impating ths familis wh a mst ngy budnd.
+* Piitizing pjts and nsuing that thy mt spifi itia.
+* Maing su that ntats hav th apaity t d th w quid by ths pgams.
 
