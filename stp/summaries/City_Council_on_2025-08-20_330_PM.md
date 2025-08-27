@@ -3,26 +3,34 @@ title: City Council on 2025-08-20 3:30 PM
 date: 2025-08-20
 ---
 #### Meeting Info
-**Type:** City Council Meeting
-**Purpose:** Public Meetings of City Council on 2025-08-20 3:30 PM for City of Saint Paul
-**Date/Time:** August 20, 2025, 3:30 PM
-**Context:** The meeting was attended by city council members and included discussion and voting on various resolutions, ordinances, and public hearings.
+* **Type:** City Council Meeting
+* **Date/Time:** 2025-08-20, 3:30 PM
+* **Purpose:** Review of various city ordinances and resolutions, discussion on public safety and quality of life issues, recognition of the Minnesota Toy Library's one-year anniversary, and updates on redevelopment projects.
 
 #### Summary
 
-The meeting began with a motion to approve the balance of the consent agenda, which was adopted. Item 18 was a resolution celebrating the one-year anniversary of the Minnesota Toy Library in St. Paul. The library provides toys for children from birth to five years old and aims to reduce waste associated with playtime.
+The meeting began with a presentation by Council Chair Johnson recognizing the Minnesota Toy Library's one-year anniversary. The library provides access to toys for children in low-income families while reducing waste associated with playtime. Members of the toy library shared their experiences and stories about their favorite childhood toys, highlighting the importance of the organization.
 
-Council members shared their favorite childhood toys and praised the library's innovative approach. Council President Johnson commended the library's work and introduced its leaders, who explained how the toy library operates. The resolution was adopted unanimously.
+Next, the council reviewed several ordinances, including:
 
-Item 19 involved the final adoption of an ordinance approving the application for rezoning properties at Six 94 Minnehaha Avenue East from industrial to residential. Chair Johnson supported the motion, stating that it would create affordable housing and redevelop a vacant site.
+1. **Resolution 25-1307:** Celebrating the one-year anniversary of the Minnesota Toy Library.
+2. **Ordinance 25-46:** Approving the application for re-zoning properties at 694 Minnehaha Avenue East from industrial to residential use.
+3. **Ordinance 25-47:** Amending the zoning study on sober houses and supportive housing facilities.
 
-The council also discussed zoning regulations for sober houses and supportive housing facilities. A public hearing was held on Item 21 regarding changes to Margaret Street between Arcade and East 7th Streets. The proposed change would convert a one-way street to two-way traffic, but there were no speakers in opposition.
+The council also held public hearings on several items, including:
 
-Several items involved public hearings on resolutions related to parks and recreation, including using parkland dedication funds for the Linwood Park improvements project. Another resolution was adopted to accept grant funds for Hamsbury redevelopment at 680-695 Minnehaha Avenue East.
+1. **Resolution Public Hearing 25-163:** Amending the financing and spending plan for the Department of Parks and Recreation.
+2. **Resolution Public Hearing 25-171:** Accepting grant funds for a pre-development grant program related to the Hamsbury redevelopment project.
 
-A contentious item was a public hearing on Item 24, which approved three sound variance requests from the University of St. Thomas for events in the stadium. An advocate from the neighborhood expressed concerns about noise levels and potential impacts on residents, but Councilor Provradsky supported the motion, stating that it would bring thousands of fans to the area.
+A key discussion point was the ratification of Special Tax Assessments for properties at 992 Arcade Street and 815 University Avenue West. The council members expressed concerns about communication between city staff and property owners, leading to proposed resolutions being laid over for further review.
 
-A special tax assessment was discussed regarding property at 815 University Avenue West. The property owner, Greg Ryan, testified that he had been informed by a police officer that the city would cover the cleanup costs, leading to confusion and miscommunication about responsibilities. After discussion, the council decided to lay over the resolution for two weeks to gather more information.
+The meeting concluded with a farewell to Council Member Provozki, who has been an interim member of the council. His colleagues praised his dedication and passion for public service, and Mayor Carter acknowledged his contributions.
 
-The meeting concluded with tributes to Councilor Provradsky's service as an interim member, with praise from fellow councilors and the mayor. The last item on the agenda was a public hearing on remaining legislative items, which were closed after no further speakers were heard.
+Other notable news from the meeting includes:
+
+1. **Council Member Bowie's Wedding:** The council celebrated her recent wedding at the State Capitol.
+2. **Get Down Event:** The city is hosting a music event, "The Get Down," featuring artists Juice Lord and Brother Ali.
+3. **Earl Street Reconstruction Project:** A reconstruction project for Earl Street will be discussed in a public meeting on August 21st.
+
+Overall, the meeting covered various topics related to city ordinances, redevelopment projects, and public safety issues, while also acknowledging the contributions of Council Member Provozki and celebrating the wedding of Council Member Bowie.
 
