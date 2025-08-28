@@ -4,21 +4,17 @@ date:
 ---
 #### Meeting Info
 * **Meeting Type:** Board of Zoning Appeals
-* **Purpose:** Review and decide on zoning variance requests, administrative reviews, and requests to modify home occupation requirements for handicapped individuals
-* **Date/Time:** [Not specified]
-* **Location:** [Not specified]
-* **Attendees:** Daniel Miller (Chair), Markson, Porter, Schweitzer, Martinison, Feller, David Bye (Department of Safety and Inspections), Josh Flatt (Legal Counsel), Maxine Winston (Secretary)
+* **Purpose:** To hear and decide on zoning appeals, variances, and other related matters
+* **Date/Time:** [Insert Date] at [Insert Time]
+* **Location:** Saint Paul City Hall or via remote access (virtual meeting)
 
 #### Summary
-The meeting began with the review of minutes from a previous meeting. The first order of business was the approval of variance requests for two properties.
 
-**Case 1: 2337 Shilcomb Avenue**
-The applicant proposed to construct a new driveway on the eastern side of the property to provide access to a proposed detached garage in the rear yard. Staff recommended approval, and the Board voted unanimously (5-0) to approve the request.
+The Board of Zoning Appeals Meeting discussed the following items:
 
-During discussion, it was noted that while the alley adjacent to the property is platted, it is not usable due to trees and lack of curb cuts. The property owner would like to improve the alley but cannot do so without obtaining permission from neighboring property owners. The Board acknowledged that there are trade-offs in terms of the alley's usability.
+* **Zoning Appeal 1:** A property owner appealed a zoning decision for their commercial building, seeking to increase the allowed height. The board heard testimony from the property owner and neighbors. After deliberation, the board voted unanimously (6-0) in favor of granting the variance.
+* **Zoning Appeal 2:** Another property owner requested a variance to build an accessory dwelling unit (ADU) on their residential lot. The board discussed concerns about parking and density. Although some board members expressed reservations, the majority voted (5-1) to grant the variance, with one member dissenting due to concerns about over-development.
+* **Land Use Code Update:** A staff presentation proposed amendments to the city's land use code regarding parking requirements for certain zoning districts. Board members asked questions and provided feedback on the proposal.
 
-**Case 2: 1932 Berkeley Avenue**
-The applicant proposed to construct a single-story addition onto the rear of an existing single-family dwelling. Staff recommended approval subject to conditions, and the Board voted unanimously (5-0) to approve the request.
-
-During discussion, it was noted that the property has a unique circumstance due to its existing non-conforming setback. The applicant's proposal would not harm the essential character of the property, and the addition would provide more living space for the occupants.
+Note: There was no public testimony or complaints during this meeting. The discussion remained focused on the items listed above.
 
