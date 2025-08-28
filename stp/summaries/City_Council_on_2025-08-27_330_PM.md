@@ -4,26 +4,31 @@ date: 2025-08-27
 ---
 #### Meeting Info
 
-* **Type**: City Council Meeting
-* **Purpose**: Discussion and voting on various items, including tree preservation ordinance, street changes, and assessments
-* **Date/Time**: August 27, 2025, 3:30 PM
-* **Location**: City of Saint Paul Council Chambers
+* **Meeting Type:** City Council Meeting
+* **Date and Time:** August 27, 2025, 3:30 PM
+* **Purpose:** To discuss and vote on various items related to tree preservation, street changes, and property assessments.
 
 #### Summary
 
-The meeting began with a moment of silence for the victims of gun violence in the community. The council then moved on to discuss the consent agenda items, which included appointing new council member Molly Coleman to various boards and commissions.
+**Tree Preservation Ordinance**
 
-Next, the council discussed the final adoption of an ordinance amending title 4 of the administrative code to add chapter 92, title tree preservation for city-sponsored projects. Director Rodriguez and Director Kershaw provided updates on the progress made over the past six months, including the development of draft language and a public engagement process. The council agreed to lay over the item until December 10th.
+The council discussed a proposed ordinance to amend the city's tree preservation policy. Director Rodriguez and Director Kershaw presented an update on the progress made over the past six months, including the development of draft language and internal staff work. The council acknowledged that there are complexities in balancing tree preservation with infrastructure needs, such as sidewalk repair and maintenance.
 
-The meeting also included discussion on the final adoption of ordinance 25-45, changing one block of Margaret Street from arcade street and east 7th street from a one-way street westbound to a two-way street in accordance with chapter 147 of the legislative code. The council unanimously approved this item.
+The council decided to layover the item until December 10th to allow for further work on the ordinance and policies. The public input group, led by Bridgette Allen Alice, expressed their desire to continue participating in the policy-making process.
 
-In other matters, the council discussed a proposed amendment to chapter 130 of the city's legislative code, which governs the vacation of city right-of-way. This proposal aims to make the vacation process more efficient and streamlined for property owners and developers. A public hearing was scheduled for next week on this item.
+**Street Change**
 
-The meeting also touched on various other items, including a request from Energy Park Utility Company to amend rates, and an application from Nativity of Our Lord Catholic Parish School for sound level variance at their county fair event.
+The council approved a resolution to change one block of Margaret Street from a one-way street westbound to a two-way street in accordance with Chapter 147 of the Legislative Code.
 
-A contentious issue arose during discussion of the vacant building fee assessment at 1350 Hague Avenue. The property owners, Bradley and Ashley Taylor, expressed confusion about the assessment process and claimed they had been misinformed by DSI staff. They argued that the vacant building fee should be reduced to $2,537 from the original $5,075 due to the misunderstanding.
+**Vacant Building Fee Assessment**
 
-The council ultimately decided to lay over this item for two weeks to allow additional information to be submitted by the property owners. This decision was met with some opposition from Council Member Johnson, who voted against the layover and expressed concerns about moving forward on the assessment matter.
+Council Member Bui presented a proposal to reduce the vacant building fee assessment by half, from $5,075 to $2,537. The council laid over the item for two weeks to allow for additional information to be provided by the property owners and staff.
 
-Finally, the meeting concluded with a review of the legislative hearing consent agenda items, which were approved as amended after a public hearing.
+**Public Hearings**
+
+The council held public hearings on various items related to sound level variances for events at Nativity of Our Lord Catholic Parish School and Lumen Christie Catholic Community.
+
+**Legislative Hearing Items**
+
+The council adopted consent agenda items 20-30, with some amendments.
 
