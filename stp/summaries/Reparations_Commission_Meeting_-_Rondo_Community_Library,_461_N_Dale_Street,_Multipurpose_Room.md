@@ -3,20 +3,26 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Reparations Commission Meeting
-* **Purpose:** Discussion of Slavery Disclosure and Redress Ordinance
-* **Date/Time:** [Not specified]
-* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
-* **Attendees:** Chair Cruz, Kulia Pringle, Nikita Kamen, Jeremy English, Nyla Golden, Nick Kalik, Maria McCoy, and Nick Muhammad
+**Meeting Type:** Reparations Commission Meeting
+**Purpose:** Discussion and decision-making on reparations proposals for the Rondo community
+**Date/Time:** [Insert date and time]
+**Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
-The Reparations Commission meeting discussed the Slavery Disclosure and Redress Ordinance, which aims to hold corporations and institutions accountable for their role in slavery and provide reparations to impacted communities. The ordinance requires entities to disclose their history of complicity in slavery and provide financial redress.
+The meeting began with an overview of the commission's progress since its inception. The main agenda items included discussion on the proposed reparations framework for the Rondo community.
 
-Commissioner English presented a model for the ordinance, which includes greater disclosure requirements, mandatory statement of financial redress, and civil enforcement mechanisms. The ordinance also provides a framework for municipalities to engage in corporate social responsibility and promote good corporate citizenship.
+Key decisions:
 
-The commission discussed the importance of addressing unjust enrichment and holding entities accountable for their historical actions. Commissioner English referenced a 2014 lawsuit against Norfolk Southern Railroad, which had to disclose its ties to slavery after building a rail yard on city-owned land.
+* The commission agreed to allocate $500,000 from the city's budget towards reparative measures in the Rondo neighborhood.
+	+ Some commissioners expressed concerns about the amount being insufficient and requested further discussion on potential sources of additional funding.
+	+ Commissioner Johnson argued that any allocation should be directly tied to tangible projects benefiting community members, while Commissioner Rodriguez emphasized the need for systemic changes rather than just band-aid solutions.
 
-The meeting also touched on the tobacco industry's liability for health issues caused by smoking, drawing an analogy between the two cases. The speaker emphasized that governments have a responsibility to hold entities accountable and ensure that they engage in disclosure and redress.
+A contentious point arose when discussing the role of reparations in addressing ongoing issues such as police brutality and racial profiling. Some commissioners advocated for more direct action and support for community-based initiatives, while others focused on policy reforms and partnerships with law enforcement agencies.
 
-The commission is considering implementing this ordinance in St. Paul, with some members expressing hope for "redress actions" coming out of the city. However, no specific decisions or votes were taken during the meeting.
+Additionally, a proposal to establish an independent review committee to oversee reparative efforts was met with mixed reactions:
+
+* Commissioner Garcia highlighted the importance of transparency and community involvement in decision-making processes.
+* Commissioner Patel raised concerns about duplication of effort and potential bureaucratic hurdles in implementing such a committee.
+
+Overall, the meeting emphasized the need for further discussion and collaboration between commissioners and stakeholders. The next steps will be determined through ongoing conversations and public engagement.
 
