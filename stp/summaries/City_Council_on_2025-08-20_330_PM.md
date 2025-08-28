@@ -3,34 +3,38 @@ title: City Council on 2025-08-20 3:30 PM
 date: 2025-08-20
 ---
 #### Meeting Info
-* **Type:** City Council Meeting
-* **Date/Time:** 2025-08-20, 3:30 PM
-* **Purpose:** Review of various city ordinances and resolutions, discussion on public safety and quality of life issues, recognition of the Minnesota Toy Library's one-year anniversary, and updates on redevelopment projects.
+**Meeting Type:** City Council Meeting
+**Date/Time:** August 20, 2025, 3:30 PM
+**Location:** City Hall, Saint Paul, Minnesota
+**Agenda:** Legislative Hearing and Public Hearings on various items, including resolutions and ordinances related to zoning, public safety, and community development.
 
 #### Summary
 
-The meeting began with a presentation by Council Chair Johnson recognizing the Minnesota Toy Library's one-year anniversary. The library provides access to toys for children in low-income families while reducing waste associated with playtime. Members of the toy library shared their experiences and stories about their favorite childhood toys, highlighting the importance of the organization.
+The meeting began with a resolution celebrating the one-year anniversary of the Minnesota Toy Library in St. Paul. Council members shared their favorite childhood toys and expressed admiration for the organization's mission to provide accessible and sustainable play options for children.
 
-Next, the council reviewed several ordinances, including:
+Next, the council approved several resolutions and ordinances, including:
 
-1. **Resolution 25-1307:** Celebrating the one-year anniversary of the Minnesota Toy Library.
-2. **Ordinance 25-46:** Approving the application for re-zoning properties at 694 Minnehaha Avenue East from industrial to residential use.
-3. **Ordinance 25-47:** Amending the zoning study on sober houses and supportive housing facilities.
+* Resolution 25-1307: Celebrating the one-year anniversary of the Minnesota Toy Library
+* Ordinance 25-46: Approving the rezoning of properties at 6th St. and Minnehaha Ave. to allow for affordable housing development
+* Ordinance 25-47: Approving an interim ordinance related to sober houses and supportive housing facilities
 
-The council also held public hearings on several items, including:
+The council also conducted public hearings on several items, including:
 
-1. **Resolution Public Hearing 25-163:** Amending the financing and spending plan for the Department of Parks and Recreation.
-2. **Resolution Public Hearing 25-171:** Accepting grant funds for a pre-development grant program related to the Hamsbury redevelopment project.
+* Resolution Public Hearing 25-163: Amending the financing and spending plan in the Department of Parks and Recreation
+* Resolution Public Hearing 25-171: Accepting grant funds and authorizing execution of a grant agreement for the Hamsbury redevelopment project
+* Resolution Public Hearing 25-172: Approving sound variances for events at the University of St. Thomas Stadium
 
-A key discussion point was the ratification of Special Tax Assessments for properties at 992 Arcade Street and 815 University Avenue West. The council members expressed concerns about communication between city staff and property owners, leading to proposed resolutions being laid over for further review.
+During the public hearing on Item 24, Daniel Kennedy from Advocates for Responsible Development spoke against the proposed sound variances, citing concerns about noise levels and balance between the needs of the university and the surrounding neighborhood.
 
-The meeting concluded with a farewell to Council Member Provozki, who has been an interim member of the council. His colleagues praised his dedication and passion for public service, and Mayor Carter acknowledged his contributions.
+The council also conducted a legislative hearing on items 25-61, including RLHTA 25-306: Ratifying the Appeals Special Tax Assessment for property at 992 Arcade St. The hearing officer, Ms. Mormon, explained that the city had secured the building after an arson fire in January and was seeking reimbursement from the owner.
 
-Other notable news from the meeting includes:
+Council member Pervozsky presented his final motion to approve the balance of the legislative hearing agenda items with modifications made by the legislative hearing officer. The motion passed unanimously.
 
-1. **Council Member Bowie's Wedding:** The council celebrated her recent wedding at the State Capitol.
-2. **Get Down Event:** The city is hosting a music event, "The Get Down," featuring artists Juice Lord and Brother Ali.
-3. **Earl Street Reconstruction Project:** A reconstruction project for Earl Street will be discussed in a public meeting on August 21st.
+The meeting concluded with a farewell to Council Member Provozki, who is leaving office after serving as an interim council member. Mayor Carter and other council members praised Provozky for his dedication, leadership, and commitment to community development.
 
-Overall, the meeting covered various topics related to city ordinances, redevelopment projects, and public safety issues, while also acknowledging the contributions of Council Member Provozki and celebrating the wedding of Council Member Bowie.
+Other notable announcements included:
+
+* Council Member Yang's recent wedding at the state capital
+* The upcoming Get Down music festival in St. Paul, which will feature artists including Juice Lord and Brother Ali
+* The Earl Street Reconstruction Project, a public works project that will reconstruct approximately one mile of Earl Street between Minnehaha Avenue and Maryland Avenue.
 
