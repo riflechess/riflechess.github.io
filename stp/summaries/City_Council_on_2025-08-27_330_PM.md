@@ -3,32 +3,24 @@ title: City Council on 2025-08-27 3:30 PM
 date: 2025-08-27
 ---
 #### Meeting Info
-
-* **Meeting Type:** City Council Meeting
-* **Date and Time:** August 27, 2025, 3:30 PM
-* **Purpose:** To discuss and vote on various items related to tree preservation, street changes, and property assessments.
+**Type:** City Council Meeting
+**Purpose:** Discussion and voting on various city ordinances, resolutions, and budget allocations
+**Date/Time:** August 27, 2025, 3:30 PM
+**Location:** City Hall, Saint Paul, MN
 
 #### Summary
 
-**Tree Preservation Ordinance**
+The meeting began with a moment of silence for the victims of gun violence in the community. The council welcomed new member Molly Coleman and approved the consent agenda items.
 
-The council discussed a proposed ordinance to amend the city's tree preservation policy. Director Rodriguez and Director Kershaw presented an update on the progress made over the past six months, including the development of draft language and internal staff work. The council acknowledged that there are complexities in balancing tree preservation with infrastructure needs, such as sidewalk repair and maintenance.
+The main topic of discussion was the tree preservation ordinance, which has been in development for six months. Director Rodriguez and Kershaw presented on the progress made so far, including draft language, internal team work, and public engagement. They emphasized the importance of balancing tree preservation with infrastructure needs and developing a policy that is both effective and enforceable.
 
-The council decided to layover the item until December 10th to allow for further work on the ordinance and policies. The public input group, led by Bridgette Allen Alice, expressed their desire to continue participating in the policy-making process.
+Council members discussed the complexity of implementing such an ordinance and how it interacts with external entities like state and federal agencies. The council decided to lay over the item until December 10th for further review.
 
-**Street Change**
+The meeting also included public hearings on various resolutions, including one to approve the request of Energy Park Utility Company to amend rates and another to allow Nativity of Our Lord Catholic Parish School to present live amplified sound at their event. The council approved both resolutions after hearing from representatives from each organization.
 
-The council approved a resolution to change one block of Margaret Street from a one-way street westbound to a two-way street in accordance with Chapter 147 of the Legislative Code.
+A contentious issue arose during the discussion of a vacant building fee assessment on a property in the 1300 block of Hague Avenue. The owners, Bradley and Ashley Taylor, claimed that they had been confused about the letters they received regarding the assessment and that staff had told them to ignore the letters. They requested a reduction in the assessment from $5,075 to $2,537.
 
-**Vacant Building Fee Assessment**
+Council members discussed the issue and decided to lay over the item for two weeks to allow the owners to provide additional documentation of their attempts to communicate with staff about the assessment.
 
-Council Member Bui presented a proposal to reduce the vacant building fee assessment by half, from $5,075 to $2,537. The council laid over the item for two weeks to allow for additional information to be provided by the property owners and staff.
-
-**Public Hearings**
-
-The council held public hearings on various items related to sound level variances for events at Nativity of Our Lord Catholic Parish School and Lumen Christie Catholic Community.
-
-**Legislative Hearing Items**
-
-The council adopted consent agenda items 20-30, with some amendments.
+The meeting concluded with a public hearing on the balance of legislative hearing items, which were all approved by the council.
 
