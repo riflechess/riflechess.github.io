@@ -3,19 +3,21 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Type**: Zoning Committee Meeting
-* **Purpose**: Discussion and review of zoning proposals and applications within the city of Saint Paul
-* **Date/Time**: [Insert Date and Time]
-* **Location**: [Insert Location]
+**Meeting Type:** Zoning Committee Meeting
+**Purpose:** To discuss and vote on zoning proposals, variances, and other land use matters affecting the City of Saint Paul
+**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM
 
 #### Summary
-The meeting started with a presentation by the Noecker (Noecker) office regarding the proposed development on the corner of University Avenue and Western Street. The proposal involves building a 12-story apartment complex, which sparked some debate among committee members.
+The meeting began with a presentation by the Planning Department regarding upcoming developments in the Downtown East area. The main agenda items were:
 
-One concern raised was the potential impact on traffic in the area, given the proximity to the university. Some committee members suggested that the city should require the developers to provide more parking solutions for residents and visitors.
+* Zoning proposal for a new high-rise residential building at 7th and Wacouta (Proposal #23-01)
+	+ Discussion centered around parking and density concerns
+	+ Committee members proposed amendments to reduce building height and increase on-site parking
+* Variance request for a new commercial building on Snelling Avenue (Varianc#23-02)
+	+ Some committee members expressed concerns about increased traffic congestion in the area
+	+ A vote was taken, with 4 members voting yes and 1 member voting no
 
-The main discussion point was whether the proposed building height complies with current zoning regulations. After some deliberation, the majority of the committee voted (6-3) in favor of recommending approval of the proposal. However, two Noecker (Noecker) representatives expressed concerns about the project's potential strain on local infrastructure.
+The proposal for 7th and Wacouta passed with a 5-2 vote after amendments were made to address parking and density concerns. The variance request for Snelling Avenue failed by a single vote.
 
-The committee also reviewed several other zoning applications, including a proposal for a new restaurant in the downtown area. Most of these were approved with little discussion.
-
-Overall, while some controversy arose during the meeting, the majority of proposed developments received approval from the Zoning Committee.
+Committee Chair emphasized the importance of considering public safety and quality of life when making zoning decisions, particularly in areas like Downtown East that are rapidly developing.
 
