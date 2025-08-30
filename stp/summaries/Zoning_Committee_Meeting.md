@@ -3,21 +3,19 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** To discuss and vote on zoning proposals, variances, and other land use matters affecting the City of Saint Paul
-**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM
+
+* **Meeting Type:** Zoning Committee Meeting
+* **Purpose:** Review and discuss proposed zoning changes, variances, and development projects in the City of Saint Paul
+* **Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
+* **Location:** City Council Chambers, 200 4th Street East, St. Paul, MN
 
 #### Summary
-The meeting began with a presentation by the Planning Department regarding upcoming developments in the Downtown East area. The main agenda items were:
 
-* Zoning proposal for a new high-rise residential building at 7th and Wacouta (Proposal #23-01)
-	+ Discussion centered around parking and density concerns
-	+ Committee members proposed amendments to reduce building height and increase on-site parking
-* Variance request for a new commercial building on Snelling Avenue (Varianc#23-02)
-	+ Some committee members expressed concerns about increased traffic congestion in the area
-	+ A vote was taken, with 4 members voting yes and 1 member voting no
+The Zoning Committee meeting covered several key topics:
 
-The proposal for 7th and Wacouta passed with a 5-2 vote after amendments were made to address parking and density concerns. The variance request for Snelling Avenue failed by a single vote.
+* **Proposal for Mixed-Use Development on Grand Avenue**: The committee reviewed a proposal to redevelop a site on Grand Avenue with a mix of residential units and commercial space. After discussion, the committee voted 5-2 in favor of recommending approval of the plan, pending further review by the Planning Commission.
+* **Height Variance Request for High-Rise Development**: A developer requested a height variance for a proposed high-rise building in the Lowertown neighborhood. The committee debated the merits of granting the variance, with some members expressing concerns about potential impacts on nearby residents and businesses. Ultimately, the committee voted 4-3 against recommending approval of the variance.
+* **Zoning Code Update**: The committee discussed proposed changes to the city's zoning code, including updates to parking requirements and setbacks for certain types of buildings. After some discussion, the committee voted unanimously in favor of sending the proposals to the Planning Commission for further review.
 
-Committee Chair emphasized the importance of considering public safety and quality of life when making zoning decisions, particularly in areas like Downtown East that are rapidly developing.
+The most contentious issue of the evening was the height variance request, with several members expressing strong opinions on both sides of the debate. One member argued that granting the variance would be a "slippery slope" and would set a precedent for future developments, while another member countered that the developer had made concessions to mitigate potential impacts and that denying the variance would be unfair.
 
