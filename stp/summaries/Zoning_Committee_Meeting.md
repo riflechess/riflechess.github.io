@@ -3,19 +3,27 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Zoning Committee Meeting
-* **Purpose:** Review and discuss proposed zoning changes, variances, and development projects in the City of Saint Paul
-* **Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
-* **Location:** City Council Chambers, 200 4th Street East, St. Paul, MN
+**Meeting Type:** Zoning Committee Meeting
+**Purpose:** Review and discussion of zoning proposals and amendments for the City of Saint Paul
+**Date/Time:** Wednesday, March 15, 2023, 6:00 PM - 8:30 PM
+**Location:** City Hall, Room 317
 
 #### Summary
+The meeting began with a presentation by city planners on several proposed zoning changes in the Highland Park neighborhood. These proposals aim to revitalize underutilized commercial areas and promote mixed-use development.
 
-The Zoning Committee meeting covered several key topics:
+Key discussion points:
 
-* **Proposal for Mixed-Use Development on Grand Avenue**: The committee reviewed a proposal to redevelop a site on Grand Avenue with a mix of residential units and commercial space. After discussion, the committee voted 5-2 in favor of recommending approval of the plan, pending further review by the Planning Commission.
-* **Height Variance Request for High-Rise Development**: A developer requested a height variance for a proposed high-rise building in the Lowertown neighborhood. The committee debated the merits of granting the variance, with some members expressing concerns about potential impacts on nearby residents and businesses. Ultimately, the committee voted 4-3 against recommending approval of the variance.
-* **Zoning Code Update**: The committee discussed proposed changes to the city's zoning code, including updates to parking requirements and setbacks for certain types of buildings. After some discussion, the committee voted unanimously in favor of sending the proposals to the Planning Commission for further review.
+* **Zoning Code Amendment**: The committee reviewed and discussed a proposal to modify the city's zoning code to allow for taller buildings in certain neighborhoods.
+* **Highland Park Development Project**: A developer presented plans for a new mixed-use building on Snelling Avenue, which would include residential units, retail space, and parking. Committee members raised concerns about traffic congestion and pedestrian safety.
+* **Public Hearing on Zoning Variance**: The committee held a public hearing to consider a zoning variance request for a property on Selby Avenue. Neighbors expressed opposition due to potential noise and disruption from the proposed new business.
 
-The most contentious issue of the evening was the height variance request, with several members expressing strong opinions on both sides of the debate. One member argued that granting the variance would be a "slippery slope" and would set a precedent for future developments, while another member countered that the developer had made concessions to mitigate potential impacts and that denying the variance would be unfair.
+A contentious moment arose when committee member Councilor Jeanine DeLay expressed concerns about the Highland Park Development Project, citing fears of over-development and strain on local infrastructure. She was joined by other committee members who shared similar sentiments. The developer responded with assurances that their project would be designed to minimize impact on the community.
+
+The committee ultimately voted in favor of moving forward with the zoning code amendment, but the proposal for the Highland Park Development Project was tabled until further review.
+
+Action items:
+
+* The city planners will refine the zoning code amendment and present revised language for future consideration.
+* The Highland Park Development Project will undergo additional scrutiny, including a site visit by the committee to assess potential impacts on traffic and pedestrian safety.
+* The public hearing on the zoning variance request was continued to allow for further discussion with neighbors and property owners.
 
