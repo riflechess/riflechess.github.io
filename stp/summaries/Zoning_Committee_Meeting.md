@@ -3,18 +3,19 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type**: Zoning Committee Meeting
-**Purpose**: Review of proposed zoning changes and new developments in the city
-**Date/Time**: Wednesday, March 15th, 6:00 PM - 8:30 PM
-**Location**: City Hall, Room 300, Saint Paul
+* **Type:** Zoning Committee Meeting
+* **Purpose:** To discuss proposed zoning changes, new developments, and land use issues in Saint Paul
+* **Date/Time:** Thursday, March 9th, 6:00 PM
+* **Location:** City Hall, Council Chambers
 
 #### Summary
-The meeting covered several proposals for zoning changes across the city. Key decisions were made on the following items:
+The meeting covered several topics related to zoning and development. Key points include:
 
-* **Proposed Zoning Change in Frogtown**: The committee voted to approve a rezoning request to allow for a new mixed-use development at the intersection of University Avenue and 5th Street NE. The proposal aims to create more affordable housing units, retail space, and parking facilities.
-* **New Development on Summit Avenue**: A developer presented plans for a new apartment complex along Summit Avenue between Selby Avenue and Western Avenue. The committee discussed concerns about traffic, noise, and potential impact on the historic neighborhood character.
+* Proposed zoning change for the East Side neighborhood to allow for more mixed-use buildings: The committee voted in favor of the proposal (4-1), with Commissioner Johnson dissenting, citing concerns about increased density and parking issues.
+* Update on the new light rail station development at the intersection of Summit Avenue and Dale Street: The developer presented plans for a 10-story residential building, which was met with some opposition from nearby residents concerned about noise and traffic.
+* Discussion of a new bike-share program in Saint Paul: The committee expressed support for the initiative, but noted that more details were needed on funding and implementation.
 
-A notable point of contention was the proposal to rezone a property in the Mac-Groveland neighborhood, which has been met with opposition from local residents due to concerns about increased density and potential over-development. The vote on this item was 4-3 in favor of approving the rezoning request. Some committee members expressed concerns that the proposed zoning change could lead to gentrification and displacement of existing community members.
+The most contentious issue of the evening was the proposed zoning change for the East Side neighborhood. Commissioner Johnson argued that the increased density would lead to parking problems and strain on local infrastructure. Commissioner Thompson countered that the change would bring in much-needed revenue and stimulate economic growth. The committee ultimately voted in favor of the proposal, but with a condition that the developer must address parking concerns through additional studies.
 
-The next Zoning Committee Meeting is scheduled for April 12th, where further discussions and votes will take place regarding these proposals.
+The bike-share program received broad support from the committee, with some members expressing excitement about the potential for more sustainable transportation options in Saint Paul. However, several questions were raised about funding and implementation details, which will be explored further at future meetings.
 
