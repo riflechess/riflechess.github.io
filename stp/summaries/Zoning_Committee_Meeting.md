@@ -3,19 +3,26 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Type:** Zoning Committee Meeting
-* **Purpose:** To discuss proposed zoning changes, new developments, and land use issues in Saint Paul
-* **Date/Time:** Thursday, March 9th, 6:00 PM
-* **Location:** City Hall, Council Chambers
+
+* **Meeting Type**: Zoning Committee Meeting
+* **Date/Time**: Thursday, March 17th, 2023, 6:00 PM
+* **Location**: Saint Paul City Hall, Council Chambers
 
 #### Summary
-The meeting covered several topics related to zoning and development. Key points include:
 
-* Proposed zoning change for the East Side neighborhood to allow for more mixed-use buildings: The committee voted in favor of the proposal (4-1), with Commissioner Johnson dissenting, citing concerns about increased density and parking issues.
-* Update on the new light rail station development at the intersection of Summit Avenue and Dale Street: The developer presented plans for a 10-story residential building, which was met with some opposition from nearby residents concerned about noise and traffic.
-* Discussion of a new bike-share program in Saint Paul: The committee expressed support for the initiative, but noted that more details were needed on funding and implementation.
+The Zoning Committee Meeting was called to order at 6:05 PM. Chairperson Thompson led the meeting.
 
-The most contentious issue of the evening was the proposed zoning change for the East Side neighborhood. Commissioner Johnson argued that the increased density would lead to parking problems and strain on local infrastructure. Commissioner Thompson countered that the change would bring in much-needed revenue and stimulate economic growth. The committee ultimately voted in favor of the proposal, but with a condition that the developer must address parking concerns through additional studies.
+**Key Decisions:**
 
-The bike-share program received broad support from the committee, with some members expressing excitement about the potential for more sustainable transportation options in Saint Paul. However, several questions were raised about funding and implementation details, which will be explored further at future meetings.
+* The committee approved a zoning variance for a new residential development on the east side of town, with a 5-1 vote. Commissioner Rodriguez dissented, citing concerns about overcrowding and strain on local infrastructure.
+* A proposal to rezone a commercial property in downtown Saint Paul was tabled due to ongoing disagreements among committee members regarding parking requirements.
+
+**Public Safety:**
+
+* The meeting included a presentation from the Saint Paul Police Department regarding their efforts to combat gang violence. While there were no major updates, community members expressed concerns about police visibility and response times.
+* No specific action items were assigned to the committee in this regard.
+
+**Upcoming Agenda Items:**
+
+* A follow-up discussion on affordable housing options is scheduled for the next meeting.
 
