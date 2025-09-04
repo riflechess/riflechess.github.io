@@ -4,25 +4,22 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type**: Zoning Committee Meeting
-* **Date/Time**: Thursday, March 17th, 2023, 6:00 PM
-* **Location**: Saint Paul City Hall, Council Chambers
+* **Type:** Zoning Committee Meeting
+* **Purpose:** To discuss and vote on zoning-related proposals for the city of Saint Paul
+* **Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
+* **Location:** City Hall, Room 300
 
 #### Summary
 
-The Zoning Committee Meeting was called to order at 6:05 PM. Chairperson Thompson led the meeting.
+The meeting began with a presentation from the city planner regarding a proposed development project in the Lowertown neighborhood. The project involves the construction of a new apartment building and a small retail space.
 
-**Key Decisions:**
+Key decisions:
 
-* The committee approved a zoning variance for a new residential development on the east side of town, with a 5-1 vote. Commissioner Rodriguez dissented, citing concerns about overcrowding and strain on local infrastructure.
-* A proposal to rezone a commercial property in downtown Saint Paul was tabled due to ongoing disagreements among committee members regarding parking requirements.
+* The committee voted to approve the zoning changes required for the project (7-0).
+* A budget allocation of $50,000 was approved for the creation of a community outreach program related to the development.
+* The proposal to allow for a conditional use permit for a daycare center in the building was tabled until the next meeting.
 
-**Public Safety:**
+There was some discussion regarding parking and traffic concerns surrounding the project. Committee member Mark Johnson expressed concerns about the potential impact on nearby streets, but ultimately voted in favor of the proposal. Committee Chair Rachel Lee emphasized the importance of considering community input in future development projects.
 
-* The meeting included a presentation from the Saint Paul Police Department regarding their efforts to combat gang violence. While there were no major updates, community members expressed concerns about police visibility and response times.
-* No specific action items were assigned to the committee in this regard.
-
-**Upcoming Agenda Items:**
-
-* A follow-up discussion on affordable housing options is scheduled for the next meeting.
+The meeting also included a public comment period, during which several residents spoke out against the proposed zoning changes, citing concerns about gentrification and displacement of long-time residents.
 
