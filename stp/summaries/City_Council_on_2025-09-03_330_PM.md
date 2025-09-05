@@ -2,20 +2,16 @@
 title: City Council on 2025-09-03 3:30 PM
 date: 2025-09-03
 ---
-This transcript appears to be from a city council meeting. The discussion covers various topics such as:
+This is a transcript of a City Council meeting. The meeting includes several items on the agenda:
 
-1. Approving special tax assessments for properties at 815 University Avenue West and 28-37 on the legislative hearing consent agenda.
-2. Discussing the cleanup of homeless encampments, including the role of Hart and the city's responsibilities in clearing debris.
-3. Presenting good news from around the wards, such as the opening of a new downtown park and upcoming community events like Mac Girl Fest.
+1. Approving special tax assessments for properties at 815 University Avenue West and 1215 University Avenue West.
+2. A public hearing on proposed zoning changes in Ward 4.
+3. A resolution to support the development of a new downtown park, Pedro Park.
+4. An update on the city's efforts to address homelessness.
 
-The key points are:
+Some highlights from the meeting include:
 
-* The council approved special tax assessments for properties at 815 University Avenue West and on the legislative hearing consent agenda (items 28-37).
-* The city's cleanup efforts were discussed, including the role of Hart in clearing debris from homeless encampments.
-* Good news was shared from around the wards, such as the opening of a new downtown park and upcoming community events.
-
-Some notable quotes include:
-
-* "When we're looking at our policy and our practices, that we're just clear about what the guidelines are and responsibilities of our team." - Council Member Bowie
-* "I highly recommend people stop by if you have a chance" - Council Member Jill Just
+* The City Council approved special tax assessments for two properties after receiving follow-up information from city staff.
+* The council held public hearings on several items, including zoning changes and legislative hearing consent agenda items 28-37.
+* Several council members shared good news from their wards, including a new downtown park opening and a public safety meeting to be held this weekend.
 
