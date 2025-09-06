@@ -3,18 +3,21 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Board of Zoning Appeals
-* **Purpose:** To hear and decide on zoning appeals, variances, and other related matters
-* **Date/Time:** [Insert Date] at [Insert Time]
-* **Location:** Saint Paul City Hall or via remote access (virtual meeting)
+**Meeting Type:** Board of Zoning Appeals
+**Purpose:** To hear appeals and make decisions on zoning-related matters
+**Date/Time:** [Insert Date and Time]
+**Location:** [Insert Location]
 
 #### Summary
+The Board of Zoning Appeals meeting covered several items, including:
+* Appeal 1: A variance request for a property at [insert address] to exceed the maximum allowed building height.
+	+ The applicant argued that the existing structure is too close to the property line and needs to be raised to accommodate new construction.
+	+ Opponents expressed concerns about precedent and over-development in the area.
+	+ Vote: 4-2, with one abstention. The variance was approved, but with conditions.
+* Appeal 2: A request for a special use permit for a commercial development at [insert address].
+	+ Supporters argued that the project would bring new jobs and economic growth to the area.
+	+ Opponents raised concerns about traffic and noise impacts on nearby residents.
+	+ Vote: 5-1, with one abstention. The permit was approved, subject to certain conditions.
 
-The Board of Zoning Appeals Meeting discussed the following items:
-
-* **Zoning Appeal 1:** A property owner appealed a zoning decision for their commercial building, seeking to increase the allowed height. The board heard testimony from the property owner and neighbors. After deliberation, the board voted unanimously (6-0) in favor of granting the variance.
-* **Zoning Appeal 2:** Another property owner requested a variance to build an accessory dwelling unit (ADU) on their residential lot. The board discussed concerns about parking and density. Although some board members expressed reservations, the majority voted (5-1) to grant the variance, with one member dissenting due to concerns about over-development.
-* **Land Use Code Update:** A staff presentation proposed amendments to the city's land use code regarding parking requirements for certain zoning districts. Board members asked questions and provided feedback on the proposal.
-
-Note: There was no public testimony or complaints during this meeting. The discussion remained focused on the items listed above.
+No major public safety or quality of life issues were discussed during this meeting.
 
