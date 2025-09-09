@@ -3,21 +3,23 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-
-* Type: Board of Zoning Appeals Meeting
-* Purpose: To hear appeals on zoning decisions made by the city's zoning administrator
-* Date/Time: [Insert date and time]
-* Location: [Insert location]
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** To review and decide on zoning appeals and variances within the city limits
+**Date/Time:** March 22, 2023, 2:00 PM
+**Location:** City Hall, Room 300
+**Attendees:** Members of the Board of Zoning Appeals, City Planner, Appellant's representatives, and members of the public
 
 #### Summary
+The meeting began with a review of pending zoning appeals. The first item on the agenda was an appeal by Smith Construction to build a three-story apartment complex in the Highland neighborhood. The appellant argued that the current zoning laws were too restrictive and would prevent them from building affordable housing.
 
-The meeting began with a review of the agenda, which included several appeals related to zoning variances. The first appeal was for a property on University Avenue, where the owner is seeking a variance to build a new three-story building despite exceeding the maximum height limit.
+After hearing testimony from both sides, the board voted 4-2 to approve the variance, citing the need for more affordable housing options in the area. However, some members expressed concerns about overdevelopment in the neighborhood.
 
-After hearing from both the applicant and several neighbors who spoke in opposition, the board voted 4-1 to deny the request. The dissenting vote came from member Sarah Johnson, who argued that the city's zoning regulations should be flexible enough to accommodate innovative development. However, her colleagues countered that granting a variance would set a precedent for other developers to ignore the rules.
+Other notable items on the agenda included:
 
-The next appeal on the agenda was related to a property in the Summit-University neighborhood, where the owner is seeking to convert a single-family home into a multi-unit dwelling. After some discussion, the board voted unanimously (5-0) to approve the request, finding that it met all necessary zoning requirements.
+* A request by a local business owner to install a parking lot expansion in the Summit-University neighborhood
+* An appeal by a resident of the West End neighborhood to remove a non-conforming building that was built without proper permits
 
-In other business, the board discussed a proposal from the city's planning department to create a new overlay district for the East Bank neighborhood. The proposal aims to encourage more mixed-use development and pedestrian-friendly design in the area. While some members expressed concerns about potential density and parking issues, others praised the initiative as a step towards revitalizing the neighborhood.
+The board voted 5-0 to approve the parking lot expansion, but denied the appeal related to the non-conforming building.
 
-There was no public comment period during this meeting.
+The meeting concluded with no significant public comments or new business. The next Board of Zoning Appeals Meeting is scheduled for April 26, 2023, at 2:00 PM.
 
