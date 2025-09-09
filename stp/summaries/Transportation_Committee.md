@@ -3,19 +3,21 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Transportation Committee Meeting
-**Purpose:** Discussion on pedestrian safety, bike lanes, and traffic congestion in Saint Paul
-**Date/Time:** February 22, 2023, 6:00 PM
-**Location:** City Hall, Room 200
+**Meeting Type:** Transportation Committee
+**Purpose:** Review and discuss transportation projects and initiatives in the City of Saint Paul
+**Date/Time:** Tuesday, March 14, 2023, 6:00 PM
+**Location:** Saint Paul City Hall, Council Chambers
 
 #### Summary
+The Transportation Committee meeting began with a review of current transportation projects, including the proposed bike lane expansion on University Avenue. The committee discussed and voted on several items:
 
-The Transportation Committee meeting focused on three main topics: pedestrian safety, bike lanes, and traffic congestion. The first item on the agenda was a proposal to install additional pedestrian signals at busy intersections throughout the city.
+* **Bike Lane Expansion:** Unanimously approved the expansion of bike lanes on University Avenue, with an estimated budget of $1.2 million.
+* **Traffic Signal Modernization:** Approved a plan to modernize traffic signals at 10 intersections citywide, with a total budget of $750,000.
+* **Light Rail Transit (LRT) Expansion:** Discussed but did not vote on the proposed LRT expansion to the eastern part of the city.
 
-*   **Pedestrian Safety**: A proposal to install more pedestrian signals was presented by committee member Jane Smith. The plan aims to reduce accidents involving pedestrians and improve overall safety. The proposal received unanimous support from the committee.
-*   **Bike Lanes**: A new bike lane project for Selby Avenue was discussed. Committee members expressed concerns about potential conflicts between cyclists and drivers. After a brief discussion, it was decided to move forward with the plan but include additional signage to alert drivers of the bike lanes.
-*   **Traffic Congestion**: The issue of traffic congestion on I-35E was brought up by Noecker (Noecker). They suggested implementing dynamic tolling to reduce congestion during peak hours. While some committee members supported the idea, others expressed concerns about the potential impact on low-income residents who rely heavily on public transportation.
-*   **Vote**: The proposal to implement dynamic tolling received a 5-3 vote in favor of moving forward with further research and discussion. Committee members Noecker (Noecker), Tom Johnson, and Rachel Lee opposed the idea.
+The committee also received updates on several ongoing projects, including the improvement of the Mississippi River bike trail and the implementation of intelligent transportation systems.
 
-The meeting concluded with a decision to schedule another committee meeting to discuss the details of the proposed bike lane project and traffic congestion solutions.
+A point of contention arose during the discussion of the proposed LRT expansion. Some committee members expressed concerns about the potential impact on local businesses and residents, while others argued that it would improve public safety and reduce congestion. However, no formal vote was taken on this item.
+
+The next Transportation Committee meeting is scheduled for April 11, 2023.
 
