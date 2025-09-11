@@ -3,45 +3,40 @@ title: Library Board on 2025-09-10 1:00 PM
 date: 2025-09-10
 ---
 #### Meeting Info
-* **Meeting Type**: Library Board meeting
-* **Purpose**: To discuss and vote on the 2026 library budget proposal
-* **Date/Time**: September 10, 2025, 1:00 PM
-* **Location**: Live and recorded public meeting (no physical location specified)
+Title: Library Board Meeting
+Date/Time: 2025-09-10 1:00 PM
+Description: Live and Recorded Public meeting of the Library Board for the City of Saint Paul
 
 #### Summary
 
-The meeting started with a brief introduction by Chair Jost, welcoming new board member Council Member Coleman. The first item on the agenda was the approval of minutes from August 6, 2025, which was approved unanimously.
+The Library Board met on September 10, 2025, to discuss the 2026 library budget proposal. Director Hartman presented the proposed budget, which includes several changes from the previous year.
 
-Next, Director Hartman presented the 2026 library budget proposal, highlighting changes from 2025, including:
+Key decisions:
 
-* Eliminating 1.3 FTE (0.8 in public services and 0.5 in maintenance)
-* Repurposing 1.0 FTE to be vacant
-* Reducing library materials budget
-* Decreasing substitute staffing budget
-* Increasing attrition rate
-* Eliminating read brave budget from general fund, shifting it to special funds
+* The board approved the minutes from August 6, 2025.
+* The proposed 2026 library budget was discussed, including:
+	+ Eliminating 1.3 FTE positions (0.8 in public services and 0.5 in maintenance)
+	+ Reducing the library materials budget
+	+ Decreasing the library substitute staffing budget
+	+ Increasing the attrition rate
+	+ Eliminating the read brave budget from the general fund, shifting it to special funds
+	+ Reducing a contracted services line
+* The board discussed concerns about reducing hours at the Arlington Hills library by four hours per week.
+* Council Member Yang expressed opposition to the hour reductions, citing the importance of libraries as community spaces for families and children.
+* Director Hartman explained that the decision to reduce hours was based on data showing lower usage at Arlington Hills compared to other libraries.
 
-Council Member Yang asked about the impact of reducing library hours at Arlington Hills library, and Director Hartman explained that this was due to the loss of 0.8 FTE in public services.
+Disagreement:
 
-Council Member Johnson expressed opposition to reducing library hours, citing concerns about community needs and values. Chair Jost clarified that the decision to reduce hours was made based on data and consideration for least impact on staff and the public.
+* The discussion about reducing hours at the Arlington Hills library was contentious, with Council Member Yang expressing strong opposition. Other board members also expressed concerns about the impact on public services.
+* Council Member Johnson questioned the need for the reductions and suggested exploring alternative solutions.
+* Director Hartman explained that the reductions were necessary due to budget constraints and the planned retirement of a staff member.
 
-Director Hartman also presented information on contracted security, safety materials, and opioid settlement funding. Council Member Bowie asked about staffing changes at Rondo library, which Director Hartman explained would involve temporary reassignment of staff from other libraries.
+Other notable points:
 
-The meeting then shifted to a discussion of special funds, including fund 211, which is used for library safety specialists and modernization projects. Council Member Johnson expressed concerns about relying on special funds for ongoing expenses and requested more information on how this will be addressed in the future.
+* The board discussed the Rondo library renovation, which will be funded through special funds.
+* The CIV investments in transforming libraries were highlighted as a positive development.
+* Council Member Johnson expressed concerns about relying on special funds for ongoing expenses, such as library safety specialists.
+* Director Hartman provided an update on the Hamlin Midway Library project and its expected opening by the end of 2026.
 
-Council Member Noecker asked about the current library fund balance, which Chair Jost said would be provided later. Council Member Johnson discussed the challenge of funding library materials and requested more information on strategies to address this issue.
-
-The meeting concluded with a discussion of the Hamlin Midway library opening in 2026 and potential staffing needs for that location. Chair Jost thanked Director Hartman and staff for their presentation and expressed appreciation for the thoughtful questions from board members.
-
-**Key Decisions:**
-
-* Approved minutes from August 6, 2025
-* Accepted 2026 library budget proposal with changes outlined above
-* Requested more information on strategies to address funding challenges for library materials
-
-**Areas of Contention:**
-
-* Reducing library hours at Arlington Hills library due to loss of FTE in public services
-* Relying on special funds for ongoing expenses, such as contracted security and safety materials
-* Funding challenges for library materials and potential need for sustainable strategies
+The meeting adjourned with no further action.
 
