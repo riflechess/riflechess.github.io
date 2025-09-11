@@ -3,25 +3,18 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Transportation Committee Meeting
-**Purpose:** Discussion on proposed bike lane improvements, streetlight upgrades, and public transportation initiatives
-**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM - 8:30 PM
-**Location:** City Hall Council Chambers
+Meeting Type: Transportation Committee Meeting
+Purpose: Discussion on Traffic Congestion Relief Measures
+Date/Time: Thursday, March 18th, 2023 at 6:00 PM
+Location: Saint Paul City Hall
+Attendees: Mayor Melvin Carter, Council Members from Districts 1-7, Public Works Director, and City Engineer
 
 #### Summary
-The Transportation Committee meeting focused on three main topics:
+The Transportation Committee met to discuss measures to alleviate traffic congestion in Saint Paul. Key topics included:
 
-* Proposed Bike Lane Improvements:
-	+ The committee discussed expanding bike lanes on Summit Avenue and West Seventh Street.
-	+ Some members expressed concerns about parking restrictions, while others argued that increased bike traffic would improve air quality and public health.
-* Streetlight Upgrades:
-	+ The city proposed upgrading streetlights in high-crime areas to LED lights, which would be more energy-efficient and secure.
-	+ A few committee members questioned the cost-effectiveness of this proposal.
-* Public Transportation Initiatives:
-	+ The committee reviewed a plan for improved bus service frequency on select routes.
-	+ Members debated whether increased funding should come from general taxation or private sponsorships.
+* **Bus Rapid Transit (BRT) Expansion**: The committee voted 5-2 in favor of allocating $10 million for BRT expansion on Snelling Avenue. Council Members from Districts 3 and 7 opposed the measure, citing concerns about potential displacement of small businesses.
+* **Traffic Signal Optimization**: The city's Public Works Director presented a plan to optimize traffic signals across the city, which aims to reduce congestion by up to 20%. The committee approved the plan with a unanimous vote.
+* **Complete Streets Policy Update**: The committee discussed updates to the Complete Streets policy, which focuses on designing streets that prioritize pedestrian safety. A motion to adopt the updated policy passed with a 6-1 vote, with Council Member from District 5 dissenting due to concerns about increased costs for infrastructure improvements.
 
-A notable point of contention arose during the discussion on bike lane improvements. Committee member, Rachel Johnson, argued that limiting parking would negatively impact local businesses, while others countered that increased foot traffic and bike usage would drive business growth and community engagement.
-
-The committee voted 5-2 in favor of advancing the bike lane proposals for further review. However, some members expressed reservations about implementing changes without more comprehensive public input.
+The meeting also included public comments from residents and business owners regarding traffic congestion in their neighborhoods.
 
