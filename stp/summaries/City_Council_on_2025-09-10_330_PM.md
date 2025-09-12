@@ -3,33 +3,20 @@ title: City Council on 2025-09-10 3:30 PM
 date: 2025-09-10
 ---
 #### Meeting Info
-**Meeting Type:** City Council meeting on 2025-09-10 at 3:30 PM
-**Purpose:** Live and recorded public meetings of the City Council for the City of Saint Paul
-**Date/Time:** September 10, 2025, at 3:30 PM
+**Meeting Type:** City Council Meeting
+**Date/Time:** 2025-09-10, 3:30 PM
+**Context:** Regular City Council meeting to discuss various resolutions, ordinances, and public hearings.
 
 #### Summary
 
-The City Council meeting covered various topics, including resolutions, ordinances, and public hearings. Key decisions were made on:
-
-* Resolution 25-1341: Authorizing $2,500 for providing candy for public events and parades (amended from $5,000)
-* Resolution 25-1365: Approving Melanie McMahon as Interim Director of the Department of Planning and Economic Development
-* Resolution 25-1404: Recognizing the City of St. Paul's participation in Welcoming Week 2025
-* Resolutions 25-1357 to 25-1360: Approving housing programs, funding, and project labor agreements for multifamily rental housing development at Upper Landing Project
-* Ordinance 25-48: Amending Chapter 130 of the Legislative Code regarding Procedure for Vacating Streets and Other Public Grounds (final adoption)
-* Ordinance 25-49: Establishing a Classified Title City Council Communications Lead in the Unclassified Service Pursuant to Section 12.03.2H of the City Charter (first reading)
-* Resolution 25-106: Ratifying the assessment for Minnesota Street from 6th Street to 11th Street paving and lighting project
-* Public Hearings on various items, including:
-	+ Resolution Public Hearing 25-196: Approving major modifications to the Victoria Park Master Plan
-	+ Resolution Public Hearing 25-197: Amending the financing and spending plans in the fire department
-	+ Resolution Public Hearing 25-194: Approving the application of the Leukemia and Lymphoma Society, Inc.'s Light the Night event
-
-The meeting also covered public hearings on rent stabilization cases (RLH RSA 25-8 to RLH RSA 25-17), where several tenants spoke about habitability concerns and advocated for a one-week layover to allow more time to review the information.
-
-In other business:
-
-* Vice President Kim mentioned that he would be open to more time to discuss the rent stabilization cases
-* Council Member Johnson expressed concern about the timing of inspections and the due diligence of departments
-* The council decided to take a one-week layover for each item on the agenda, allowing for further review and discussion.
-
-The meeting adjourned with no other major decisions or announcements.
+* The consent agenda was approved with some items being pulled for separate consideration.
+* Resolution 25-1341 authorizing the Department of Public Works to expend up to $5,000 for providing candy at public events was amended and approved.
+* Melanie McMahon was appointed as Interim Director of the Department of Planning and Economic Development.
+* The City Council recognized its participation in Welcoming Week 2025 and passed a resolution affirming its commitment to being a welcoming city.
+* Resolutions approving a housing program for a multifamily rental development, issuing an ERA-2 loan, and authorizing a project labor agreement were all approved.
+* Ordinance 25-48 was adopted, amending Chapter 130 of the Legislative Code regarding procedures for vacating streets and public grounds.
+* The City Council Communications Lead position was proposed through ordinance and laid over to September 17th for second reading and public hearing.
+* A resolution approving a proposal for a housing program for a multifamily rental development was passed.
+* The City Council voted on several rent stabilization appeals, with some being laid over for further consideration due to concerns about habitability and the need for more time to review information.
+* Various public hearings were held, including one for a resolution ratifying an assessment for a paving and lighting project, which was approved.
 
