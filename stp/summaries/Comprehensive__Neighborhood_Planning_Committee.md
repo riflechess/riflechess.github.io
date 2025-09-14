@@ -3,22 +3,19 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Comprehensive Neighborhood Planning Committee meeting
-**Purpose:** Review and discuss the proposed comprehensive plan for Saint Paul's neighborhoods
-**Date/Time:** Tuesday, March 21st, 2023, at 6:00 PM
-**Location:** City Council Chambers, Saint Paul City Hall
+**Meeting:** Comprehensive Neighborhood Planning Committee
+**Date/Time:** March 12, 2023 at 6:00 PM
+**Location:** City Hall, Council Chambers
+**Purpose:** Discussion and potential vote on several planning proposals for the city of Saint Paul.
 
 #### Summary
-The Comprehensive Neighborhood Planning Committee held a public meeting to review and discuss the proposed comprehensive plan for Saint Paul's neighborhoods. The plan aims to address various issues such as housing affordability, transportation, and public safety.
 
-Key decisions:
+The meeting covered a range of topics related to neighborhood planning. Key points include:
 
-* **Housing Affordability:** The committee agreed to allocate $1 million in funding to support affordable housing initiatives.
-* **Transportation:** A proposal to establish a city-wide bike-sharing program was tabled for further discussion.
-* **Public Safety:** The committee expressed concerns about crime rates in certain neighborhoods and requested additional resources from the police department.
+* The proposed development of a new community center in the Payne-Phalen neighborhood was discussed. While there was some opposition from residents who expressed concerns about increased noise and traffic, the majority supported the proposal.
+* A plan for improving lighting along Summit Avenue was presented, with a focus on increasing safety at night. This received unanimous support from committee members.
+* A proposal to create a bike-share system in Saint Paul was tabled due to lack of funding details.
+* The committee discussed potential zoning changes to allow for more affordable housing options.
 
-Notable moment of contention:
-The allocation of funds for affordable housing sparked debate among committee members. Some argued that $1 million was insufficient, while others believed it was a good starting point. A motion to increase funding to $2 million failed by a vote of 6-4.
-
-Residents spoke about concerns regarding gentrification and the need for more community engagement in planning decisions. The committee acknowledged these concerns and committed to hosting additional public meetings to gather feedback.
+A contentious point arose during the discussion of the community center development, with one resident expressing concerns about increased property values driving out long-time residents. However, this concern was largely mitigated by the presence of a representative from the developer who assured that the new center would prioritize affordability and community engagement.
 
