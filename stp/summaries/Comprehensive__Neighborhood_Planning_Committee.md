@@ -3,19 +3,20 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-**Meeting:** Comprehensive Neighborhood Planning Committee
-**Date/Time:** March 12, 2023 at 6:00 PM
-**Location:** City Hall, Council Chambers
-**Purpose:** Discussion and potential vote on several planning proposals for the city of Saint Paul.
+**Type:** Comprehensive Neighborhood Planning Committee meeting
+**Purpose:** Discussion and decision-making on neighborhood planning initiatives
+**Date/Time:** [Insert date and time]
+**Location:** [Insert location]
 
 #### Summary
+The meeting began with a review of ongoing projects, including the Hamline-Midway neighborhood plan update. The committee discussed potential zoning changes to accommodate new development in the area.
 
-The meeting covered a range of topics related to neighborhood planning. Key points include:
+Key decisions:
 
-* The proposed development of a new community center in the Payne-Phalen neighborhood was discussed. While there was some opposition from residents who expressed concerns about increased noise and traffic, the majority supported the proposal.
-* A plan for improving lighting along Summit Avenue was presented, with a focus on increasing safety at night. This received unanimous support from committee members.
-* A proposal to create a bike-share system in Saint Paul was tabled due to lack of funding details.
-* The committee discussed potential zoning changes to allow for more affordable housing options.
+* Proposed zoning changes for Hamline-Midway neighborhood: **Passed 7-2**, with some members expressing concerns about increased density and potential impact on local businesses.
+	+ Proponents argued that the changes would facilitate more affordable housing options and attract new investment.
+	+ Opponents worried about over-development and strain on existing infrastructure.
+* Budget allocation for community outreach and engagement efforts: **Approved 9-0**, with a total budget of $200,000 to support public meetings and educational materials.
 
-A contentious point arose during the discussion of the community center development, with one resident expressing concerns about increased property values driving out long-time residents. However, this concern was largely mitigated by the presence of a representative from the developer who assured that the new center would prioritize affordability and community engagement.
+No significant public safety or quality of life concerns were raised during the meeting. The next step is for the proposed zoning changes to be presented to the City Planning Commission.
 
