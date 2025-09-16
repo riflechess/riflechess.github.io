@@ -3,20 +3,27 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Comprehensive Neighborhood Planning Committee meeting
-**Purpose:** Discussion and decision-making on neighborhood planning initiatives
-**Date/Time:** [Insert date and time]
-**Location:** [Insert location]
+**Meeting Type:** Comprehensive Neighborhood Planning Committee
+**Purpose:** Review and Discussion on Zoning Code Update
+**Date/Time:** Thursday, March 18th, 6:00 PM
+**Location:** Saint Paul City Hall, Room 300
+**Attendees:** Representatives from various city departments, community organizations, and concerned residents
 
 #### Summary
-The meeting began with a review of ongoing projects, including the Hamline-Midway neighborhood plan update. The committee discussed potential zoning changes to accommodate new development in the area.
+The Comprehensive Neighborhood Planning Committee met to discuss the proposed update to the zoning code. Key points from the meeting include:
 
-Key decisions:
+* The current zoning code has not been updated since 1996, leading to confusion and inconsistencies.
+* Proposed changes aim to simplify and clarify zoning regulations, making it easier for developers and property owners to navigate.
+* The committee reviewed and provided feedback on several key areas:
+	+ Affordable housing: The proposal aims to incentivize developers to include affordable units in new construction projects.
+	+ Mixed-use developments: Changes would allow for more flexible use of space, enabling a mix of residential, commercial, and community spaces.
+	+ Green spaces: Updates would prioritize the creation of parks, gardens, and other green areas throughout the city.
 
-* Proposed zoning changes for Hamline-Midway neighborhood: **Passed 7-2**, with some members expressing concerns about increased density and potential impact on local businesses.
-	+ Proponents argued that the changes would facilitate more affordable housing options and attract new investment.
-	+ Opponents worried about over-development and strain on existing infrastructure.
-* Budget allocation for community outreach and engagement efforts: **Approved 9-0**, with a total budget of $200,000 to support public meetings and educational materials.
+However, not all attendees were pleased with the proposed changes. Some expressed concerns about:
 
-No significant public safety or quality of life concerns were raised during the meeting. The next step is for the proposed zoning changes to be presented to the City Planning Commission.
+* Over-reliance on market-driven development, which could lead to gentrification and displacement of long-time residents.
+* Insufficient attention to affordable housing needs, particularly in low-income neighborhoods.
+* Unclear implementation timelines and potential for increased costs.
+
+The committee will continue to review and refine the proposed zoning code update before bringing it to a City Council vote.
 
