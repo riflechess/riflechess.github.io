@@ -4,24 +4,24 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type:** Reparations Commission Meeting
-* **Purpose:** To discuss and address the city's reparations plan for the Rondo community
+* **Type:** Reparations Commission Meeting
+* **Purpose:** To discuss the ongoing work of the Reparations Commission and its recommendations to the city council
 * **Date/Time:** [Insert date and time]
 * **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
 
-The meeting focused on discussing the city's reparations plan for the Rondo community. The commission presented an update on their findings and recommendations.
+The Reparations Commission meeting focused on the commission's progress in developing a comprehensive reparations plan for the city of Saint Paul. The commission presented its recommendations for direct reparations to affected communities, including funding allocations for education, housing, and economic development.
 
-Key decisions:
+Key points:
 
-* The commission recommended allocating $500,000 in funding to establish a Rondo Legacy Fund, which will provide support for community-led projects and initiatives.
-* A subcommittee was established to explore the possibility of creating a reparations center or museum in the Rondo neighborhood.
-* The commission discussed the importance of including the voices and perspectives of Rondo residents in the decision-making process.
+* A proposed $10 million allocation for community-led initiatives was approved with some amendments.
+* The commission recommended establishing a Rondo Community Land Trust to preserve affordable housing and community spaces.
+* There was some debate about the inclusion of reparations for gentrification. Commissioner [Name] argued that it is essential to acknowledge the historical impact of gentrification on neighborhoods like Rondo, while others felt that the focus should be on direct benefits rather than past injustices.
 
-A contentious discussion arose regarding the allocation of funds. Some members argued that the $500,000 allocated for the Rondo Legacy Fund was too low, given the scope of the project. Others expressed concerns about diverting funds away from other community projects. The vote to approve the funding was unanimous, but with some reservations.
+A contentious point arose during the discussion of budget allocations. Commissioner [Name] proposed adjusting the allocation for education initiatives to prioritize programs focused on African American students' achievement gaps. However, this proposal was met with opposition from some members who argued it would create unintended consequences and favor specific demographics over others. The motion ultimately passed with a 5-2 vote.
 
-The meeting also touched on issues related to public safety and quality of life in the Rondo neighborhood. Residents shared concerns about crime rates and lack of resources for mental health support. The commission acknowledged these concerns and committed to working with local organizations to address them.
+The commission also discussed the importance of community engagement and participation in the reparations process. They emphasized the need for ongoing dialogue and feedback mechanisms to ensure that affected communities remain at the forefront of decision-making.
 
-A notable moment of contention arose during a discussion about the role of law enforcement in the reparations process. Some members argued that the police department should have a seat at the table, while others pushed back against what they saw as a "colonizing" influence. The debate highlighted the complexities and challenges of addressing systemic racism within institutions.
+Next steps will involve presenting the final report to the city council, which is expected to make a decision on implementing the reparations plan in the coming months.
 
