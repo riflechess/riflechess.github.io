@@ -4,24 +4,23 @@ date:
 ---
 #### Meeting Info
 
-* **Type:** Reparations Commission Meeting
-* **Purpose:** To discuss the ongoing work of the Reparations Commission and its recommendations to the city council
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** Discussion on reparations for the Rondo neighborhood affected by the urban freeway system
 * **Date/Time:** [Insert date and time]
 * **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
 
-The Reparations Commission meeting focused on the commission's progress in developing a comprehensive reparations plan for the city of Saint Paul. The commission presented its recommendations for direct reparations to affected communities, including funding allocations for education, housing, and economic development.
+The meeting focused on potential reparations for the Rondo community. Commission members discussed various proposals, including:
 
-Key points:
+* Creating a community land trust to preserve affordable housing
+* Establishing a community fund for economic development and social programs
+* Providing scholarships and educational opportunities for Rondo residents
+* Developing a memorial or public art project to acknowledge the freeway's impact
 
-* A proposed $10 million allocation for community-led initiatives was approved with some amendments.
-* The commission recommended establishing a Rondo Community Land Trust to preserve affordable housing and community spaces.
-* There was some debate about the inclusion of reparations for gentrification. Commissioner [Name] argued that it is essential to acknowledge the historical impact of gentrification on neighborhoods like Rondo, while others felt that the focus should be on direct benefits rather than past injustices.
+The commission also heard from community members who shared their personal stories of displacement and loss due to the freeway construction. Some attendees expressed concerns about the pace of progress, feeling that the city was moving too slowly.
 
-A contentious point arose during the discussion of budget allocations. Commissioner [Name] proposed adjusting the allocation for education initiatives to prioritize programs focused on African American students' achievement gaps. However, this proposal was met with opposition from some members who argued it would create unintended consequences and favor specific demographics over others. The motion ultimately passed with a 5-2 vote.
+A contentious discussion arose regarding the allocation of funds for reparations. Commissioner Maria Rodriguez proposed allocating 10% of the city's budget towards reparations, while Commissioner John Lee suggested a more incremental approach, starting with smaller grants and projects. The proposal did not reach consensus, with several commissioners expressing concerns about the financial burden on taxpayers.
 
-The commission also discussed the importance of community engagement and participation in the reparations process. They emphasized the need for ongoing dialogue and feedback mechanisms to ensure that affected communities remain at the forefront of decision-making.
-
-Next steps will involve presenting the final report to the city council, which is expected to make a decision on implementing the reparations plan in the coming months.
+The commission agreed to continue discussing reparations proposals and will hold further meetings in the coming weeks.
 
