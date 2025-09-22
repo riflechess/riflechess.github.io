@@ -3,24 +3,27 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Reparations Commission Meeting
-* **Purpose:** Discussion on reparations for the Rondo neighborhood affected by the urban freeway system
-* **Date/Time:** [Insert date and time]
-* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+**Meeting Type:** Reparations Commission Meeting
+**Purpose:** Discussing the implementation of reparations in Saint Paul, specifically regarding the Rondo neighborhood's history and impact on the community.
+**Date/Time:** [Insert Date and Time]
+**Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
+The Reparations Commission meeting focused on implementing reparations for the Rondo neighborhood, which was significantly impacted by the destruction of its African American community during the construction of Interstate 94 in the 1960s. The commission discussed several key points:
 
-The meeting focused on potential reparations for the Rondo community. Commission members discussed various proposals, including:
+*   **Reparations Framework:** The commission presented a proposed framework for reparations, including economic and social initiatives to address historical injustices.
+*   **Economic Development:** The group discussed potential economic development projects to support small businesses and property owners in the Rondo neighborhood.
 
-* Creating a community land trust to preserve affordable housing
-* Establishing a community fund for economic development and social programs
-* Providing scholarships and educational opportunities for Rondo residents
-* Developing a memorial or public art project to acknowledge the freeway's impact
+The meeting also touched on several contentious issues:
 
-The commission also heard from community members who shared their personal stories of displacement and loss due to the freeway construction. Some attendees expressed concerns about the pace of progress, feeling that the city was moving too slowly.
+*   **Funding:** Some commissioners expressed concerns about allocating sufficient funds for reparations, while others argued that it was essential to prioritize community needs.
+*   **Involvement of Local Leaders:** There were disagreements over the level of involvement from local leaders and stakeholders in the decision-making process.
 
-A contentious discussion arose regarding the allocation of funds for reparations. Commissioner Maria Rodriguez proposed allocating 10% of the city's budget towards reparations, while Commissioner John Lee suggested a more incremental approach, starting with smaller grants and projects. The proposal did not reach consensus, with several commissioners expressing concerns about the financial burden on taxpayers.
+The commission ultimately voted to:
 
-The commission agreed to continue discussing reparations proposals and will hold further meetings in the coming weeks.
+1.  Establish a subcommittee to explore potential funding sources for reparations initiatives.
+2.  Schedule a follow-up meeting with local leaders and stakeholders to discuss their input and ideas.
+3.  Begin drafting a comprehensive report on the proposed framework for reparations.
+
+Note: The commission will continue to address these issues in future meetings, and updates will be provided as necessary.
 
