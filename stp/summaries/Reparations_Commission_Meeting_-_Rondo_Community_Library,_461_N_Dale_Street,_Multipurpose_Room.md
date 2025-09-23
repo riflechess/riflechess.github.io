@@ -3,27 +3,24 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Reparations Commission Meeting
-**Purpose:** Discussing the implementation of reparations in Saint Paul, specifically regarding the Rondo neighborhood's history and impact on the community.
-**Date/Time:** [Insert Date and Time]
+**Type:** Reparations Commission Meeting
+**Purpose:** Discussion and decision-making on reparations initiatives for the Rondo community
+**Date/Time:** [Insert date and time]
 **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
-The Reparations Commission meeting focused on implementing reparations for the Rondo neighborhood, which was significantly impacted by the destruction of its African American community during the construction of Interstate 94 in the 1960s. The commission discussed several key points:
 
-*   **Reparations Framework:** The commission presented a proposed framework for reparations, including economic and social initiatives to address historical injustices.
-*   **Economic Development:** The group discussed potential economic development projects to support small businesses and property owners in the Rondo neighborhood.
+The meeting focused on ongoing efforts to provide reparations to the Rondo community, which was disproportionately affected by the 1968 urban unrest. Commission members presented an update on their work, including:
 
-The meeting also touched on several contentious issues:
+* A proposed budget for fiscal year 2024: $500,000, with allocations for:
+	+ Community-based initiatives ($200,000)
+	+ Education and job training programs ($150,000)
+	+ Economic development projects ($100,000)
+	+ Infrastructure improvements ($50,000)
+* Discussion on potential new initiatives, including a community land trust and affordable housing programs
+* Reports from subcommittees on issues such as education, economic empowerment, and health
 
-*   **Funding:** Some commissioners expressed concerns about allocating sufficient funds for reparations, while others argued that it was essential to prioritize community needs.
-*   **Involvement of Local Leaders:** There were disagreements over the level of involvement from local leaders and stakeholders in the decision-making process.
+A contentious debate arose during the discussion of budget allocations. Commissioner Thompson expressed concerns that the allocated funds for community-based initiatives were too narrow in scope, potentially limiting opportunities for grassroots innovation. Commissioner Patel countered that the commission's goal was to provide concrete support for proven programs, rather than investing in speculative ventures.
 
-The commission ultimately voted to:
-
-1.  Establish a subcommittee to explore potential funding sources for reparations initiatives.
-2.  Schedule a follow-up meeting with local leaders and stakeholders to discuss their input and ideas.
-3.  Begin drafting a comprehensive report on the proposed framework for reparations.
-
-Note: The commission will continue to address these issues in future meetings, and updates will be provided as necessary.
+The commission voted 6-2 to approve the proposed budget, with Commissioners Thompson and Rodriguez dissenting due to concerns about the allocation of funds.
 
