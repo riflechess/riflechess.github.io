@@ -3,24 +3,18 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-**Type:** Reparations Commission Meeting
-**Purpose:** Discussion and decision-making on reparations initiatives for the Rondo community
-**Date/Time:** [Insert date and time]
+**Meeting Type:** Reparations Commission Meeting
+**Purpose:** To discuss the Reparations Program and its implementation in Saint Paul
+**Date/Time:** [Insert Date and Time]
 **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
+The Reparations Commission meeting was attended by city officials, community members, and advocates. The main agenda item was the discussion of the Reparations Program's budget allocation for 2023.
 
-The meeting focused on ongoing efforts to provide reparations to the Rondo community, which was disproportionately affected by the 1968 urban unrest. Commission members presented an update on their work, including:
+* The commission discussed allocating $1 million from the city's general fund to support reparations initiatives.
+* A proposal to establish a community land trust to preserve affordable housing in historically marginalized neighborhoods was presented but did not receive a vote.
 
-* A proposed budget for fiscal year 2024: $500,000, with allocations for:
-	+ Community-based initiatives ($200,000)
-	+ Education and job training programs ($150,000)
-	+ Economic development projects ($100,000)
-	+ Infrastructure improvements ($50,000)
-* Discussion on potential new initiatives, including a community land trust and affordable housing programs
-* Reports from subcommittees on issues such as education, economic empowerment, and health
+A contentious topic emerged when Commissioner Thompson raised concerns about the lack of representation from African American communities in the reparations process. This led to a 10-minute discussion, with some members arguing that the commission's diversity was sufficient and others calling for more involvement from community groups. The issue remains unresolved.
 
-A contentious debate arose during the discussion of budget allocations. Commissioner Thompson expressed concerns that the allocated funds for community-based initiatives were too narrow in scope, potentially limiting opportunities for grassroots innovation. Commissioner Patel countered that the commission's goal was to provide concrete support for proven programs, rather than investing in speculative ventures.
-
-The commission voted 6-2 to approve the proposed budget, with Commissioners Thompson and Rodriguez dissenting due to concerns about the allocation of funds.
+The meeting concluded without a final vote on the budget allocation, as it was decided to table the proposal until the next meeting.
 
