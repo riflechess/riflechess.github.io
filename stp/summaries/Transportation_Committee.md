@@ -3,18 +3,21 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-Meeting Type: Transportation Committee Meeting
-Purpose: Discussion on Traffic Congestion Relief Measures
-Date/Time: Thursday, March 18th, 2023 at 6:00 PM
-Location: Saint Paul City Hall
-Attendees: Mayor Melvin Carter, Council Members from Districts 1-7, Public Works Director, and City Engineer
+
+* **Meeting Type:** Transportation Committee Meeting
+* **Date/Time:** Wednesday, March 15th, 2023, at 6:00 PM
+* **Location:** City Hall, Room 300
+* **Purpose:** To discuss and address various transportation-related issues in Saint Paul
 
 #### Summary
-The Transportation Committee met to discuss measures to alleviate traffic congestion in Saint Paul. Key topics included:
 
-* **Bus Rapid Transit (BRT) Expansion**: The committee voted 5-2 in favor of allocating $10 million for BRT expansion on Snelling Avenue. Council Members from Districts 3 and 7 opposed the measure, citing concerns about potential displacement of small businesses.
-* **Traffic Signal Optimization**: The city's Public Works Director presented a plan to optimize traffic signals across the city, which aims to reduce congestion by up to 20%. The committee approved the plan with a unanimous vote.
-* **Complete Streets Policy Update**: The committee discussed updates to the Complete Streets policy, which focuses on designing streets that prioritize pedestrian safety. A motion to adopt the updated policy passed with a 6-1 vote, with Council Member from District 5 dissenting due to concerns about increased costs for infrastructure improvements.
+The meeting began with a brief overview of the agenda, which included updates on several transportation projects and initiatives.
 
-The meeting also included public comments from residents and business owners regarding traffic congestion in their neighborhoods.
+* The committee approved funding for the reconstruction of University Avenue, with an estimated cost of $10 million. This project aims to improve traffic flow and pedestrian safety.
+* A proposal to increase parking fees in downtown Saint Paul was met with opposition from some business owners, who argued that it would drive away customers and hurt local commerce. The committee ultimately voted 4-2 in favor of the fee increase, with Committee Chair, Maria Hernandez, citing the need for revenue generation to support transportation infrastructure.
+* A plan to improve bike lanes on Summit Avenue was discussed, with several residents expressing concerns about safety and traffic congestion.
+
+The discussion on bike lanes became contentious when a resident, Mark Thompson, argued that adding more bike lanes would lead to increased traffic and parking issues. However, Committee member, John Lee, countered that the bike lanes would actually improve traffic flow by reducing congestion caused by parked cars.
+
+Overall, the meeting focused on addressing transportation needs and infrastructure in Saint Paul.
 
