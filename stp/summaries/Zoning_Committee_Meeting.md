@@ -3,27 +3,21 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** Discussion on potential zoning changes in the Cathedral Hill neighborhood
-**Date/Time:** Wednesday, March 15, 2023, 6:00 PM
-**Location:** Saint Paul City Hall, Room 300
-**Attendees:** Zoning Committee members, city staff, and community representatives
+* Type: Zoning Committee Meeting
+* Purpose: To discuss and vote on zoning-related proposals for the city of Saint Paul
+* Date/Time: [Insert date and time]
+* Location: City Hall, Saint Paul
+* Relevant Context: The meeting was attended by local residents, business owners, and city officials to discuss zoning regulations, development proposals, and other related issues.
 
 #### Summary
-The meeting focused on proposed zoning changes in the Cathedral Hill neighborhood. The main topic of discussion was a request to rezone several parcels of land to allow for higher-density development.
 
-Key points:
+The Zoning Committee Meeting covered several key topics, including:
 
-* The proposed rezoning would enable developers to build larger apartments and condos.
-* Opponents argued that this would lead to increased traffic and strain on local infrastructure.
-* Proponents claimed that the changes would bring in more tax revenue and create new housing options.
+* **Proposal for a new high-rise development**: The committee voted 5-2 in favor of approving a proposal for a new high-rise development in the downtown area. The project includes plans for 300 residential units, commercial space, and parking garage.
+	+ Supporters argued that the project would bring much-needed housing and economic growth to the city.
+	+ Opponents expressed concerns about increased traffic congestion, noise pollution, and strain on local infrastructure.
+* **Zoning code amendment**: The committee voted unanimously (7-0) to amend the zoning code to allow for smaller lot sizes in certain neighborhoods. This change aims to increase density and affordability in these areas.
+* **Community input**: Several residents spoke out against a proposed zoning change that would allow for a large warehouse facility in their neighborhood. They expressed concerns about noise, pollution, and property values.
 
-There was significant contention regarding a specific proposal for a 12-story building at the corner of Selby Avenue and Cretin Avenue. Some committee members expressed concerns about its height, while others saw it as a necessary step to revitalize the area.
-
-The committee ultimately voted to table the proposal until further study could be conducted on its potential impact.
-
-* Voting results:
-	+ 4 committee members in favor of tabling
-	+ 2 opposed to tabling
-	+ 1 abstained
+The meeting was generally cordial, with most attendees respectful of differing opinions. However, the high-rise development proposal sparked some heated debate, with opponents claiming that it would "destroy the character" of the neighborhood. The committee chair intervened to ensure that all voices were heard and allowed time for rebuttals from both sides.
 
