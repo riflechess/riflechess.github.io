@@ -3,24 +3,31 @@ title: City Council on 2025-10-08 3:30 PM
 date: 2025-10-08
 ---
 #### Meeting Info
-* **Type**: City Council meeting
-* **Purpose**: Regular meeting of the Saint Paul City Council on October 8, 2025
-* **Date/Time**: October 8, 2025, at 3:30 PM
-* **Attendees**: Members of the City Council, city staff, and members of the public
+**Meeting Type:** Regular City Council Meeting
+**Purpose:** To discuss and vote on various city ordinances, resolutions, and other matters related to the city's operations.
+**Date/Time:** October 8, 2025, 3:30 PM
+**Location:** City Hall, Saint Paul
 
 #### Summary
+The meeting began with a discussion of various items on the agenda. The council voted unanimously to adopt Ordinance 25-57, amending Chapter 233 of the Legislative Code to align with state law changes.
 
-The meeting covered several items, including:
+Council Member Yang presented Item 14, which was the first reading of Ordinance 25-58. This ordinance considered the application of the Housing and Redevelopment Authority (HRA) to rezone property at 1059 Maryland Avenue from B2 Community Business to T2 Traditional Neighborhood. The staff report recommended approval, and the District 5 Planning Council, Payne Phelan Community Council, submitted a letter of recommendation. After some discussion, the ordinance was laid over to October 15th for second reading and public hearing.
 
-1. **Ordinance 25-57**: The council approved an amendment to Chapter 233 of the Legislative Code to align with state law changes.
-2. **Ordinance 25-58**: The first reading of a rezoning ordinance for property at 1059 Maryland Avenue was held, and the ordinance will be laid over to October 15th for second reading and public hearing.
-3. **Ordinance 25-55**: A public hearing on an amendment to Chapter 224 of the Legislative Code was continued from October 1st and closed with a motion to approve.
-4. **Resolution Public Hearing 25-193**: The council approved the 2026 Operating Plan for the Comprehensive Downtown Improvement Special Service District, which includes a service charge pursuant to Minnesota Statutes Chapter 428A.
-5. **Resolutions 25-220 and 25-22**: The council approved sound level variance requests from the University of St. Thomas and Anderson Race Management, respectively.
+The council then moved on to Item 16, which was Resolution Public Hearing 25-193, adopting the 2026 Operating Plan for the Comprehensive Downtown Improvement Special Service District. Joe Spencer, President of the St. Paul Downtown Alliance, spoke in support of the resolution, highlighting the successes of the program and the importance of continuing it.
 
-The meeting also featured several public hearings, including one on the Downtown Improvement District's budget growth and another on a proposed sound level variance for an event at Harriet Island.
+Michelle Lichtig also spoke in support of the resolution, sharing her experience as a resident who pays into the assessment and expressing her hope for continued growth and livability in the downtown area.
 
-Council Member Johnson commended Council Member Yang for bringing up the issue of youth wages and expressed his support for addressing the topic in future discussions. Council Member Reed mentioned that he would like to bring forward an amendment to eliminate the 90-day youth rate, which would allow employers to pay youth 14-17 years old less in their first 90 days of employment.
+The council voted unanimously to adopt Resolution 25-193.
 
-The council also heard from several members about upcoming events and news from their wards.
+Council Member Johnson presented Item 17, which was a public hearing on the application of the University of St. Thomas, St. Paul Seminary, and St. Paul Seminary for sound level variance in order to present amplified sound on October 18th at UST O'Shaughnessy Stadium. Josh Hamill spoke in support of the resolution, explaining that it was a small event with an expected 300-400 spectators.
+
+The council voted unanimously to adopt Resolution 25-220.
+
+Council Member Yang presented Item 18, which was a public hearing on the application of Anderson Race Management for sound level variance in order to present amplified sound on October 12th at Harriet Island. The council voted unanimously to adopt Resolution 25-22.
+
+The legislative hearing consent agenda items 19 through 37 were also considered, and the council voted unanimously to approve them as amended.
+
+Council Members Yang and Just shared news from their wards, highlighting various events and initiatives taking place in their districts.
+
+Finally, Council President Kim adjourned the meeting at approximately 6:30 PM.
 
