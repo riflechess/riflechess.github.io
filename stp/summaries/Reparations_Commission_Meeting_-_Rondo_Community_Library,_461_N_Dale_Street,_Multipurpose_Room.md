@@ -3,20 +3,23 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Reparations Commission Meeting
-**Purpose:** To discuss the implementation and progress of the Reparations Program in Saint Paul
-**Date/Time:** [Insert Date and Time]
-**Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+* **Type:** Reparations Commission Meeting
+* **Purpose:** To discuss and make progress on reparations efforts in the city of Saint Paul, particularly in the Rondo community
+* **Date/Time:** [Insert Date] at [Insert Time]
+* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
 
 #### Summary
-The meeting began with a brief introduction from Commissioner Jameson, who emphasized the importance of transparency and community engagement in the reparations process. The commission discussed the following key topics:
+The Reparations Commission met to discuss ongoing efforts to address historical injustices and provide reparations to communities affected. Key topics included:
 
-* **Budget Allocation**: The commission voted to allocate an additional $500,000 for the Reparations Program, bringing the total budget to $2 million. This allocation was approved with a vote of 7-1, with Commissioner Rodriguez dissenting due to concerns about the program's effectiveness.
-* **Land Trust Program**: The commission discussed the creation of a land trust program to provide affordable housing options for Black residents in Saint Paul. While there was some debate about the feasibility and scope of the program, it was ultimately approved with a vote of 8-0.
-* **Community Engagement**: The commission emphasized the importance of community engagement in the reparations process, highlighting the need for more public forums and town halls to discuss the program's progress.
+* The commission discussed the proposed "Rondo Reparations Plan" which outlines a framework for providing reparations in the form of economic development, education, and community programs.
+* A key component of the plan is the creation of a Rondo Community Land Trust, which would allow community members to purchase and develop land at affordable prices.
+* The commission also discussed proposals for increasing funding for community programs and initiatives aimed at addressing systemic racism and inequality.
 
-Notable moments of contention included:
+A contentious discussion arose around the issue of "direct reparations" versus "community-led development". Some commissioners argued that direct reparations in the form of financial compensation are necessary, while others advocated for a more community-led approach to development and economic empowerment. The debate highlighted differing perspectives on how best to address historical injustices and prioritize community needs.
 
-* Commissioner Rodriguez's dissenting vote on the budget allocation, citing concerns about the program's effectiveness and transparency.
-* A brief but heated discussion between Commissioners Jameson and Thompson regarding the scope and feasibility of the land trust program.
+The commission voted 6-3 in favor of moving forward with the "Rondo Reparations Plan" as outlined, with some commissioners expressing concerns about the lack of concrete timelines and metrics for measuring progress. The plan will be reviewed and revised over the coming months before being presented to city council for approval.
+
+Some community members in attendance expressed concerns about the pace and scope of reparations efforts, feeling that more should be done to address ongoing disparities in healthcare, education, and economic opportunities. Others praised the commission's efforts as a step towards reconciliation and healing.
+
+The next meeting of the Reparations Commission is scheduled for [Insert Date] at [Insert Time].
 
