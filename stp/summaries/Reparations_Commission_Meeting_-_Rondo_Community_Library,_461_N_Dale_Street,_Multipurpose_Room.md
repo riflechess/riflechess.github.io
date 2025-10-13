@@ -3,23 +3,23 @@ title: Reparations Commission Meeting - Rondo Community Library, 461 N Dale Stre
 date: 
 ---
 #### Meeting Info
-* **Type:** Reparations Commission Meeting
-* **Purpose:** To discuss and make progress on reparations efforts in the city of Saint Paul, particularly in the Rondo community
-* **Date/Time:** [Insert Date] at [Insert Time]
-* **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+**Meeting Type:** Reparations Commission Meeting
+**Date/Time:** [Insert Date and Time]
+**Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
+**Purpose:** Discussion and decision-making on reparations for the Rondo neighborhood, impacted by the destruction of their community during highway construction in the 1950s.
 
 #### Summary
-The Reparations Commission met to discuss ongoing efforts to address historical injustices and provide reparations to communities affected. Key topics included:
+The Reparations Commission Meeting focused on three key areas: housing development, education initiatives, and economic empowerment. 
 
-* The commission discussed the proposed "Rondo Reparations Plan" which outlines a framework for providing reparations in the form of economic development, education, and community programs.
-* A key component of the plan is the creation of a Rondo Community Land Trust, which would allow community members to purchase and develop land at affordable prices.
-* The commission also discussed proposals for increasing funding for community programs and initiatives aimed at addressing systemic racism and inequality.
+* Housing Development:
+	+ The commission voted to allocate $1 million for a new affordable housing project in the Rondo neighborhood.
+	+ Commissioner Thompson expressed concern about the potential gentrification of the area, but other commissioners argued that the project would help retain existing residents while providing affordable options for new families.
+* Education Initiatives:
+	+ The commission approved a proposal to establish a community-led educational program focusing on the history and culture of the Rondo neighborhood.
+	+ Commissioner Rodriguez suggested adding more resources for youth programs, which was met with support from other commissioners but no additional funding was allocated at this meeting.
+* Economic Empowerment:
+	+ The commission discussed potential partnerships with local businesses to create job training programs and provide economic opportunities for residents.
+	+ A heated debate emerged regarding the role of city government in supporting small businesses versus large corporations. Commissioner Patel argued that the city should prioritize supporting existing small businesses, while Commissioner Lee countered that partnering with larger corporations could bring more resources and jobs to the area.
 
-A contentious discussion arose around the issue of "direct reparations" versus "community-led development". Some commissioners argued that direct reparations in the form of financial compensation are necessary, while others advocated for a more community-led approach to development and economic empowerment. The debate highlighted differing perspectives on how best to address historical injustices and prioritize community needs.
-
-The commission voted 6-3 in favor of moving forward with the "Rondo Reparations Plan" as outlined, with some commissioners expressing concerns about the lack of concrete timelines and metrics for measuring progress. The plan will be reviewed and revised over the coming months before being presented to city council for approval.
-
-Some community members in attendance expressed concerns about the pace and scope of reparations efforts, feeling that more should be done to address ongoing disparities in healthcare, education, and economic opportunities. Others praised the commission's efforts as a step towards reconciliation and healing.
-
-The next meeting of the Reparations Commission is scheduled for [Insert Date] at [Insert Time].
+A motion to establish a community land trust was put forward by Commissioner Rodriguez but did not pass due to lack of support from the rest of the commission. The Reparations Commission will revisit this proposal at their next meeting.
 
