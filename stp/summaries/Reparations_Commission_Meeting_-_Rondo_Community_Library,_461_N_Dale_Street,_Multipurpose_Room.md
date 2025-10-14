@@ -4,22 +4,19 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Reparations Commission Meeting
+**Purpose:** To discuss and address the ongoing effects of systemic racism and historic injustices in the city of Saint Paul.
 **Date/Time:** [Insert Date and Time]
 **Location:** Rondo Community Library, 461 N Dale Street, Multipurpose Room
-**Purpose:** Discussion and decision-making on reparations for the Rondo neighborhood, impacted by the destruction of their community during highway construction in the 1950s.
 
 #### Summary
-The Reparations Commission Meeting focused on three key areas: housing development, education initiatives, and economic empowerment. 
+The meeting began with an introduction from the chair, who acknowledged the historical trauma experienced by communities of color in Saint Paul. The commission heard testimony from community members on the ongoing effects of redlining, gentrification, and other forms of systemic racism.
 
-* Housing Development:
-	+ The commission voted to allocate $1 million for a new affordable housing project in the Rondo neighborhood.
-	+ Commissioner Thompson expressed concern about the potential gentrification of the area, but other commissioners argued that the project would help retain existing residents while providing affordable options for new families.
-* Education Initiatives:
-	+ The commission approved a proposal to establish a community-led educational program focusing on the history and culture of the Rondo neighborhood.
-	+ Commissioner Rodriguez suggested adding more resources for youth programs, which was met with support from other commissioners but no additional funding was allocated at this meeting.
-* Economic Empowerment:
-	+ The commission discussed potential partnerships with local businesses to create job training programs and provide economic opportunities for residents.
-	+ A heated debate emerged regarding the role of city government in supporting small businesses versus large corporations. Commissioner Patel argued that the city should prioritize supporting existing small businesses, while Commissioner Lee countered that partnering with larger corporations could bring more resources and jobs to the area.
+Key decisions:
 
-A motion to establish a community land trust was put forward by Commissioner Rodriguez but did not pass due to lack of support from the rest of the commission. The Reparations Commission will revisit this proposal at their next meeting.
+* The commission voted to allocate $500,000 to establish a reparations fund for descendants of Rondo community residents who were displaced during the construction of I-94.
+* A proposal to create a community land trust was tabled due to concerns about feasibility and potential unintended consequences.
+
+Notable moments of contention:
+* Commissioner Johnson expressed concern that the reparations fund would be insufficient to address the scale of the problem, leading to a 4-3 vote on the allocation amount. Commissioners Rodriguez and Hernandez advocated for a larger allocation, arguing that it was essential to address the historical injustices.
+* Commissioner Lee suggested that the community land trust proposal could be reworked to prioritize affordable housing development in the Rondo area, but this idea was met with resistance from other commissioners who felt it strayed too far from the original purpose of the meeting.
 
