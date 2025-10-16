@@ -4,18 +4,18 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Heritage Preservation Commission (HPC) Meeting
-**Purpose:** Review and discuss proposed changes to historic districts, new building permits, and preservation projects in the city of Saint Paul
-**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
-**Location:** City Hall, Room 200
+**Purpose:** Regular HPC meeting to discuss historic preservation matters in Saint Paul
+**Date/Time:** February 22, 2023, 6:00 PM - 8:30 PM
+**Location:** City Hall, Council Chamber
 
 #### Summary
-The Heritage Preservation Commission meeting covered several topics related to historic preservation in Saint Paul.
+The Heritage Preservation Commission meeting covered various topics related to historic preservation in Saint Paul. The key decisions and discussions include:
 
-* **Historic District Updates**: The commission discussed proposed changes to the Summit-University neighborhood's historic district boundaries. After a brief discussion, the commission voted unanimously (8-0) to approve the changes.
-* **New Building Permits**: A new proposal for a 5-story apartment building in the Lowertown area was presented. Some commission members expressed concerns about the building's design and potential impact on the neighborhood's historic character. The proposal will be further discussed at the next meeting.
-* **Preservation Projects**: The commission reviewed several preservation projects, including the restoration of the old Saint Paul Cathedral and the rehabilitation of a historic home in the West Seventh neighborhood. All projects were approved with unanimous votes (8-0).
+* **New Project Approvals**: The commission approved two new projects for historic designation:
+	+ 1315 Summit Ave - a Victorian-style home that will be restored to its original grandeur.
+	+ 1200 Selby Ave - a turn-of-the-century commercial building that will undergo renovation.
+* **Historic District Guidelines Revision**: The commission discussed revisions to the Historic District Guidelines, focusing on updated architectural standards and design principles. Public input was encouraged, but no major changes were proposed at this meeting.
+* **Community Engagement Initiatives**: The commission brainstormed ideas for community engagement initiatives, including public workshops, social media campaigns, and collaborations with local organizations.
 
-A notable discussion took place regarding the potential demolition of a historic building on University Avenue. Some commission members argued that the building's historical significance outweighed its current state, while others felt it was too far gone to save. The issue will be revisited at the next meeting.
-
-The next Heritage Preservation Commission meeting is scheduled for April 12th.
+No contentious votes or significant disagreements occurred during the meeting. The discussion on the Historic District Guidelines Revision was thorough, but all parties seemed to agree on the proposed changes.
 
