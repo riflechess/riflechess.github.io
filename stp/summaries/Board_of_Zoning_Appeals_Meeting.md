@@ -3,19 +3,21 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Type:** Board of Zoning Appeals Meeting
-* **Purpose:** Review zoning variances, appeals, and other related matters
-* **Date/Time:** March 10, 2023, at 5:00 PM
+
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** To consider zoning variance requests and other related matters
+* **Date/Time:** [Insert Date and Time]
+* **Attendees:** Members of the Board of Zoning Appeals, City Staff, and interested parties
 
 #### Summary
 
-The Board of Zoning Appeals meeting covered several applications for zoning variances. The key decisions made were:
+The meeting began with a review of agenda items. The first item considered was a request for a zoning variance from a property owner on Rice Street. The applicant sought to build a three-story commercial building despite the existing zoning restriction allowing only two stories.
 
-* Approved a variance for a new single-family home in the Highland Park neighborhood, allowing for a smaller lot size than usual.
-* Denied an appeal from a property owner in the East Side neighborhood, who sought to increase their building's height beyond allowed limits.
-* Tabled discussion on a proposed variance for a commercial development in the Lowertown area, pending additional information.
+After discussion among board members, it was decided that the request would be tabled until more information could be provided about the proposal's impact on neighboring properties. Several neighbors expressed concerns about potential traffic and parking issues.
 
-One point of contention arose during the discussion of the Lowertown project. One board member expressed concerns about the potential impact on nearby residents and businesses. Another member argued that the project would bring much-needed economic growth to the area. The board ultimately decided to table the decision until more information is available.
+The second item considered was a request to rezone a property on University Avenue from residential to commercial use. The applicant argued that the change would align with the area's existing commercial development, but nearby residents were concerned about increased noise and disruption.
 
-No major complaints or public safety issues were raised during the meeting.
+A vote was held, and the rezoning request passed 4-1, with one board member dissenting due to concerns about over-commercialization of the neighborhood.
+
+The meeting concluded with a review of future agenda items and a reminder that public input is encouraged for upcoming zoning cases.
 
