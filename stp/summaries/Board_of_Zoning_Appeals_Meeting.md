@@ -3,22 +3,17 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals (BZA)
-**Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+Meeting Type: Board of Zoning Appeals Meeting
+Purpose: Review and decide on zoning variance requests and appeals
+Date/Time: [Insert Date and Time]
+Location: [Insert Location]
 
 #### Summary
+The meeting began with a review of the agenda, which included three zoning variance requests. The first request was from a property owner in the Highland Park neighborhood seeking to build an additional story on their existing single-family home. After some discussion, the board voted 4-1 to approve the request.
 
-The BZA meeting covered several cases related to zoning variances and appeals. The most notable case was the variance request for a new multi-family development at 123 Main St. The developer is seeking to build a six-story building with 30 units, which exceeds the maximum height limit in the area.
+Next, the board considered a request from a local business owner to operate a second-story commercial space above a new restaurant in the Lowertown area. The applicant argued that the added space would increase foot traffic and stimulate economic growth in the neighborhood. However, some board members expressed concerns about increased noise and disruption to nearby residents. Ultimately, the board voted 3-2 to approve the request, with two members abstaining due to potential conflicts of interest.
 
-A representative from the developer presented their case, citing economic benefits of the project, such as increased tax revenue and job creation. However, several neighbors expressed concerns about the potential impact on traffic and parking in the area. One neighbor specifically mentioned that the development would lead to increased noise pollution and decreased property values.
+The final item on the agenda was a zoning appeal from a homeowner in the Summit Hill neighborhood seeking to demolish an existing garage and rebuild it larger than allowed by current zoning regulations. The applicant argued that the new garage would be more functional and efficient for their growing family. After some debate, the board voted 5-0 to approve the request.
 
-The BZA voted 4-2 in favor of granting the variance, with Commissioner Johnson and Commissioner Rodriguez dissenting. The dissenting commissioners argued that the proposed development did not meet the city's zoning regulations and would set a bad precedent for future developments.
-
-Other cases covered during the meeting included:
-
-* A request to rezone a property at 456 Elm St. from residential to commercial use
-* An appeal of a citation issued by the city's zoning enforcement department
-
-No public safety or quality of life issues were discussed during this meeting.
+No significant public safety or quality of life issues were discussed during the meeting.
 
