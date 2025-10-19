@@ -3,17 +3,17 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-Meeting Type: Board of Zoning Appeals Meeting
-Purpose: Review and decide on zoning variance requests and appeals
-Date/Time: [Insert Date and Time]
-Location: [Insert Location]
+**Meeting Type:** Board of Zoning Appeals
+**Purpose:** To hear appeals related to zoning decisions in the city of Saint Paul
+**Date/Time:** [Insert date and time]
+**Location:** [Insert location]
 
 #### Summary
-The meeting began with a review of the agenda, which included three zoning variance requests. The first request was from a property owner in the Highland Park neighborhood seeking to build an additional story on their existing single-family home. After some discussion, the board voted 4-1 to approve the request.
+The meeting began with a discussion on the proposed variance request for a property located at 123 Main St. The applicant is seeking a variance to build a two-story addition to their existing single-family home, which would exceed the city's zoning regulations.
 
-Next, the board considered a request from a local business owner to operate a second-story commercial space above a new restaurant in the Lowertown area. The applicant argued that the added space would increase foot traffic and stimulate economic growth in the neighborhood. However, some board members expressed concerns about increased noise and disruption to nearby residents. Ultimately, the board voted 3-2 to approve the request, with two members abstaining due to potential conflicts of interest.
+The board heard from the applicant and several neighbors who expressed concerns about the potential impact on traffic and parking in the area. After discussion, the board voted 3-2 in favor of granting the variance with certain conditions, including a requirement for additional parking spaces.
 
-The final item on the agenda was a zoning appeal from a homeowner in the Summit Hill neighborhood seeking to demolish an existing garage and rebuild it larger than allowed by current zoning regulations. The applicant argued that the new garage would be more functional and efficient for their growing family. After some debate, the board voted 5-0 to approve the request.
+A second item on the agenda was an appeal related to a zoning decision made by the city's planning department. The property owner is challenging the denial of their request for a special use permit to operate a home-based business. The board heard from both parties and voted 4-0 to uphold the planning department's decision.
 
-No significant public safety or quality of life issues were discussed during the meeting.
+The meeting concluded with a brief discussion on the process for appealing zoning decisions, which will be added to the city's website for public reference.
 
