@@ -3,17 +3,17 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals
-**Purpose:** To hear appeals related to zoning decisions in the city of Saint Paul
-**Date/Time:** [Insert date and time]
-**Location:** [Insert location]
+* **Meeting Type:** Board of Zoning Appeals
+* **Purpose:** Review and decide on zoning appeals cases
+* **Date/Time:** [Insert Date] at [Insert Time]
+* **Location:** [Insert Location]
 
 #### Summary
-The meeting began with a discussion on the proposed variance request for a property located at 123 Main St. The applicant is seeking a variance to build a two-story addition to their existing single-family home, which would exceed the city's zoning regulations.
+The meeting began with a review of the agenda, which included three zoning appeal cases. The first case involved a request for a variance to build a multi-family dwelling in a single-family zoned neighborhood. After hearing from both the applicant and an opposing neighbor, the board voted 3-1 to approve the variance. The dissenting member expressed concerns about over-development in the area.
 
-The board heard from the applicant and several neighbors who expressed concerns about the potential impact on traffic and parking in the area. After discussion, the board voted 3-2 in favor of granting the variance with certain conditions, including a requirement for additional parking spaces.
+The second case was a zoning appeal related to signage for a local business. The applicant requested permission to install larger signs on the property, citing increased visibility and foot traffic. However, one member of the board raised concerns about sign clutter and potential visual impacts on the surrounding neighborhood. After a brief discussion, the board voted 2-2, effectively tabling the decision.
 
-A second item on the agenda was an appeal related to a zoning decision made by the city's planning department. The property owner is challenging the denial of their request for a special use permit to operate a home-based business. The board heard from both parties and voted 4-0 to uphold the planning department's decision.
+The third case involved a request for a zoning amendment to allow for a community garden in a residential area. The applicant presented a detailed proposal, including plans for irrigation systems and waste management. The board expressed enthusiasm for the project and unanimously approved the zoning amendment.
 
-The meeting concluded with a brief discussion on the process for appealing zoning decisions, which will be added to the city's website for public reference.
+Overall, the meeting focused on balancing development needs with concerns about neighborhood character and quality of life.
 
