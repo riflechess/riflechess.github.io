@@ -3,22 +3,21 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To hear appeals on zoning decisions affecting properties in the city of Saint Paul
-**Date/Time:** Wednesday, March 8, 2023 at 6:00 PM
-**Location:** City Hall, Room 300
-**Attendees:** Members of the Board of Zoning Appeals, City Staff, and public attendees
+* Type: Board of Zoning Appeals Meeting
+* Purpose: Review and make decisions on zoning appeals and variances
+* Date/Time: [Insert date and time]
+* Location: [Insert location]
 
 #### Summary
-The meeting began with a brief discussion on the agenda for the evening. The first appeal was regarding a zoning variance request for a property at 123 Main St. The owner is seeking to add a second story to their residence, which would require a zoning variance due to local ordinances.
+The meeting began with a review of the agenda, which included several zoning appeal cases. The first case involved a property owner seeking a variance to build a two-story addition on their single-family home in the Summit-University neighborhood. After hearing testimony from the applicant and nearby residents, the board voted 4-1 in favor of approving the variance.
 
-After hearing testimony from the property owner and city staff, the board voted 4-1 to grant the variance, citing the property's unique topography as a valid reason for the exception. One board member dissented, expressing concerns about setting a precedent for future appeals.
+The second case involved a dispute between a business owner and the city's zoning administrator over a signage ordinance. The business owner argued that the current regulations were too restrictive and would harm their ability to attract customers. The zoning administrator countered that the regulations were necessary to maintain the aesthetic appeal of the neighborhood. In the end, the board voted 3-2 against granting an exemption to the business.
 
-The next item on the agenda was an appeal regarding a proposed new development at 456 Cedar St. The developer is seeking to build a six-story apartment complex, which would require a zoning change from residential to commercial use. A lengthy discussion ensued between city staff and members of the public, with some expressing concerns about increased traffic and noise.
+Other topics discussed included:
 
-The board ultimately voted 3-2 to approve the zoning change, but not without controversy. One member argued that the development would be a boon for local businesses, while another expressed concern that it would "overdevelop" the area. The developer has agreed to work with city staff to address some of these concerns, including implementing traffic mitigation measures and providing community benefits.
+* A proposed text amendment to the city's zoning code regarding accessory dwelling units (ADUs)
+* A request from a property owner for a zoning variance to operate a home-based business
+* An update on the city's efforts to implement more sustainable and energy-efficient building practices
 
-In other business, the board also discussed and approved several minor zoning appeals related to property lines and setbacks. These decisions were largely uncontested and passed unanimously.
-
-Overall, while there was some debate on key issues, the meeting remained civil and productive, with the board making thoughtful decisions on complex zoning matters.
+No other significant action was taken or contentious issues arose. The next Board of Zoning Appeals meeting is scheduled for [Insert date].
 
