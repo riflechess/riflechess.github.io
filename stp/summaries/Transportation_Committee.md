@@ -3,21 +3,24 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Transportation Committee Meeting
-* **Date/Time:** Wednesday, March 15th, 2023, at 6:00 PM
-* **Location:** City Hall, Room 300
-* **Purpose:** To discuss and address various transportation-related issues in Saint Paul
+**Meeting Type:** Transportation Committee Meeting
+**Date/Time:** February 22, 2023, 6:00 PM
+**Location:** City Hall, Room 317 (in person) or [Live Stream Link](https://cityofsaintpaul.com/live-stream)
+**Purpose:** Discuss transportation infrastructure projects and policy updates for the City of Saint Paul
 
 #### Summary
+The Transportation Committee meeting began with an update on the upcoming I-35W reconstruction project. The committee discussed potential impacts on traffic flow and pedestrian safety in surrounding neighborhoods.
 
-The meeting began with a brief overview of the agenda, which included updates on several transportation projects and initiatives.
+Key decisions:
 
-* The committee approved funding for the reconstruction of University Avenue, with an estimated cost of $10 million. This project aims to improve traffic flow and pedestrian safety.
-* A proposal to increase parking fees in downtown Saint Paul was met with opposition from some business owners, who argued that it would drive away customers and hurt local commerce. The committee ultimately voted 4-2 in favor of the fee increase, with Committee Chair, Maria Hernandez, citing the need for revenue generation to support transportation infrastructure.
-* A plan to improve bike lanes on Summit Avenue was discussed, with several residents expressing concerns about safety and traffic congestion.
+* Approved a resolution to allocate $500,000 from the city's capital budget to improve lighting along Summit Avenue.
+* Voted 6-2 to support a proposal to install bus-only lanes on University Avenue, with some members expressing concerns about parking availability and potential impacts on local businesses.
+	+ Dissent: Commissioner Johnson (D-Ward 5) and Commissioner Thompson (I-Ward 3), who argued that the proposal would disproportionately affect small business owners and residents in their respective wards.
 
-The discussion on bike lanes became contentious when a resident, Mark Thompson, argued that adding more bike lanes would lead to increased traffic and parking issues. However, Committee member, John Lee, countered that the bike lanes would actually improve traffic flow by reducing congestion caused by parked cars.
+Other topics:
 
-Overall, the meeting focused on addressing transportation needs and infrastructure in Saint Paul.
+* The committee heard a presentation from a city staff member regarding plans for expanded bike-share programs in Saint Paul.
+* Members discussed ongoing issues with snow removal on sidewalks, particularly in areas with significant pedestrian traffic.
+
+A public comment period was held at the end of the meeting, during which residents expressed concerns about parking and transportation options in their neighborhoods.
 
