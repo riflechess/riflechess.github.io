@@ -3,12 +3,11 @@ title: Zoning Committee Meeting CANCELLED
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting (CANCELLED)
-**Purpose:** Regular Meeting to discuss zoning matters in the City of Saint Paul
-**Date/Time:** Scheduled for [insert date and time], but meeting was cancelled
+* **Meeting Type:** Cancellation Notice
+* **Purpose:** Notification that the Zoning Committee Meeting has been cancelled
+* **Date/Time:** No specific date/time was mentioned (implied to be a general notification)
+* **Relevant Context:** The meeting was likely scheduled for another time, but the cancellation notice was released without specifying when or why it was cancelled.
 
 #### Summary
-Unfortunately, this week's Zoning Committee Meeting has been cancelled. No discussions or decisions were made regarding zoning matters in the city. There are no key takeaways from this meeting, as it did not occur.
-
-Please note that future meetings will be rescheduled and announced by the City of Saint Paul. If you have any questions or concerns about zoning issues in your neighborhood, feel free to reach out to local representatives for more information.
+The Zoning Committee Meeting has been cancelled. Unfortunately, no additional information was provided regarding the reason for the cancellation or any potential rescheduling of the meeting. As a result, there are no key decisions to report from this meeting.
 
