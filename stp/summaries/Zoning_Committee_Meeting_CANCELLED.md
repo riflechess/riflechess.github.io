@@ -3,11 +3,11 @@ title: Zoning Committee Meeting CANCELLED
 date: 
 ---
 #### Meeting Info
-**Meeting:** Zoning Committee Meeting CANCELLED
-**Purpose:** Scheduled discussion on zoning regulations and proposed developments in the city
-**Date/Time:** Not specified (likely cancelled due to lack of agenda items or other reasons)
-**Context:** Typically, this committee reviews applications for zoning variances, discusses development proposals, and addresses concerns related to land use
+**Meeting Type:** Zoning Committee Meeting
+**Purpose:** Discussion of zoning regulations and proposals for the City of Saint Paul
+**Date/Time:** (no specific date/time provided, as meeting was cancelled)
+**Relevance:** The cancellation of this meeting is a notable event in itself.
 
 #### Summary
-This meeting was cancelled without a scheduled replacement. It is unclear if there are any upcoming Zoning Committee meetings planned at this time. If you are interested in staying informed about zoning regulations and developments, we recommend checking the city's website for updates on future meeting schedules.
+Unfortunately, there are no key decisions or discussions to summarize from this meeting, as it was cancelled.
 
