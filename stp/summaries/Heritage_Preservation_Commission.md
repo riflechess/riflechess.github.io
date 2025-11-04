@@ -3,19 +3,24 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Heritage Preservation Commission (HPC) Meeting
-**Purpose:** Regular HPC meeting to discuss historic preservation matters in Saint Paul
-**Date/Time:** February 22, 2023, 6:00 PM - 8:30 PM
-**Location:** City Hall, Council Chamber
+
+**Type:** Heritage Preservation Commission (HPC) meeting
+**Purpose:** To discuss preservation and historic designation of properties in Saint Paul, as well as other related business
+**Date/Time:** March 12, 2023, at 2:00 PM
 
 #### Summary
-The Heritage Preservation Commission meeting covered various topics related to historic preservation in Saint Paul. The key decisions and discussions include:
 
-* **New Project Approvals**: The commission approved two new projects for historic designation:
-	+ 1315 Summit Ave - a Victorian-style home that will be restored to its original grandeur.
-	+ 1200 Selby Ave - a turn-of-the-century commercial building that will undergo renovation.
-* **Historic District Guidelines Revision**: The commission discussed revisions to the Historic District Guidelines, focusing on updated architectural standards and design principles. Public input was encouraged, but no major changes were proposed at this meeting.
-* **Community Engagement Initiatives**: The commission brainstormed ideas for community engagement initiatives, including public workshops, social media campaigns, and collaborations with local organizations.
+The meeting began with a discussion on the proposed historic designation of three buildings in the Summit-University neighborhood. After some debate, the commission voted to approve the designation for two of the buildings but tabled the third due to concerns about potential impact on local businesses.
 
-No contentious votes or significant disagreements occurred during the meeting. The discussion on the Historic District Guidelines Revision was thorough, but all parties seemed to agree on the proposed changes.
+* **Approved:** 1460 University Avenue West (former restaurant) and 1533 Selby Avenue (historic church)
+* **Tabled:** 1217 University Avenue East (mixed-use building)
+
+Commissioner Johnson expressed concern that designating the mixed-use building as historic could limit future development options for the property owner. Commissioner Rodriguez countered that preserving the building's unique architecture would be beneficial to the neighborhood.
+
+The commission also discussed proposed changes to the city's historic district guidelines, which were met with some opposition from a local business owner who felt the changes would be too restrictive.
+
+* **Proposed Changes:** Revised guidelines would require owners of historic properties to obtain approval for any exterior modifications
+* **Business Owner Concerns:** Fear that the new guidelines would lead to increased bureaucracy and costs for property owners
+
+The commission will take up the discussion on the revised guidelines at their next meeting.
 
