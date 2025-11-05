@@ -3,11 +3,12 @@ title: Board of Zoning Appeals Meeting - Canceled
 date: 
 ---
 #### Meeting Info
-* **Type:** Board of Zoning Appeals Meeting
-* **Purpose:** Cancelled meeting
-* **Date/Time:** [No specific date/time provided]
-* **Context:** The meeting was cancelled, but the description indicates it would typically be a live and recorded public meeting.
+**Type:** Board of Zoning Appeals Meeting (Canceled)
+**Purpose:** To review zoning appeals and make decisions on variances and special permits
+**Date/Time:** [Note: No specific date or time was provided as the meeting was canceled]
+**Context:** The meeting was canceled, so there were no topics discussed or decisions made.
 
 #### Summary
-This meeting did not occur as scheduled. Details regarding what would have been discussed or decided at this meeting are unavailable due to its cancellation.
+
+This Board of Zoning Appeals Meeting was unfortunately canceled. As a result, there is nothing to summarize from this meeting.
 
