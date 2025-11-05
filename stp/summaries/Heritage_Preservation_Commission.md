@@ -3,24 +3,18 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-
-**Type:** Heritage Preservation Commission (HPC) meeting
-**Purpose:** To discuss preservation and historic designation of properties in Saint Paul, as well as other related business
-**Date/Time:** March 12, 2023, at 2:00 PM
+**Meeting Type:** Heritage Preservation Commission
+**Purpose:** Review and discuss historic preservation projects in the city of Saint Paul
+**Date/Time:** March 10, 2023, 2:00 PM
+**Location:** City Hall, Room 300
 
 #### Summary
+The Heritage Preservation Commission met to review several proposals for historic preservation projects in Saint Paul. The main topics discussed were:
+* The proposed restoration of the historic Rondo Theatre on University Avenue.
+	+ Commissioners debated whether the project should include modifications to the building's original façade, with some arguing it would compromise its historic integrity and others seeing it as a necessary update to make the space more accessible and viable for modern use.
+	+ A vote was taken, with 6 commissioners in favor of allowing the modifications and 2 against.
+* The Commission also discussed the proposal to establish a Historic District in the Cathedral Hill neighborhood.
+	+ Concerns were raised by local residents about potential increased costs and restrictions on property owners within the district.
 
-The meeting began with a discussion on the proposed historic designation of three buildings in the Summit-University neighborhood. After some debate, the commission voted to approve the designation for two of the buildings but tabled the third due to concerns about potential impact on local businesses.
-
-* **Approved:** 1460 University Avenue West (former restaurant) and 1533 Selby Avenue (historic church)
-* **Tabled:** 1217 University Avenue East (mixed-use building)
-
-Commissioner Johnson expressed concern that designating the mixed-use building as historic could limit future development options for the property owner. Commissioner Rodriguez countered that preserving the building's unique architecture would be beneficial to the neighborhood.
-
-The commission also discussed proposed changes to the city's historic district guidelines, which were met with some opposition from a local business owner who felt the changes would be too restrictive.
-
-* **Proposed Changes:** Revised guidelines would require owners of historic properties to obtain approval for any exterior modifications
-* **Business Owner Concerns:** Fear that the new guidelines would lead to increased bureaucracy and costs for property owners
-
-The commission will take up the discussion on the revised guidelines at their next meeting.
+Note: These are the main topics discussed during the meeting. A full record of the discussion can be viewed online or at City Hall.
 
