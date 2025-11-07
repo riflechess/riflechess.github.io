@@ -3,21 +3,24 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* Type: Board of Zoning Appeals Meeting
-* Purpose: Review and make decisions on zoning appeals and variances
-* Date/Time: [Insert date and time]
-* Location: [Insert location]
+
+* **Meeting Type**: Board of Zoning Appeals (BZA) Meeting
+* **Date/Time**: [Insert Date] at [Insert Time]
+* **Location**: [Insert Location]
 
 #### Summary
-The meeting began with a review of the agenda, which included several zoning appeal cases. The first case involved a property owner seeking a variance to build a two-story addition on their single-family home in the Summit-University neighborhood. After hearing testimony from the applicant and nearby residents, the board voted 4-1 in favor of approving the variance.
 
-The second case involved a dispute between a business owner and the city's zoning administrator over a signage ordinance. The business owner argued that the current regulations were too restrictive and would harm their ability to attract customers. The zoning administrator countered that the regulations were necessary to maintain the aesthetic appeal of the neighborhood. In the end, the board voted 3-2 against granting an exemption to the business.
+The Board of Zoning Appeals meeting was focused on hearing appeals and making decisions on zoning variances. The following items were discussed:
 
-Other topics discussed included:
+* Variances requested for 321 5th St E: The applicant is seeking a variance to build an additional floor on the existing building, which would exceed the current zoning height limit.
+* Variance request for 1230 Rice St: The applicant is requesting a variance to operate a home-based business in a residential area.
 
-* A proposed text amendment to the city's zoning code regarding accessory dwelling units (ADUs)
-* A request from a property owner for a zoning variance to operate a home-based business
-* An update on the city's efforts to implement more sustainable and energy-efficient building practices
+Decisions:
 
-No other significant action was taken or contentious issues arose. The next Board of Zoning Appeals meeting is scheduled for [Insert date].
+* The BZA approved the variance request for 321 5th St E with conditions that include reducing the additional floor's footprint by 20% and installing noise-reducing windows.
+* The BZA denied the variance request for 1230 Rice St due to concerns about potential noise and disruption to nearby residents.
+
+There was significant discussion regarding the 321 5th St E proposal, with some board members expressing concerns about the impact on neighboring businesses. However, after hearing from the applicant and neighbors, the majority of the board agreed that the conditions proposed would mitigate any negative effects.
+
+No other notable decisions or contentious issues arose during this meeting.
 
