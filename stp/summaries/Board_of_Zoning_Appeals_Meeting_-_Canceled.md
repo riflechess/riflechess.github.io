@@ -3,12 +3,11 @@ title: Board of Zoning Appeals Meeting - Canceled
 date: 
 ---
 #### Meeting Info
-- **Type:** Board of Zoning Appeals Meeting
-- **Purpose:** To address zoning appeals and variance requests
-- **Date/Time:** (no meeting was held as it was canceled)
-- **Context:** The meeting was scheduled for [insert date/time], but ultimately did not take place.
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** To review and make decisions on zoning appeals in the city of Saint Paul
+**Date/Time:** Cancelled (no specific date or time was provided)
+**Context:** This meeting was cancelled, likely due to unforeseen circumstances or scheduling conflicts.
 
 #### Summary
-
-Unfortunately, this meeting was canceled. Since no decisions were made or discussions took place, there is nothing to summarize from the actual meeting itself. If you're interested in staying up-to-date on zoning appeals and variance requests in Saint Paul, you may want to check the city's website for upcoming meetings or contact the relevant departments for more information.
+There is no summary to provide as the meeting was cancelled. No decisions were made and no discussions took place. If you're looking for information on past meetings or upcoming events, please let me know and I can try to help!
 
