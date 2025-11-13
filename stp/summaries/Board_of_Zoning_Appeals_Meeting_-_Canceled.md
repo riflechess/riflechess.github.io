@@ -3,11 +3,12 @@ title: Board of Zoning Appeals Meeting - Canceled
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Canceled Board of Zoning Appeals Meeting
-* **Purpose:** No discussion or decisions were made due to the meeting being canceled
-* **Date/Time:** N/A (meeting was canceled)
-* **Context:** No specific contextual information was provided, as the meeting was canceled
+
+* **Meeting Type**: Board of Zoning Appeals Meeting (canceled)
+* **Purpose**: To discuss zoning appeals and variances
+* **Date/Time**: [No specific date/time provided, as the meeting was canceled]
 
 #### Summary
-The Board of Zoning Appeals Meeting was canceled without a scheduled replacement date. As a result, no business or decisions were made during this meeting.
+
+Unfortunately, this meeting was canceled, so there were no decisions made or discussions had.
 
