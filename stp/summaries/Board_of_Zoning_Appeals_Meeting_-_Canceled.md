@@ -5,10 +5,10 @@ date:
 #### Meeting Info
 
 * **Meeting Type**: Board of Zoning Appeals Meeting (canceled)
-* **Purpose**: To discuss zoning appeals and variances
-* **Date/Time**: [No specific date/time provided, as the meeting was canceled]
+* **Purpose**: Review of zoning appeals and land-use decisions in the city
+* **Date/Time**: No specific date or time listed, as meeting was canceled
 
 #### Summary
 
-Unfortunately, this meeting was canceled, so there were no decisions made or discussions had.
+Unfortunately, this meeting was canceled. There is no information to summarize from a non-existent meeting. If you're looking for updates on past meetings or future events, please let me know and I'll be happy to help!
 
