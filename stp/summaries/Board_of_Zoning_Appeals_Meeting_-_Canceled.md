@@ -3,12 +3,11 @@ title: Board of Zoning Appeals Meeting - Canceled
 date: 
 ---
 #### Meeting Info
-- **Meeting Type**: Board of Zoning Appeals (BZA) Meeting
-- **Purpose**: Review and decide on zoning variance requests
-- **Date/Time**: [No specific date or time was provided, as the meeting is canceled]
+**Meeting Type:** Board of Zoning Appeals (BZA) Meeting
+**Purpose:** To hear appeals on zoning decisions
+**Date/Time:** [Not specified]
+**Note:** The meeting has been canceled.
 
 #### Summary
-Unfortunately, this BZA meeting has been canceled. As a result, there were no decisions made regarding zoning variances or other related matters.
-
-If you're interested in staying informed about upcoming meetings and their topics, I recommend checking the City of Saint Paul's official website for updates on future Board of Zoning Appeals Meetings.
+Unfortunately, I have no information to provide as the meeting was already canceled. If you're interested in attending or participating in future BZA meetings, please check the city's website for updated schedules and agendas.
 
