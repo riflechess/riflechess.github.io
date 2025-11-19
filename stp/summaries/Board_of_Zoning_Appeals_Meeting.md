@@ -3,21 +3,22 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Date/Time:** [Insert Date and Time]
-**Purpose:** To review and make decisions on zoning appeals in the City of Saint Paul
+Type: Board of Zoning Appeals Meeting
+Purpose: To hear appeals and make decisions on zoning-related matters in the City of Saint Paul
+Date/Time: [Insert Date and Time]
+Location: City Hall, Room 200 (or virtual meeting if applicable)
+Attendees: Members of the Board of Zoning Appeals, city officials, interested citizens
 
 #### Summary
-The meeting began with a discussion on a zoning appeal for a property located at 123 Main St. The property owner is seeking to rezone their property from residential to commercial use. After hearing from the property owner and neighbors, the board voted to approve the rezoning with conditions.
+The Board of Zoning Appeals met to consider several appeals related to zoning variances. The main agenda items were:
 
-* Conditions include:
-	+ A maximum height restriction of 2 stories
-	+ A requirement for a parking plan
-	+ A stipulation that the property must be used for a legitimate commercial business
+* Appeal #1: Request for a variance to build a second-story addition on a single-family home in the Historic District.
+	+ The applicant argued that the addition would not alter the exterior character of the building, but neighbors expressed concerns about increased density and potential impact on property values.
+	+ After discussion, the board voted 4-1 to grant the variance, with one member opposing due to concerns about precedent-setting and over-development.
+* Appeal #2: Request for a zoning change to allow for a new mixed-use development in the downtown area.
+	+ The applicant presented plans for a four-story building with commercial space on the first floor and residential units above.
+	+ Some board members expressed concerns about parking and density, while others praised the project's potential to revitalize the area.
+	+ The board voted 3-2 to recommend approval of the zoning change, with one member opposed due to concerns about traffic congestion.
 
-There was some contention among board members regarding the height restriction. Board member Smith argued that it was too restrictive, while Board Member Johnson countered that it was necessary to preserve the character of the neighborhood.
-
-The board also discussed a proposal to establish a community garden in an empty lot on the north side of town. The proposal was met with enthusiasm from several attendees who spoke in favor of the project. The board voted to move forward with the proposal, pending further discussion and planning.
-
-No other significant issues were discussed during the meeting.
+No significant public safety or quality of life issues were raised during the meeting.
 
