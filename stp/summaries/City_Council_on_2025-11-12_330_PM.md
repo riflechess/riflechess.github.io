@@ -3,27 +3,29 @@ title: City Council on 2025-11-12 3:30 PM
 date: 2025-11-12
 ---
 #### Meeting Info
-**Meeting Type:** City Council meeting
-**Date/Time:** 2025-11-12, 3:30 PM
-**Location:** Saint Paul city hall
-**Purpose:** To discuss various city ordinances, resolutions, and other business matters.
+**City Council Meeting**
+* **Date:** 2025-11-12
+* **Time:** 3:30 PM
+* **Type:** Regular meeting
+* **Agenda:** Various topics, including budget allocations, tax proposals, public safety measures, and ordinances related to businesses and regulations.
 
 #### Summary
-The meeting covered several key topics. One significant decision was the approval of Resolution 25-1721, which amends project budgets to align with spending needs. The resolution involved transferring $40,000 from one project to another for library security purposes.
 
-Another important discussion revolved around Ordinance 25-59, which updates traditional neighborhood districts to allow for more density and better design. Council members discussed the need for this ordinance and its benefits.
+The City Council met on November 12th at 3:30 PM to discuss various topics. Here's a summary of the key decisions:
 
-The council also approved a gun violence prevention ordinance (Ordinance 25-65), which aims to reduce the prevalence of assault rifles in the city. This was met with strong support from council members, who shared personal experiences related to gun violence and emphasized the importance of taking action to protect residents.
+* **Resolution 25-1721**: The council approved a resolution amending project budgets to align with spending needs, transferring $40,000 from one project to another for library security costs.
+* **Resolution 25-1746**: The council canvassed the returns and declared the results of the city general election held November 4th, 2025.
+* **Ordinance 25-59**: The council adopted an ordinance amending Chapters 60, 63, 65, 66, 67, and 69 of the Legislative Code to update traditional neighborhood districts for better design and density.
+* **Resolution 25-113**: The council initiated a T-district follow-up and transit corridor zoning study in response to public comments on the recently adopted T-district ordinance.
+* **Ordinance 25-65**: The council passed an ordinance creating Chapter 225A of the Legislative Code, establishing regulations for assault weapons, binary triggers, ghost guns, and signage. This ordinance is aimed at reducing gun violence in schools and communities.
+* **Resolution 25-218**: The council ratified assessments and benefits for Grand Snelling parking lot operation and maintenance costs for 2026.
 
-Additionally, the council discussed several other ordinances, including:
+The meeting also addressed public hearings on various ordinances related to garbage cart sharing, cannabis and hemp businesses, sound level variances, and liquor licenses. The council laid over several items for further discussion or action on future dates.
 
-* Ordinance 25-72, amending chapters related to the Mississippi River Corridor Central Area, Critical Area, and Flood Plane Management Overlay Districts.
-* Ordinance 25-63, allowing for garbage cart sharing at properties with two or more dwelling units.
-* Ordinance 25-76, prohibiting the use and placement of virtual currency kiosks within the city.
+Regarding controversies or contentious topics, there were some discussions around:
 
-The council also heard public testimony on various items, including resolution 25-253, which sets the solid waste service fee for 2026. Council members discussed a proposal to increase this fee but ultimately decided to keep it at the current rate.
+* **Cryptocurrency kiosks**: AARP Minnesota advocated for stronger consumer protections against scams related to cryptocurrency kiosks, while the operator of the largest network of these machines in St. Paul argued that a ban was unnecessary and would deprive customers of a legitimate financial service.
+* **Public safety measures**: The council discussed ordinances aimed at reducing gun violence and improving public safety, including regulations on assault weapons and sound level variances for events like the Turkey Trot St. Paul.
 
-One notable moment of contention arose during the discussion of Ordinance 25-76, which prohibits virtual currency kiosks. AARP representative Gordon Roble testified in support of regulating these kiosks due to concerns about fraud and consumer protection. However, a representative from Bitcoin Depot argued that a ban on kiosks would deprive residents of a legitimate financial service.
-
-Council members moved several ordinances forward for further consideration, including Ordinance 25-72 and Ordinance 25-76. The meeting concluded with the council approving several resolutions and laying over other items for further discussion or action at future meetings.
+Overall, the meeting covered a range of topics related to budget allocations, tax proposals, public safety measures, and ordinances affecting businesses and regulations in Saint Paul.
 
