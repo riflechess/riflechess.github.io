@@ -3,18 +3,20 @@ title: Audit Committee on 2025-11-18 4:00 PM - Pursuant to Minn. Stat. § 13D.02
 date: 2025-11-18
 ---
 #### Meeting Info
-* Type: Audit Committee meeting
-* Purpose: To review the scope of work for an upcoming audit on data practices in the City of Saint Paul, discuss community engagement efforts for topic selection, and address the timeline for filling a vacant community advisor position.
-* Date/Time: November 18, 2025, 4:00 PM
-* Attendees: Dr. Heather Britt (lead auditor), Ms. Vang (committee member), Mr. McVeigh (community advisor), Ms. Coleman (council member), and others.
+**Type:** Audit Committee Meeting
+**Purpose:** To review the scope of work for an upcoming audit on data practices in Saint Paul, discuss community engagement efforts for topic selection, and address the appointment timeline for a community advisor.
+**Date/Time:** 2025-11-18, 4:00 PM
+**Attendees:** Members of the Audit Committee, Dr. Heather Britt (Data Practices Study Scope of Work), Nia (Researcher), Mr. McVeigh (Community Engagement).
 
 #### Summary
 
-The meeting began with a discussion on the scope of work for an upcoming audit on data practices in the City of Saint Paul, led by Dr. Heather Britt. The revised scope was presented, which includes assessing the effectiveness, efficiency, and compliance of the city's data practices, request processes, tools, policies, and user experience, particularly focusing on the use of GOV QA.
+The meeting began with a discussion on the revised scope of work for an upcoming audit on data practices in Saint Paul. Dr. Britt presented the updated scope, which focuses on assessing the effectiveness, efficiency, and compliance of the city's data practices, including its use of GOV QA and alignment with the Minnesota Data Practices Act requirements.
 
-The committee discussed potential stakeholders for the audit, including frequent requesters to the Department of Safety and Inspections, state and external entities, and other Minnesota jurisdictions. Dr. Britt mentioned that a survey would be conducted to gather information from these stakeholders, with a focus on the resident-facing experience in the portal.
+The committee discussed stakeholder engagement, including a survey to gather feedback from frequent requesters through the Department of Safety and Inspections. They also reviewed the scope of work, which includes document and system reviews, performance data analysis, model policies, and benchmarking.
 
-Regarding community engagement efforts, Mr. McVeigh reported on his outreach to district councils, with some positive responses but also significant challenges in getting them to participate. He suggested reaching out to council members and their staff for further assistance. The committee discussed ideas for promoting the topic selection survey and filling a vacant community advisor position.
+Regarding community engagement, Mr. McVeigh reported on his efforts to reach out to district councils, with some responses received from West 7th Fort Road Federation, Como Park District, and Highland District Council. He proposed meeting with these councils next month to discuss the audit committee's work.
 
-The meeting concluded with a discussion on the timeline for filling the vacant community advisor position, with Ms. Bang proposing a four-week application period due to the holidays. The committee agreed to post the application on December 3rd and have interviews on January 20th.
+The topic selection process was briefly discussed, but no major changes were suggested. The committee then turned its attention to the community advisor appointment timeline, which is currently open due to Mr. Frenchworth's departure. A new application will be posted on December 3rd, and interviews are planned for January 20th, with a goal of having a new member seated by March.
+
+A combined posting for topic selection and community advisor applications was proposed, which would promote both opportunities in one announcement. This idea was met with support from the committee members, and a revised blurb will be drafted to incorporate both messages.
 
