@@ -3,21 +3,26 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* Type: Zoning Committee Meeting
-* Purpose: To discuss and vote on zoning-related proposals for the city of Saint Paul
-* Date/Time: [Insert date and time]
-* Location: City Hall, Saint Paul
-* Relevant Context: The meeting was attended by local residents, business owners, and city officials to discuss zoning regulations, development proposals, and other related issues.
+
+* **Meeting Type:** Zoning Committee Meeting
+* **Purpose:** Discussion and decision-making on zoning-related matters
+* **Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
+* **Location:** City Hall Council Chambers, Saint Paul, MN
 
 #### Summary
 
-The Zoning Committee Meeting covered several key topics, including:
+The meeting began with a discussion on the proposed rezoning of a commercial property in the Summit-University neighborhood. The proposal would rezone the property to allow for mixed-use development.
 
-* **Proposal for a new high-rise development**: The committee voted 5-2 in favor of approving a proposal for a new high-rise development in the downtown area. The project includes plans for 300 residential units, commercial space, and parking garage.
-	+ Supporters argued that the project would bring much-needed housing and economic growth to the city.
-	+ Opponents expressed concerns about increased traffic congestion, noise pollution, and strain on local infrastructure.
-* **Zoning code amendment**: The committee voted unanimously (7-0) to amend the zoning code to allow for smaller lot sizes in certain neighborhoods. This change aims to increase density and affordability in these areas.
-* **Community input**: Several residents spoke out against a proposed zoning change that would allow for a large warehouse facility in their neighborhood. They expressed concerns about noise, pollution, and property values.
+* Key points:
+	+ Supporters argued that the rezoning would bring in new businesses and increase foot traffic in the area.
+	+ Opponents expressed concerns about increased density, parking issues, and potential noise disturbances.
+	+ The committee voted 4-1 in favor of recommending the zoning change to the City Council.
 
-The meeting was generally cordial, with most attendees respectful of differing opinions. However, the high-rise development proposal sparked some heated debate, with opponents claiming that it would "destroy the character" of the neighborhood. The committee chair intervened to ensure that all voices were heard and allowed time for rebuttals from both sides.
+A second topic discussed was the proposed update to the city's zoning code. The update aims to simplify the code and make it more accessible for property owners.
+
+* Key points:
+	+ Committee members debated the merits of adopting a "form-based" zoning approach, which would focus on building form and character rather than strict use regulations.
+	+ Some committee members expressed concerns that the new approach would be too restrictive or open to interpretation.
+
+The meeting concluded with no votes taken on budget allocations or tax proposals.
 
