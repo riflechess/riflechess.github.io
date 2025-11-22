@@ -3,28 +3,24 @@ title: City Council on 2025-11-19 3:30 PM - Councilmember Cheniqua Johnson may b
 date: 2025-11-19
 ---
 #### Meeting Info
-Meeting Type: City Council Meeting
-Date/Time: November 19, 2025, 3:30 PM
-Contextual Information: The meeting is held in the presence of a quorum, with Councilmember Cheniqua Johnson participating remotely.
+Type: City Council Meeting
+Purpose: Regular meeting of the St. Paul City Council to discuss various agenda items, including ordinances and resolutions related to public safety, quality of life, and business development.
+Date/Time: 2025-11-19, 3:30 PM
+Location: St. Paul City Hall
 
 #### Summary
 
-The meeting begins with the adoption of the consent agenda items, including Resolution 25-1752, directing the Department of Safety and Inspections to revoke the liquor on sale license of DeMera, Ethiopian Bar and Restaurant. This resolution is adopted unanimously.
+The meeting began with a discussion on the consent agenda, where several items were passed without debate. The council then moved on to discuss and pass ordinances related to public safety, quality of life, and business development.
 
-Next, the council approves the mayor's appointments to various boards and commissions, including Councilmember Nelson Yang's appointment to the St. Paul Port Authority Board of Commissioners. 
+One notable item was Ordinance 25-78, which establishes structured quarterly reporting requirements for certain personnel vacancies and overtime utilization in city departments. The ordinance is intended to provide more transparency and accountability in the city's budgeting process. However, there were some concerns raised by Council Member Johnson about the timeline for implementing this requirement.
 
-The council then proceeds to discuss Ordinance 25-78, establishing structured quarterly reporting requirements for certain personnel vacancies and overtime utilization in public safety departments. The ordinance is laid over to December 3rd for a second reading public hearing.
+Another significant item was Resolution 25-232, which amends the City's Capital Improvement Budget and Operating Budget to correct a bond proceed transfer for firefighters' cardiac monitors. This resolution was passed without debate.
 
-Public hearings are held on several items, including:
+The council also held public hearings on several items, including Ordinance 25-72, which pertains to the Mississippi River Corridor Critical Area (MRCCA) ordinance. Several speakers testified on this item, expressing concerns about the height restrictions and bird-safe glass requirements in the proposed ordinance. The public hearing was continued until December 3rd for final adoption or introduction of amendments.
 
-* Item number 26: Ordinance 25-72, amending chapters 60, 61, 68, and 72 of the Legislative Code pertaining to the Mississippi River Corridor critical area and floodplain management overlay districts. Several speakers testify in support of exempting the urban core from height restrictions.
-* Item number 27: Ordinance 25-77, amending Section 220.05 of the Legislative Code to set rates for base-level garbage service, effective January 1st, 2026.
+The Port Authority's budget presentation was also given by President Hurley, who outlined several projects and initiatives currently underway. He requested a $250,000 increase to the port's mandatory levy, which would be used to support operational expenses and hire additional staff.
 
-The St. Paul Port Authority presents its 2026 budget and discusses various projects, including the rehabilitation of barge terminal one and the dock hall rehabilitation project.
+In the legislative hearing section, Council Member Bowie pulled Item 35, RLH RR 25-28, ordering the rehabilitation or removal of structures at 430 Dale Street North. This item was discussed in detail, with several speakers testifying on behalf of the Islamic Center that occupies the property. After a lengthy discussion, Council Member Bowie moved to amend the language to order an inspection by December 15th and lay over until December 17th.
 
-Finally, the council discusses Resolution Public Hearing 25-232, amending the City's Capital Improvement Budget and Operating Budget to correct a bond proceed transfer for firefighters' cardiac monitors. 
-
-The meeting ends with several council members sharing good news about community events and initiatives, including a free food and local resource event hosted by the East Side Environmental Justice Group, a baby shower for Councilmember Coleman, and a Rondo Night performance at the Ordway Center.
-
-A total of 15 items are discussed and voted on during the meeting, with most receiving unanimous approval.
+The meeting concluded with several good news items being shared, including a free food and local resource event hosted by the East Side Environmental Justice Group and a baby shower for Council Member Johnson.
 
