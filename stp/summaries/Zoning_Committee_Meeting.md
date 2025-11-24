@@ -3,23 +3,19 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** Discuss zoning proposals, variances, and other land-use issues affecting the city
-**Date/Time:** Wednesday, March 22, 2023, 6:00 PM - 8:30 PM
-**Location:** Saint Paul City Hall, Room 200
+**Type:** Zoning Committee Meeting
+**Purpose:** To discuss zoning regulations, proposals, and concerns in the City of Saint Paul
+**Date/Time:** February 22, 2023, 5:00 PM - 7:30 PM
+**Location:** City Hall Council Chambers, Saint Paul, MN
 
 #### Summary
 The Zoning Committee meeting covered several topics:
 
-* **Proposal to rezone a property on University Avenue**: The proposal aims to allow for mixed-use development, including residential and commercial units. Some committee members expressed concerns about potential parking issues and traffic congestion.
-* **Discussion of variance requests**: A few residents spoke in favor of granting variances for homes with non-compliant additions. Committee members debated the merits of granting variances, with some arguing that it would set a precedent for future variances.
-* **Update on Saint Paul's comprehensive plan**: The city planner presented an update on the comprehensive plan, highlighting initiatives to promote affordable housing and community development.
+* **Proposal for Rezoning on University Avenue**: The committee discussed a proposal to rezone a commercial property on University Avenue. After some debate, the proposal was approved with a 7-2 vote.
+	+ Concerns raised by opponents included potential gentrification and increased traffic congestion in the area.
+	+ Supporters argued that the rezoning would attract new businesses and improve the overall aesthetic of the neighborhood.
+* **New Zoning Regulations for Large Developments**: The committee reviewed proposed zoning regulations aimed at guiding large-scale development projects. A motion to approve the regulations was introduced but tabled until the next meeting due to some members' concerns about the scope and potential impact on local communities.
+	+ Some committee members felt that the regulations did not adequately address issues related to displacement of long-time residents and lack of affordable housing options.
 
-The proposal to rezone the University Avenue property was voted 5-2 in favor of approval. However, some committee members expressed reservations about the potential impact on parking and traffic. Committee member Rachel Johnson stated that while she supported the proposal, she had concerns about the lack of specific plans for addressing parking shortages.
-
-No vote was taken on the variance requests, as it was decided to table the discussion until the next meeting.
-
-In other news, several residents spoke in favor of designating a community garden on a vacant lot in the city's East Side. The proposal is expected to be brought before the full City Council for a vote.
-
-The comprehensive plan update was generally well-received by committee members, who acknowledged the need for more affordable housing and community development initiatives.
+Note: More detailed discussions on these topics may be available through recorded meeting footage or by contacting the Zoning Committee directly.
 
