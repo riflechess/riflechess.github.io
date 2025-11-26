@@ -4,20 +4,20 @@ date: 2025-11-05
 ---
 #### Meeting Info
 **Meeting Type:** Housing and Redevelopment Authority (HRA) meeting
-**Date/Time:** November 5, 2025, 2:00 PM
-**Purpose:** To discuss and vote on various items related to affordable housing development in Saint Paul.
+**Date/Time:** 2025-11-05, 2:00 PM
+**Context:** The meeting focused on discussions and votes regarding two resolutions related to affordable housing in Saint Paul.
 
 #### Summary
 
-The meeting began with the approval of previous meeting minutes. The main agenda item was the discussion and vote on Resolution 25-1706, which endorses amendments to the Minneapolis-St. Paul Housing Finance Board's 2026-2027 qualified allocation plan citywide. Commissioner Johnson expressed concerns about reducing the affordability period from 30 years to 15 years, citing it as "regressive" and not in line with the city's commitment to long-term affordability.
+The meeting began with a vote on **Resolution 25-1706**, which proposed amendments to the Minneapolis-St. Paul Housing Finance Board's qualified allocation plan (QAP) for citywide projects. Commissioner Yang expressed concerns about reducing the affordability period from 30 years to 15 years, citing potential negative impacts on affordable housing stock in downtown St. Paul.
 
-Commissioner Noecker spoke in favor of the motion, addressing several points made by opponents. He emphasized that this was a limited-time proposal for downtown projects only and would increase affordable housing capacity without using city dollars. Commissioner Yang also supported the motion, citing the need to address financial constraints on residents and the potential for development if not done through public subsidies.
+Commissioner Noecker countered that the changes would allow for increased capacity to support additional housing development in downtown areas, leveraging federal resources and incentives to create more affordable housing options. The resolution was ultimately approved with a vote of five in favor (Commissioners Noecker, Yang, Jost, Coleman, and Bowie) and two opposed (Chair Johnson and Commissioner Kim).
 
-The commission voted in favor of Resolution 25-1706, with five commissioners voting "aye" and two opposing (Chair Johnson and Commissioner Kim).
+The second resolution, **Resolution 25-1709**, authorized the release of the 4-D Affordable Housing Incentive Program Covenant on 1048 Central Avenue West. The resolution was approved without discussion.
 
-The meeting also included a discussion and vote on Resolution 25-1709, which authorized the release of the 4-D Affordable Housing Incentive Program Covenant on 1048 Central Avenue West. The commission approved this resolution without any opposition.
+A staff report was presented regarding a loan extension request for the Ramsey Hill Apartments project. Trellis Co., the developer and owner of the property, sought to extend the maturity date of the Community Development Block Grant (CDBG) loan from December 21st, 2025, to December 15th, 2031. The purpose of the extension was to maintain portfolio affordability while Trellis continues to secure financing for rehabilitation.
 
-Finally, the meeting featured a staff report from Libby Logsdon regarding a Community Development Block Grant (CDBG) loan extension request for Ramsey Hill Apartments. Melinda Studer from Trellis Co. also provided additional information and context about the project. Commissioner Bowie expressed support for the item but requested clarification on some details.
+Commissioner Bowie expressed support for the item and thanked staff members Libby Logsdon and Melinda Studer (Trellis Co.) for their presentations. The loan extension request will come up for a vote next week, pending further information and clarification on certain details.
 
-The meeting concluded with no other items on the agenda, and the commission adjourned.
+The meeting concluded with no other items on the agenda, and the meeting was adjourned.
 
