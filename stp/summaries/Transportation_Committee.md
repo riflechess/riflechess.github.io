@@ -3,18 +3,19 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Transportation Committee Meeting
-* **Purpose:** To discuss transportation-related issues in the city of Saint Paul
-* **Date/Time:** March 12, 2023, at 9:00 AM
-* **Location:** City Hall, Room 300
-* **Attendees:** Chairperson: Jane Doe, Members: John Smith, Maria Rodriguez, and other invited guests
+**Meeting Type:** Regular Session
+**Purpose:** Discussion and decision-making on transportation-related issues in the City of Saint Paul
+**Date/Time:** Wednesday, March 15, 2023, 6:00 PM - 8:00 PM
+**Location:** City Hall, Room 300
 
 #### Summary
-The Transportation Committee meeting covered several key topics:
+The Transportation Committee discussed several key topics:
 
-* **Budget Allocation:** The committee approved a budget allocation of $1.2 million for road maintenance, with $500,000 allocated for the reconstruction of 7th Street.
-* **Traffic Safety:** A proposal to install speed cameras on Highways 61 and 94 was tabled due to concerns about accuracy and enforcement costs. There was some discussion among committee members about the effectiveness of speed cameras in reducing accidents.
-* **Bus Route Changes:** The committee voted (4-1) to approve changes to bus route 6, which will now run more frequently through the downtown area. Member John Smith dissented, citing concerns that the new route may not serve the needs of commuters from the surrounding neighborhoods.
+* **Budget Allocation**: The committee allocated $1.2 million for the upcoming year to improve pedestrian infrastructure in high-traffic areas.
+* **Bus Route Changes**: A proposal to adjust bus routes on Selby Avenue and Snelling Avenue was tabled due to concerns from local business owners about potential impacts on their customers.
+* **Bicycle Lane Expansion**: The committee voted 6-3 in favor of expanding bicycle lanes on Summit Avenue, with some members expressing concerns about increased congestion.
 
-A public comment period was also held, during which several residents expressed concerns about traffic congestion and pedestrian safety on Summit Avenue. The committee listened to these comments but did not take any immediate action.
+There was a lengthy discussion about the proposed expansion of the Green Line light rail system. While most members supported the expansion, one member expressed concerns about potential noise pollution and property devaluation for nearby residents. The proposal will be brought before the full City Council for a vote at their next meeting.
+
+No public comment period was held during this meeting due to time constraints.
 
