@@ -3,42 +3,32 @@ title: City Council on 2025-11-25 6:00 PM
 date: 2025-11-25
 ---
 #### Meeting Info
-* Type: City Council meeting
-* Purpose: Truth in Taxation hearing to discuss the proposed 2026 budget and property tax levy
+* Type: Truth in Taxation public hearing of City Council meeting
+* Purpose: Discuss the city's budget proposal for 2026, including property tax levy increase and allocation of funds to various departments
 * Date/Time: November 25, 2025, 6:00 PM
-* Context: The meeting was held after a confrontation between St. Paul Police Department (SPPD) and federal agents from ICE, which sparked outrage among community members.
+* Contextual information: The meeting was attended by a large number of citizens who spoke about various issues, including high property taxes, lack of transparency in budgeting, and the city's response to recent ICE raids
 
 #### Summary
+The City Council held a Truth in Taxation public hearing on November 25, 2025, where they discussed the proposed 2026 budget. The budget includes a $232.5 million property tax levy increase, which is an 5.3% increase over the 2025 levy.
 
-The City Council met for a Truth in Taxation hearing to discuss the proposed 2026 budget and property tax levy. Community members expressed concerns about rising property taxes, affordable housing, public safety, and the role of the St. Paul Police Department in federal immigration enforcement.
+Many citizens spoke about their concerns regarding high property taxes and how it's affecting them financially. Some of the speakers also mentioned that they're considering leaving St. Paul due to the increasing property taxes.
 
-Several speakers criticized the proposed budget, saying it did not prioritize frontline workers, libraries, and parks. Others called for increased funding for programs that support vulnerable populations, such as returning citizens and unhoused individuals.
+The city's response to recent ICE raids was a major topic of discussion, with many speakers expressing outrage and disappointment at the actions of the St. Paul Police Department. The police department's use of pepper spray and tear gas on peaceful protesters sparked controversy, with some calling for an audit of the police department's spending.
 
-The meeting also focused on the confrontation between SPPD and ICE agents earlier in the day, which many community members felt was a disturbing display of police brutality. Several speakers called for an audit of SPD spending and demanded accountability from the city council and mayor.
+Some citizens also spoke about the lack of transparency in budgeting and how it affects their ability to provide input on city decisions.
 
-Some speakers suggested that the city should bill the federal government for the costs associated with responding to the ICE raid. Others questioned why the city is increasing funding for the police department when there are more pressing needs in the community.
+The City Council listened to the public comments and took note of the concerns raised. They assured the audience that they will consider all the feedback provided during the meeting when making decisions regarding the 2026 budget.
 
-Council members acknowledged the concerns raised by community members and promised to consider their suggestions as they finalize the budget. The meeting was adjourned after several hours of public testimony, but not before the council president vowed to take into account the feedback received that evening.
+Some notable speakers include:
 
-Key decisions made or discussed during the meeting include:
+* Brian Bergson, who spoke about his property taxes doubling in four years
+* Will Thompson, who shared his concern about high property tax increases and how it's affecting him financially
+* Jeffrey Paquette, who recounted his experience of being pepper sprayed by police during an ICE raid
+* Isaac Milkey, who called for investments in frontline workers and questioned the city's budget priorities
+* Ari Dolliger, who asked questions about the city's budget allocation to federal law enforcement and local operations
+* Bree Mathias, who spoke about the need to reduce the certified tax levy and mentioned that the effective tax rate for St. Paul is 1.5%
+* Tabith Mitchell, who suggested decertifying eight tax income and finance districts to reduce property taxes
+* Tim Marino, who called for an audit of the police department's spending after witnessing the events of the ICE raid
 
-* Proposed 2026 budget: $886 million
-* Property tax levy increase: 5.3%
-* Allocation of funds:
-	+ General fund: $405 million (up 3.9% from 2025)
-	+ Debt service levy: $26 million
-	+ Public library agency: $23 million
-	+ Port Authority: $2.9 million
-* Controversy surrounding the role of SPPD in federal immigration enforcement and the response to the ICE raid earlier in the day
-
-Notable speakers included:
-
-* Brian Bergson, a disabled veteran who expressed frustration with rising property taxes
-* Will Thompson, who shared his concerns about the impact of tax increases on his 85-year-old home
-* Jeffrey Paquette, who described being pepper-sprayed by SPPD during the ICE raid
-* Isaac Milkey, who criticized the city's commitment to equity while paying poverty wages to frontline workers
-* Carl Michaud, who suggested decertifying certain tax income and finance districts to reduce property taxes
-* Jane Prince, who spoke on behalf of Insight Agenda and emphasized the need for creative solutions to address affordable housing and commercial development in downtown St. Paul.
-
-Overall, the meeting highlighted ongoing concerns about public safety, affordability, and the role of local government in addressing the needs of its citizens.
+The meeting ended with a sense of urgency and frustration from many citizens, but also with a glimmer of hope that their voices will be heard by the City Council.
 
