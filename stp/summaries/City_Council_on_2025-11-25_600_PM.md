@@ -3,32 +3,32 @@ title: City Council on 2025-11-25 6:00 PM
 date: 2025-11-25
 ---
 #### Meeting Info
-* **Meeting Type:** Truth in Taxation Public Hearing
-* **Purpose:** Discuss the proposed 2026 budget for the City of Saint Paul, including property tax levies and allocations.
-* **Date/Time:** November 25, 2025, 6:00 PM
-* **Location:** City Hall
+* Type: City Council meeting
+* Purpose: Truth in Taxation hearing to discuss the city's budget and property tax levies for 2026
+* Date/Time: November 25, 2025, 6:00 PM
+* Relevant contextual information: The meeting was held in response to a recent ICE raid on Rose Street, where St. Paul Police Department officers were seen aggressively confronting protesters.
 
 #### Summary
 
-The meeting began with a presentation by Kamud Verma, Chief Budget Officer, on the proposed 2026 budget. The budget includes a $886 million operating budget and a $232.5 million property tax levy, which is an increase of 5.3% over the previous year.
+The city council met for a Truth in Taxation hearing to discuss the proposed budget and property tax levies for 2026. The council's chief budget officer presented an overview of the proposed budget, which includes a total operating budget of $886 million and a general fund budget of $405 million. The proposed property tax levy is $232.5 million, an increase of 5.3% over the previous year.
 
-Several community members spoke out against the proposed budget, citing concerns about high property taxes, lack of transparency in government, and inadequate funding for frontline workers and public services. Many speakers also expressed outrage and disappointment at the actions of the St. Paul Police Department during a recent ICE raid on Rose Street, where police officers were accused of using excessive force and pepper spray against protesters.
+Many speakers addressed the city council, expressing concerns about rising property taxes, police brutality, and the impact of budget cuts on frontline workers and public services. Speakers also called for more transparency in government spending and for the city to invest in affordable housing and community programs.
 
-Some key points mentioned by speakers include:
+Some notable moments of contention include:
 
-* High property tax increases: Several speakers shared their concerns about high property taxes and the impact it has on low-income families and small business owners.
-* Lack of transparency in government: Some speakers expressed frustration with the lack of transparency in city government, particularly regarding the budget process.
-* Inadequate funding for frontline workers: Many speakers emphasized the need to prioritize funding for frontline workers, including librarians, rec center staff, and firefighters.
-* Police brutality: The actions of the St. Paul Police Department during the ICE raid were widely criticized, with many speakers calling for accountability and an end to police brutality.
+* A speaker from Ujama Place expressed concern about the lack of funding for their program and the challenges faced by returning citizens in finding stable housing.
+* Several speakers criticized the police department's actions during the ICE raid on Rose Street, with one speaker describing being pepper-sprayed by an officer while trying to de-escalate a situation.
+* A representative from the St. Paul Federation of Educators spoke about the need for increased investments in public services and asked how much of the city budget is going towards aiding federal law enforcement in local operations.
+* Several speakers called for more transparency in government spending, including an audit of the St. Paul Police Department's spending.
 
-In terms of proposed solutions, several speakers suggested:
+The council president acknowledged the concerns and frustrations expressed by speakers and promised to take them into consideration as they move forward with the budget process.
 
-* Reducing property tax levies
-* Investing in frontline workers and public services
-* Increasing funding for libraries, rec centers, and other community programs
-* Implementing transparency measures to improve communication between city government and citizens
+Key decisions or proposals made during the meeting include:
 
-Council Members listened attentively to the comments from the public and took notes. The Council President thanked everyone for their input and assured them that their voices would be heard in the budget-making process.
+* The proposed 5.3% increase in property tax levies
+* The allocation of funds for housing and economic opportunity initiatives
+* The proposal to invest in frontline workers and public services
+* The call for an audit of the St. Paul Police Department's spending
 
-The meeting concluded with a sense of urgency and a call to action for the City Council to prioritize community needs and values over special interests and bureaucratic inefficiencies.
+The council will continue to work on the budget and make adjustments based on input from the community.
 
