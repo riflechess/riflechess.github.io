@@ -3,31 +3,38 @@ title: City Council on 2025-11-25 6:00 PM
 date: 2025-11-25
 ---
 #### Meeting Info
-* Type: City Council Public Hearing on Truth in Taxation
-* Purpose: Review of the proposed 2026 budget and discussion of property tax increases
-* Date/Time: November 25, 2025, 6:00 PM
-* Relevant Contextual Information: The meeting was held in response to recent events involving ICE raids and police action, with many speakers addressing concerns about public safety, equity, and the city's budget priorities.
+**Meeting Type:** Truth in Taxation Hearing
+**Date/Time:** 2025-11-25, 6:00 PM
+**Location:** City Hall
+**Purpose:** To discuss the proposed budget for 2026 and answer questions from the public about property tax increases.
 
 #### Summary
 
-The City Council Public Hearing on Truth in Taxation was a contentious meeting where citizens expressed their concerns and frustrations regarding the proposed 2026 budget and property tax increases. Many speakers addressed issues related to public safety, equity, and the city's budget priorities.
+The meeting was attended by a large number of citizens who spoke out against the proposed budget and the actions of the St. Paul Police Department during recent ICE raids. The speakers expressed concern over the high rate of police brutality, the militarization of the police department, and the lack of transparency in how public dollars are spent.
 
-Some of the key topics discussed included:
+Several speakers called for an audit of the St. Paul Police Department's spending and asked that the city council take action to address the issues raised during the meeting. Others spoke out against the proposed budget, which they felt prioritized consultants and administrative salaries over frontline workers and community services.
 
-* Property tax increases: Several speakers shared personal anecdotes about struggling with rising property taxes, with some expressing concern that the increases were unsustainable.
-* Police brutality and accountability: The meeting was marked by outrage over recent events involving ICE raids and police action, with many speakers calling for increased transparency and accountability within the St. Paul Police Department.
-* Budget priorities: Citizens emphasized the need to invest in frontline workers, libraries, parks, and community programs, rather than allocating funds towards policing or other areas that do not directly benefit the community.
-* Equity and inclusivity: Many speakers highlighted the importance of addressing systemic inequalities and promoting equity within the city's budget and policies.
+Some speakers also addressed the issue of property taxes, with many expressing frustration over high increases in recent years. One speaker estimated that their property tax increase would be around 21.3% this year, while another reported a 35% increase on their commercial property.
 
-Some notable speakers included:
+The city council members listened to the public comments and acknowledged the concerns raised by the citizens. However, it is unclear what action will be taken in response to these concerns.
 
-* Brian Bergson, who shared his experience as a disabled veteran struggling with rising property taxes
-* Isaac Milkey, who spoke about poverty wages for library and rec center workers
-* Ari Dolliger, who questioned the city's support of federal law enforcement and local operations in violation of the separation ordinance
-* Tabitha Mitchell, who proposed decertifying tax income and finance districts to reduce property tax burden
-* Jessica Donian, who urged the council to chop from the top and invest in frontline workers
+**Notable Issues:**
 
-The meeting ended with a call for increased transparency and accountability within the St. Paul Police Department, as well as a commitment from the City Council to review and address the concerns raised by citizens.
+* High rate of police brutality during ICE raids
+* Militarization of the St. Paul Police Department
+* Lack of transparency in how public dollars are spent
+* Proposed budget prioritizes consultants and administrative salaries over frontline workers and community services
+* Property tax increases have been high in recent years, with some speakers estimating increases of 21.3% or more
 
-It's worth noting that while there were some divisions among speakers, the overall tone of the meeting was one of unity and shared concern for the well-being of the community. The City Council has committed to reviewing the proposed budget and addressing the concerns raised by citizens in the coming weeks.
+**Key Decisions:**
+
+* The city council will consider an audit of the St. Paul Police Department's spending
+* The proposed budget may be revised to prioritize frontline workers and community services over consultants and administrative salaries
+* The city council will take action to address the concerns raised by citizens regarding police brutality and transparency in public spending
+
+**Unresolved Issues:**
+
+* The high rate of police brutality during ICE raids remains a concern for many citizens
+* The lack of transparency in how public dollars are spent continues to be an issue
+* The proposed budget may still prioritize consultants and administrative salaries over frontline workers and community services.
 
