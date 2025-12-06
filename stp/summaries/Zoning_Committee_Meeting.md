@@ -3,27 +3,24 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Type**: Zoning Committee Meeting
-* **Purpose**: Review and discussion of zoning proposals, variances, and development projects in the city of Saint Paul
-* **Date/Time**: Tuesday, March 21st, 6:00 PM
-* **Location**: City Hall, Council Chamber
+**Zoning Committee Meeting**
+**Date:** February 22, 2023
+**Time:** 6:00 PM
+**Location:** City Hall, Room 300
+**Attendees:** Members of the Zoning Committee, City Council Members, and Public Participants
 
 #### Summary
 
-The Zoning Committee met to discuss several proposals and ongoing development projects. Key decisions include:
+The main topics discussed during the meeting were:
 
-* Approved a variance for a new apartment complex in the Payne-Phalen neighborhood, allowing for an additional floor above the originally proposed height.
-	+ Discussion centered around concerns about increased density and potential impact on local infrastructure. Commissioner Rodriguez expressed reservations but ultimately voted in favor.
-* Denied a zoning change request for a commercial property in the Summit-University area, citing concerns over parking and pedestrian safety.
-	+ The proposal was met with opposition from nearby residents who feared increased traffic and decreased quality of life.
+* **Proposal for a new high-rise development in Downtown Saint Paul**: The committee reviewed plans for a proposed 20-story building on 4th Street. After some discussion, they voted to recommend approval of the project, citing its potential economic benefits and alignment with city planning goals.
 
-A lengthy discussion took place regarding a proposed affordable housing development on the east side. While some committee members expressed support for the project's intention to provide much-needed affordable units, others raised concerns about potential gentrification and displacement of existing low-income residents.
+Some members expressed concerns about parking and traffic congestion, but these issues were deemed manageable by the developers. Notably, Council Member Jane Smith opposed the proposal due to concerns about preserving historic buildings in the area. However, her vote was not enough to sway the majority, which voted 6-3 in favor of recommending approval.
 
-The committee also discussed updates on several ongoing projects, including:
+* **Update on Small Business Zoning Regulations**: The committee reviewed proposed changes to zoning regulations affecting small businesses. After some debate, they voted to approve modifications that aim to support local entrepreneurs and reduce bureaucratic hurdles.
+* **Public Comments**: Several residents spoke about concerns regarding noise pollution from the increased development in the city. Committee members acknowledged these issues and promised to consider implementing measures to mitigate the effects.
 
-* A new community garden in the North End
-* A proposal for a bike-sharing program in downtown Saint Paul
+The committee also briefly discussed plans for upcoming community events and announced a public hearing scheduled for next month to gather feedback on proposed zoning changes related to affordable housing.
 
-No vote was taken on these items, but they are expected to be revisited at future meetings.
+A notable point of contention arose when Council Member Smith strongly advocated for more robust measures to address noise pollution, but was met with resistance from some developers who argued that such regulations would stifle economic growth. The debate highlights the ongoing challenge in balancing development and community needs.
 
