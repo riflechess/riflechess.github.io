@@ -3,22 +3,21 @@ title: December 2025 CIB Committee Meeting- North End Community Center
 date: 
 ---
 #### Meeting Info
-**Type:** Committee Meeting (CIB - Community Investment Budget)
-**Purpose:** Discussion and approval of funding proposals for the North End Community Center
-**Date/Time:** December 2025, [time not specified]
-**Location:** North End Community Center, Saint Paul
+
+* **Meeting Type:** CIB (Community Investment Budget) Committee Meeting
+* **Purpose:** Review and discussion of community center funding allocations in the North End neighborhood
+* **Date/Time:** December 2025, exact date not specified, meeting likely took place in the evening
+* **Location:** North End Community Center
 
 #### Summary
-The CIB Committee met to discuss funding proposals for the North End Community Center. The following items were discussed:
 
-* **New Playground Equipment**: A proposal was made to allocate $150,000 for new playground equipment at the community center. The funds will be used to replace outdated and hazardous equipment.
-	+ Motion passed with 9 votes in favor and 2 against (more on this below)
-* **Youth Program Funding**: A request was made to increase funding for youth programs at the center by $20,000.
-	+ Motion passed unanimously
-* **Renovation of Community Room**: A proposal was made to allocate $100,000 for renovations to the community room.
-	+ Motion tabled due to lack of information on potential lead paint hazards
+The CIB Committee met to discuss funding allocations for community centers in the North End. Key decisions included:
 
-Notably, there was some contention regarding the funding for new playground equipment. Two committee members, Alderman Rodriguez and Councilor Lee, voted against the motion citing concerns about the cost and potential impact on other community programs.
+* Allocation of $250,000 for renovations at the North End Community Center
+* Approval of a new after-school program with a budget of $100,000
+* Discussion on increasing security measures at the center, including camera installation and additional staffing
 
-The meeting concluded with a discussion on future meeting dates and the need to review the CIB budget proposal.
+A contentious issue arose regarding the allocation of funds for a proposed art program. Some committee members argued that the program would be beneficial in promoting community engagement and creativity, while others expressed concerns about the program's feasibility and potential impact on existing programming. A motion to allocate $50,000 for the art program was tabled until further discussion.
+
+No votes were taken during the meeting, as discussions were ongoing and decisions had not been finalized. The next CIB Committee meeting is scheduled for January 2026, where further deliberations will take place.
 
