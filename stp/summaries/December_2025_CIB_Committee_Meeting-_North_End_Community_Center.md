@@ -3,21 +3,19 @@ title: December 2025 CIB Committee Meeting- North End Community Center
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** CIB (Community Investment Budget) Committee Meeting
-* **Purpose:** Review and discussion of community center funding allocations in the North End neighborhood
-* **Date/Time:** December 2025, exact date not specified, meeting likely took place in the evening
-* **Location:** North End Community Center
+**Meeting Type:** CIB (Community Improvement Board) Committee Meeting
+**Purpose:** Discussion on the North End Community Center renovation project
+**Date/Time:** December 2025, [time]
+**Location:** North End Community Center
 
 #### Summary
+The meeting focused primarily on the North End Community Center renovation project. Key decisions made include:
 
-The CIB Committee met to discuss funding allocations for community centers in the North End. Key decisions included:
+* The committee approved a $1 million budget allocation for the renovation project.
+* A proposal to add a new community garden was tabled due to concerns about maintenance and upkeep.
+* The committee discussed potential partnerships with local businesses to provide funding and resources for the project.
 
-* Allocation of $250,000 for renovations at the North End Community Center
-* Approval of a new after-school program with a budget of $100,000
-* Discussion on increasing security measures at the center, including camera installation and additional staffing
+A contentious issue arose during the discussion on the community garden. Committee member Rachel Johnson expressed concerns that the added space would lead to increased maintenance costs, while others argued it would bring in additional revenue through rental fees. The proposal was tabled pending further review.
 
-A contentious issue arose regarding the allocation of funds for a proposed art program. Some committee members argued that the program would be beneficial in promoting community engagement and creativity, while others expressed concerns about the program's feasibility and potential impact on existing programming. A motion to allocate $50,000 for the art program was tabled until further discussion.
-
-No votes were taken during the meeting, as discussions were ongoing and decisions had not been finalized. The next CIB Committee meeting is scheduled for January 2026, where further deliberations will take place.
+No public speakers were present to comment on the proposals.
 
