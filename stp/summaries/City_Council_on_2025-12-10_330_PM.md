@@ -3,31 +3,20 @@ title: City Council on 2025-12-10 3:30 PM
 date: 2025-12-10
 ---
 #### Meeting Info
-* **Meeting Type:** City Council meeting
-* **Date/Time:** 2025-12-10, 3:30 PM
-* **Purpose:** Regular council meeting to discuss various city-related matters
+**Meeting Type:** City Council Meeting
+**Date/Time:** December 10th, 2025 at 3:30 PM
+**Context:** The meeting covers various resolutions and ordinances related to the city's operations, policies, and finances.
 
 #### Summary
+The meeting began with a resolution (25-1914) committing the council to investigating the St. Paul Police Department's conduct on November 25th, where ICE agents were present in the city. Council Member Coleman introduced the resolution, which was met with support from several council members. The resolution aims to ensure accountability and reform within the police department.
 
-The meeting began with a discussion on the recent events at Rose Street and the role of the St. Paul Police Department in responding to the situation. Council Member Coleman introduced a resolution committing the council to investigate and address the actions of the police department, including the use of force and the separation ordinance.
+Council Vice President Kim echoed the concerns about the police department's actions and emphasized the importance of transparency and community engagement. She also highlighted the need for a public forum where community members can share their experiences and concerns.
 
-Council Vice President Kim expressed gratitude for the resolution but noted that more needs to be done, including creating a public forum for community members to share their experiences. She also emphasized the importance of accountability and transparency in addressing the issues at hand.
+The second half of the meeting focused on legislative priorities, including the city's 2026 agenda. Staff presented an update on the current budget surplus and forecasted shortfall in fiscal years 2029. The council discussed various topics related to legislation, including the debt service requirement and the need for a supplemental budget or new spending adjustments.
 
-Other council members echoed similar sentiments, expressing their commitment to supporting the community and ensuring accountability within the police department.
+The meeting also included several ordinance introductions, including one related to structured quarterly reporting requirements for personnel vacancies and overtime utilization. Another ordinance aimed to improve the Planning Commission process by reducing its size from 21 to 7 members and streamlining its organization.
 
-The meeting then moved on to discuss various legislative agenda items, including a presentation by Eric Peterson from the Intergovernmental Relations Office. The discussion covered topics such as budget targets, debt service, and upcoming elections.
+Finally, the council heard public hearings on various resolutions, including those related to mill and overlay projects, police department grants, and fire department financing plans. Council Member Yang expressed disappointment with the lack of community input during the meeting but announced two community events happening soon: a community dinner event at Hazel Park Recreation Center and a Stories of Abundance event at Sunray Library.
 
-The council also approved several ordinances, including one related to structured quarterly reporting requirements for personnel vacancies and overtime utilization.
-
-A public hearing was held on the Ivy Birmingham residential mill and overlay project, with no comments from the audience. Similar hearings were held for commending spending and financing plans for various city departments and authorizing the police department to amend the 2025 police department grant fund.
-
-Council Member Yang expressed disappointment in the council's handling of community members' requests to speak at the podium, suggesting that a public comment section be added to future meetings. Vice President Kim acknowledged this suggestion and committed to working on organizing a community meeting to discuss the issues at hand.
-
-The meeting concluded with various council members sharing good news and events happening in their wards or within the city.
-
-The major decisions made during this meeting include:
-
-* Approving the resolution committing the council to investigate and address the actions of the police department
-* Discussing and approving legislative agenda items related to budget targets, debt service, and upcoming elections
-* Approving ordinances related to structured quarterly reporting requirements for personnel vacancies and overtime utilization
+The council members also shared good news and upcoming events, including the Rice-Lepander Alliance's winter warm-up, Highland Community Center's holiday event, and the St. Paul Public Library's Stories of Abundance event. The meeting concluded with a discussion about having a public conversation about what occurred on Rose Street, which Council President Aker promised to facilitate in a transparent, equitable, and productive manner.
 
