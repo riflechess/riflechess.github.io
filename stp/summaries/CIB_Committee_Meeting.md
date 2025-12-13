@@ -3,22 +3,19 @@ title: CIB Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** CIB (Community Investment Budget) Committee Meeting
-**Purpose:** Review and discuss community investment budget allocations for the upcoming fiscal year
-**Date/Time:** Monday, March 20th, 2023 at 2:00 PM
-**Attendees:** CIB Committee members, City officials, and staff representatives
+* **Meeting Type**: CIB (Community Information Bureau) Committee Meeting
+* **Purpose**: Discuss various community initiatives, public safety concerns, and policy updates
+* **Date/Time**: Wednesday, March 15, 2023 at 6:00 PM
+* **Location**: Saint Paul City Hall, Room 300
 
 #### Summary
+The CIB Committee meeting covered several key topics:
 
-The CIB Committee met to review and discuss community investment budget allocations for the upcoming fiscal year. The committee considered proposals from various city departments and organizations.
+* The committee discussed the new community policing initiative, which aims to increase police visibility in neighborhoods and improve relationships between law enforcement and the community.
+* The city's budget for public safety initiatives was also reviewed, with a focus on allocating funds for additional community outreach programs.
+* A proposal to establish a neighborhood watch program in the Summit-University district was presented. While some committee members expressed concerns about potential resistance from local residents, others saw it as an opportunity to enhance community engagement and reduce crime.
 
-Key decisions:
+A contentious point of discussion arose when committee member Rachel Johnson questioned the effectiveness of increased police presence without addressing underlying social issues, such as poverty and lack of access to education and job opportunities. This sparked a debate among committee members, with some arguing that public safety should be prioritized above other concerns, while others emphasized the need for a more comprehensive approach to community development.
 
-* **Community Development Block Grants (CDBG):** The committee allocated $1 million to support neighborhood revitalization efforts in Frogtown, including funding for affordable housing and small business development.
-* **Youth Programs:** The committee approved $500,000 for youth programming initiatives, focusing on after-school activities, mentorship, and job training.
-* **Public Safety:** The committee discussed potential allocations for public safety initiatives, including support for the Saint Paul Police Department's Community Engagement Program.
-
-A contentious discussion arose regarding funding for the Lowertown area. Some committee members expressed concerns that the proposed allocation of $750,000 was not sufficient to address the area's unique needs and challenges. Others argued that the funds would be better spent on more pressing community development projects elsewhere in the city. After a 10-5 vote, the proposal was approved with the condition that the Lowertown area receive additional funding consideration for future budget cycles.
-
-The committee also discussed potential partnerships with local non-profits to support community programming and services.
+The proposal to establish the neighborhood watch program was ultimately approved by a vote of 6-2, with Johnson and another committee member dissenting.
 
