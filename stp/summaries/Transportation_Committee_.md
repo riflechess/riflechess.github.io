@@ -4,20 +4,24 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Transportation Committee Meeting
-**Purpose:** Discussion on upcoming transportation projects, infrastructure updates, and public safety initiatives
-**Date/Time:** Tuesday, March 14th, 6:00 PM - 8:00 PM
-**Location:** Saint Paul City Hall, Room 300
+**Purpose:** Review of proposed transportation projects and budget allocations for the upcoming year
+**Date/Time:** February 22, 2023, 6:00 PM - 8:30 PM
+**Location:** City Hall, Room 317
 
 #### Summary
-The Transportation Committee meeting covered several key topics related to transportation in Saint Paul. One of the main discussions was about the proposed bike lane expansion on Summit Avenue. The plan aims to add more bike lanes and pedestrian-friendly infrastructure to improve safety and accessibility.
+The Transportation Committee met to discuss several proposals for new transportation projects and review the current budget. Key points include:
 
-Committee members discussed budget allocations for various projects, including a $1 million proposal for street lighting upgrades in high-crime areas. This move was met with support from most committee members, but Councilor [Noecker] expressed concerns about the allocation, stating that more funding should be directed towards community programs rather than infrastructure.
+* **Budget Allocation:** The committee approved a $1 million allocation for a new bike-sharing program in low-income neighborhoods.
+* **Light Rail Expansion:** A proposal to extend the light rail line to the East Side of Saint Paul was discussed, but no decision was made due to concerns about cost and funding.
+* **Public Safety:** Committee members expressed concerns about safety along the proposed route for the new bike lane on Rice Street, citing high rates of pedestrian accidents.
 
-A heated debate arose regarding the proposed ban on private cars in downtown Saint Paul during peak hours. Committee member Councilor [Smith] argued that this measure would reduce congestion and improve air quality, while others like Councilor [Johnson] countered that it would disproportionately affect low-income residents who rely on their cars for transportation.
+There was significant discussion and disagreement regarding the allocation of funds for a potential new highway project. Some committee members argued that it would provide much-needed relief to congested roads, while others felt that it would be a costly and environmentally detrimental solution. The proposal ultimately failed to pass with a vote of 4-3.
 
-The committee also discussed a new initiative to increase public transportation options, including potential partnerships with the Minnesota Transit Authority. While some members expressed enthusiasm for the idea, others raised concerns about the feasibility and cost of such a plan.
+Additionally, the committee discussed several other proposals, including:
 
-In other business, the committee heard an update on the city's snow removal efforts, which were deemed satisfactory by most members. However, one member pointed out that more could be done to address the issue of abandoned vehicles clogging city streets during winter months.
+* **Increased funding for pedestrian infrastructure**
+* **Expansion of the city's car-sharing program**
+* **Improvement of bus shelters and stops**
 
-The meeting concluded with a vote on the proposed bike lane expansion plan, which passed 8-2. The next Transportation Committee meeting is scheduled for April 11th at 6:00 PM.
+These items were approved without controversy.
 
