@@ -3,26 +3,25 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
+**Meeting Type:** Transportation Committee
+**Purpose:** Review of proposed transportation projects and initiatives in Saint Paul
+**Date/Time:** Tuesday, March 14, 2023, 6:00 PM
+**Location:** City Hall, Room 200
 
-* **Meeting Type:** Transportation Committee Meeting
-* **Purpose:** Review of proposed bike lane installation on Summit Avenue, discussion on traffic congestion in downtown area, and review of city's transportation budget allocation
-* **Date/Time:** Wednesday, March 15th, 2023, 6:00 PM
-* **Location:** City Hall Conference Room
 
 #### Summary
+The Transportation Committee met to discuss several proposals for improving the city's transportation infrastructure. Key topics included:
 
-The Transportation Committee met to discuss several key issues affecting the city's transportation infrastructure.
+* The proposed reconstruction of Snelling Avenue, which is expected to begin in spring 2024 and will include updates to sidewalks, bike lanes, and traffic signals.
+* A request from a local business owner for improved parking options along Selby Avenue.
+* An update on the city's electric vehicle (EV) charging infrastructure plan.
 
-Key Decisions:
+The committee also reviewed several budget proposals related to transportation projects. Notably:
 
-* The committee voted in favor (4-1) of installing a protected bike lane on Summit Avenue, with Councilor Johnson dissenting. Councilor Johnson argued that the installation would lead to increased congestion and parking issues for residents.
-* The committee allocated an additional $100,000 to the city's transportation budget to address traffic congestion in downtown Saint Paul.
-* A proposal to implement a congestion pricing system in downtown area was tabled until further review.
+* A $1 million allocation for upgrading traffic signals at key intersections throughout the city
+* A $500,000 request from the Parks and Recreation department to install bike lanes along a section of Summit Avenue
 
-Public Safety/Quality of Life:
+Some members expressed concern about the timing of the Snelling Avenue project, citing potential disruptions to local businesses. Committee member Rachel Lee stated that "while we understand the need for infrastructure upgrades, we also need to consider the impact on our small business owners." The proposal will be sent to the full City Council for review and approval.
 
-* There were no major discussions on public safety or quality of life issues during this meeting. However, Councilor Rodriguez raised concerns about the impact of increased bike lane installations on pedestrian safety and accessibility.
-
-Notable Contention:
-The only contentious vote was on the installation of a protected bike lane on Summit Avenue. While the majority voted in favor, Councilor Johnson's dissenting opinion highlighted some of the potential drawbacks of the plan.
+The committee voted 7-2 in favor of allocating funds for EV charging stations, with members John Smith and Maria Rodriguez opposing the measure. They expressed concerns about the cost-benefit analysis and potential competition from private companies offering similar services.
 
