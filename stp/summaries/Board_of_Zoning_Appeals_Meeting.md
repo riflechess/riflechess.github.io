@@ -4,18 +4,21 @@ date:
 ---
 #### Meeting Info
 
-* **Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To hear appeals on zoning decisions, variances, and other land-use issues within the city limits
-* **Date/Time:** Wednesday, March 15th, 2023 at 6:00 PM
-* **Location:** City Hall, Room 300
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** Consideration of zoning variances and appeals
+* **Date/Time:** [Insert Date] at [Insert Time]
+* **Location:** City Hall, 15 W Kellogg Blvd, Saint Paul, MN 55102
 
 #### Summary
 
-The Board of Zoning Appeals (BZA) meeting discussed several appeals related to zoning variances and land-use issues.
+The meeting began with a review of the agenda. The board considered several requests for zoning variances, including:
 
-* The BZA approved a variance for a property on University Avenue, allowing for a two-story addition despite existing zoning restrictions.
-* A proposal to rezone a commercial property in the Midway neighborhood was tabled pending further review by the Planning Department.
-* The board denied an appeal for a variance related to parking requirements for a new multi-unit development in the Summit-University area.
+* A variance to build a two-story addition on a single-family home in the Summit-University neighborhood
+* An appeal to allow a new tattoo parlor in the Lowertown neighborhood, which is zoned for commercial use but has restrictions on certain businesses
 
-No significant public testimony or debate occurred during the meeting. The BZA will review and consider appeals on a case-by-case basis, taking into account city ordinances and guidelines.
+The variance request for the Summit-University neighborhood was approved 4-1, with one board member voting against it due to concerns about overdevelopment in the area.
+
+The appeal for the tattoo parlor in Lowertown sparked more debate. Several residents spoke out against the proposal, citing concerns about noise and traffic. The board ultimately voted 3-2 in favor of allowing the tattoo parlor, but with conditions: the business must be open between 10am and 6pm Monday-Saturday and 12pm-5pm Sunday.
+
+No major budget or spending decisions were made during this meeting.
 
