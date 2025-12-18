@@ -1,7 +1,8 @@
 title: Saint Paul Meeting Summaries
 description: Summaries of Saint Paul City Council meetings
 theme: minima
-
+baseurl: "/stp"
+url: "https://riflechess.github.io"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
