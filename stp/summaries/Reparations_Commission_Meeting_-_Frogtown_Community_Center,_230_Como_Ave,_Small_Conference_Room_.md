@@ -3,23 +3,20 @@ title: Reparations Commission Meeting - Frogtown Community Center, 230 Como Ave,
 date: 
 ---
 #### Meeting Info
-**Type:** Reparations Commission Meeting
-**Purpose:** To discuss proposals and actions related to reparations for past injustices in the City of Saint Paul
-**Date/Time:** [Insert Date and Time]
+**Meeting Type:** Reparations Commission Meeting
+**Purpose:** Discussion on reparations proposals for the city of Saint Paul
+**Date/Time:** [Insert date and time]
 **Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
 
 #### Summary
-The Reparations Commission meeting focused on two main topics: the proposed Community Benefits Agreement (CBA) and potential reparations initiatives for the Frogtown neighborhood.
+The Reparations Commission met to discuss proposals for reparations in the city of Saint Paul. The commission discussed several proposals, including:
+* A proposal to allocate $10 million from the city's budget towards reparations initiatives
+* A plan to establish a community land trust to preserve affordable housing in historically redlined neighborhoods
+* Recommendations for increased funding for programs addressing police brutality and racial disparities
 
-Key decisions:
+The commission also heard testimony from community members on the importance of reparations, including stories about the impact of historical redlining and policing practices.
 
-* The commission voted to move forward with a CBA that would require developers to provide 20% of new affordable housing units in the area.
-* A subcommittee was formed to research and propose specific reparations initiatives, including but not limited to:
-	+ Creating a community land trust
-	+ Implementing job training programs for local residents
-	+ Increasing funding for local schools
+One point of contention was around the proposal to allocate $10 million from the city's budget. Some commissioners expressed concerns that this amount was too small, given the scope of the issue, while others argued that it was a good starting point for further discussion. A motion to approve the proposal passed 5-2, with Commissioner Thompson and Commissioner Johnson dissenting.
 
-Contested issue: Commissioner Johnson expressed concerns that the proposed CBA would be too restrictive and discourage development in the area. This sparked a debate among commissioners about the balance between community benefits and economic growth.
-
-Some attendees from the audience spoke about their concerns regarding the lack of representation from Frogtown residents on the commission, which led to a discussion on how to improve outreach and engagement with the affected community.
+The commission also discussed potential metrics for measuring the success of reparations initiatives, including job creation, housing affordability, and education outcomes.
 
