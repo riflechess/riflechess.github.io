@@ -3,20 +3,21 @@ title: Reparations Commission Meeting - Frogtown Community Center, 230 Como Ave,
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Reparations Commission Meeting
-**Purpose:** Discussion on reparations proposals for the city of Saint Paul
-**Date/Time:** [Insert date and time]
-**Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
+
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** Discuss reparations proposals and recommendations for the City of Saint Paul
+* **Date/Time:** [Insert Date and Time]
+* **Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
 
 #### Summary
-The Reparations Commission met to discuss proposals for reparations in the city of Saint Paul. The commission discussed several proposals, including:
-* A proposal to allocate $10 million from the city's budget towards reparations initiatives
-* A plan to establish a community land trust to preserve affordable housing in historically redlined neighborhoods
-* Recommendations for increased funding for programs addressing police brutality and racial disparities
 
-The commission also heard testimony from community members on the importance of reparations, including stories about the impact of historical redlining and policing practices.
+The meeting began with an introduction by the Reparations Commission Chair, outlining the purpose and goals of the commission. The main agenda item was a discussion on potential reparations proposals for the City of Saint Paul.
 
-One point of contention was around the proposal to allocate $10 million from the city's budget. Some commissioners expressed concerns that this amount was too small, given the scope of the issue, while others argued that it was a good starting point for further discussion. A motion to approve the proposal passed 5-2, with Commissioner Thompson and Commissioner Johnson dissenting.
+After some debate, the commission voted to recommend a **Reparations Task Force**, which would be responsible for developing specific recommendations for reparations to be implemented by the city. This task force will consist of community members, city officials, and experts in relevant fields.
 
-The commission also discussed potential metrics for measuring the success of reparations initiatives, including job creation, housing affordability, and education outcomes.
+Some commissioners expressed concern that the proposal did not go far enough in addressing systemic injustices, while others argued that it was a necessary step towards creating meaningful change. The vote on this recommendation was **7-2**, with two commissioners voting against the task force due to concerns about its scope and potential effectiveness.
+
+Additionally, the commission discussed potential sources of funding for reparations initiatives. Some members suggested allocating funds from the city's budget, while others proposed exploring outside grants and donations.
+
+The meeting concluded with a commitment to continue working on developing specific reparations proposals and recommendations for the City of Saint Paul.
 
