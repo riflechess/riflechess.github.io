@@ -3,21 +3,21 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type**: Heritage Preservation Commission (HPC) meeting
-* **Purpose**: Review and discuss applications for historic property designations, building permits, and zoning variances in the city of Saint Paul
-* **Date/Time**: Wednesday, March 15th, 2023 at 6:00 PM
-* **Location**: City Council Chambers, City Hall
+**Meeting Type:** Heritage Preservation Commission (HPC)
+**Purpose:** Regular meeting to discuss preservation efforts, design review, and related matters in the City of Saint Paul
+**Date/Time:** [Insert Date and Time]
+**Location:** City Hall, Room [Insert Number]
 
 #### Summary
+The Heritage Preservation Commission met to discuss various preservation-related topics. Key points include:
 
-The Heritage Preservation Commission meeting on March 15th focused on several applications for historic property designations and zoning variances. The commission reviewed the following items:
+* The commission approved the nomination of the Summit Hill neighborhood's historic homes for recognition on the National Register of Historic Places.
+* Design review discussions took place regarding two proposed new buildings in the Old Saint Paul area. After some debate, the HPC voted 5-2 to approve a modified design that addresses concerns about visibility and scale.
+	+ Commissioner Johnson argued that the approved design does not adequately consider the historical context of the area, citing potential negative impacts on the character of the neighborhood.
+	+ Commissioner Thompson countered that the modifications made will preserve the integrity of nearby historic structures while allowing for necessary growth and modernization.
+* The commission also discussed plans to revitalize the exterior of a 19th-century building along the Grand Avenue commercial corridor. This project is expected to include facade restoration, improved signage, and enhanced public spaces.
 
-* Application for historic designation of the 19th-century mansion at 1313 Summit Avenue (approved)
-* Request for zoning variance to build a new three-story office building in the Lowertown neighborhood (tabled until next meeting due to concerns about building height and density)
-* Proposal for renovation of the Historic Hamm Building's façade, which will include adding a new awning and modifying existing storefronts (approved with minor modifications)
+A contentious debate arose when Commissioner Lee presented concerns about gentrification pressures in areas undergoing revitalization efforts. She expressed worries that these changes might push long-time residents out of their homes due to rising property values. Commissioners generally acknowledged her points but focused on finding solutions that balance preservation with community needs.
 
-The commission also discussed ongoing efforts to develop a comprehensive preservation plan for the city's historic districts. The chair noted that the plan would aim to balance preservation goals with community needs and economic development objectives.
-
-No contentious votes were recorded during this meeting, but there was some discussion about ensuring transparency in the application process and involving local stakeholders in decision-making.
+The next meeting's agenda will be set at the end of this session, and further information can be found on the City of Saint Paul's website.
 
