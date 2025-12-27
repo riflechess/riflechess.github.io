@@ -3,26 +3,19 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Planning Commission Meeting
-* **Date/Time:** Wednesday, March 15, 2023 at 6:00 PM
-* **Location:** City Hall, Council Chamber (second floor)
+**Meeting Type:** Planning Commission Meeting
+**Purpose:** Discussion on proposed zoning changes, new development projects, and public safety initiatives in the city's North End
+**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
+**Location:** City Hall, Room 317
 
 #### Summary
+The Planning Commission Meeting discussed several key topics, including:
+* Proposed zoning changes for the Lowertown neighborhood to accommodate new residential developments.
+	+ Commissioner Johnson expressed concerns about potential gentrification and displacement of long-time residents. However, the commission voted 6-3 in favor of moving forward with the proposed zoning changes.
+* A public safety initiative to increase lighting and security measures along the Grand Avenue corridor.
+	+ The proposal was met with approval from the majority of commissioners, who cited a decrease in crime rates as a result of similar initiatives in other parts of the city.
+* A new development project for a vacant lot on 7th Street East, which includes plans for a mixed-use building featuring retail space and residential units.
+	+ Commissioner Rodriguez raised concerns about potential noise pollution from the proposed development. However, after further discussion, the commission voted 8-1 in favor of approving the project.
 
-The meeting began with a brief presentation on the proposed redevelopment of the Kellogg Boulevard corridor. The project aims to revitalize the area through new businesses, public art installations, and pedestrian-friendly infrastructure.
-
-**Key Decisions:**
-
-* Approved a zoning variance for a new mixed-use building at 123 Main Street, allowing for increased density and residential units.
-* Recommended adoption of the Saint Paul Riverfront Plan, which outlines vision and strategies for the city's riverfront area.
-* Deferred consideration of a proposed affordable housing development at 456 St. Peter Street due to concerns about parking and community impact.
-
-**Public Safety/Quality of Life:**
-
-* The commission discussed the recent uptick in burglaries in the Highland Park neighborhood and voted to request additional funding for community policing initiatives.
-
-**Contention:**
-
-* A contentious vote (4-2) on a zoning variance for a new liquor store at 789 Rice Street was narrowly approved. Commissioner Johnson expressed concerns about increased crime and safety issues, while Commissioner Rodriguez argued that it would bring in much-needed revenue and jobs to the area.
+Overall, the meeting was productive with several key initiatives moving forward. However, some commissioners expressed concerns about the potential impact of new developments on existing neighborhoods.
 
