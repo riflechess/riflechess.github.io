@@ -3,19 +3,24 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Planning Commission Meeting
-**Purpose:** Discussion on proposed zoning changes, new development projects, and public safety initiatives in the city's North End
-**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
-**Location:** City Hall, Room 317
+**Type:** Planning Commission Meeting
+**Purpose:** Review of Proposed Zoning Changes, Discussion on Downtown Development Proposal
+**Date/Time:** Wednesday, March 15th, 6:00 PM
+**Location:** City Hall Council Chambers, Saint Paul, MN
+
 
 #### Summary
-The Planning Commission Meeting discussed several key topics, including:
-* Proposed zoning changes for the Lowertown neighborhood to accommodate new residential developments.
-	+ Commissioner Johnson expressed concerns about potential gentrification and displacement of long-time residents. However, the commission voted 6-3 in favor of moving forward with the proposed zoning changes.
-* A public safety initiative to increase lighting and security measures along the Grand Avenue corridor.
-	+ The proposal was met with approval from the majority of commissioners, who cited a decrease in crime rates as a result of similar initiatives in other parts of the city.
-* A new development project for a vacant lot on 7th Street East, which includes plans for a mixed-use building featuring retail space and residential units.
-	+ Commissioner Rodriguez raised concerns about potential noise pollution from the proposed development. However, after further discussion, the commission voted 8-1 in favor of approving the project.
+The meeting began with a presentation from the city's planning department on proposed zoning changes in the Summit-University neighborhood. The main points of discussion included:
 
-Overall, the meeting was productive with several key initiatives moving forward. However, some commissioners expressed concerns about the potential impact of new developments on existing neighborhoods.
+* Proposal to rezone several lots along Snelling Avenue to allow for higher-density development.
+* Concerns raised by nearby residents about increased traffic and noise.
+
+After public comment, the commission discussed a downtown development proposal for a new mixed-use building on the former Farmers' Market site. Key points include:
+
+* The proposed 12-story building would include retail, office space, and 250 residential units.
+* Some commissioners expressed concerns about the building's height and potential impact on nearby businesses.
+
+The commission voted to recommend approval of the zoning changes with some modifications, including a requirement for increased stormwater management measures. However, two commissioners dissented, citing concerns about the project's density and potential strain on local infrastructure.
+
+Regarding the downtown development proposal, the commission approved a motion to send it back to the developer with a request for additional information on building height, parking, and community benefits.
 
