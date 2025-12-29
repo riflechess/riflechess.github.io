@@ -4,23 +4,18 @@ date:
 ---
 #### Meeting Info
 **Type:** Planning Commission Meeting
-**Purpose:** Review of Proposed Zoning Changes, Discussion on Downtown Development Proposal
-**Date/Time:** Wednesday, March 15th, 6:00 PM
-**Location:** City Hall Council Chambers, Saint Paul, MN
-
+**Purpose:** Review and discuss development proposals, zoning changes, and other planning-related matters
+**Date/Time:** Tuesday, March 21st, 2023, 6:00 PM - 9:30 PM
+**Location:** Saint Paul City Hall, Council Chamber
 
 #### Summary
-The meeting began with a presentation from the city's planning department on proposed zoning changes in the Summit-University neighborhood. The main points of discussion included:
+The Planning Commission meeting covered several topics:
 
-* Proposal to rezone several lots along Snelling Avenue to allow for higher-density development.
-* Concerns raised by nearby residents about increased traffic and noise.
+* **Development Proposals:** The commission reviewed three development proposals for new construction projects in the city. Two of the proposals were approved with minor modifications.
+* **Zoning Changes:** A proposal to rezone a property on University Avenue from commercial to residential was tabled due to concerns about parking and density.
+* **Affordable Housing:** The commission discussed the city's affordable housing strategy and heard from community members about their concerns and suggestions.
 
-After public comment, the commission discussed a downtown development proposal for a new mixed-use building on the former Farmers' Market site. Key points include:
+There was some contention surrounding the zoning change proposal. Commissioner Johnson expressed concerns about the impact of increased density on the neighborhood, while Commissioner Patel argued that it would bring much-needed housing stock to the area. The proposal was ultimately tabled until the next meeting for further discussion.
 
-* The proposed 12-story building would include retail, office space, and 250 residential units.
-* Some commissioners expressed concerns about the building's height and potential impact on nearby businesses.
-
-The commission voted to recommend approval of the zoning changes with some modifications, including a requirement for increased stormwater management measures. However, two commissioners dissented, citing concerns about the project's density and potential strain on local infrastructure.
-
-Regarding the downtown development proposal, the commission approved a motion to send it back to the developer with a request for additional information on building height, parking, and community benefits.
+Additionally, the commission voted to allocate $100,000 from the city's community development block grant funds towards a new affordable housing initiative in the Frogtown neighborhood. The vote was unanimous, with all commissioners agreeing that it was a crucial step towards addressing the city's affordable housing crisis.
 
