@@ -3,19 +3,24 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Planning Commission Meeting
-**Purpose:** Review and discuss development proposals, zoning changes, and other planning-related matters
-**Date/Time:** Tuesday, March 21st, 2023, 6:00 PM - 9:30 PM
-**Location:** Saint Paul City Hall, Council Chamber
+**Planning Commission Meeting**
+* Date/Time: Monday, March 20, 2023, 5:30 PM - 7:00 PM
+* Location: City Hall, 15 W Kellogg Blvd, St. Paul, MN 55102
+* Purpose: To discuss and vote on various planning-related items affecting the city of Saint Paul
 
 #### Summary
-The Planning Commission meeting covered several topics:
+The Planning Commission meeting covered several agenda items, including zoning changes, new development proposals, and land use policies.
 
-* **Development Proposals:** The commission reviewed three development proposals for new construction projects in the city. Two of the proposals were approved with minor modifications.
-* **Zoning Changes:** A proposal to rezone a property on University Avenue from commercial to residential was tabled due to concerns about parking and density.
-* **Affordable Housing:** The commission discussed the city's affordable housing strategy and heard from community members about their concerns and suggestions.
+**Key Decisions**
 
-There was some contention surrounding the zoning change proposal. Commissioner Johnson expressed concerns about the impact of increased density on the neighborhood, while Commissioner Patel argued that it would bring much-needed housing stock to the area. The proposal was ultimately tabled until the next meeting for further discussion.
+* **Zoning Changes:** The commission voted to approve a zoning change in the Frogtown neighborhood to accommodate a proposed mixed-use development. The vote was unanimous.
+* **New Development Proposals:**
+	+ A proposal for a new high-rise apartment building in the Downtown East neighborhood was tabled pending further review of traffic concerns.
+	+ A plan for a new commercial development on University Avenue was approved, but with conditions related to parking and pedestrian access.
+* **Land Use Policies:** The commission discussed and refined the city's policy on large-scale developments, aiming to balance growth with community needs.
 
-Additionally, the commission voted to allocate $100,000 from the city's community development block grant funds towards a new affordable housing initiative in the Frogtown neighborhood. The vote was unanimous, with all commissioners agreeing that it was a crucial step towards addressing the city's affordable housing crisis.
+**Controversy:**
+The proposal for the high-rise apartment building in Downtown East sparked debate among commissioners. Concerns were raised about potential traffic congestion and strain on local infrastructure. Commissioner Maria Hernandez expressed strong opposition, stating that the development would "overwhelm" the neighborhood and require significant public investment to mitigate its impacts. The commission ultimately decided to table the proposal for further review.
+
+No votes were recorded against the zoning change in Frogtown or the commercial development on University Avenue.
 
