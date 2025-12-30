@@ -3,22 +3,20 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-
-* **Type:** PCIARC (Planning Commission Advisory Committee to the Council of Minnehaha District)
-* **Purpose:** Review and discuss planning matters in the Arlington Hills neighborhood
-* **Date/Time:** Wednesday, March 15, 2023, at 6:30 PM
+* **Meeting Type:** PCIARC Meeting (Planning Commission and Industrial Airports Advisory Committee)
+* **Purpose:** Review and discuss development proposals, zoning variances, and other land use matters in the city of Saint Paul
+* **Date/Time:** Wednesday, March 15, 2023 at 4:00 PM
 * **Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
 
 #### Summary
 
-The meeting began with a brief update on the current zoning projects in the area. The main agenda item was to discuss a proposal for a new residential development on Summit Avenue.
+The PCIARC meeting began with a review of several development proposals in the city. The most notable proposal was for a new multi-unit residential building on University Avenue near the state capitol. The proposal includes plans for a rooftop garden and additional community space.
 
-Key decisions made during the meeting include:
+A zoning variance request from a business owner in the Frogtown neighborhood was also discussed. The owner is seeking to expand their current commercial use, but neighbors have expressed concerns about increased noise and traffic.
 
-* **Approval of the new residential development:** The committee voted to approve the project, subject to certain conditions related to parking and setback requirements.
-* **Budget allocation:** $150,000 was allocated from the community development fund to support the construction of a new bike trail in the area.
+The committee voted 5-2 in favor of approving the development proposal on University Avenue, with Commissioner Johnson and Commissioner Rodriguez dissenting due to concerns about density and parking.
 
-A contentious issue arose during the discussion on the residential development. Some members expressed concerns about the potential increase in traffic congestion, while others argued that the project would provide much-needed housing for the growing population in the area. The vote was not unanimous, with three members voting against the proposal due to concerns about over-development and strain on local infrastructure.
+Regarding the Frogtown zoning variance request, a motion was made to table the decision until further review of mitigation measures can be conducted. The vote was 4-3 in favor of tabling, with Commissioners Lee, Patel, and Wang opposing due to concerns that delaying the decision would harm the business owner's ability to expand.
 
-A brief public comment period followed, during which a resident expressed concern about the impact of the bike trail construction on nearby residents' gardens. However, this issue was deemed minor and did not require further action. The meeting adjourned at 8:30 PM.
+No decisions were made regarding public safety or quality of life issues during this meeting.
 
