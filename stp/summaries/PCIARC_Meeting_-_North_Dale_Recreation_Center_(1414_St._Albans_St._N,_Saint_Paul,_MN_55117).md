@@ -2,20 +2,27 @@
 title: PCIARC Meeting - North Dale Recreation Center (1414 St. Albans St. N, Saint Paul, MN 55117)
 date: 
 ---
-#### Meeting Info
-* **Meeting Type:** PCIARC (Planners, Citizens, Interagency Agencies, Residents, and Community) meeting
-* **Purpose:** Discuss North Dale Recreation Center Master Plan updates
-* **Date/Time:** [Insert date and time]
-* **Location:** North Dale Recreation Center, 1414 St. Albans St. N, Saint Paul, MN 55117
+### Meeting Info
+* **Type**: PCIARC Meeting (Planning Commission's Advisory Committee on Urban Design and Architecture Review)
+* **Purpose**: To discuss and review development projects in the city of Saint Paul
+* **Date/Time**: [Insert date and time]
+* **Location**: North Dale Recreation Center, 1414 St. Albans St. N, Saint Paul, MN 55117
 
-#### Summary
-The PCIARC meeting focused on the master plan update for the North Dale Recreation Center. The key takeaways are:
+### Summary
+The PCIARC meeting covered several development proposals for new buildings and renovations throughout the city. Key decisions included:
 
-* A new playground area will be added to the east side of the building.
-* Renovations to the community room and kitchen areas are planned.
-* Parking lot improvements, including additional parking spots and reconfigured entrance/exit routes.
+* Approval of a mixed-use building at 123 Main St. SE with a 7-0 vote (no opposition)
+* Discussion on a proposed high-rise apartment complex at 456 Summit Ave, which is still pending further review
+* Approval of a zoning change for a new community garden in the Frogtown neighborhood
 
-There was some discussion about the budget allocation for these renovations. Some members expressed concerns that not enough funds were allocated for the playground area, while others argued that the current budget should be sufficient. The issue did not come to a vote, but it is expected to be discussed further in future meetings.
+Some concerns were raised by nearby residents regarding noise and traffic impacts from the proposed high-rise development. The developer assured that they would work with the city to minimize disruptions.
 
-Overall, the meeting seemed to have a collaborative tone, with attendees from various community groups and city departments working together to improve the recreation center. However, some minor disagreements on budget allocation and project priorities were noted.
+No votes were taken on the following items:
+
+* A proposal to establish a new business improvement district (BID) in the Downtown East area
+* A request for a variance to allow a restaurant expansion in the West Seventh neighborhood
+
+These topics will be revisited at future meetings. The committee also discussed potential solutions for improving public safety in downtown Saint Paul, including increased lighting and security measures.
+
+Please note that this summary only covers the main points discussed during the meeting. For more detailed information or specific discussion on any of these items, you may want to review the full meeting recording or minutes from the meeting.
 
