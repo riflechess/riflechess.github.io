@@ -3,23 +3,23 @@ title: PCIARC Meeting - Frogtown Community Center (230 Como Ave, Saint Paul, MN 
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** PCIARC Meeting
-* **Location:** Frogtown Community Center (230 Como Ave, Saint Paul, MN 55103)
-* **Date/Time:** [Insert date and time]
-* **Purpose:** Regular meeting of the Planning Commission's Intergovernmental Review Committee (PCIARC)
+* Type: PCIARC (Planning Commission-Administrative Review Committee) Meeting
+* Purpose: Review and discuss development proposals in the City of Saint Paul
+* Date/Time: [Insert date and time]
+* Location: Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
 
 #### Summary
+The PCIARC meeting was focused on reviewing two major development proposals. 
 
-The meeting began with a discussion on the proposed development at the former Hamline United Methodist Church site. The developer is seeking approval for a 7-story mixed-use building, which has raised concerns among some community members about increased traffic and density in the area.
+1. **Proposal 1:** A new mixed-use building at the corner of University Avenue and Snelling Avenue.
+	* The proposal includes a 12-story high-rise with commercial space on the lower floors and residential units above.
+	* Some residents expressed concerns about increased traffic, density, and potential noise pollution.
 
-Key decisions made during the meeting include:
+2. **Proposal 2:** A redevelopment project for the old industrial site along I-94.
+	* This project aims to create new office spaces, parks, and improved infrastructure for pedestrians and cyclists.
+	* Neighbors nearby raised issues regarding potential impact on local businesses and increased competition for parking.
 
-* Approving the proposed development plan for the former Hamline United Methodist Church site
-* Allocating $200,000 from the city's affordable housing fund to support the development of affordable units in the new building
-* Referred a request to rezone a property on University Avenue for further review due to concerns about its impact on local businesses
+Regarding public safety, a resident mentioned concerns about the lack of security cameras in the area. The committee noted that they would look into this matter further.
 
-A contentious discussion emerged during the meeting regarding the developer's plan to increase parking fees in the area. Some community members expressed concern that this would disproportionately affect low-income residents and visitors, while others argued that it was necessary to manage traffic congestion.
-
-The vote to approve the development plan was 7-2, with Council Members Johnson and Rodriguez dissenting due to concerns about over-development and lack of affordable housing units in the proposal.
+The PCIARC voted 6-3 to approve both proposals with conditions addressed by the developers.
 
