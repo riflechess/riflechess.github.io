@@ -3,19 +3,18 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** PCIARC Meeting (Planning Commission and Zoning and Land Use)
-* **Purpose:** Review and discussion of various land use and zoning proposals
-* **Date/Time:** [Insert Date and Time]
-* **Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+**Meeting Type:** PCIARC Meeting
+**Purpose:** Community engagement and discussion on various city initiatives and projects
+**Date/Time:** [Insert Date and Time]
+**Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
 
 #### Summary
-The PCIARC meeting covered several items related to land use and zoning in the city. The main topics discussed were:
+The meeting covered several topics:
 
-* Proposed changes to the zoning ordinance for the University of St. Thomas campus expansion, which was met with some resistance from nearby residents concerned about increased traffic and density.
-* A request by a local business owner to rezone their property for a new apartment complex, which was approved unanimously after a brief discussion on parking and access.
-* An update on the city's affordable housing initiatives, including a proposed ordinance to require inclusionary zoning in certain areas of the city. This sparked some debate among commissioners about the effectiveness and fairness of such policies.
+* **Traffic Safety Improvements**: The city proposed installing a pedestrian crossing signal at the intersection of Selby Avenue and St. Albans Street. After some discussion, the proposal was approved with a unanimous vote.
+* **Public Art Project**: A local artist pitched an idea for a mural in the Arlington Hills neighborhood. While some attendees expressed concerns about vandalism and maintenance costs, the project was ultimately approved with a 7-2 vote.
+* **Community Events Funding**: The city allocated $10,000 for community events and festivals in the neighborhood. This was met with approval from most attendees.
+* **Zoning Proposal**: A proposed zoning change for a new development on the west side of the neighborhood sparked some debate. Some residents expressed concerns about increased density and potential noise pollution. After a lengthy discussion, the proposal was tabled until the next meeting.
 
-The most contentious issue was the proposal for the University of St. Thomas expansion. Commissioner Johnson expressed concerns about the impact on nearby residents, while Commissioner Rodriguez argued that the benefits of the project outweighed the costs. The matter was tabled until the next meeting to allow for further review and discussion.
-
-In other news, the city's public works department reported on progress made in improving bike lanes and pedestrian safety throughout the city.
+A notable moment during the meeting came when a resident raised concerns about a recent string of break-ins in the area. The police department assured attendees that they are increasing patrols and working to address the issue.
 
