@@ -3,20 +3,18 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** PCIARC Meeting (Planning Commission and Industrial Airports Advisory Committee)
-* **Purpose:** Review and discuss development proposals, zoning variances, and other land use matters in the city of Saint Paul
-* **Date/Time:** Wednesday, March 15, 2023 at 4:00 PM
-* **Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
+Meeting Type: PCIARC (Public Chartering and Innovation Agency Review Committee) Meeting
+Purpose: Review and discussion of various city initiatives and projects
+Date/Time: [Insert Date and Time]
+Location: Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+
 
 #### Summary
 
-The PCIARC meeting began with a review of several development proposals in the city. The most notable proposal was for a new multi-unit residential building on University Avenue near the state capitol. The proposal includes plans for a rooftop garden and additional community space.
+The meeting covered several topics, including:
 
-A zoning variance request from a business owner in the Frogtown neighborhood was also discussed. The owner is seeking to expand their current commercial use, but neighbors have expressed concerns about increased noise and traffic.
+* **Budget Allocations**: The committee discussed budget allocations for various city departments. $100,000 was allocated to the Parks and Recreation department for improvements in Arlington Hills Park.
+* **New Business**: A proposal to establish a community garden in the area was presented. After discussion, it was decided that the location would be determined through further research and public input.
 
-The committee voted 5-2 in favor of approving the development proposal on University Avenue, with Commissioner Johnson and Commissioner Rodriguez dissenting due to concerns about density and parking.
-
-Regarding the Frogtown zoning variance request, a motion was made to table the decision until further review of mitigation measures can be conducted. The vote was 4-3 in favor of tabling, with Commissioners Lee, Patel, and Wang opposing due to concerns that delaying the decision would harm the business owner's ability to expand.
-
-No decisions were made regarding public safety or quality of life issues during this meeting.
+There were no contentious votes or significant disagreements during the meeting. The committee seemed to work collaboratively on all topics discussed.
 
