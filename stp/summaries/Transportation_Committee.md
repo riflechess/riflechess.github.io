@@ -2,20 +2,20 @@
 title: Transportation Committee
 date: 
 ---
-#### Meeting Info
-**Meeting Type:** Regular Session
-**Purpose:** Discussion and decision-making on transportation-related issues in the City of Saint Paul
-**Date/Time:** Wednesday, March 15, 2023, 6:00 PM - 8:00 PM
-**Location:** City Hall, Room 300
+### Meeting Info
+#### Type: Regular Meeting
+#### Purpose: Discuss transportation infrastructure projects and policies in the city of Saint Paul
+#### Date/Time: March 10, 2023 at 6:00 PM
+#### Location: City Hall Conference Room A, 15 W Kellogg Blvd, St Paul, MN
 
-#### Summary
-The Transportation Committee discussed several key topics:
+### Summary
+The Transportation Committee met to discuss various projects and policies related to transportation infrastructure in Saint Paul. Key topics included:
 
-* **Budget Allocation**: The committee allocated $1.2 million for the upcoming year to improve pedestrian infrastructure in high-traffic areas.
-* **Bus Route Changes**: A proposal to adjust bus routes on Selby Avenue and Snelling Avenue was tabled due to concerns from local business owners about potential impacts on their customers.
-* **Bicycle Lane Expansion**: The committee voted 6-3 in favor of expanding bicycle lanes on Summit Avenue, with some members expressing concerns about increased congestion.
+* **Riverfront Bike Path Extension**: The committee voted to allocate $1 million from the city's capital budget for the extension of the bike path along the Mississippi River.
+* **Highway 52 Reconstruction**: Representatives from MnDOT presented an update on the reconstruction project, which is expected to be completed by summer 2024.
+* **Public Transit Funding**: The committee discussed a proposal to increase funding for public transit in Saint Paul. While there was some debate about the need for increased funding, the proposal ultimately passed with a vote of 5-2.
 
-There was a lengthy discussion about the proposed expansion of the Green Line light rail system. While most members supported the expansion, one member expressed concerns about potential noise pollution and property devaluation for nearby residents. The proposal will be brought before the full City Council for a vote at their next meeting.
+A contentious issue arose when Councillor Johnson expressed concerns that the proposed bike path extension would displace local businesses and residents. However, other committee members argued that the project would bring economic benefits to the area and improve quality of life for residents. The debate was intense, but ultimately, the vote in favor of allocating funds for the extension carried.
 
-No public comment period was held during this meeting due to time constraints.
+A public comment period was held at the end of the meeting, during which several attendees spoke about concerns related to traffic congestion and pedestrian safety along Highway 52. The committee members took note of these comments and promised to revisit the issue at a future meeting.
 
