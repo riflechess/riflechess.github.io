@@ -3,19 +3,24 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** PCIARC Meeting (Planning Commission)
-* **Purpose:** Review and discussion of zoning cases, variances, and other land-use issues
-* **Date/Time:** March 10, 2023, 5:30 PM
-* **Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+* **Meeting Type:** PCIARC Meeting
+* **Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
+* **Date/Time:** [Insert date and time]
+* **Purpose:** Public meeting for the Arlington Hills community to discuss local issues and concerns
 
 #### Summary
+The meeting began with a discussion on community events in the area. The Parks Department reported on the upcoming summer festivals and concerts at Arlington Hills Park.
 
-The meeting began with a review of several zoning cases, including a proposal for a new apartment complex in the Highland Park neighborhood. The commission voted unanimously to approve the project, citing its alignment with city planning goals.
+Key decisions:
 
-A variance request for a property on University Avenue was also discussed. The applicant sought permission to build a larger structure than allowed by current zoning regulations. After some debate, the commission voted 5-3 to deny the request, citing concerns about over-development and potential impact on traffic.
+* Budget allocation: $10,000 was allocated for new park furniture and landscaping.
+* Public Safety:
+	+ A resident expressed concern about crime rates in the area, particularly near the park.
+	+ The Police Department reported a decrease in crime rates but acknowledged that more work is needed to keep the community safe.
+* Quality of Life:
+	+ A proposal was made to install new streetlights along Payne Avenue. The proposal was met with opposition from some residents who expressed concerns about light pollution.
 
-The commission also reviewed a proposal to establish a community garden in the Arlington Hills neighborhood. The proposal was met with enthusiasm from local residents, who spoke in favor of the project during public comment. The commission voted unanimously to approve the plan, providing funding for the project through the city's community development budget.
+A contentious vote occurred when the commission debated whether to support a zoning change for a proposed new business in the area. Some residents argued that it would increase traffic and noise, while others saw it as an opportunity for economic growth. The final vote was 4-3 in favor of supporting the zoning change.
 
-A final item on the agenda was a review of crime statistics in the area. Saint Paul Police Department representatives reported a decrease in crime rates over the past quarter, but noted an uptick in property crimes near commercial districts. The commission discussed potential solutions to address this trend, including increased police presence and community outreach programs.
+A resident also brought up concerns about litter and property maintenance in the neighborhood, which will be addressed by the local government.
 
