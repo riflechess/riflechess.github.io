@@ -4,25 +4,20 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type:** PCIARC (Planning Commission and Zoning and Regulatory Committee) Meeting
-* **Purpose:** To discuss various planning and zoning issues within the city of Saint Paul
+* **Meeting Type:** PCIARC (Planning Commission's Intergovernmental Affairs and Regional Committee) meeting
+* **Purpose:** Discuss various development projects, zoning changes, and city initiatives in the Saint Paul area
 * **Date/Time:** [Insert date and time]
 * **Location:** Hancock Recreation Center, 1610 Hubbard Ave, Saint Paul, MN 55104
 
 #### Summary
 
-The meeting began with a review of upcoming projects and proposals. Notable items include:
+The PCIARC meeting covered several topics related to development and community engagement. Some key points include:
 
-* A proposal to rezone a property in the West End for a new mixed-use development (supporting comments from local business owners)
-* Discussion on implementing a bike-share program in Saint Paul
-* Review of the city's current comprehensive plan
+* **Development Proposals:**
+	+ A new mixed-use project on the East Side was approved with some modifications.
+	+ A proposal for a high-rise building in downtown Saint Paul is still pending further review.
+* **Zoning Changes:** There were no significant changes to zoning regulations discussed during this meeting.
+* **Community Engagement:** The committee discussed ways to improve public outreach and engagement in upcoming projects.
 
-A contentious issue arose regarding a proposed rezoning request in the Summit-University neighborhood. The proposal, which would allow for increased density and taller buildings, was met with opposition from some community members who expressed concerns about gentrification and potential displacement of long-time residents.
-
-After a lengthy discussion, the committee voted 5-3 to recommend approval of the rezoning request, with several amendments aimed at addressing the community's concerns. The proposal will now move forward for consideration by the Planning Commission.
-
-Other notable decisions include:
-
-* Approval of a new liquor license for a business in the downtown area
-* Support for a grant application to fund a community garden project in the Rondo neighborhood
+There was no major disagreement or contention on any of the topics, with all votes being unanimous.
 
