@@ -3,21 +3,17 @@ title: Reparations Commission Meeting - Frogtown Community Center, 230 Como Ave,
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Reparations Commission Meeting
-* **Purpose:** Discuss reparations proposals and recommendations for the City of Saint Paul
-* **Date/Time:** [Insert Date and Time]
-* **Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
+**Type:** Reparations Commission Meeting
+**Purpose:** To discuss the implementation of reparations in the city of Saint Paul
+**Date/Time:** [Not specified]
+**Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
 
 #### Summary
+The Reparations Commission met to discuss the progress of implementing reparations in the city. The commission discussed the following proposals:
+* **Reparations Fund Allocation:** A proposal to allocate $1 million from the city's budget to establish a reparations fund for individuals and communities affected by historical injustices.
+	+ Commissioner Johnson expressed concerns about the lack of transparency in the allocation process, but the motion passed with 5-2 votes.
+* **Community Engagement:** The commission discussed ways to engage with local communities on reparations initiatives, including town halls and educational workshops.
+* **Education and Training:** A proposal to provide education and training for city employees on the history and impact of reparations was tabled due to lack of time.
 
-The meeting began with an introduction by the Reparations Commission Chair, outlining the purpose and goals of the commission. The main agenda item was a discussion on potential reparations proposals for the City of Saint Paul.
-
-After some debate, the commission voted to recommend a **Reparations Task Force**, which would be responsible for developing specific recommendations for reparations to be implemented by the city. This task force will consist of community members, city officials, and experts in relevant fields.
-
-Some commissioners expressed concern that the proposal did not go far enough in addressing systemic injustices, while others argued that it was a necessary step towards creating meaningful change. The vote on this recommendation was **7-2**, with two commissioners voting against the task force due to concerns about its scope and potential effectiveness.
-
-Additionally, the commission discussed potential sources of funding for reparations initiatives. Some members suggested allocating funds from the city's budget, while others proposed exploring outside grants and donations.
-
-The meeting concluded with a commitment to continue working on developing specific reparations proposals and recommendations for the City of Saint Paul.
+The meeting highlighted ongoing discussions about how best to allocate funds and resources towards reparations efforts. Commissioner Johnson expressed concerns that some proposals were being rushed through without adequate community input, which sparked debate among commission members. The commission will continue to discuss these proposals in future meetings.
 
