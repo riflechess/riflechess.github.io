@@ -3,24 +3,19 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Planning Commission Meeting**
-* Date/Time: Monday, March 20, 2023, 5:30 PM - 7:00 PM
-* Location: City Hall, 15 W Kellogg Blvd, St. Paul, MN 55102
-* Purpose: To discuss and vote on various planning-related items affecting the city of Saint Paul
+**Type:** Planning Commission Meeting
+**Purpose:** To discuss zoning changes, land use proposals, and other development-related matters in the city of Saint Paul.
+**Date/Time:** March 22, 2023, 6:00 PM
+**Location:** City Hall, Room 300
 
 #### Summary
-The Planning Commission meeting covered several agenda items, including zoning changes, new development proposals, and land use policies.
+The Planning Commission meeting focused on several key topics. Some notable decisions include:
 
-**Key Decisions**
+* **Zoning Change Request:** The commission approved a zoning change request for a property in the Summit-University neighborhood, allowing for the development of a new mixed-use building.
+* **Land Use Proposal:** A proposal to rezone a property in the West Side Flats area was tabled due to concerns over parking and traffic impact.
+* **Development Incentives:** The commission discussed potential incentives for developers who prioritize affordable housing and community benefits.
 
-* **Zoning Changes:** The commission voted to approve a zoning change in the Frogtown neighborhood to accommodate a proposed mixed-use development. The vote was unanimous.
-* **New Development Proposals:**
-	+ A proposal for a new high-rise apartment building in the Downtown East neighborhood was tabled pending further review of traffic concerns.
-	+ A plan for a new commercial development on University Avenue was approved, but with conditions related to parking and pedestrian access.
-* **Land Use Policies:** The commission discussed and refined the city's policy on large-scale developments, aiming to balance growth with community needs.
+There were no contentious votes, but there was some discussion around the land use proposal. Commissioner Rodriguez expressed concerns about the project's potential impact on local businesses and residents, while Commissioner Lee argued that the benefits of the proposal outweighed the drawbacks. However, a compromise was reached to table the proposal until further study can be done.
 
-**Controversy:**
-The proposal for the high-rise apartment building in Downtown East sparked debate among commissioners. Concerns were raised about potential traffic congestion and strain on local infrastructure. Commissioner Maria Hernandez expressed strong opposition, stating that the development would "overwhelm" the neighborhood and require significant public investment to mitigate its impacts. The commission ultimately decided to table the proposal for further review.
-
-No votes were recorded against the zoning change in Frogtown or the commercial development on University Avenue.
+The commission also discussed ways to improve public engagement in planning processes, including increasing outreach efforts and making meeting materials more accessible online.
 
