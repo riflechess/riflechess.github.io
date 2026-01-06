@@ -3,21 +3,25 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** PCIARC Meeting
-**Purpose:** Review of Community Development Projects and Budget Allocation
-**Date/Time:** Tuesday, March 14, 2023, at 6:00 PM
-**Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
+
+* **Meeting Type:** PCIARC (Planning Commission-Arterial Review Committee) meeting
+* **Purpose:** Regular public meeting to discuss and review planning and development proposals in the city of Saint Paul
+* **Date/Time:** [Insert date and time]
+* **Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
 
 #### Summary
-The PCIARC meeting covered several community development projects and budget allocations for the upcoming year. Key decisions include:
 
-* **Budget Allocation:** The committee approved an increase in funding for the neighborhood's park improvement project by $50,000.
-* **Business Development:** A new coffee shop on Payne Avenue was discussed, with a potential storefront renovation proposal.
-* **Public Safety:** Residents raised concerns about recent break-ins and property damage in the area. The police department assured them that increased patrols would be deployed.
+The PCIARC meeting covered several agenda items related to planning and development proposals in the city. The key decisions made during the meeting include:
 
-A notable point of contention arose during the discussion of a proposed zoning change for a vacant lot near Arlington Hills Park. One resident expressed concerns that it would lead to overdevelopment and negatively impact the neighborhood's character, while another argued that it was necessary for economic growth. The committee ultimately decided to table the proposal until further research can be conducted.
+* Approval of a zoning variance for a new residential building at the corner of University Avenue and St. Albans Street
+* Discussion on the proposed bike-share program, with plans to implement it in phases starting next year
+* Review of the draft comprehensive plan update, which will be presented to the Planning Commission for further discussion
 
-Additionally, the meeting touched on plans for a community garden on an underutilized city-owned lot in the area. Residents expressed enthusiasm for this project, which aims to provide green space and educational opportunities for local residents.
+The meeting also included public comments from residents regarding concerns about over-development and preserving community character. One resident expressed concerns about the impact of new high-rise developments on neighborhood parking and traffic flow.
 
-The next PCIARC meeting is scheduled for April 11, 2023.
+A vote was taken on the zoning variance proposal, with 7 members voting in favor and 1 member opposed, citing concerns about the potential for increased noise pollution and decreased property values.
+
+The bike-share program discussion focused on ensuring that the program is accessible to all residents, including those with disabilities. The meeting attendees acknowledged the need to provide education and outreach efforts to raise awareness about the program's benefits.
+
+Overall, the meeting covered a range of topics related to planning and development in the city, with some debate on specific proposals.
 
