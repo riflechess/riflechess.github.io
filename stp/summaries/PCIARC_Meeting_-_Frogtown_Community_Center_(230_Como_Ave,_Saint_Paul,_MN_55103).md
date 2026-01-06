@@ -3,21 +3,19 @@ title: PCIARC Meeting - Frogtown Community Center (230 Como Ave, Saint Paul, MN 
 date: 
 ---
 #### Meeting Info
-
-* **Type:** PCIARC Meeting
-* **Purpose:** Discuss community development projects in the Frogtown area
-* **Date/Time:** [Insert Date and Time]
-* **Location:** Frogtown Community Center (230 Como Ave, Saint Paul, MN 55103)
+**Meeting Type:** PCIARC Meeting
+**Purpose:** Discuss community issues and concerns in the Frogtown neighborhood
+**Date/Time:** [Insert Date and Time]
+**Location:** Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
 
 #### Summary
+The meeting began with a review of the agenda, which included discussion topics such as public safety, transportation, and community engagement. 
 
-The meeting covered several topics, including:
+* **Public Safety:** The police department reported a decrease in crime rates in the area compared to last year. However, there were concerns raised about recent incidents of graffiti vandalism.
+* **Transportation:** A discussion was held on potential solutions for improving traffic flow on nearby streets.
+* **Community Engagement:** The community center announced plans to host a upcoming event focused on promoting local businesses.
 
-* A proposal for a new affordable housing project on University Avenue, which received approval from the committee with a vote of 6-2. Some members expressed concerns about the project's potential impact on local businesses and parking.
-* The discussion of a plan to revitalize the intersection of 10th Street and University Avenue, which includes a pedestrian-friendly redesign and improved lighting. Members noted that the plan aligns with the city's goals for improving public safety and community engagement.
-* A presentation from the Saint Paul Police Department regarding their efforts to address crime in the Frogtown area, including increased patrols and community outreach programs.
+A contentious point of discussion arose regarding the proposed implementation of new bike lanes on nearby streets. Some attendees expressed concern that the bike lanes would create congestion and decrease parking options, while others argued that they would improve safety for cyclists. After debate, the PCIARC board voted 5-2 in favor of moving forward with planning for the bike lane project.
 
-The only point of contention was the affordable housing project proposal, which sparked debate among committee members. Ward 1 Representative argued that the project would bring much-needed affordable housing to the area but expressed concerns about the potential impact on local businesses. Ward 4 Representative countered that the project's benefits outweighed its drawbacks and urged approval. The motion passed with a vote of 6-2.
-
-Overall, the meeting was focused on community development projects aimed at improving public safety, reducing crime, and enhancing quality of life in the Frogtown area.
+The meeting concluded with a reminder to attend upcoming events and meetings to stay informed about community issues.
 
