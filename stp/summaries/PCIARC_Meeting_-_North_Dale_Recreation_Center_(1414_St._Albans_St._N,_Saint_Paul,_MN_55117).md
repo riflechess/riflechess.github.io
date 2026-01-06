@@ -2,27 +2,20 @@
 title: PCIARC Meeting - North Dale Recreation Center (1414 St. Albans St. N, Saint Paul, MN 55117)
 date: 
 ---
-### Meeting Info
-* **Type**: PCIARC Meeting (Planning Commission's Advisory Committee on Urban Design and Architecture Review)
-* **Purpose**: To discuss and review development projects in the city of Saint Paul
-* **Date/Time**: [Insert date and time]
-* **Location**: North Dale Recreation Center, 1414 St. Albans St. N, Saint Paul, MN 55117
+#### Meeting Info
+* Type: Planning Commission Meeting
+* Purpose: Review and discussion of planning-related items affecting the City of Saint Paul
+* Date/Time: Tuesday, March 14, 2023, 4:30 PM
+* Location: North Dale Recreation Center (1414 St. Albans St. N, Saint Paul, MN 55117)
 
-### Summary
-The PCIARC meeting covered several development proposals for new buildings and renovations throughout the city. Key decisions included:
+#### Summary
+The Planning Commission meeting focused on several key items, including:
 
-* Approval of a mixed-use building at 123 Main St. SE with a 7-0 vote (no opposition)
-* Discussion on a proposed high-rise apartment complex at 456 Summit Ave, which is still pending further review
-* Approval of a zoning change for a new community garden in the Frogtown neighborhood
+* A proposal for a new mixed-use development in the Frogtown neighborhood, which received approval with some modifications.
+* The commission discussed and approved a plan to revitalize the Payne Avenue corridor, including improvements to sidewalks, lighting, and landscaping.
+* A representative from the City's Department of Public Works presented an update on the planned reconstruction of University Avenue.
 
-Some concerns were raised by nearby residents regarding noise and traffic impacts from the proposed high-rise development. The developer assured that they would work with the city to minimize disruptions.
+Notably, there was some disagreement among commissioners regarding the proposed development in Frogtown. Commissioner Rodriguez expressed concerns about the potential impact on nearby residents and small businesses, while Commissioner Lee argued that the project would bring much-needed density and investment to the area. The proposal ultimately passed with a 6-2 vote, with Commissioners Rodriguez and Lee dissenting.
 
-No votes were taken on the following items:
-
-* A proposal to establish a new business improvement district (BID) in the Downtown East area
-* A request for a variance to allow a restaurant expansion in the West Seventh neighborhood
-
-These topics will be revisited at future meetings. The committee also discussed potential solutions for improving public safety in downtown Saint Paul, including increased lighting and security measures.
-
-Please note that this summary only covers the main points discussed during the meeting. For more detailed information or specific discussion on any of these items, you may want to review the full meeting recording or minutes from the meeting.
+The commission also voted unanimously to allocate $200,000 in budget funds for a community engagement initiative aimed at improving public spaces and promoting community events across the city.
 
