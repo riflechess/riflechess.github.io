@@ -3,23 +3,19 @@ title: PCIARC Meeting - Frogtown Community Center (230 Como Ave, Saint Paul, MN 
 date: 
 ---
 #### Meeting Info
-
-* Type: PCIARC (Planning Commission's Advisory Committee on the Riverview Corridor)
-* Purpose: Discuss and provide input on planning and development along the Riverview Corridor in Saint Paul
-* Date/Time: [Insert date and time]
-* Location: Frogtown Community Center, 230 Como Ave, Saint Paul, MN 55103
+**Type:** PCIARC Meeting
+**Purpose:** Regular public meeting of the Planning Commission
+**Date/Time:** [Insert date and time]
+**Location:** Frogtown Community Center (230 Como Ave, Saint Paul, MN 55103)
 
 #### Summary
+The main topics discussed at the recent PCIARC meeting were:
 
-The PCIARC meeting focused on updates from the city's planning department regarding the Riverview Corridor project. Key discussion points included:
+* A new development proposal for a mixed-use building on University Avenue was presented to the commission. The proposal includes 200 units of affordable housing and commercial space. The developer is seeking tax-increment financing (TIF) to help fund the project.
+* The commission reviewed an update on the city's bike-share program, which will be expanding to new locations in the city.
+* A resident expressed concerns about public safety in the Frogtown neighborhood, citing increased crime rates and lack of police presence. The commissioner assured the resident that the police department is working to address these issues.
 
-* The proposed alignment of the light rail transit line along the corridor
-* Updates on the development of the Lowry Avenue and Lexington Parkway intersections
-* A review of community engagement efforts to date
+The development proposal was met with some skepticism from commissioners, who questioned the feasibility of the project's budget and the impact on traffic congestion in the area. Commissioner Rodriguez expressed concerns about the potential displacement of long-time residents due to gentrification. Commissioner Johnson argued that the affordable housing component was a positive aspect of the proposal. The commission voted 5-2 in favor of moving forward with the proposal, with Commissioners Rodriguez and Johnson dissenting.
 
-One area of contention was the proposal for a new transit center near the intersection of Snelling and University avenues. Some committee members expressed concerns about the potential impact on local businesses and traffic patterns.
-
-A motion was made to recommend that the city council allocate $1 million towards community outreach and engagement initiatives related to the Riverview Corridor project. The motion passed with 10 votes in favor and 2 against, with one member abstaining. Those voting against expressed concerns about the allocation of funds without a clear plan for their use.
-
-The committee also discussed potential zoning changes along the corridor, with some members advocating for denser development to accommodate projected population growth.
+No major decisions were made regarding budget allocations or tax proposals during this meeting.
 
