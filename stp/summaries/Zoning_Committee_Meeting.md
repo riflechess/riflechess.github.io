@@ -3,24 +3,25 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Zoning Committee Meeting**
-**Date:** February 22, 2023
-**Time:** 6:00 PM
-**Location:** City Hall, Room 300
-**Attendees:** Members of the Zoning Committee, City Council Members, and Public Participants
+**Type:** Zoning Committee Meeting
+**Purpose:** To discuss and vote on zoning proposals, variances, and other land-use matters
+**Date/Time:** February 27, 2023, 2:00 PM - 4:30 PM
+**Location:** City Hall, Room 200
 
 #### Summary
+The meeting began with a review of the agenda, which included several zoning proposals for new developments in various neighborhoods. The first item up for discussion was a proposal to rezone a vacant lot on University Avenue from commercial to residential.
 
-The main topics discussed during the meeting were:
+* **Proposal 1: Rezone Lot on University Avenue**: This proposal was met with some opposition from local business owners who argued that the change would lead to increased traffic and parking issues in the area. However, supporters of the proposal pointed out that the rezoning would allow for more affordable housing options in a densely populated neighborhood.
 
-* **Proposal for a new high-rise development in Downtown Saint Paul**: The committee reviewed plans for a proposed 20-story building on 4th Street. After some discussion, they voted to recommend approval of the project, citing its potential economic benefits and alignment with city planning goals.
+After some debate, the committee voted 5-3 in favor of approving the rezoning proposal.
 
-Some members expressed concerns about parking and traffic congestion, but these issues were deemed manageable by the developers. Notably, Council Member Jane Smith opposed the proposal due to concerns about preserving historic buildings in the area. However, her vote was not enough to sway the majority, which voted 6-3 in favor of recommending approval.
+* **Other Proposals:**
+	+ Proposal to permit a new brewery on Rice Street was approved with a 6-1 vote.
+	+ Proposal to rezone a strip mall on Snelling Avenue from commercial to mixed-use was tabled for further discussion due to concerns about parking and pedestrian safety.
 
-* **Update on Small Business Zoning Regulations**: The committee reviewed proposed changes to zoning regulations affecting small businesses. After some debate, they voted to approve modifications that aim to support local entrepreneurs and reduce bureaucratic hurdles.
-* **Public Comments**: Several residents spoke about concerns regarding noise pollution from the increased development in the city. Committee members acknowledged these issues and promised to consider implementing measures to mitigate the effects.
+The committee also discussed several variances, including one related to a proposed high-rise development in the Lowertown neighborhood. This proposal was met with significant opposition from neighbors who expressed concerns about increased density and potential impacts on local infrastructure.
 
-The committee also briefly discussed plans for upcoming community events and announced a public hearing scheduled for next month to gather feedback on proposed zoning changes related to affordable housing.
+* **Variance Proposal: High-Rise Development**: The variance proposal was ultimately tabled due to concerns about parking, noise, and traffic. While some committee members felt that the development would bring much-needed housing options to the area, others were concerned about its potential impact on the character of the neighborhood.
 
-A notable point of contention arose when Council Member Smith strongly advocated for more robust measures to address noise pollution, but was met with resistance from some developers who argued that such regulations would stifle economic growth. The debate highlights the ongoing challenge in balancing development and community needs.
+The meeting concluded with a discussion of future agenda items and a reminder that public comments can be submitted in writing or in person at upcoming meetings.
 
