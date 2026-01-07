@@ -3,20 +3,20 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Transportation Committee Meeting
-* **Purpose:** Discussion on proposed changes to public transportation routes and infrastructure improvements
-* **Date/Time:** Wednesday, March 15th, 2023 at 6:00 PM
-* **Location:** City Hall, Saint Paul, MN (City Council Chambers)
+**Meeting Type:** Transportation Committee Meeting
+**Purpose:** Review of 2023 Road Improvement Projects, Update on Riverfront Bike Lane Plan, and Discussion on Parking Options in Downtown Area
+**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
+**Location:** City Hall, Room 200
 
 #### Summary
+The Transportation Committee met to discuss several key projects and proposals for the city. Here are some of the main points from the meeting:
 
-The Transportation Committee met to discuss several proposals for improving public transportation in Saint Paul. Key topics included:
+* The committee approved the construction of a new bike lane along the Mississippi Riverfront, which will connect several popular bike trails in the area.
+	+ This project has been a contentious issue among residents, with some expressing concerns about traffic congestion and parking availability.
+* The city is planning to allocate $1.2 million for road improvement projects on St. Peter Street and Rice Street, including resurfacing and repairs to sidewalks and curbs.
+	+ Committee members discussed the importance of prioritizing road maintenance to prevent further damage and ensure public safety.
+* A proposal to install pay-parking meters in downtown Saint Paul was met with mixed reactions from committee members. While some saw it as a necessary revenue-generating measure, others expressed concerns about potential negative impacts on local businesses.
+	+ A vote on the proposal was tabled until the next meeting to allow for further discussion and input from stakeholders.
 
-* **Route Redesign:** A proposal to redesign public bus routes to improve efficiency and reduce travel time was presented. After discussion, the committee voted to move forward with a revised route plan.
-* **Bike Infrastructure:** The installation of additional bike lanes on several major streets was discussed. Committee members expressed support for improving cycling infrastructure but raised concerns about potential conflicts with parked cars and snow removal.
-
-A notable point of contention arose during the discussion on bike infrastructure, with some committee members expressing concern that the proposed bike lanes would lead to increased congestion and parking issues. However, a majority of the committee ultimately voted in favor of moving forward with the proposal.
-
-The meeting also included a presentation from a local transportation advocacy group, who highlighted the need for improved accessibility and affordability in public transportation services. Committee members agreed to consider the group's recommendations as part of their ongoing efforts to improve public transportation in Saint Paul.
+A notable moment of contention arose when a resident spoke out against the Riverfront Bike Lane Plan, citing concerns about increased traffic congestion and parking availability. The committee chair encouraged residents to share their feedback and suggested that a public forum be held in the coming weeks to address these concerns.
 
