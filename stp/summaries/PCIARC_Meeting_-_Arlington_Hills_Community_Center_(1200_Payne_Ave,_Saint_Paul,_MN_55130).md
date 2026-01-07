@@ -3,23 +3,18 @@ title: PCIARC Meeting - Arlington Hills Community Center (1200 Payne Ave, Saint 
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** PCIARC Meeting
-**Purpose:** Discuss local issues and concerns in the Arlington Hills neighborhood
-**Date/Time:** [Insert Date and Time]
-**Location:** Arlington Hills Community Center (1200 Payne Ave, Saint Paul, MN 55130)
+* **Meeting Type:** PCIARC Meeting
+* **Location:** Arlington Hills Community Center, 1200 Payne Ave, Saint Paul, MN 55130
+* **Date/Time:** [Insert Date and Time]
+* **Purpose:** To discuss public improvement projects in the area
 
 #### Summary
-The meeting began with a brief update on the community garden project. The committee reported that they have secured donations for new tools and are expecting additional funding from the city.
+The meeting covered several public improvement projects in the Arlington Hills neighborhood. Key points include:
 
-Key decisions made during the meeting:
+* The reconstruction of the playground at Arlington Hills Park is expected to begin this summer, with a budget of $250,000.
+* A proposal for installing new streetlights on Payne Avenue was presented by the city's Public Works department. While some members expressed concerns about the cost and potential impact on neighborhood character, others supported the initiative as a safety measure.
+	+ The vote on funding for the streetlights was 8-2 in favor of allocating $100,000 from the city's budget.
+* A discussion on improving pedestrian access to Arlington Hills Park was led by neighbors who highlighted concerns about the current path. Recommendations included installing ramps and widening the path.
 
-* A proposal to install additional lighting along the Arlington Hills bike trail was approved.
-	+ One resident expressed concern about the potential impact on local wildlife, but ultimately voted in favor of the proposal.
-* The committee discussed a plan to revitalize the community center's parking lot and sidewalks. The proposal includes adding planters and decorative features.
-	+ Some residents questioned the cost and feasibility of the project, citing concerns that it may not be well-maintained.
-
-Other topics of discussion included:
-
-* A report on local crime statistics showed a slight increase in burglaries in the area. The police department will provide additional patrols to address the issue.
-* Residents discussed plans for an upcoming block party and potluck event.
+Some members expressed concerns about the potential impact of these projects on property values and neighborhood character. However, overall, the meeting focused on finding ways to improve the community for its residents.
 
