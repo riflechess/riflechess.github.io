@@ -3,25 +3,19 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** Consideration of zoning variance applications and appeals
-* **Date/Time:** March 22, 2023 at 2:00 PM
-* **Location:** City Hall Council Chambers, Saint Paul, MN
+**Type:** Board of Zoning Appeals Meeting
+**Purpose:** To hear appeals on zoning decisions and variances
+**Date/Time:** [Insert Date and Time]
+**Location:** [Insert Location]
 
 #### Summary
+The Board of Zoning Appeals meeting covered several appeal cases, including a request for a variance to build a multi-unit residential building in the Highland Park neighborhood. The applicant argued that the building would be more suitable for the area due to its proximity to public transportation.
 
-The Board of Zoning Appeals meeting was held on March 22, 2023. The following items were discussed:
+After hearing from the applicant and neighbors, the board voted 4-1 in favor of granting the variance, with one member dissenting due to concerns about increased density in the area.
 
-* Three zoning variance applications were considered:
-	+ Application #1: A request to allow a second-story addition on a residential property in the Summit-University neighborhood.
-	+ Application #2: A proposal for a new office building in the downtown area with increased height and density.
-	+ Application #3: A request to allow a home-based business in a single-family zoned district.
-* The board voted to approve all three applications, but not without some discussion on the second application. Commissioner Johnson expressed concerns about the impact on parking and pedestrian traffic, while Commissioner Thompson argued that the proposed building would bring much-needed density to the area.
+The board also discussed a zoning ordinance amendment regarding signage regulations. The proposed change would allow for more flexible sign placement in commercial areas, but limit the size and type of signs allowed.
 
-No votes were unanimous on the third application, as Commissioner Lee voted against it due to concerns about potential noise disturbances from the home-based business.
+A resident expressed concern about the potential impact on local businesses, suggesting that it could lead to cluttered streetscapes. However, proponents argued that it would boost local businesses by allowing them to promote themselves more effectively.
 
-Other notable discussion points included:
-
-* A review of recent zoning enforcement actions in the city.
-* Discussion on potential updates to the city's zoning ordinance.
+The board voted 3-2 in favor of approving the ordinance amendment, with two members opposing due to concerns about aesthetics and visual clutter. The next step will be for the proposal to go before city council for final approval.
 
