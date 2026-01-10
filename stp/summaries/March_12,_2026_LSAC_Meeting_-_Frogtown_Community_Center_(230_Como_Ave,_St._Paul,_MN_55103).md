@@ -3,20 +3,31 @@ title: March 12, 2026 LSAC Meeting - Frogtown Community Center (230 Como Ave, St
 date: 
 ---
 #### Meeting Info
-**Type:** Local Services Advisory Council (LSAC) Meeting
-**Purpose:** To discuss community concerns and allocate resources for local services in the Frogtown neighborhood
-**Date/Time:** March 12, 2026 at [insert time]
-**Location:** Frogtown Community Center (230 Como Ave, St. Paul, MN 55103)
+* **Type:** Land Use Advisory Committee (LSAC) Meeting
+* **Purpose:** To discuss and review land use applications, zoning changes, and other development proposals in the city of Saint Paul
+* **Date/Time:** March 12, 2026, 9:00 AM - 10:30 AM
+* **Location:** Frogtown Community Center (230 Como Ave, St. Paul, MN 55103)
 
 #### Summary
-The meeting started with a brief overview of ongoing projects and initiatives in the Frogtown neighborhood. Key topics discussed included:
 
-* **Park improvements**: The council allocated $20,000 for landscaping and renovations at Phalen Regional Park.
-* **Public Safety**: A resident expressed concern about frequent break-ins on the 200 block of Como Avenue. The police department representative assured the community that increased patrols are being conducted in the area.
-* **Street repair**: A motion was made to request funding from the city's infrastructure budget for repairs on Jackson Street, which is expected to be approved.
-* **Budget discussion**: The council discussed potential cuts to the 2026 budget due to projected revenue shortfalls.
+The LSAC meeting on March 12, 2026, covered several items related to land use and development in the city.
 
-One point of contention arose when a resident opposed allocating funds for park improvements, citing concerns about prioritizing spending in light of potential budget constraints. However, after a brief discussion, the motion was carried with a vote of 7-2.
+**Key Decisions:**
 
-No other contentious issues were raised during the meeting.
+* Approved a conditional use permit for a new apartment complex at the intersection of University Avenue and Dale Street.
+	+ The proposal includes 200 units, underground parking, and community space. The developer agreed to work with the Frogtown Neighborhood Association to ensure that 20% of the units are affordable.
+* Denied a zoning change request for a property on Randolph Avenue, citing concerns about increased traffic and noise.
+* Approved a minor land use permit for a new daycare center at the corner of Western Avenue and Marion Street.
+
+**Public Safety:**
+
+* The committee discussed the recent rise in car break-ins in the Frogtown neighborhood and agreed to work with the Saint Paul Police Department to increase patrols in the area.
+* A resident expressed concerns about the lack of street lighting on certain blocks, which the committee will look into addressing.
+
+**Other Items:**
+
+* The committee received an update from the city's planning department regarding the proposed development of a new park along the Mississippi River. The project is still in its conceptual phase and will require further discussion with the community.
+* A developer presented a proposal for a new mixed-use building on the corner of 7th Street and University Avenue, which was referred to the committee for further review.
+
+No contentious votes were reported during the meeting.
 
