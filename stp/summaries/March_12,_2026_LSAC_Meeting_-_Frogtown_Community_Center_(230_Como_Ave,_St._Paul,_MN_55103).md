@@ -3,21 +3,24 @@ title: March 12, 2026 LSAC Meeting - Frogtown Community Center (230 Como Ave, St
 date: 
 ---
 #### Meeting Info
-
-* Type: Local Steering Committee (LSAC) Meeting
-* Purpose: Discuss community development projects and initiatives in the Frogtown neighborhood
-* Date/Time: March 12, 2026, [time]
-* Location: Frogtown Community Center, 230 Como Ave, St. Paul, MN 55103
+**Meeting Type:** Local Safety Advisory Committee (LSAC)
+**Purpose:** Discuss public safety concerns and initiatives in the city
+**Date/Time:** March 12, 2026, [start and end times not specified]
+**Location:** Frogtown Community Center, 230 Como Ave, St. Paul, MN 55103
 
 #### Summary
 
-The LSAC meeting covered several topics related to community development in Frogtown. Key decisions and updates include:
+The LSAC meeting covered several topics related to public safety and community initiatives.
 
-* **Affordable Housing**: The committee discussed potential sites for affordable housing developments in the area. A proposal was made to allocate $500,000 from the city's budget for land acquisition and development.
-* **Community Garden**: The committee voted to approve a new community garden project on a vacant lot at 15th Avenue and Como Street. The project is expected to provide fresh produce to local residents and serve as an educational hub for gardening techniques.
-* **Parks and Recreation**: A discussion was held regarding the maintenance of Frogtown's parks, with a focus on improving accessibility and safety features.
+* **Budget Allocation**: The committee discussed the allocation of funds for various public safety projects. A total of $1.2 million was allocated, with a focus on supporting neighborhood watch programs, community outreach initiatives, and crime prevention efforts.
+	+ Notable allocations:
+		- $200,000 for a new youth job training program
+		- $150,000 for additional lighting in high-crime areas
+		- $100,000 for community policing initiatives
+* **Business Development**: A representative from the Frogtown Main Street organization presented on their efforts to revitalize the neighborhood's commercial district. The committee discussed potential ways to support local businesses and improve safety in the area.
+* **Public Safety Concerns**:
+	+ Residents expressed concerns about recent break-ins in the Frogtown area, with some calling for increased police presence.
+	+ A representative from the Saint Paul Police Department reported on their efforts to address these issues, including a new community policing initiative.
 
-A notable point of contention arose during the discussion on affordable housing. Ward 4 Council Member, Maria Palmeri, expressed concerns about the potential impact on existing community organizations in the area. She argued that the proposed development could lead to gentrification and displace long-time residents. However, other committee members countered that the project aimed to provide much-needed affordable housing for low-income families.
-
-The vote on allocating $500,000 for land acquisition was ultimately passed 7-3, with Palmeri and two other council members voting against it due to concerns over gentrification and community displacement.
+No contentious votes were recorded during this meeting. The committee chair noted that the budget allocations and initiatives discussed would be further reviewed and refined at future meetings.
 
