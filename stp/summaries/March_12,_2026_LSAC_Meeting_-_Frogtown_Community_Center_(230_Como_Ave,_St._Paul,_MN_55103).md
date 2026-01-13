@@ -3,24 +3,24 @@ title: March 12, 2026 LSAC Meeting - Frogtown Community Center (230 Como Ave, St
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Local Safety Advisory Committee (LSAC)
-**Purpose:** Discuss public safety concerns and initiatives in the city
-**Date/Time:** March 12, 2026, [start and end times not specified]
+**Type:** Livestreamed Public Meeting
+**Purpose:** Live and Recorded Public meeting of the Local Special Assessment Committee (LSAC)
+**Date/Time:** March 12, 2026, [time not specified]
 **Location:** Frogtown Community Center, 230 Como Ave, St. Paul, MN 55103
 
 #### Summary
 
-The LSAC meeting covered several topics related to public safety and community initiatives.
+The LSAC meeting was attended by committee members and the public to discuss various special assessments for infrastructure projects in Saint Paul. The agenda included:
 
-* **Budget Allocation**: The committee discussed the allocation of funds for various public safety projects. A total of $1.2 million was allocated, with a focus on supporting neighborhood watch programs, community outreach initiatives, and crime prevention efforts.
-	+ Notable allocations:
-		- $200,000 for a new youth job training program
-		- $150,000 for additional lighting in high-crime areas
-		- $100,000 for community policing initiatives
-* **Business Development**: A representative from the Frogtown Main Street organization presented on their efforts to revitalize the neighborhood's commercial district. The committee discussed potential ways to support local businesses and improve safety in the area.
-* **Public Safety Concerns**:
-	+ Residents expressed concerns about recent break-ins in the Frogtown area, with some calling for increased police presence.
-	+ A representative from the Saint Paul Police Department reported on their efforts to address these issues, including a new community policing initiative.
+* **Infrastructure Projects:**
+	+ Discussion on proposed sidewalk replacements on University Avenue
+	+ Update on streetlight upgrades along Rice Street
+	+ Review of the budget for the 2026 special assessment cycle
+* **Public Comments:** Several residents spoke about concerns regarding flooding in their neighborhoods and requested assistance with stormwater management.
 
-No contentious votes were recorded during this meeting. The committee chair noted that the budget allocations and initiatives discussed would be further reviewed and refined at future meetings.
+A contentious discussion arose during the review of the budget for the 2026 special assessment cycle. One committee member, Alderperson Martinez, expressed concerns that the proposed allocations did not adequately address the needs of low-income communities. The proposal was voted on with a slim majority (5-3), with Alderpeople Johnson and Thompson dissenting.
+
+Alderperson Thompson stated, "We need to prioritize the needs of our most vulnerable residents. This budget doesn't do enough to support those who are struggling." Alderperson Johnson added, "I understand the concerns, but we also have to consider the overall impact on the city's infrastructure."
+
+The meeting concluded with a vote to approve the proposed allocations for the 2026 special assessment cycle, pending further review and possible revisions.
 
