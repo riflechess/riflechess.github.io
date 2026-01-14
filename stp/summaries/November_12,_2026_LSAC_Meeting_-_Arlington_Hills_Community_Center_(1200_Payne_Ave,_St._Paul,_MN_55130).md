@@ -4,26 +4,18 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type:** Local Special Assessment Committee (LSAC)
-* **Purpose:** To discuss and vote on special assessments for local projects
-* **Date/Time:** November 12, 2026, 9:00 AM - 10:30 AM
+* **Meeting Type:** Local Summit Advisory Committee (LSAC)
+* **Purpose:** Regular meeting to discuss local issues and concerns in the Arlington Hills neighborhood
+* **Date/Time:** November 12, 2026, [time not specified]
 * **Location:** Arlington Hills Community Center, 1200 Payne Ave, St. Paul, MN 55130
 
 #### Summary
 
-The LSAC meeting began with a brief review of the agenda and introductions from committee members. The main topic of discussion was the proposed special assessment for the reconstruction of Snelling Avenue.
+The LSAC meeting covered several topics, including:
 
-* The city engineer presented an update on the project's timeline and budget, which includes $1.2 million in special assessments.
-* Residents in attendance expressed concerns about the impact of construction on local businesses and traffic flow.
-* A proposal to allocate an additional $200,000 from the city's contingency fund for street lighting improvements was met with opposition from some committee members who felt it was not a priority.
+* **Public Safety:** The police department reported a slight increase in crime rates in the area, particularly around the Grand Avenue corridor. Residents expressed concerns about lighting and camera placement.
+* **Neighborhood Projects:** A proposal to install new bike racks on Payne Avenue was approved with a budget allocation of $5,000.
+* **Community Events:** The LSAC discussed hosting a winter festival in February 2027, which would include ice skating, food vendors, and holiday activities.
 
-The vote on the special assessment was divided:
-
-* Commissioner Johnson moved to approve the special assessment, citing the need for infrastructure updates. The motion passed 5-3.
-* Commissioners Rodriguez and Lee expressed concerns about the impact on low-income residents and small business owners.
-* Commissioner Patel abstained from voting due to a conflict of interest.
-
-The committee also discussed potential improvements to the Arlington Hills Community Center parking lot. A proposal to allocate $50,000 for design and planning was approved unanimously.
-
-No other major issues were discussed during the meeting.
+A contentious topic arose regarding the proposed development of a new apartment complex on University Avenue. Some residents expressed concerns about increased traffic and noise pollution, while others saw it as an opportunity for economic growth and revitalization. The LSAC voted 6-3 in favor of allowing the development to proceed, with some conditions attached (e.g., increased lighting and sound mitigation measures).
 
