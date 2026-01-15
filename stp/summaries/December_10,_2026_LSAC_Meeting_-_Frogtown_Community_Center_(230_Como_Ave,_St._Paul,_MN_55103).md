@@ -3,27 +3,24 @@ title: December 10, 2026 LSAC Meeting - Frogtown Community Center (230 Como Ave,
 date: 
 ---
 #### Meeting Info
-* Type: Local Safety Advisory Committee (LSAC) meeting
-* Purpose: To discuss public safety concerns and issues in the community
+* Type: Land Use Advisory Committee (LSAC) meeting
+* Purpose: To discuss and vote on land use proposals in the city of Saint Paul
 * Date/Time: December 10, 2026
 * Location: Frogtown Community Center (230 Como Ave, St. Paul, MN 55103)
+* Attendees: LSAC members, city officials, and community representatives
 
 #### Summary
+The meeting began with a discussion on the proposed development of a new apartment complex in the Rondo neighborhood. The developer presented their plans for a 5-story building with 120 units, but some committee members expressed concerns about the potential impact on traffic and parking.
 
-The LSAC meeting covered several topics related to public safety and quality of life in Saint Paul.
+A motion was made to approve the project, but it failed to pass due to opposition from several committee members who felt that the city should prioritize affordable housing options over market-rate developments. The vote was 4-3 against approval, with one member abstaining.
 
-**Top Priority Issues**
+The committee then discussed a proposal for a new community garden in the Frogtown neighborhood. After some discussion, they voted to approve a $20,000 grant from the city's Community Development Block Grant program to support the project.
 
-* The committee discussed the recent rise in property crimes in the Frogtown neighborhood, with a focus on breaking and entering incidents.
-* A resident expressed concerns about increasing noise levels from bars and clubs along University Avenue, which is being addressed by the city's nightlife management team.
-* A proposal to allocate $10,000 for additional lighting in dark alleys was approved.
+Other topics discussed included:
 
-**Contested Issues**
+* A proposal to rezone a property on University Avenue for commercial use
+* An update on the city's affordable housing initiatives
+* A report on the status of several ongoing land use projects in the city
 
-* There was significant disagreement among committee members regarding the implementation of a proposed "Safe Passage" program aimed at reducing pedestrian accidents. Some members felt that it would be ineffective and too costly, while others argued that it is a necessary measure to protect pedestrians.
-	+ A vote on the proposal resulted in a 4-3 split, with the majority supporting its implementation but requiring further review of the budget.
-
-**Upcoming Events**
-
-* The next LSAC meeting will take place on January 14, 2027, at the Frogtown Community Center.
+Overall, the meeting was lively and contentious at times, but ultimately productive. The LSAC members worked together to discuss and vote on several important issues affecting the city.
 
