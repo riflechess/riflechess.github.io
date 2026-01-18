@@ -4,18 +4,21 @@ date:
 ---
 #### Meeting Info
 * **Meeting Type**: Zoning Committee Meeting
-* **Purpose**: Discussion and decision-making on zoning-related matters
-* **Date/Time**: Wednesday, March 15, 2023, 6:00 PM
-* **Location**: City Hall, Room 200, Saint Paul, MN
+* **Purpose**: To discuss and vote on proposed zoning changes, variances, and developments in the city of Saint Paul.
+* **Date/Time**: Wednesday, March 15th, 6:00 PM - 8:30 PM
+* **Location**: City Council Chambers, Saint Paul City Hall
 
 #### Summary
-The Zoning Committee met to discuss several proposals for zoning changes in various neighborhoods. Here are the key points:
+The Zoning Committee meeting covered several topics:
 
-* The committee approved a proposal to rezone a property on University Avenue from commercial to residential, with a vote of 5-1.
-	+ **Controversy**: Alderperson Smith dissented, citing concerns about increased traffic and parking demands from new residents.
-* A proposal to allow mixed-use development in the Highland Park neighborhood was tabled for further discussion.
-* The committee rejected a request to reduce the height limit for buildings on Selby Avenue, with a vote of 4-2.
-	+ **Controversy**: Alderperson Patel and City Planner Johnson advocated for reduced height limits to preserve neighborhood character, while other members argued that it would stifle economic growth.
+* Proposed zoning change for a new apartment complex in the Downtown East area. The proposal was met with some resistance from nearby business owners concerned about increased traffic and noise.
+* A variance request for a new restaurant in the Summit-University neighborhood, which was approved after some discussion on parking and signage.
+* Updates on the city's comprehensive plan, including discussions on density, affordability, and community engagement.
 
-The next Zoning Committee meeting is scheduled for April 5, 2023.
+Some points of contention arose during the meeting:
+
+* The proposed apartment complex sparked debate among committee members. Committee member Ward 3 representative argued that the development would bring much-needed housing to the area, while Committee member Ward 6 representative expressed concerns about over-development and strain on local infrastructure.
+* The variance request for the new restaurant was approved with a 4-2 vote, with Committee members Ward 1 and Ward 5 voting against. They cited concerns about parking and potential noise disturbances.
+
+The meeting concluded without any major controversies or divisive votes. However, some committee members expressed frustration with the pace of development in certain neighborhoods and urged city officials to engage more with residents on these issues.
 
