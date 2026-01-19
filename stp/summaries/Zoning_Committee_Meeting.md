@@ -3,22 +3,24 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type**: Zoning Committee Meeting
-* **Purpose**: To discuss and vote on proposed zoning changes, variances, and developments in the city of Saint Paul.
-* **Date/Time**: Wednesday, March 15th, 6:00 PM - 8:30 PM
-* **Location**: City Council Chambers, Saint Paul City Hall
+* **Type:** Zoning Committee Meeting
+* **Purpose:** Review and discussion of zoning proposals and land use matters within the city
+* **Date/Time:** March 12, 2023, 6:00 PM
+* **Location:** Saint Paul City Hall, Room 300
 
 #### Summary
-The Zoning Committee meeting covered several topics:
+The Zoning Committee met to discuss several proposals affecting various neighborhoods. Key decisions include:
 
-* Proposed zoning change for a new apartment complex in the Downtown East area. The proposal was met with some resistance from nearby business owners concerned about increased traffic and noise.
-* A variance request for a new restaurant in the Summit-University neighborhood, which was approved after some discussion on parking and signage.
-* Updates on the city's comprehensive plan, including discussions on density, affordability, and community engagement.
+* **Proposal 1:** Rezoning of a property on University Avenue for a new mixed-use development, which was approved with a 5-2 vote.
+	+ **Supporters:** Councillor Dai Thao and Planning Director Tom Walker argued that the project would bring in much-needed affordable housing and revitalize the area.
+	+ **Opponents:** Councillors Chris Tolbert and Mitra Jalali expressed concerns about increased density, traffic, and strain on local resources.
+* **Proposal 2:** Zoning change to allow a new brewery to operate on Randolph Street, which was approved unanimously.
+	+ The proposal was met with enthusiasm from business owners and residents, who see it as a way to boost the local economy and create jobs.
 
-Some points of contention arose during the meeting:
+Other topics discussed included:
 
-* The proposed apartment complex sparked debate among committee members. Committee member Ward 3 representative argued that the development would bring much-needed housing to the area, while Committee member Ward 6 representative expressed concerns about over-development and strain on local infrastructure.
-* The variance request for the new restaurant was approved with a 4-2 vote, with Committee members Ward 1 and Ward 5 voting against. They cited concerns about parking and potential noise disturbances.
+* A proposed zoning amendment to address concerns about short-term rentals in residential areas
+* An update on the city's comprehensive plan, which includes recommendations for sustainable land use and development
 
-The meeting concluded without any major controversies or divisive votes. However, some committee members expressed frustration with the pace of development in certain neighborhoods and urged city officials to engage more with residents on these issues.
+No major contentious issues arose during the meeting, although there was some discussion about balancing economic growth with community needs. The next Zoning Committee meeting is scheduled for April 9, 2023.
 
