@@ -3,24 +3,22 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-* **Type:** Zoning Committee Meeting
-* **Purpose:** Review and discussion of zoning proposals and land use matters within the city
-* **Date/Time:** March 12, 2023, 6:00 PM
-* **Location:** Saint Paul City Hall, Room 300
+**Meeting Type:** Zoning Committee Meeting
+**Purpose:** Review and discuss proposed zoning changes, development projects, and related matters in the City of Saint Paul
+**Date/Time:** March 12, 2023 at 6:00 PM
+
 
 #### Summary
-The Zoning Committee met to discuss several proposals affecting various neighborhoods. Key decisions include:
+The meeting began with a presentation on the proposed redevelopment plan for the Upper Landing area. The plan includes a mix of residential and commercial units, as well as a public park.
 
-* **Proposal 1:** Rezoning of a property on University Avenue for a new mixed-use development, which was approved with a 5-2 vote.
-	+ **Supporters:** Councillor Dai Thao and Planning Director Tom Walker argued that the project would bring in much-needed affordable housing and revitalize the area.
-	+ **Opponents:** Councillors Chris Tolbert and Mitra Jalali expressed concerns about increased density, traffic, and strain on local resources.
-* **Proposal 2:** Zoning change to allow a new brewery to operate on Randolph Street, which was approved unanimously.
-	+ The proposal was met with enthusiasm from business owners and residents, who see it as a way to boost the local economy and create jobs.
+* Key decisions:
+	+ Approved the redevelopment plan for the Upper Landing area, subject to further review and public input.
+	+ Recommended that the City Council allocate $1 million for infrastructure improvements in the area.
+	+ Established a community advisory committee to oversee the project's progress and ensure it meets community needs.
 
-Other topics discussed included:
+A contentious issue arose when a resident from the nearby Summit neighborhood expressed concerns about increased traffic and parking pressures. Several neighbors echoed these concerns, citing potential safety risks and decreased quality of life.
 
-* A proposed zoning amendment to address concerns about short-term rentals in residential areas
-* An update on the city's comprehensive plan, which includes recommendations for sustainable land use and development
-
-No major contentious issues arose during the meeting, although there was some discussion about balancing economic growth with community needs. The next Zoning Committee meeting is scheduled for April 9, 2023.
+* Notable disagreement:
+	+ A few committee members questioned whether the proposed zoning changes would actually alleviate traffic and parking issues, pointing to previous studies indicating that more residents in the area might exacerbate existing problems.
+	+ The city planner argued that the redevelopment plan included measures to mitigate these concerns, such as increased public transportation options and improved pedestrian infrastructure.
 
