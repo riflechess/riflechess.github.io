@@ -3,22 +3,26 @@ title: Zoning Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Zoning Committee Meeting
-**Purpose:** Review and discuss proposed zoning changes, development projects, and related matters in the City of Saint Paul
-**Date/Time:** March 12, 2023 at 6:00 PM
+
+* **Meeting Type:** Zoning Committee Meeting
+* **Purpose:** Discuss zoning proposals, variances, and appeals
+* **Date/Time:** Thursday, March 16th, 2023, at 6:00 PM
+* **Location:** City Hall, Room 200, Saint Paul, MN
 
 
 #### Summary
-The meeting began with a presentation on the proposed redevelopment plan for the Upper Landing area. The plan includes a mix of residential and commercial units, as well as a public park.
 
-* Key decisions:
-	+ Approved the redevelopment plan for the Upper Landing area, subject to further review and public input.
-	+ Recommended that the City Council allocate $1 million for infrastructure improvements in the area.
-	+ Established a community advisory committee to oversee the project's progress and ensure it meets community needs.
+The meeting covered three main agenda items:
 
-A contentious issue arose when a resident from the nearby Summit neighborhood expressed concerns about increased traffic and parking pressures. Several neighbors echoed these concerns, citing potential safety risks and decreased quality of life.
+* Proposal for a new high-rise development in the Downtown East area:
+	+ The developer is seeking a zoning variance to build a 30-story building with 400 units.
+	+ The committee discussed concerns about density, parking, and potential impact on neighborhood character.
+* Appeal of a denied variance for a single-family home renovation in the Summit-University area:
+	+ The homeowner argued that the renovation would not significantly alter the property's appearance or create undue hardship.
+	+ Committee members expressed concern about precedent-setting and potential effects on neighboring properties.
+* Discussion on revising the city's zoning code to allow for more flexible mixed-use development:
+	+ Proponents argued that this would help revitalize underutilized commercial spaces and promote economic growth.
+	+ Opponents raised concerns about overdevelopment, gentrification, and potential negative impacts on community character.
 
-* Notable disagreement:
-	+ A few committee members questioned whether the proposed zoning changes would actually alleviate traffic and parking issues, pointing to previous studies indicating that more residents in the area might exacerbate existing problems.
-	+ The city planner argued that the redevelopment plan included measures to mitigate these concerns, such as increased public transportation options and improved pedestrian infrastructure.
+The committee voted 4-2 in favor of recommending approval for the high-rise development proposal. The dissenting members expressed concerns about density and lack of community input.
 
