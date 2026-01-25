@@ -3,22 +3,19 @@ title: Reparations Commission Meeting - Frogtown Community Center
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Reparations Commission Meeting
-**Date/Time:** [Insert Date and Time]
-**Location:** Frogtown Community Center, City of Saint Paul
-**Purpose:** Discussion and deliberation on reparations proposals for the city's Black community, including budget allocations and policy recommendations.
+Meeting Type: Reparations Commission Meeting
+Purpose: To discuss reparations proposals and initiatives for the city of Saint Paul
+Date/Time: Thursday, March 17th, 2023, at 6 PM
+Location: Frogtown Community Center
 
 #### Summary
+The Reparations Commission meeting focused on discussing several proposals to address historical injustices and promote equity in the community. Key points include:
 
-The Reparations Commission meeting focused on four main topics: Housing Insecurity, Economic Empowerment, Education Equity, and Public Safety. Key decisions include:
+* **Racial Wealth Gap Initiative**: A proposal to create a program providing financial assistance to African American families who have been impacted by systemic racism was discussed. The commission plans to allocate $500,000 from the city's budget for this initiative.
+* **Community Land Trust**: There was a discussion on establishing a Community Land Trust (CLT) to preserve affordable housing and community spaces in historically marginalized neighborhoods.
+* **Language Access**: The commission agreed to improve language access services for non-English speakers by hiring additional staff and providing translation resources.
 
-* A proposal to allocate $500,000 towards affordable housing initiatives in Black communities was approved with a 7-2 vote.
-	+ Commissioner Johnson argued that the funds should be allocated directly to individuals in need, rather than through existing organizations. This led to a heated debate among commissioners, with some agreeing that direct support is essential and others concerned about bureaucratic inefficiencies.
-* A resolution to establish an Economic Empowerment Program, providing financial assistance for Black-owned businesses, was tabled due to concerns over the program's scope and potential duplication of existing initiatives.
+A contentious issue arose during the discussion of the Racial Wealth Gap Initiative, with some commission members expressing concerns about the potential for bureaucratic delays and limited scope. Commissioner Johnson argued that the initiative should focus on more comprehensive solutions, while Commissioner Thompson emphasized the need to address the immediate financial needs of affected families.
 
-A contentious discussion arose regarding Public Safety, specifically addressing police brutality and systemic racism within the Saint Paul Police Department. Commissioner Thompson advocated for increased funding for community-led safety initiatives, while Commissioner Lee countered that this would divert resources from essential policing services. The motion was ultimately tabled until further research on the topic can be conducted.
-
-The commission also discussed Education Equity, including proposals to increase diversity training for educators and provide additional resources for Black students. While there were differing opinions on the specifics of these initiatives, commissioners generally agreed on their importance in promoting equity within the city's education system.
-
-The meeting concluded with a reminder that the Reparations Commission will continue to meet bi-weekly to discuss and refine proposals before presenting them to the City Council.
+The commission voted 7-2 in favor of moving forward with the Racial Wealth Gap Initiative, with Commissioners Johnson and Rodriguez dissenting due to concerns about implementation.
 
