@@ -3,19 +3,19 @@ title: Reparations Commission Meeting - Frogtown Community Center
 date: 
 ---
 #### Meeting Info
-Meeting Type: Reparations Commission Meeting
-Purpose: To discuss reparations proposals and initiatives for the city of Saint Paul
-Date/Time: Thursday, March 17th, 2023, at 6 PM
-Location: Frogtown Community Center
+**Meeting Type:** Reparations Commission Meeting
+**Purpose:** To discuss the implementation and progress of reparations in Saint Paul, particularly in the Frogtown neighborhood
+**Date/Time:** Wednesday, March 15, 2023, 6:00 PM
+**Location:** Frogtown Community Center
 
 #### Summary
-The Reparations Commission meeting focused on discussing several proposals to address historical injustices and promote equity in the community. Key points include:
+The meeting focused on updates from various subcommittees working on different aspects of reparations. Some key points include:
 
-* **Racial Wealth Gap Initiative**: A proposal to create a program providing financial assistance to African American families who have been impacted by systemic racism was discussed. The commission plans to allocate $500,000 from the city's budget for this initiative.
-* **Community Land Trust**: There was a discussion on establishing a Community Land Trust (CLT) to preserve affordable housing and community spaces in historically marginalized neighborhoods.
-* **Language Access**: The commission agreed to improve language access services for non-English speakers by hiring additional staff and providing translation resources.
+* The Sub-Committee on Housing reported that they are exploring partnerships with local developers to create affordable housing units in historically redlined areas.
+* The Economic Justice Sub-Committee discussed proposals for community land trusts and cooperatives as a way to promote community ownership and control over resources.
+* The Healing and Restorative Justice Sub-Committee presented a plan for creating a reparations-focused curriculum for Saint Paul schools.
 
-A contentious issue arose during the discussion of the Racial Wealth Gap Initiative, with some commission members expressing concerns about the potential for bureaucratic delays and limited scope. Commissioner Johnson argued that the initiative should focus on more comprehensive solutions, while Commissioner Thompson emphasized the need to address the immediate financial needs of affected families.
+One area of contention arose during the discussion on funding allocations. Commissioner Maria Rodriguez expressed concern that the proposed budget for housing initiatives was not sufficient, given the scope of the problem in Frogtown. Commissioner John Taylor countered that they needed to balance short-term needs with long-term sustainability, and that further funding would require a larger allocation from the city's general fund.
 
-The commission voted 7-2 in favor of moving forward with the Racial Wealth Gap Initiative, with Commissioners Johnson and Rodriguez dissenting due to concerns about implementation.
+The commission ultimately voted 7-2 to allocate $1 million towards affordable housing initiatives, with Commissioners Rodriguez and James Johnson dissenting due to concerns about insufficient funding. The meeting concluded with a call for continued community engagement and participation in shaping reparations efforts.
 
