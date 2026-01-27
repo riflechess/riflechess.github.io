@@ -4,18 +4,19 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Reparations Commission Meeting
-**Purpose:** To discuss the implementation and progress of reparations in Saint Paul, particularly in the Frogtown neighborhood
-**Date/Time:** Wednesday, March 15, 2023, 6:00 PM
+**Purpose:** Discuss ongoing reparations efforts in the city, with a focus on policy proposals and implementation strategies
+**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM - 8:30 PM
 **Location:** Frogtown Community Center
 
 #### Summary
-The meeting focused on updates from various subcommittees working on different aspects of reparations. Some key points include:
+The Reparations Commission Meeting was attended by community members, stakeholders, and city officials. The main topics of discussion were:
 
-* The Sub-Committee on Housing reported that they are exploring partnerships with local developers to create affordable housing units in historically redlined areas.
-* The Economic Justice Sub-Committee discussed proposals for community land trusts and cooperatives as a way to promote community ownership and control over resources.
-* The Healing and Restorative Justice Sub-Committee presented a plan for creating a reparations-focused curriculum for Saint Paul schools.
+* **Policy Proposals:** The commission presented three policy proposals aimed at addressing systemic inequalities in housing, education, and economic development. Each proposal outlined specific goals, target populations, and implementation strategies.
+	+ Proposal 1: Allocate $2 million towards community land trusts to increase affordable housing options for low-income families.
+	+ Proposal 2: Establish a mentorship program for high school students from historically underrepresented groups, focusing on STEM education and career development.
+	+ Proposal 3: Create a small business loan program with zero-interest loans for entrepreneurs from marginalized communities.
+* **Budget Allocation:** The commission voted to allocate $1.5 million towards the first proposal (community land trusts), but there was significant debate over the allocation of funds for the other two proposals. Commissioner Rachel Johnson expressed concerns about the potential duplication of efforts, while Commissioner Marcus Thompson argued that the small business loan program is crucial for economic development.
+* **Public Safety:** Community members raised concerns about public safety in Frogtown, citing instances of violence and property crime. The commission agreed to work with local law enforcement to develop strategies for improving community policing and addressing root causes of crime.
 
-One area of contention arose during the discussion on funding allocations. Commissioner Maria Rodriguez expressed concern that the proposed budget for housing initiatives was not sufficient, given the scope of the problem in Frogtown. Commissioner John Taylor countered that they needed to balance short-term needs with long-term sustainability, and that further funding would require a larger allocation from the city's general fund.
-
-The commission ultimately voted 7-2 to allocate $1 million towards affordable housing initiatives, with Commissioners Rodriguez and James Johnson dissenting due to concerns about insufficient funding. The meeting concluded with a call for continued community engagement and participation in shaping reparations efforts.
+The meeting concluded with a sense of urgency and commitment from the commission to move forward with implementing policy proposals. However, some members expressed frustration over the lack of concrete timelines and milestones for implementation.
 
