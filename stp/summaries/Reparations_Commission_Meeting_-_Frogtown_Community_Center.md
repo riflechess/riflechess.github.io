@@ -4,19 +4,19 @@ date:
 ---
 #### Meeting Info
 **Meeting Type:** Reparations Commission Meeting
-**Purpose:** Discuss ongoing reparations efforts in the city, with a focus on policy proposals and implementation strategies
-**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM - 8:30 PM
+**Purpose:** Discussion and decision-making on reparations proposals for the city of Saint Paul
+**Date/Time:** [Insert date and time]
 **Location:** Frogtown Community Center
+**Attendees:** Members of the Reparations Commission, city officials, community representatives
 
 #### Summary
-The Reparations Commission Meeting was attended by community members, stakeholders, and city officials. The main topics of discussion were:
+The Reparations Commission Meeting focused on discussing and voting on several proposals aimed at providing reparations to the Black community in Saint Paul. Key decisions include:
 
-* **Policy Proposals:** The commission presented three policy proposals aimed at addressing systemic inequalities in housing, education, and economic development. Each proposal outlined specific goals, target populations, and implementation strategies.
-	+ Proposal 1: Allocate $2 million towards community land trusts to increase affordable housing options for low-income families.
-	+ Proposal 2: Establish a mentorship program for high school students from historically underrepresented groups, focusing on STEM education and career development.
-	+ Proposal 3: Create a small business loan program with zero-interest loans for entrepreneurs from marginalized communities.
-* **Budget Allocation:** The commission voted to allocate $1.5 million towards the first proposal (community land trusts), but there was significant debate over the allocation of funds for the other two proposals. Commissioner Rachel Johnson expressed concerns about the potential duplication of efforts, while Commissioner Marcus Thompson argued that the small business loan program is crucial for economic development.
-* **Public Safety:** Community members raised concerns about public safety in Frogtown, citing instances of violence and property crime. The commission agreed to work with local law enforcement to develop strategies for improving community policing and addressing root causes of crime.
+* **Affordable Housing Initiative**: The commission approved a plan to allocate $500,000 for an affordable housing development program targeting low-income Black families.
+* **Education Fund**: A proposal to create a $200,000 fund to support education and career training programs for Black youth was also approved.
+* **Community Land Trust**: The commission voted to establish a Community Land Trust (CLT) to acquire and preserve land for affordable housing and community development projects.
 
-The meeting concluded with a sense of urgency and commitment from the commission to move forward with implementing policy proposals. However, some members expressed frustration over the lack of concrete timelines and milestones for implementation.
+However, some attendees expressed concerns about the effectiveness of these proposals in addressing systemic racism. Commissioner Sarah Johnson argued that more aggressive measures were needed to combat ongoing disparities, while others suggested that the proposals focused too much on individual solutions rather than addressing broader structural issues.
+
+In a contentious vote, three commissioners voted against the Affordable Housing Initiative, citing concerns about the lack of community input and the potential for gentrification in certain neighborhoods.
 
