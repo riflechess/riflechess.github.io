@@ -3,19 +3,29 @@ title: HREEOC November Meeting - Frogtown Community Center (230 Como Ave, Saint 
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Regular meeting of the Housing and Redevelopment Authority (HREEOC) Board
-**Purpose:** Review of current projects and initiatives in the community
-**Date/Time:** November [insert date], 6:00 PM
-**Location:** Frogtown Community Center, 230 Como Ave, Saint Paul
+
+* **Meeting Type:** HREEOC (Historic and Reutilization Economic Development Ordinance Committee) Meeting
+* **Purpose:** Regular meeting to discuss development proposals and historic preservation matters in the city
+* **Date/Time:** November [insert date] at [insert time]
+* **Location:** Frogtown Community Center, 230 Como Ave, Saint Paul
 
 #### Summary
-The HREEOC meeting covered several key topics. Some highlights include:
 
-* The board approved a budget allocation of $200,000 for the redevelopment of a vacant lot in the Rondo neighborhood.
-* A proposal to increase funding for affordable housing initiatives was tabled until the next meeting due to concerns about allocating additional funds during the current fiscal year.
-* A representative from the City's Planning Department presented an update on the proposed mixed-use development at 7th and University, which is expected to include affordable housing units.
+The HREEOC meeting began with a brief discussion on upcoming development projects, including a proposed new high-rise building in downtown St. Paul. The main topic of the evening was the review and approval of several historic preservation grants.
 
-There was some discussion around the allocation of funds for the Rondo project, with some board members expressing concerns about the potential impact on local businesses. However, the motion to approve the budget allocation passed with a majority vote (8-3).
+**Approved Grants:**
 
-No significant public safety or quality of life issues were raised during the meeting.
+* $50,000 for the rehabilitation of a 19th-century home in the Cathedral Hill neighborhood
+* $30,000 to restore the facade of a 1920s building on Grand Avenue
+
+**Discussion Items:**
+
+* A proposal was presented for a new community center in the Rondo neighborhood. Some committee members expressed concerns about potential noise and parking issues.
+* There was also discussion on possible tax incentives for developers who choose to incorporate historic preservation into their projects.
+
+No votes were taken on these items, but they will be considered at future meetings.
+
+**Other Business:**
+
+The meeting concluded with a brief update from the city's planning department regarding upcoming zoning changes in the Midway area.
 
