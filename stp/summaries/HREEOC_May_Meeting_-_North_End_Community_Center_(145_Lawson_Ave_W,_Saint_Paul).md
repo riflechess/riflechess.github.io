@@ -3,23 +3,20 @@ title: HREEOC May Meeting - North End Community Center (145 Lawson Ave W, Saint 
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type**: HREEOC (Hispanic Residents Empowering Excellence in Opportunities Committee) May Meeting
-* **Purpose**: Regular community meeting to discuss local issues and projects
-* **Date/Time**: [Insert date and time]
-* **Location**: North End Community Center, 145 Lawson Ave W, Saint Paul
+* Type: HREEOC (Housing and Redevelopment Authority Executive Oversight Committee) Meeting
+* Purpose: Regular monthly meeting to discuss various housing and redevelopment projects in the city
+* Date/Time: May 12, 2023, 6:00 PM
+* Location: North End Community Center (145 Lawson Ave W, Saint Paul)
 
 #### Summary
 
-The HREEOC May Meeting was attended by several committee members and community residents. The main topics discussed included:
+A total of four agenda items were discussed during this meeting.
 
-* **North End Park Improvements**: The committee voted to allocate $10,000 for improvements to the park's playground equipment, with a focus on accessibility features.
-* **Youth Program Funding**: A motion to provide additional funding for after-school programs in the North End was approved with a 7-2 vote. Councilor Rodriguez opposed the measure, citing concerns about budget constraints and potential misallocation of funds.
+* **Item 1: Budget Update**: The committee received an update on the current year's budget and made some adjustments to ensure that funds are allocated efficiently. A motion was made to allocate $500,000 for a new affordable housing project in the Midway area.
+* **Item 2: Public Safety Initiative**: The HREEOC members discussed a proposal to partner with the Saint Paul Police Department on a public safety initiative aimed at reducing crime rates in high-risk neighborhoods. Some members expressed concerns about the potential impact of increased police presence on community relationships, but ultimately voted in favor of moving forward with the partnership.
+* **Item 3: Community Engagement Plan**: The committee reviewed and approved a new community engagement plan to improve communication and outreach efforts between HREEOC and local communities.
 
-Councilor Rodriguez expressed concerns that the proposed after-school programs may not align with the community's priorities and may benefit only a select few. The majority of committee members supported the funding, arguing that it would provide essential services to local youth.
+A contentious discussion took place during Item 2 when some members expressed concerns that the initiative might lead to over-policing in minority neighborhoods. Councilor X suggested that the city should focus on addressing systemic issues rather than relying solely on increased police presence. The motion to move forward with the partnership passed, but with a close vote of 5-4.
 
-The meeting also touched on discussions regarding:
-
-* **Local Business Development**: The committee explored opportunities for supporting small businesses in the North End.
-* **Neighborhood Clean-Up Initiative**: A plan was proposed to organize a community clean-up event, with details to be finalized at the next meeting.
+No major decisions were made regarding tax proposals or business-related matters during this meeting.
 
