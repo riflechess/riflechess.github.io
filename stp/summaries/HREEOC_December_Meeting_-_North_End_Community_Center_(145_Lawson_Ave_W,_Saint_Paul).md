@@ -3,20 +3,19 @@ title: HREEOC December Meeting - North End Community Center (145 Lawson Ave W, S
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** HREEOC (Historic and Reconstruction/Economic Development Ordinance Committee) December Meeting
-**Purpose:** Review and discuss proposals related to historic preservation and economic development in the city
-**Date/Time:** [Insert Date and Time]
-**Location:** North End Community Center, 145 Lawson Ave W, Saint Paul
+**Type**: HREEOC (Historic and Reutilization- Economic Development Opportunities Commission) Meeting
+**Purpose**: Regular meeting to discuss ongoing projects and initiatives in the city's historic districts
+**Date/Time**: December [insert date] at [insert time]
+**Location**: North End Community Center, 145 Lawson Ave W, Saint Paul
 
 #### Summary
-The HREEOC meeting began with a discussion on the proposed renovation of the historic Grand Avenue district. The committee reviewed plans to restore the facades of several buildings, which sparked some debate among members.
+The HREEOC meeting on December [insert date] covered several key topics:
 
-* Key decisions:
-	+ The committee approved funding for the facade restoration project, allocating $200,000 from the city's historic preservation fund.
-	+ A proposal to create a pedestrian-friendly plaza in front of a new mixed-use development was tabled until further review.
-* Notable discussions:
-	+ Some committee members expressed concerns about the potential impact of increased foot traffic on local businesses and residents.
-	+ Others argued that the project would enhance the area's aesthetic appeal and boost economic activity.
+* The commission approved a budget allocation of $10,000 for the restoration of the historic facade on Snelling Avenue.
+* A proposal to establish a historic district in the Dayton's Bluff neighborhood was discussed. While some members expressed concerns about the potential impact on property values, others saw it as an opportunity to preserve the area's unique character. The vote on establishing the district was 4-2 in favor, with Commissioners Johnson and Thompson opposing.
+* The commission also reviewed a plan for the renovation of the historic Rondo Avenue Bridge, which is expected to be completed by summer 2024.
 
-A vote to allocate funds for the facade restoration project passed with a 6-2 margin, with two members dissenting due to concerns about the project's scope and budget. The committee will reconvene in January to review further proposals related to historic preservation and economic development.
+In other business, Commissioner Patel raised concerns about the lack of affordable housing options in the city's historic districts. While some members acknowledged the issue, others felt that it was outside the scope of HREEOC's responsibilities.
+
+The commission also discussed a potential partnership with the Saint Paul Chamber of Commerce to promote historic preservation and redevelopment efforts in the city. This proposal is expected to be explored further at the next meeting.
 
