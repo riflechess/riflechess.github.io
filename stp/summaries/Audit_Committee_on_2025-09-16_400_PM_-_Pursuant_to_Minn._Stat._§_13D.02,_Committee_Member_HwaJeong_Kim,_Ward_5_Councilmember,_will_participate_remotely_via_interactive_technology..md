@@ -3,32 +3,29 @@ title: Audit Committee on 2025-09-16 4:00 PM - Pursuant to Minn. Stat. § 13D.02
 date: 2025-09-16
 ---
 #### Meeting Info
-* **Type:** Audit Committee meeting
-* **Purpose:** To discuss the scope of the next study on data practices, review the schedule for the rest of 2025 and 2026, and engage with the community to solicit topics for next year's audit.
-* **Date/Time:** September 16, 2025, 4:00 PM
-* **Attendees:** Members of the Audit Committee, including Councilmember HwaJeong Kim (Ward 5), Council Vice President Molly Coleman (Ward 4), Jeremy Lostetter (community advisor and internal audit manager), Stephanie Deworth (community advisor and Finance, Budget, and Facilities Manager at the University of Minnesota), Heather Britt from Wilder Research, and city officials.
+- **Meeting Type:** Audit Committee meeting
+- **Date/Time:** 2025-09-16, 4:00 PM
+- **Location:** Remote via interactive technology (with Ward 5 Councilmember HwaJeong Kim participating remotely)
+- **Purpose:** Review and finalize the scope of work for the third project with Wilder Research, discuss community engagement strategies, and review the proposed audit committee schedule.
 
 #### Summary
 
-The meeting focused on discussing the scope of the next study on data practices, which will examine how the City of Saint Paul handles data requests. The committee reviewed a draft scope document, which outlines the key questions to be answered in the study, including:
+The meeting began with introductions from new Audit Committee member Molly Coleman and other members. The discussion focused on the current data practices request process in Saint Paul, specifically looking at the types of requests, timeliness, and staff time spent responding to them.
 
-* Current data practices and compliance processes
-* Potential risks associated with the current approach
-* Characteristics of current requests (e.g., types, scale, volume)
-* Opportunities for improvement
+Dr. Britt presented a draft scope for the third project with Wilder Research, focusing on data practices, which included research questions, key stakeholders, and potential risks associated with the current approach. The committee discussed the need for a standard process for evaluating what constitutes a "good faith effort" in searching for requested information.
 
-The committee also discussed the schedule for the rest of 2025 and 2026, which includes a proposed timeline for completing the study. The committee aims to finalize the scope document by October and begin data collection in November.
+The group also discussed the importance of engaging with community members to gather ideas for future audits, including soliciting topics through surveys, district council meetings, and other outreach efforts. They reviewed a proposed schedule for the audit committee's closed meeting, which would alternate between current audits and topic selection.
 
-In addition to discussing the data practices study, the committee briefly reviewed the proposed calendar for future meetings, which includes regular cadence meetings to discuss current audits and topic selection.
+Key decisions:
 
-Regarding community engagement, the committee discussed strategies for soliciting topics from community members, including:
+* The Audit Committee decided not to exclude police, fire, and emergency management departments from the scope of work, but instead suggested phasing their inclusion in subsequent audit cycles.
+* The proposal to engage community members through district councils and surveys was discussed, with suggestions for improving the effectiveness of this process.
+* A proposed schedule for closed meetings was presented, aiming to balance alternating between current audits and topic selection.
 
-* Conducting surveys
-* Meeting with district councils
-* Engaging with other groups, such as St. Paul Strong or Insight St. Paul
-* Identifying potential audit topics through complaints or feedback from council members and their staff
+Areas of contention:
 
-The committee agreed to take the suggestions and ideas discussed during the meeting into consideration when developing a draft plan for community engagement.
+* There was some debate about whether police, fire, and emergency management departments should be included in the initial scope of work. Some committee members suggested phasing their inclusion or using a phased approach to study these departments.
+* The need for clear communication with community members through surveys, district council meetings, and other outreach efforts was emphasized.
 
-In terms of contentious issues, there was some discussion about whether to include emergency services (police, fire, and emergency management) in the scope of the data practices study. Some committee members expressed concerns about the complexity and potential risks associated with including these departments, while others argued that they are likely to be significant sources of data requests and should be included. The committee ultimately decided to leave the decision on whether to include emergency services up to the auditor, Dr. Brett.
+The meeting concluded with a plan to review draft engagement strategies, discuss potential audit topics, and schedule follow-up discussions in November.
 
