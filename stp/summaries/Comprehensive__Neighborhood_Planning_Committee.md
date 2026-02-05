@@ -3,25 +3,25 @@ title: Comprehensive  Neighborhood Planning Committee
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Comprehensive Neighborhood Planning Committee
-**Purpose:** To discuss and finalize the city's comprehensive plan, which includes neighborhood planning and development goals.
-**Date/Time:** Thursday, March 18th, 2023, at 6:30 PM
-**Location:** City Hall, Council Chambers
+**Meeting:** Comprehensive Neighborhood Planning Committee
+**Purpose:** Review and discuss neighborhood planning initiatives in Saint Paul
+**Date/Time:** March 12, 2023, 6:00 PM - 8:30 PM
+**Location:** City Hall Council Chambers, Saint Paul, MN
 
 #### Summary
+The meeting began with a brief overview of the committee's goals and objectives for the evening. The main topics discussed were:
 
-The meeting focused on finalizing the comprehensive plan for Saint Paul. The committee discussed and debated several key points, including:
+* Review of the proposed plans for the Cathedral Hill neighborhood, which include improvements to pedestrian infrastructure and increased green spaces.
+* Discussion on the allocation of funds for community development projects in various neighborhoods across Saint Paul.
 
-* **Affordable Housing**: The committee agreed to prioritize affordable housing development in low-income neighborhoods, with a proposed budget allocation of $10 million.
-* **Transportation**: Members debated the best way to improve public transportation in Saint Paul, with some advocating for increased funding for buses and others suggesting bike-sharing programs.
-	+ A contentious point was raised by Councilor Thompson, who argued that the city should prioritize pedestrian-friendly infrastructure over other modes of transportation. This sparked a heated discussion among committee members, but ultimately, no vote was taken on this specific issue.
+One contentious point of discussion was the proposal to allocate $200,000 for a new community center in the West St. Paul neighborhood. Some committee members expressed concerns about the cost, citing other pressing needs within the city's budget. However, others argued that this investment would provide essential services and resources to the community.
 
-The committee also:
+A vote was taken on the allocation of funds, with 8 committee members voting in favor and 4 opposing the proposal. The proposal passed, but not without significant debate.
 
-* **Approved** the creation of a new neighborhood plan for the Summit-University neighborhood.
-* **Rejected** a proposal to increase the minimum lot size in residential areas.
+Other key decisions included:
 
-Regarding public safety, the meeting covered some key points:
-* The police department reported an increase in crime rates in some neighborhoods and proposed additional funding for community policing initiatives.
-* A resident brought up concerns about street lighting and pedestrian safety in her neighborhood, which sparked a discussion on potential solutions.
+* Approval for a new bike-sharing program in downtown Saint Paul
+* Support for increased funding for affordable housing initiatives in the city
+
+Overall, the meeting focused on community development and improving quality of life in various neighborhoods across Saint Paul.
 
