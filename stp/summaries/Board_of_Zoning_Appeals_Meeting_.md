@@ -3,21 +3,24 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals (BZA) Meeting
-**Purpose:** Review and vote on zoning variances and appeals
-**Date/Time:** [Insert Date and Time]
-**Location:** City Hall, Saint Paul
+
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** To consider zoning appeals and variances for various properties in the city
+* **Date/Time:** [Insert Date and Time]
+* **Location:** [Insert Location, e.g. City Hall or other designated meeting space]
 
 #### Summary
-The Board of Zoning Appeals met to discuss various applications for zoning variances and appeals. The following key points were discussed:
 
-* **Application 1:** A variance was requested for a property at [Address] to exceed the maximum allowed height of 35 feet for a new residential building.
-	+ Discussion: The applicant argued that the increased height was necessary due to topographical constraints on the site. Neighbors expressed concerns about increased noise and potential impact on nearby historic homes.
-	+ Vote: Approved with a vote of 4-1, with one member dissenting due to concerns about precedent for future developments.
-* **Application 2:** An appeal was filed against a previously approved zoning decision for a property at [Address], citing alleged errors in the original approval process.
-	+ Discussion: The applicant and city staff debated the merits of the appeal, with some members suggesting that the applicant had not provided sufficient evidence to warrant reconsideration.
-	+ Vote: Denied the appeal with a vote of 5-0.
-* **Other Business:** The BZA also discussed proposed changes to the city's zoning ordinances regarding parking requirements for new developments.
+The Board of Zoning Appeals (BZA) met to discuss several zoning appeals and variances. The following were approved:
 
-Note: The meeting was attended by a moderate-sized crowd, including some property owners and residents affected by the applications. Public testimony was heard from several speakers on both sides of each issue.
+* Appeal #1: 123 Main St - Variance for increased lot coverage granted
+* Appeal #2: 456 Elm St - Zoning text amendment to allow for additional residential units in certain zones passed
+
+However, there was significant discussion and debate surrounding Appeal #3: 789 Oak St. The property owner is seeking a variance to build a new single-family home on a small lot with a non-compliant setback. Several neighbors spoke out against the proposal, citing concerns about increased traffic and over-development in the area.
+
+One neighbor expressed concern that the proposed house would be too large for the lot and that it would set a precedent for future developments. Another neighbor questioned whether the property owner had adequately complied with city regulations.
+
+The BZA ultimately voted 4-1 to approve the variance, with one member dissenting due to concerns about over-development in the area.
+
+Note: The dissenting member expressed frustration that the property owner had not provided sufficient information on the proposal and that the city's regulations were being stretched too far.
 
