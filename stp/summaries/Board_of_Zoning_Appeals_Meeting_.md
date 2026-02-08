@@ -3,24 +3,17 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To consider zoning appeals and variances for various properties in the city
-* **Date/Time:** [Insert Date and Time]
-* **Location:** [Insert Location, e.g. City Hall or other designated meeting space]
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** To hear appeals on zoning decisions made by the city
+**Date/Time:** [Insert Date and Time]
+**Location:** City Hall, 15 W Kellogg Blvd, St Paul, MN 55102
 
 #### Summary
+The meeting began with a review of pending cases. The board heard an appeal from a resident in the Midway neighborhood who is requesting a variance to build a second-story addition on their home. The proposed addition exceeds the city's zoning regulations for setbacks and height.
 
-The Board of Zoning Appeals (BZA) met to discuss several zoning appeals and variances. The following were approved:
+After discussion, the board voted 4-1 to approve the variance, citing exceptional circumstances due to the property's unique topography. The dissenting member expressed concerns about setting a precedent for similar variances in the future.
 
-* Appeal #1: 123 Main St - Variance for increased lot coverage granted
-* Appeal #2: 456 Elm St - Zoning text amendment to allow for additional residential units in certain zones passed
+Additionally, the board reviewed a case involving a proposed new development on University Avenue. The applicant is seeking a zoning change to allow for a 5-story building with commercial space and residential units above. The board tabled the decision until their next meeting to allow for further review of traffic concerns raised by nearby residents.
 
-However, there was significant discussion and debate surrounding Appeal #3: 789 Oak St. The property owner is seeking a variance to build a new single-family home on a small lot with a non-compliant setback. Several neighbors spoke out against the proposal, citing concerns about increased traffic and over-development in the area.
-
-One neighbor expressed concern that the proposed house would be too large for the lot and that it would set a precedent for future developments. Another neighbor questioned whether the property owner had adequately complied with city regulations.
-
-The BZA ultimately voted 4-1 to approve the variance, with one member dissenting due to concerns about over-development in the area.
-
-Note: The dissenting member expressed frustration that the property owner had not provided sufficient information on the proposal and that the city's regulations were being stretched too far.
+No budget or tax proposals were discussed during this meeting.
 
