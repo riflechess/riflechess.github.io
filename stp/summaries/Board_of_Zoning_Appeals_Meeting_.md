@@ -3,21 +3,19 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To hear appeals from property owners regarding zoning decisions
-* **Date/Time:** [Insert Date and Time]
-* **Location:** [Insert Location]
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** To hear appeals on zoning decisions and variances in the city of Saint Paul
+**Date/Time:** [Insert Date and Time]
+**Location:** [Insert Location]
 
 #### Summary
+The meeting began with a review of the agenda, which included several appeals for zoning variances. The board heard testimony from property owners and neighbors regarding the proposed projects.
 
-The meeting began with a brief review of the agenda, which included three appeal cases. The first case involved a request for a variance to build a two-story addition on a residential property in the Highland neighborhood.
+* A variance was granted to allow for an additional story on a residential building in the Summit-University neighborhood.
+* A variance was denied for a commercial development project in the Midway neighborhood due to concerns about parking and traffic impact.
+* Several appeals were tabled pending further review of site plans and other documentation.
 
-The applicant argued that the addition was necessary due to a family member's medical condition and would not impact neighboring properties. After hearing testimony from both sides, the board voted 4-1 to approve the variance with conditions.
+There was some discussion regarding the process for appealing zoning decisions, with one board member expressing concern that the current system can be cumbersome and lengthy. However, no formal action was taken on this issue.
 
-The second case involved a request for a zoning text amendment to allow for more flexibility in mixed-use development projects. The applicant argued that the current regulations were too restrictive and hindered economic growth in certain areas of the city. However, some neighbors expressed concerns about increased traffic and density.
-
-Despite these concerns, the board voted 3-2 to approve the text amendment with modifications to address some of the neighbor's concerns. The third case was a request for a variance to build a fence on a property line, which was approved unanimously.
-
-Overall, the meeting focused on balancing individual property rights with community concerns and regulations. While there were differences in opinion, the board worked collaboratively to make informed decisions that reflected the needs of all stakeholders involved.
+Note: The meeting was relatively routine and did not generate any significant controversy or debate.
 
