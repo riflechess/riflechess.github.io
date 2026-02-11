@@ -3,19 +3,23 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To hear appeals on zoning decisions and variances in the city of Saint Paul
+**Type:** Board of Zoning Appeals Meeting
+**Purpose:** To hear appeals on zoning decisions made by the city
 **Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+**Location:** City Hall, Room 200A
 
 #### Summary
-The meeting began with a review of the agenda, which included several appeals for zoning variances. The board heard testimony from property owners and neighbors regarding the proposed projects.
+The Board of Zoning Appeals met to consider several zoning-related appeals. The main items discussed were:
 
-* A variance was granted to allow for an additional story on a residential building in the Summit-University neighborhood.
-* A variance was denied for a commercial development project in the Midway neighborhood due to concerns about parking and traffic impact.
-* Several appeals were tabled pending further review of site plans and other documentation.
+* Appeal #1: Request to rezone a property in the Highland Park neighborhood from R-2 (single-family) to C-2 (commercial)
+	+ The applicant argued that the current zoning was too restrictive and would limit their ability to develop a small commercial space.
+	+ A neighbor spoke against the proposal, citing concerns about increased traffic and noise.
+* Appeal #2: Request to allow a second-story addition in a historic district
+	+ The owner argued that the addition was necessary due to an increase in family size.
+	+ An Historic Preservation Commissioner expressed concern about the potential impact on the building's historic integrity.
 
-There was some discussion regarding the process for appealing zoning decisions, with one board member expressing concern that the current system can be cumbersome and lengthy. However, no formal action was taken on this issue.
+The board voted on both appeals:
 
-Note: The meeting was relatively routine and did not generate any significant controversy or debate.
+* Appeal #1: Approved with conditions (4-0)
+* Appeal #2: Denied (3-1)
 
