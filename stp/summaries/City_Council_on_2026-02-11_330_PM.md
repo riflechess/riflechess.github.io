@@ -3,51 +3,31 @@ title: City Council on 2026-02-11 3:30 PM
 date: 2026-02-11
 ---
 #### Meeting Info
-**Type:** City Council Meeting
-**Date/Time:** 2026-02-11, 3:30 PM
-**Purpose:** Regular meeting of the St. Paul City Council to discuss and vote on various resolutions, ordinances, and other city business.
+Meeting Type: City Council Meeting
+Date/Time: 2026-02-11 3:30 PM
+Context: Regular Meeting of the St. Paul City Council to discuss various resolutions and ordinances related to public safety, community events, and city operations.
 
 #### Summary
 
-The meeting began with a discussion on Resolution 26-215, which defends the U.S. Constitution and the rule of law. The resolution was introduced by Council Member Yang and co-sponsored by Gary Fifield, a St. Paul resident. The resolution condemns the Trump administration's actions that undermine the rights of transgender, non-binary, and two-spirit individuals, including targeting medical care providers who offer legal, appropriate, and protected services in Minnesota.
+The meeting started with a brief welcome and introduction by the Council President. The consent agenda was passed unanimously after a motion from Vice President Kim. Resolution 26-215, Defending the U.S. Constitution and the Rule of Law, was adopted unanimously after speakers from Common Cause Minnesota, Indivisible Twin Cities, and OutFront Minnesota spoke in support.
 
-The council voted to adopt the resolution with a 6-0 vote.
+The second resolution discussed, Resolution 25-1914, outlining the city's 2026 legislative agenda, was also adopted unanimously after a staff report by Jennifer O'Rourke. The resolution includes support for state allocations to provide mitigation funds to businesses, nonprofits, and other community-serving entities affected by transportation and MnDOT street reconstruction projects.
 
-Next, the meeting discussed Resolution 25-1914, which outlines the city's 2026 legislative agenda. The resolution was presented by Jennifer O'Rourke, Director of Government Relations at the city. She explained that the city has made some additions and clarifications to the federal disruption and impacts language and added two new items related to public safety.
+Resolution 26-58, amending Appendix A2 of the Administrative Code relating to Council Committees, was approved as amended after a staff report by Mr. Greenfield. The resolution creates separate committees for budget council operations, policy committee, audit committee, and public safety committee, among others.
 
-The council voted to adopt the resolution with a 6-0 vote.
+The city council also discussed Resolution 26-37, establishing the festivals and events security credit, which aims to provide reimbursement to eligible event organizers for security costs associated with festivals and events in St. Paul. However, this resolution was laid over for a two-week review due to concerns about its implementation.
 
-Item number 16, Resolution 26-58, was presented by Council President Noecker. The resolution amends Appendix A2 of the Administrative Code relating to Council Committees. The changes made are technical in nature and reflect current practices of city council committees.
+Another resolution, denouncing the Trump administration's attack on gender-affirming care for youth, was adopted unanimously after a powerful speech by Vice President Kim. This resolution sends a strong message of support for the LGBTQ+ community in St. Paul and reaffirms the city's commitment to protecting their rights.
 
-The council voted to adopt the resolution with a 6-0 vote.
+The council also passed a resolution urging hotels to not house federal immigration agents after a passionate plea from Sunrise Movement leaders. The resolution aims to raise awareness about the issue and encourage hotels to refrain from housing ICE agents.
 
-Item number 17, Resolution 26-37, was discussed by Council Member Bowie. The resolution establishes the festivals and events security credit and streamlines and creates a centralized billing system for event organizers. However, the discussion was contentious, with some members questioning the administrative work involved in implementing the policy.
+Ordinance 26-6, adding Chapter 268A to the Legislative Code to require law enforcement officers performing law enforcement duties to visibly display identification on the outermost layer of their uniform, was adopted unanimously after a discussion by Council Vice President Kim.
 
-After some debate, the council voted to lay over the item for a two-week period.
+The public hearing section of the meeting included discussions on various ordinances and resolutions related to zoning variances, public hearings, and grievances about federal immigration operations. The council also heard from numerous speakers who testified in support of safe zones, police accountability, and emergency rent assistance for families affected by Operation Metro Surge.
 
-Item number 18, Resolution 26-267, denounces the Trump administration's attack on gender-affirming care for youth. Council Vice President Kim presented the resolution and read it into record. The speakers from Outfront Minnesota and Gender Justice spoke in support of the resolution, highlighting its importance in protecting trans youth.
+Unfortunately, one speaker used hate speech during the public hearing, targeting Council Vice President Kim, Council Member Bui, and the LGBTQ+ community. The council president and other members strongly condemned this behavior and reaffirmed their commitment to creating a safe and welcoming space for all individuals.
 
-The council voted to adopt the resolution with a 6-0 vote.
+The meeting concluded with the adoption of the legislative hearing consent agenda items 29 through 38 after a motion from Ms. Bowie. The council also received news from Ward 7 that they have secured an additional $1.48 million for emergency rental assistance and that Council Member Johnson is committed to securing more resources to support St. Paul families.
 
-Item number 19 was a public hearing on Ordinance 26-6, which requires law enforcement officers to visibly display identification on their uniforms. Council Member Yang presented the ordinance and explained its purpose.
-
-The council voted to approve the final adoption of the ordinance with a 6-0 vote.
-
-Item number 20 was a public hearing on Ordinance 26-8, amending section 86.01A of the St. Paul Administrative Code. David Eid from the Department of Safety and Inspections presented the staff report. The council took no action on this item as it is still in its second reading.
-
-Items number 21 through 25 were resolutions related to sound level variances for events, which were approved with a vote.
-
-Item number 26 was withdrawn as a duplicate of item number 23.
-
-ABZA 26-1 was discussed next. The Minnesota Department of Administration appealed the decision made by the Board of Zoning Appeals regarding a zoning variance request. Council Member Yang asked questions about the timeline for making a final decision on this item, which is now laid over until February 18th.
-
-Item number 28 was a public hearing on grievances related to federal immigration operations. Several speakers testified, including Ashley Van Duzerts and Megan Unruh, who called on the council to designate hospitals and ambulances as sanctuary sites where ICE is prohibited from conducting enforcement actions. The speakers also demanded that the St. Paul police department establish a publicly accountable process to address harm caused by its actions during these events.
-
-The public hearing was continued until February 18th due to time constraints.
-
-After the public hearing, Council Member Yang and Vice President Kim spoke on the importance of addressing hate speech in the council chambers, reaffirming their commitment to maintaining a safe and welcoming space for all residents.
-
-Finally, the legislative hearing consent agenda items were approved with a vote.
-
-The meeting concluded with news from Ward 7, where Chair Johnson announced that an additional $1.48 million is being allocated for emergency rental assistance programs.
+Overall, this meeting was marked by powerful speeches, strong condemnations of hate speech, and a commitment to creating a safe and welcoming space for all individuals in the city of St. Paul.
 
