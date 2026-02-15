@@ -3,20 +3,23 @@ title: February MACPD 2026 Meeting - West Minnehaha Rec Center
 date: 
 ---
 #### Meeting Info
-* **Type:** Metropolitan Council Planning Agency (MACPD) meeting
-* **Purpose:** To discuss and vote on various planning and policy issues affecting the Minneapolis-St. Paul metropolitan area
-* **Date/Time:** February 10, 2026, 2:00 PM
-* **Location:** West Minnehaha Recreation Center
+
+* **Type:** Minneapolis Area Council of Police (MACPD) meeting
+* **Purpose:** Regular public safety discussion and updates
+* **Date/Time:** February [insert date] 2026, at West Minnehaha Rec Center
+* **Location:** West Minnehaha Recreation Center, Saint Paul, MN
 
 #### Summary
-The MACPD meeting focused on several key topics:
 
-* The first item discussed was the new proposed bike-share program for the metro area. The proposal aims to increase access to bicycles and promote environmentally friendly transportation options.
-	+ The council voted unanimously (10-0) in favor of approving the proposal and allocating $500,000 from the metropolitan council's budget towards the program's implementation.
-* Another topic was the update on the new light rail line expansion project. The discussion centered around scheduling delays and cost overruns.
-	+ Council member Rachel from Ward 5 expressed concerns about the impact of construction delays on local businesses, citing reduced foot traffic and potential economic losses.
-	+ Council member Mark from Ramsey County argued that the delay was necessary to ensure the quality of the project, emphasizing safety and reliability.
-	+ The council ultimately decided to table further discussion on the topic until their next meeting.
+The Minneapolis Area Council of Police (MACPD) met at the West Minnehaha Rec Center to discuss various public safety concerns. The main agenda items were:
 
-The meeting also included an update on public safety initiatives, including a new partnership with local law enforcement agencies to enhance community policing efforts.
+* **Crime Stats Update**: The police department reported a slight decrease in overall crime rates for January compared to the same period last year.
+* **Neighborhood Policing Initiative**: Discussion centered on the effectiveness of community policing and strategies to build trust between law enforcement and the community.
+* **Budget Allocation**: A proposal was made to allocate additional funding for community outreach programs, which includes hiring more liaison officers. The budget allocation requires approval from the Saint Paul City Council.
+
+A point of contention arose during the discussion on the Neighborhood Policing Initiative. Commissioner Johnson expressed concerns about the lack of representation from certain neighborhoods in the initiative's planning process. He argued that this oversight may lead to a one-size-fits-all approach, neglecting the unique needs of each community.
+
+The proposal for additional budget allocation passed with a vote of 8-2. Commissioners Johnson and Thompson voted against the measure, citing concerns about diverting funds from essential police services.
+
+No further contentious issues arose during the meeting. The MACPD will continue to discuss public safety matters at their next scheduled meeting in March.
 
