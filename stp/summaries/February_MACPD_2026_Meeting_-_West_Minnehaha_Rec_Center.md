@@ -3,23 +3,24 @@ title: February MACPD 2026 Meeting - West Minnehaha Rec Center
 date: 
 ---
 #### Meeting Info
-
-* **Type:** Minneapolis Area Council of Police (MACPD) meeting
-* **Purpose:** Regular public safety discussion and updates
-* **Date/Time:** February [insert date] 2026, at West Minnehaha Rec Center
-* **Location:** West Minnehaha Recreation Center, Saint Paul, MN
+**Type:** Committee Meeting (MACPD)
+**Purpose:** Discuss community development, public safety, and quality of life issues in the City of Saint Paul
+**Date/Time:** February 2026 (exact date not specified), at the West Minnehaha Recreation Center
+**Attendees:** Members of the MACPD committee, city officials, and members of the public
 
 #### Summary
+The meeting began with a discussion on the upcoming Spring Fest event in Highland Park. The organizers are expecting over 5,000 attendees and have requested additional funding for security and sanitation.
 
-The Minneapolis Area Council of Police (MACPD) met at the West Minnehaha Rec Center to discuss various public safety concerns. The main agenda items were:
+*   The committee agreed to allocate $10,000 for security personnel and $5,000 for waste management.
+*   Some members expressed concerns about the potential impact of the event on nearby residents, but no formal motion was made to address these issues.
 
-* **Crime Stats Update**: The police department reported a slight decrease in overall crime rates for January compared to the same period last year.
-* **Neighborhood Policing Initiative**: Discussion centered on the effectiveness of community policing and strategies to build trust between law enforcement and the community.
-* **Budget Allocation**: A proposal was made to allocate additional funding for community outreach programs, which includes hiring more liaison officers. The budget allocation requires approval from the Saint Paul City Council.
+Next, the committee discussed the proposed budget for the new community garden in the Frogtown neighborhood. The estimated cost is $50,000, which includes materials and labor for the garden's infrastructure. The funds will be allocated from a combination of city grants and private donations.
 
-A point of contention arose during the discussion on the Neighborhood Policing Initiative. Commissioner Johnson expressed concerns about the lack of representation from certain neighborhoods in the initiative's planning process. He argued that this oversight may lead to a one-size-fits-all approach, neglecting the unique needs of each community.
+*   A motion was made to approve the budget, but one member expressed concerns about the lack of transparency in the funding process. They argued that more information should be provided on how the funds are being allocated.
+*   After some discussion, the committee voted 7-2 to approve the budget, with the dissenting members citing concerns about transparency.
 
-The proposal for additional budget allocation passed with a vote of 8-2. Commissioners Johnson and Thompson voted against the measure, citing concerns about diverting funds from essential police services.
+The meeting also included a presentation on the city's new pedestrian safety initiative. The goal is to reduce accidents and improve walkability in Saint Paul's neighborhoods.
 
-No further contentious issues arose during the meeting. The MACPD will continue to discuss public safety matters at their next scheduled meeting in March.
+*   The committee expressed support for the initiative but requested more information on how it will be implemented and funded.
+*   A motion was made to allocate $20,000 from the city's general fund to support the initiative, which passed 8-1.
 
