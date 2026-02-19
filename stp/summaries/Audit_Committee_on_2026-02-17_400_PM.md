@@ -4,20 +4,27 @@ date: 2026-02-17
 ---
 #### Meeting Info
 **Meeting Type:** Audit Committee Meeting
-**Date/Time:** 2026-02-17, 4:00 PM
-**Context:** The meeting is a discussion between the Audit Committee and the Mayor's administration to explore potential topics for auditing city departments and programs.
+**Purpose:** Introduction of Mayor Hersh and her leadership team, interviewing candidates for the Community Advisor position
+**Date/Time:** February 17, 2026, 4:00 PM
+**Attendees:** Rebecca Noecker (Chair), Council Member Molly Coleman, Jeremy Lostetter (Community Advisor), Sharon Sharon (candidate), Dylan Donnelly (candidate), Stephanie Dilworth (Community Advisor), Mayor Hersh and her administration team
 
 #### Summary
+The meeting began with introductions from the Audit Committee members and the administration. The committee discussed their excitement about auditing city departments and programs, and the importance of partnership with the administration to ensure that audit findings are implemented.
 
-The meeting began with introductions from committee members and staff. The mayor's administration was represented by several assistant mayors, who expressed their enthusiasm for working with the audit committee. They discussed how the committee's work aligns with the mayor's goals of process improvement and ensuring that city departments are working efficiently.
+Mayor Hersh expressed her support for the audit committee's work and emphasized the need for critical evaluation of processes and programs to ensure efficiency and effectiveness. She also highlighted the importance of equity and fairness in public services.
 
-Several potential topics were discussed, including data practices, TIF initiatives, and college-bound programs. The committee members asked questions about the administration's views on these topics and how they could be addressed through auditing.
+The meeting continued with a discussion on potential topics for audits, including data practices, college savings account sustainability, and TIF initiatives. The administration expressed interest in working with the audit committee to identify areas for improvement.
 
-One notable discussion point was the importance of transparency in the audit process. Jeremy Lostetter suggested putting videos from the audit committee and their findings on YouTube to increase transparency.
+Four candidates were interviewed for the Community Advisor position: Sharon Sharon, Dylan Donnelly, Hurtcia, and Noah McFay. Each candidate was asked about their experience with city government, performance auditing, and community engagement.
 
-Dylan Donnelly, a candidate for the community advisor position, presented his background in lean manufacturing and public policy research. He also expressed his desire to bring data-driven insights to the committee's work.
+The meeting concluded with a discussion on next steps, including drafting a resolution for council consideration to support the audit committee's recommendation and having Dr. Brit from Wilder present the initial report of the data practices study in March.
 
-The meeting concluded with discussion of upcoming events, including an interview with Dr. Britt from Wilder Research on the initial report of the data practices study, and a draft resolution for council consideration to support the audit committee's recommendation.
+Key takeaways:
 
-The mayor's administration expressed their commitment to working collaboratively with the audit committee, and the committee members were encouraged to think about new topics that may have arisen during their conversation with the administration.
+* The administration is committed to partnering with the audit committee to implement audit findings.
+* Potential topics for audits include data practices, college savings account sustainability, and TIF initiatives.
+* Four candidates were interviewed for the Community Advisor position.
+* Next steps include drafting a resolution for council consideration and having Dr. Brit present the initial report of the data practices study in March.
+
+Note: The meeting was adjourned at 5:15 PM due to time constraints.
 
