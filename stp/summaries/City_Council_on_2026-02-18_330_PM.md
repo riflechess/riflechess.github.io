@@ -3,28 +3,34 @@ title: City Council on 2026-02-18 3:30 PM
 date: 2026-02-18
 ---
 #### Meeting Info
-* Type: City Council Meeting
-* Purpose: Regular meeting of the Saint Paul City Council
-* Date/Time: February 18, 2026, at 3:30 PM
-* Context: This meeting covers various topics related to city development, public safety, and quality of life in Saint Paul.
+**Meeting Type:** City Council Meeting
+**Date/Time:** 2026-02-18, 3:30 PM
+**Purpose:** Live and Recorded Public Meetings of City Council on 2026-02-18 3:30 PM for City of Saint Paul
 
 #### Summary
+The meeting began with a discussion about the AO 26-15, establishing intent for one-time special funds budgeted for consulting services in OFS. The city council members debated whether to allocate $100,000 from the original intention of assisting with priority-based budgeting to support the annual comprehensive financial report (ACFER). Director Laura Logsdon explained that reprioritizing the funding would help address the timeliness issue with ACFER.
 
-The meeting began with a discussion on AO 26-15, establishing intent for one-time special funds budgeted for consulting services in the Office of Financial Services (OFS). The director of OFS explained that the original intention was for consulting services to assist with priority-based budgeting but is now recommended to support the city's annual comprehensive financial report. Council members discussed and questioned the proposal, eventually approving it.
+The consent agenda items 4 through 13 were approved without discussion. Item number 14, ABZA 26-1, considered an appeal of a zoning variance for a 10-foot tall fence between a service parking facility and Phelan Boulevard and Barclay Street, was moved by Ms. Yang to deny the appeal due to errors in findings and procedure by the Board of Zoning Appeals (BZA). Council Member Noecker voted against the motion.
 
-Next, the council considered item number 14, an appeal by the Minnesota Department of Administration to the Board of Zoning Appeals regarding a zoning variance for a 10-foot tall fence between the service parking facility and Phelan Boulevard. Council Member Yang presented her reasons for denying the appeal, citing errors in the findings in the BCA report recommending approval of the variance request. Council President Noecker disagreed with Yang's reasoning and voted against the motion to deny the appeal.
+Resolution 26-320, authorizing the fire department to conduct various fire training exercises at a property located at 753 Front Avenue, was approved under suspension due to its urgency. The resolution allows for the training exercise to take place on February 24th before the next council meeting.
 
-The council then moved on to item number 15, final adoption of Ordinance 26-7, requiring law enforcement officers to conduct law enforcement operations without a mask or facial covering unless certain exceptions apply. Vice President Kim and other council members spoke in support of the ordinance, which aims to promote accountability and transparency.
+The final adoption of Ordinance 26-7, requiring law enforcement officers to conduct operations without a mask or facial covering unless certain exceptions apply, was approved. This ordinance aims to increase accountability and transparency in policing.
 
-Item number 17 was introduced as a first reading of Ordinance 26-9, adopting the geothermal energy franchise by Heights Community Energy, Inc. Steve Ramsey from District Energy St. Paul presented on the proposed system, explaining its benefits and how it would work. The council voted to lay over the matter until February 25th for a public hearing.
+Ordinance 26-8, amending section 86.01A of the St. Paul Administrative Code to authorize up to three assistants to the mayor to execute contracts, was also adopted.
 
-The meeting also covered item number 18, Ordinance 26-11, granting authority to the Port Authority to issue and sell bonds to refund existing bonds and secure new ones with a pledge of the city's full faith credit and resources. The council voted to lay over this matter until February 25th for a public hearing.
+The first reading of Ordinance 26-9, adopting a geothermal energy franchise by Heights Community Energy, Inc., was laid over until February 25th for a public hearing.
 
-Item number 19 was introduced as a first reading of Ordinance 26-12, mending section 310.01 of the St. Paul Legislative Code to create a new fee category and associated license fees for transportation network companies (TNCs). Dan Najelic from the Department of Safety and Inspections presented on the proposed changes, explaining how they would impact TNCs in Saint Paul.
+Ordinance 26-11, granting authority to the port authority to issue and sell bonds to refund existing debt, was laid over until February 25th for a public hearing.
 
-The council also addressed item number 20, a public hearing on Ordinance 24-26, commending chapter 65 and 66 of the legislative code pertaining to drive-through sales and services. Ms. Jost introduced version two of the ordinance, which aims to increase buffer zones around residential areas and high-frequency transit. Several speakers testified on this item, with some advocating for a ban on new drive-throughs.
+Ordinance 24-26, relating to drive-through sales and services, had its version two approved. A public hearing on this item was held, with several speakers expressing concerns about drive-throughs and their impact on quality of life in the city.
 
-The meeting concluded with a public hearing on grievances about federal immigration operations (item number 28). Peter Center from Neighbors Protecting Neighbors spoke about housing insecurity in the city and requested more information on rental assistance programs. Vice President Kim assured the speaker that the council is working to address these issues.
+Resolutions 26-39 through 26-46 were adopted without discussion or opposition.
 
-In other news, Council Member Yang announced the Phelan Freeze Fest, happening this Saturday at the Phelan Lakeside Activity Center. Council Member Coleman invited everyone to Planned Parenthood's annual fundraising event. Finally, Ms. Bowie shared information about a community dinner hosted by Mancini's Neighborhood Anchor Institution and a happy hour for the St. Paul Fire Department's local 21 installation party.
+A public hearing was held on Resolution 26-50, approving the establishment of a tax increment financing district for the redevelopment of the former St. Joseph's Hospital site. The Port Authority presented their plan to prepare and position the site for redevelopment, including demolishing vacant buildings and performing environmental remediation.
+
+The public hearing on grievances about federal immigration operations was continued until February 25th due to lack of opposition or discussion.
+
+Several ward members shared news from their wards, including the Phelan Freeze Fest, Planned Parenthood's annual fundraising event, Mancini's Neighborhood Anchor Institution community dinner, the St. Paul Fire Department's installation party, and the St. Paul Police Department's Academy Graduation.
+
+The meeting concluded with no further business or discussion.
 
