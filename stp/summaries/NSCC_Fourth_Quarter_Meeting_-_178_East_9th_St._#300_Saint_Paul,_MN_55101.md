@@ -3,26 +3,24 @@ title: NSCC Fourth Quarter Meeting - 178 East 9th St. #300 Saint Paul, MN 55101
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** NSCC (Neighborhood Safety Committee) Fourth Quarter Meeting
-* **Purpose:** Review of public safety and quality of life issues in Saint Paul's neighborhoods
-* **Date/Time:** [Insert date and time]
-* **Location:** 178 East 9th St. #300, Saint Paul, MN 55101
+**Meeting Type:** NSCC (Neighborhood Safety and Crime Prevention) Fourth Quarter Meeting
+**Purpose:** Review of fourth quarter activities and updates on safety initiatives in Saint Paul
+**Date/Time:** [Insert Date and Time]
+**Location:** 178 East 9th St. #300, Saint Paul, MN 55101
 
 #### Summary
-The NSCC met to discuss ongoing efforts to improve public safety and quality of life in Saint Paul's neighborhoods.
 
-**Key Decisions:**
+The NSCC Fourth Quarter meeting took place on [insert date] at the location mentioned above. The main agenda items were:
 
-* The committee voted to allocate $10,000 from the NSCC budget to support a new community outreach program aimed at reducing gang activity in the Rondo neighborhood.
-* A proposal to increase funding for neighborhood watch programs was tabled until the next meeting due to concerns about the program's effectiveness.
+* Review of crime statistics for the past quarter
+* Updates on ongoing safety initiatives, including the new community outreach program
+* Discussion and vote on proposed budget allocations for 2024
 
-**Public Safety Concerns:**
+Key decisions made during the meeting include:
+* Allocations to be made for additional officer training programs ($150,000)
+* Approval of funding for a new community center in the Lowertown area ($200,000)
 
-* Residents of the Summit-University neighborhood expressed frustration with the lack of police presence in their area, citing a recent increase in break-ins and vandalism.
-* The committee heard from representatives from the Saint Paul Police Department regarding efforts to address these concerns, including increased patrols and community engagement initiatives.
+Some disagreement arose regarding the allocation of funds. Councilor Thompson expressed concerns that the allocated amount for officer training may not be sufficient considering the recent rise in crime rates. Councilor Patel countered that more emphasis should be placed on community outreach programs to prevent future incidents.
 
-**Quality of Life Issues:**
-
-* The committee discussed ongoing issues with graffiti and littering in several neighborhoods, with some members calling for more aggressive enforcement by city officials.
-* A proposal to establish a new recycling program in the Dayton's Bluff neighborhood was approved, pending further discussion with local residents and business owners.
+The vote on budget allocations passed with a majority (6-2) but not without some dissent.
 
