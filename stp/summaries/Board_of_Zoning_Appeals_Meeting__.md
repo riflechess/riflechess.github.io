@@ -3,27 +3,22 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To hear appeals on zoning decisions, variances, and other related matters
-* **Date/Time:** February 22, 2023, at 2:00 PM
-* **Location:** City Hall, Room 300, Saint Paul, MN
+**Type:** Board of Zoning Appeals (BZA) Meeting
+**Purpose:** To hear appeals on zoning decisions made by the city
+**Date/Time:** Wednesday, March 8th, 2023, 2:00 PM
+**Attendees:** Members of the BZA, City officials, and members of the public
+**Context:** The meeting was held in a public forum to allow citizens to express their opinions on zoning decisions
 
 #### Summary
+The Board of Zoning Appeals met to hear appeals on several zoning decisions. Key topics discussed included:
 
-The Board of Zoning Appeals Meeting was attended by six members. The main agenda item was to discuss and decide on three appeals:
+* Appeal #1: A property owner appealed a decision to deny a variance for a new construction project.
+	+ The board heard arguments from both the property owner and city officials before making a decision.
+	+ After discussion, the board voted 4-1 to uphold the original denial of the variance.
+* Appeal #2: A homeowner association (HOA) appealed a zoning decision regarding a proposed development in their neighborhood.
+	+ The HOA expressed concerns about increased traffic and noise levels.
+	+ City officials explained that the development would be subject to certain conditions to minimize its impact on the community.
+	+ The board voted 3-2 to grant the variance, with one member dissenting due to concerns about increased traffic.
 
-* Appeal #1: A variance request for a property in the Summit-University neighborhood to build a two-story addition.
-	+ The applicant argued that the current zoning regulations are too restrictive and would prevent them from building an addition, which would increase the value of their property.
-	+ After discussion, the board voted 4-2 to approve the variance, with members citing concerns about the potential impact on neighborhood character and the need for more community input.
-
-* Appeal #2: A request to rezone a commercial property in the Midway area to allow for a larger sign.
-	+ The applicant argued that the current zoning regulations are outdated and do not reflect the changing needs of businesses in the area.
-	+ After discussion, the board voted 5-1 to deny the rezoning request, with one member expressing concerns about the potential impact on traffic and pedestrian safety.
-
-* Appeal #3: A variance request for a property in the Frogtown neighborhood to build a backyard patio.
-	+ The applicant argued that the current zoning regulations are too restrictive and would prevent them from building a patio, which would increase the value of their property.
-	+ After discussion, the board voted unanimously to approve the variance.
-
-No public comments were made during the meeting.
+The meeting was generally contentious, particularly regarding Appeal #2. One BZA member expressed frustration with what they saw as a lack of transparency from city officials and argued that the development would negatively impact the community. The vote on Appeal #2 was close, reflecting the divide among board members.
 
