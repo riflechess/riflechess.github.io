@@ -4,24 +4,20 @@ date:
 ---
 #### Meeting Info
 
-* **Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To review and decide on zoning variances, appeals, and other related matters
-* **Date/Time:** [Insert Date] at [Insert Time]
-* **Location:** Saint Paul City Hall or Virtual meeting (as determined by the city)
+* Type: Board of Zoning Appeals Meeting
+* Purpose: To hear appeals on zoning decisions within the City of Saint Paul
+* Date/Time: [Insert date and time]
+* Location: [Insert location]
 
 #### Summary
 
-The Board of Zoning Appeals Meeting discussed several cases involving property owners seeking to overturn previous zoning decisions. The board reviewed:
+The meeting began with a review of the agenda, which included several appeals related to zoning variances. The first appeal was from a homeowner in the Summit Hill neighborhood seeking to build an additional dwelling unit (ADU) on their property. After hearing testimony from both the applicant and neighbors, the board voted 4-1 to approve the variance.
 
-* Case #123: A property owner in the Dayton's Bluff neighborhood requested a variance to build a two-story addition to their existing single-family home.
-* Case #456: A business owner in the West End sought to appeal a zoning decision, arguing that the city's requirements for signage were too restrictive.
+Another significant discussion was around a proposed development project in the University District. The developer is seeking to construct a new high-rise building with residential units and commercial space. The city's planning department presented an overview of the proposal, highlighting its compliance with zoning regulations. However, some board members expressed concerns about potential traffic congestion and parking issues.
 
-After reviewing each case, the board voted on the following outcomes:
+A third appeal was from a local business owner in the East Side neighborhood who is seeking to expand their existing liquor license to include outdoor seating. After discussing the merits of the request, the board voted 3-2 to approve the expansion.
 
-* Case #123: The board granted the variance with conditions, allowing the property owner to move forward with their plans.
-* Case #456: The board denied the appeal, upholding the original zoning decision. The business owner expressed disappointment and argued that the city's regulations were too restrictive.
+One notable point of contention arose during the discussion on the University District development project. One board member expressed concerns about the potential impact on affordable housing in the area, while another member argued that the project would actually help increase the supply of affordable units. This disagreement led to a 4-3 vote on a motion to require the developer to include a certain percentage of affordable units in the project.
 
-The discussion around case #456 was contentious, with some board members arguing that the city needed to balance business interests with preserving the character of historic neighborhoods. The final vote was 5-2 in favor of denying the appeal, with two board members voting against it due to concerns about the impact on local businesses.
-
-No significant decisions were made regarding public safety or quality of life matters during this meeting.
+No budget or tax proposals were discussed during this meeting.
 
