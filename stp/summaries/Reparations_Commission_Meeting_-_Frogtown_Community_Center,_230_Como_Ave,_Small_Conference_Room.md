@@ -3,23 +3,25 @@ title: Reparations Commission Meeting - Frogtown Community Center, 230 Como Ave,
 date: 
 ---
 #### Meeting Info
-
 * **Type:** Reparations Commission Meeting
-* **Purpose:** Discussion on reparations initiatives for the city of Saint Paul
+* **Purpose:** Discuss reparations proposals for the city of Saint Paul
 * **Date/Time:** [Insert date and time]
 * **Location:** Frogtown Community Center, 230 Como Ave, Small Conference Room
 
 #### Summary
+The meeting focused on discussing potential reparations proposals for the city of Saint Paul. The commission considered three main proposals:
 
-The meeting focused on ongoing efforts to address historical injustices faced by communities of color in Saint Paul. The commission discussed the following key points:
+1. Establishing a reparations fund to support community development projects in historically marginalized neighborhoods.
+2. Implementing restorative justice programs and providing training for law enforcement on implicit bias and cultural competency.
+3. Creating a monument or memorial to acknowledge the city's history of racial injustice.
 
-* Allocation of funds for community-based initiatives: $200,000 was allocated for programs aimed at addressing disparities in education, housing, and economic development.
-* Establishment of a reparations framework: A draft framework was presented, outlining potential measures to be taken by the city, including land trusts, affordable housing initiatives, and cultural preservation efforts.
-* Public engagement strategies: The commission discussed ways to increase community involvement, including town halls, outreach programs, and partnerships with local organizations.
+The discussion centered around the feasibility and effectiveness of these proposals, with some members expressing concerns about the potential cost and administrative burden.
 
-Some commissioners expressed concerns about the pace of progress, citing a need for more urgency in addressing systemic inequalities. Commissioner Johnson argued that "we can't just talk about reparations; we have to take tangible steps towards healing." Commissioner Thompson countered, stating that "we risk alienating potential partners if we move too quickly without proper planning and coordination."
+There was significant debate around proposal 1, with some arguing that it would be more effective to focus on direct financial support for residents rather than community development projects. Others countered that this approach would not address systemic issues and could even perpetuate gentrification.
 
-The commission also discussed the importance of amplifying community voices and perspectives in the reparations process. Commissioner Rodriguez emphasized the need for more accessible language and inclusive outreach efforts to ensure that marginalized communities are represented.
+The commission voted 5-2 in favor of moving forward with proposal 2, with one member expressing reservations about the effectiveness of restorative justice programs without adequate funding and resources.
 
-Overall, the meeting highlighted ongoing efforts to address historical injustices and create a more equitable Saint Paul.
+Proposal 3 was met with mixed reactions, with some members arguing that a monument or memorial would be a meaningful way to acknowledge the city's history, while others expressed concerns about its potential impact on current community relationships.
+
+The meeting concluded with a decision to continue researching and refining these proposals before presenting them to the city council for consideration.
 
