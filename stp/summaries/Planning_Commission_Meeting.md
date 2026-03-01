@@ -4,20 +4,23 @@ date:
 ---
 #### Meeting Info
 
-**Meeting Type:** Planning Commission Meeting
-**Date/Time:** Wednesday, March 15, 2023, 6:00 PM
-**Location:** City Hall, Room 300
-**Purpose:** Regular meeting to discuss and vote on various planning-related matters.
+* **Meeting Type:** Planning Commission Meeting
+* **Purpose:** Review of proposed zoning changes, development proposals, and other land use matters affecting the city of Saint Paul.
+* **Date/Time:** Wednesday, March 15, 2023 at 5:00 PM
+* **Location:** City Hall, 15 W Kellogg Blvd, St. Paul, MN 55102
 
 #### Summary
 
-The Planning Commission met on Wednesday, March 15, 2023, at 6:00 PM in Room 300 of City Hall. The meeting covered several agenda items, including:
+The Planning Commission meeting covered several proposals related to land use and zoning.
 
-* **Zoning Variance Requests**: Two requests for zoning variances were presented to the commission. One was approved (7-0) for a property on University Avenue, while the other was denied (4-3) due to concerns about parking and traffic congestion.
-* **Development Proposal**: A proposal for a new mixed-use development in the Lowertown area was discussed. The commission voted 6-1 to recommend approval of the project, subject to certain conditions being met.
-* **Public Safety Discussion**: Commissioner Rachel introduced a discussion on public safety measures for areas with high crime rates. While there was general agreement on the importance of addressing public safety issues, some commissioners expressed concerns about potential over-reliance on law enforcement.
+* The commission voted to approve a new mixed-use development project on University Avenue, which includes 200 residential units and commercial space. (Unanimous approval)
+* A proposal for a new apartment complex in the Frogtown neighborhood was tabled due to concerns about parking and traffic congestion.
+* A resident spoke out against a proposed zoning change that would allow for more intensive use of land on the West Side, citing concerns about noise and pollution.
 
-The most contentious vote came when Commissioner Patel proposed an amendment to the zoning variance request that was denied (4-3). The amendment would have required additional parking spaces for the property owner. Commissioner Patel argued that it was essential for public safety and quality of life in the area, while other commissioners countered that it would be too costly for the developer.
+The commission also discussed a citywide plan to increase affordable housing options. Key points included:
 
-The commission also discussed a proposal to improve pedestrian safety on Summit Avenue, with some commissioners advocating for reduced speed limits and improved lighting. The discussion will continue at the next meeting.
+* Allocating $1 million from the city's budget towards affordable housing initiatives
+* Identifying underutilized city-owned properties for potential redevelopment into affordable housing units
+
+Commissioners had mixed reactions to the proposal, with some arguing that it doesn't go far enough in addressing the city's affordability crisis and others expressing concerns about the cost of implementing such a plan.
 
