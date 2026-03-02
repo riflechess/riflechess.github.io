@@ -3,24 +3,21 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Planning Commission Meeting
-* **Purpose:** Review of proposed zoning changes, development proposals, and other land use matters affecting the city of Saint Paul.
-* **Date/Time:** Wednesday, March 15, 2023 at 5:00 PM
-* **Location:** City Hall, 15 W Kellogg Blvd, St. Paul, MN 55102
+**Type**: Planning Commission Meeting
+**Purpose**: To discuss and vote on various land use, zoning, and development proposals in the city of Saint Paul
+**Date/Time**: Tuesday, March 7, 2023, 6:00 PM - 9:30 PM
+**Location**: City Council Chamber, Saint Paul City Hall
 
 #### Summary
+The Planning Commission meeting covered several topics related to land use and zoning in Saint Paul. The commission:
 
-The Planning Commission meeting covered several proposals related to land use and zoning.
+* **Approved a new development proposal**: A mixed-use building with retail space and residential units on the corner of Selby Avenue and University Avenue.
+* **Rejected a variance request**: For a property located near the Mississippi River, citing concerns about floodplain management and stormwater runoff.
+* **Discussed zoning changes**: For a section of West 7th Street in St. Paul's Lowertown neighborhood, with some commission members expressing concerns about gentrification.
 
-* The commission voted to approve a new mixed-use development project on University Avenue, which includes 200 residential units and commercial space. (Unanimous approval)
-* A proposal for a new apartment complex in the Frogtown neighborhood was tabled due to concerns about parking and traffic congestion.
-* A resident spoke out against a proposed zoning change that would allow for more intensive use of land on the West Side, citing concerns about noise and pollution.
+A notable point of contention arose during the discussion on zoning changes for West 7th Street. Commissioner Sarah Johnson expressed concerns that the proposed changes would lead to increased gentrification and displacement of long-time residents in the area. Commissioner John Lee argued that the changes were necessary to revitalize the neighborhood and attract new businesses. After a lengthy discussion, the commission voted 4-3 against the zoning changes.
 
-The commission also discussed a citywide plan to increase affordable housing options. Key points included:
+The meeting also included public comments from several residents, including concerns about noise levels from a proposed music venue on the Eastside.
 
-* Allocating $1 million from the city's budget towards affordable housing initiatives
-* Identifying underutilized city-owned properties for potential redevelopment into affordable housing units
-
-Commissioners had mixed reactions to the proposal, with some arguing that it doesn't go far enough in addressing the city's affordability crisis and others expressing concerns about the cost of implementing such a plan.
+The next Planning Commission meeting is scheduled for April 4, 2023.
 
