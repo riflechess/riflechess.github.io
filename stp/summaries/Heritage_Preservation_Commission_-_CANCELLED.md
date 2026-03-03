@@ -3,14 +3,11 @@ title: Heritage Preservation Commission - CANCELLED
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Heritage Preservation Commission (HPC)
-* **Purpose:** Review and discuss preservation-related matters in the city of Saint Paul
-* **Date/Time:** Cancelled (no specific date/time provided)
+**Meeting Type:** Cancelled
+**Purpose:** Heritage Preservation Commission meeting (no agenda or minutes available)
+**Date/Time:** Not specified (likely cancelled due to lack of scheduled meeting)
+**Context:** The meeting was cancelled, and no further information is provided.
 
 #### Summary
-
-The Heritage Preservation Commission meeting was cancelled. The reason for the cancellation is not specified, but it is likely due to unforeseen circumstances or a lack of agenda items.
-
-No decisions were made, and no discussions occurred due to the cancellation. However, if you are interested in staying up-to-date on preservation-related matters in Saint Paul, I recommend checking the city's website or contacting the HPC directly for future meeting schedules and agendas.
+Unfortunately, this meeting never took place. There's nothing to summarize in terms of key decisions or discussions. However, it's worth noting that the cancellation suggests there may not be pressing matters related to heritage preservation for the commission to address at this time. If you're interested in staying up-to-date on future meetings or developments in this area, I recommend checking the City of Saint Paul's official website or attending a future meeting (when scheduled).
 
