@@ -3,19 +3,17 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Board of Zoning Appeals Meeting
-**Purpose:** To hear appeals on zoning decisions and variances
-**Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Purpose:** To review and make decisions on zoning variances, appeals, and other land use-related matters
+**Date/Time:** February 10, 2023, at 2:00 PM
+**Location:** City Hall, Saint Paul
 
 #### Summary
-The Board of Zoning Appeals meeting covered several appeal cases, including a request for a variance to build a multi-unit residential building in the Highland Park neighborhood. The applicant argued that the building would be more suitable for the area due to its proximity to public transportation.
+The meeting began with a brief introduction by the Chair. The first item on the agenda was to review a request for a zoning variance in the Frogtown neighborhood. The applicant is seeking permission to build a three-story building with residential units, despite being 10 feet taller than allowed under current zoning regulations.
 
-After hearing from the applicant and neighbors, the board voted 4-1 in favor of granting the variance, with one member dissenting due to concerns about increased density in the area.
+After discussion and debate among board members, it was decided that the applicant would need to provide additional information regarding parking and traffic concerns. This decision passed with a vote of 4-1, with one member voting against due to concerns about overdevelopment in the area.
 
-The board also discussed a zoning ordinance amendment regarding signage regulations. The proposed change would allow for more flexible sign placement in commercial areas, but limit the size and type of signs allowed.
+The second item on the agenda was to review an appeal from a property owner in the Summit Hill neighborhood. The owner is disputing a citation for non-compliance with zoning regulations regarding signage. After hearing testimony from both parties, the board voted 3-2 to uphold the citation. Those voting against upholding the citation expressed concerns that the signage was minor and did not pose a significant threat to public safety.
 
-A resident expressed concern about the potential impact on local businesses, suggesting that it could lead to cluttered streetscapes. However, proponents argued that it would boost local businesses by allowing them to promote themselves more effectively.
-
-The board voted 3-2 in favor of approving the ordinance amendment, with two members opposing due to concerns about aesthetics and visual clutter. The next step will be for the proposal to go before city council for final approval.
+No budget allocations or tax proposals were discussed during this meeting.
 
