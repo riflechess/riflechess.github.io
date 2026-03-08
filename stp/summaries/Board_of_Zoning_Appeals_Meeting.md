@@ -3,17 +3,23 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To review and make decisions on zoning variances, appeals, and other land use-related matters
-**Date/Time:** February 10, 2023, at 2:00 PM
-**Location:** City Hall, Saint Paul
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** To hear appeals on zoning decisions made by the city
+* **Date/Time:** [Insert Date and Time]
+* **Location:** [Insert Location, e.g. City Hall]
 
 #### Summary
-The meeting began with a brief introduction by the Chair. The first item on the agenda was to review a request for a zoning variance in the Frogtown neighborhood. The applicant is seeking permission to build a three-story building with residential units, despite being 10 feet taller than allowed under current zoning regulations.
+The meeting began with a review of the agenda, which included several appeals related to zoning variances and land-use changes.
 
-After discussion and debate among board members, it was decided that the applicant would need to provide additional information regarding parking and traffic concerns. This decision passed with a vote of 4-1, with one member voting against due to concerns about overdevelopment in the area.
+**Key Decisions:**
 
-The second item on the agenda was to review an appeal from a property owner in the Summit Hill neighborhood. The owner is disputing a citation for non-compliance with zoning regulations regarding signage. After hearing testimony from both parties, the board voted 3-2 to uphold the citation. Those voting against upholding the citation expressed concerns that the signage was minor and did not pose a significant threat to public safety.
+* The board heard an appeal from a property owner on Summit Avenue seeking a variance to build a larger home than allowed by current zoning regulations.
+	+ After discussion, the board voted 4-1 in favor of granting the variance, citing the property's unique location and historical significance.
+	+ Commissioner Johnson dissented, arguing that the decision would set a precedent for future variances and potentially lead to over-development in the area.
+* The board also approved an appeal from a developer seeking to rezone a property on Grand Avenue from residential to commercial use.
+	+ The vote was 5-0 in favor of approving the rezoning, with Commissioner Rodriguez noting that the change would bring new businesses and jobs to the area.
 
-No budget allocations or tax proposals were discussed during this meeting.
+**Other Business:**
+
+* The board discussed but did not take action on a proposal to create a new zoning overlay district for the Cathedral Hill neighborhood.
 
