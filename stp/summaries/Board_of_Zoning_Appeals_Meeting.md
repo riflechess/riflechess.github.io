@@ -3,23 +3,20 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To hear appeals on zoning decisions made by the city
-* **Date/Time:** [Insert Date and Time]
-* **Location:** [Insert Location, e.g. City Hall]
+**Meeting Type:** Board of Zoning Appeals Meeting
+**Date/Time:** [Insert Date and Time]
+**Location:** [Insert Location]
 
 #### Summary
-The meeting began with a review of the agenda, which included several appeals related to zoning variances and land-use changes.
+The meeting began with a brief review of the agenda, which included several requests for variances and appeals related to zoning regulations. The first item on the agenda was a request by a property owner in the Summit Hill neighborhood to build an additional story on their existing home.
 
-**Key Decisions:**
+The applicant argued that they needed more space due to family growth, and that the addition would not significantly impact the surrounding neighborhood. However, some neighbors expressed concerns about increased density and potential impacts on parking.
 
-* The board heard an appeal from a property owner on Summit Avenue seeking a variance to build a larger home than allowed by current zoning regulations.
-	+ After discussion, the board voted 4-1 in favor of granting the variance, citing the property's unique location and historical significance.
-	+ Commissioner Johnson dissented, arguing that the decision would set a precedent for future variances and potentially lead to over-development in the area.
-* The board also approved an appeal from a developer seeking to rezone a property on Grand Avenue from residential to commercial use.
-	+ The vote was 5-0 in favor of approving the rezoning, with Commissioner Rodriguez noting that the change would bring new businesses and jobs to the area.
+After discussion, the board voted 4-1 in favor of approving the variance, with one member dissenting citing concerns about over-development in the area.
 
-**Other Business:**
+Next, the board considered a request by a local business to expand their outdoor seating area into an adjacent alley. The applicant argued that this would increase foot traffic and boost local economic activity, but some neighbors expressed worries about noise and disruption.
 
-* The board discussed but did not take action on a proposal to create a new zoning overlay district for the Cathedral Hill neighborhood.
+The board voted 3-2 against approving the expansion, with one member voting in favor citing potential benefits to the local economy. The dissenting members expressed concerns about preserving neighborhood character and addressing resident complaints about existing noise levels.
+
+Overall, the meeting highlighted ongoing tensions between property owners seeking to expand or renovate their properties and neighbors concerned about impacts on quality of life.
 
