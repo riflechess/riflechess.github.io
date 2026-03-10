@@ -3,20 +3,23 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Transportation Committee Meeting
-**Purpose:** Review of 2023 Road Improvement Projects, Update on Riverfront Bike Lane Plan, and Discussion on Parking Options in Downtown Area
-**Date/Time:** Wednesday, March 15th, 6:00 PM - 8:30 PM
-**Location:** City Hall, Room 200
+
+* **Meeting Type:** Transportation Committee Meeting
+* **Purpose:** Review and discuss transportation-related projects and proposals in the city of Saint Paul
+* **Date/Time:** Thursday, March 18th, 2023 at 6:00 PM
+* **Location:** City Hall, Room 300
 
 #### Summary
-The Transportation Committee met to discuss several key projects and proposals for the city. Here are some of the main points from the meeting:
 
-* The committee approved the construction of a new bike lane along the Mississippi Riverfront, which will connect several popular bike trails in the area.
-	+ This project has been a contentious issue among residents, with some expressing concerns about traffic congestion and parking availability.
-* The city is planning to allocate $1.2 million for road improvement projects on St. Peter Street and Rice Street, including resurfacing and repairs to sidewalks and curbs.
-	+ Committee members discussed the importance of prioritizing road maintenance to prevent further damage and ensure public safety.
-* A proposal to install pay-parking meters in downtown Saint Paul was met with mixed reactions from committee members. While some saw it as a necessary revenue-generating measure, others expressed concerns about potential negative impacts on local businesses.
-	+ A vote on the proposal was tabled until the next meeting to allow for further discussion and input from stakeholders.
+The meeting began with a review of ongoing projects, including the proposed expansion of the University Avenue Bus Rapid Transit (BRT) system. The committee discussed potential routes and intersections that could be impacted by the project.
 
-A notable moment of contention arose when a resident spoke out against the Riverfront Bike Lane Plan, citing concerns about increased traffic congestion and parking availability. The committee chair encouraged residents to share their feedback and suggested that a public forum be held in the coming weeks to address these concerns.
+A new proposal to improve bike lanes on Snelling Avenue was presented, which sparked some debate among committee members. Some argued that the current design is safe for cyclists, while others felt that more protection is needed, particularly at intersections with high traffic volumes.
+
+The proposal includes adding physical barriers and adjusting lane markings to create a more protected bike path. However, one committee member expressed concerns about the potential impact on parking and business access along Snelling Avenue.
+
+A vote was taken on the proposal, with 7 members in favor and 2 opposed. The proposal passed, but the opposing committee members emphasized their concerns about the need for further discussion and community engagement before implementation.
+
+The committee also reviewed a report on traffic congestion in downtown Saint Paul, highlighting areas where improvements are needed to reduce traffic backups and improve air quality. Recommendations included increasing public transportation options, promoting alternative modes of transportation (such as walking or biking), and optimizing traffic signal timing.
+
+No major budget allocations were discussed during this meeting. The next Transportation Committee meeting is scheduled for April 1st at 6:00 PM.
 
