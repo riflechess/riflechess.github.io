@@ -3,20 +3,20 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+Meeting Type: Board of Zoning Appeals
+Purpose: To review zoning appeals and variances for properties in the city of Saint Paul
+Date/Time: March 12, 2023, 2:00 PM
+Location: City Hall Council Chambers
+
 
 #### Summary
-The meeting began with a brief review of the agenda, which included several requests for variances and appeals related to zoning regulations. The first item on the agenda was a request by a property owner in the Summit Hill neighborhood to build an additional story on their existing home.
+The meeting began with a review of the agenda, which included three zoning appeal cases. The first case involved a variance request to build a two-story addition on a property in the Highland Park neighborhood. The property owner requested a 10-foot setback reduction, citing difficulties in obtaining financing for the project.
 
-The applicant argued that they needed more space due to family growth, and that the addition would not significantly impact the surrounding neighborhood. However, some neighbors expressed concerns about increased density and potential impacts on parking.
+After hearing from the property owner and representatives from the city's planning department, the board voted unanimously (4-0) to approve the variance, citing that it would not have an adverse impact on the surrounding neighborhood.
 
-After discussion, the board voted 4-1 in favor of approving the variance, with one member dissenting citing concerns about over-development in the area.
+The second case involved a zoning appeal for a property in the Summit-University neighborhood. The applicant requested a re-zoning from R1 to R3 to allow for a larger multi-unit residential building. After a lengthy discussion and testimony from neighbors, the board voted 3-1 to approve the re-zoning, with one member dissenting due to concerns about increased density.
 
-Next, the board considered a request by a local business to expand their outdoor seating area into an adjacent alley. The applicant argued that this would increase foot traffic and boost local economic activity, but some neighbors expressed worries about noise and disruption.
+The third case involved a variance request to build a detached garage in the Macalester-Groveland neighborhood. The property owner requested an exception to the city's setback requirements, citing a need for additional parking. After some discussion, the board voted unanimously (4-0) to approve the variance.
 
-The board voted 3-2 against approving the expansion, with one member voting in favor citing potential benefits to the local economy. The dissenting members expressed concerns about preserving neighborhood character and addressing resident complaints about existing noise levels.
-
-Overall, the meeting highlighted ongoing tensions between property owners seeking to expand or renovate their properties and neighbors concerned about impacts on quality of life.
+No significant public safety or quality of life issues were discussed during the meeting.
 
