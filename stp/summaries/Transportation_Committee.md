@@ -3,23 +3,21 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Transportation Committee Meeting
-* **Purpose:** Review and discuss transportation-related projects and proposals in the city of Saint Paul
-* **Date/Time:** Thursday, March 18th, 2023 at 6:00 PM
-* **Location:** City Hall, Room 300
+**Type:** Transportation Committee Meeting
+**Purpose:** Discuss transportation infrastructure improvements, safety measures, and funding allocations
+**Date/Time:** February 22, 2023, 2 PM
+**Location:** City Hall, Conference Room A
 
 #### Summary
 
-The meeting began with a review of ongoing projects, including the proposed expansion of the University Avenue Bus Rapid Transit (BRT) system. The committee discussed potential routes and intersections that could be impacted by the project.
+The Transportation Committee meeting focused on several key topics:
 
-A new proposal to improve bike lanes on Snelling Avenue was presented, which sparked some debate among committee members. Some argued that the current design is safe for cyclists, while others felt that more protection is needed, particularly at intersections with high traffic volumes.
+* **Bus Rapid Transit (BRT) project updates**: The committee received an update on the proposed BRT route along University Avenue. The proposal aims to improve traffic flow and increase public transportation options.
+* **Pedestrian safety improvements**: The committee discussed potential safety enhancements for pedestrian crossings, including improved lighting and signage.
+* **Budget allocation**: The committee allocated $1 million from the city's transportation fund towards the BRT project.
+* **Community input**: Committee members expressed concern about parking and traffic congestion in the affected neighborhoods.
 
-The proposal includes adding physical barriers and adjusting lane markings to create a more protected bike path. However, one committee member expressed concerns about the potential impact on parking and business access along Snelling Avenue.
+One point of contention arose during the discussion on budget allocation. Some committee members felt that the $1 million allocation was insufficient, citing rising construction costs and potential delays in the project timeline. However, others argued that this amount would be sufficient to move the project forward while minimizing additional funding requests.
 
-A vote was taken on the proposal, with 7 members in favor and 2 opposed. The proposal passed, but the opposing committee members emphasized their concerns about the need for further discussion and community engagement before implementation.
-
-The committee also reviewed a report on traffic congestion in downtown Saint Paul, highlighting areas where improvements are needed to reduce traffic backups and improve air quality. Recommendations included increasing public transportation options, promoting alternative modes of transportation (such as walking or biking), and optimizing traffic signal timing.
-
-No major budget allocations were discussed during this meeting. The next Transportation Committee meeting is scheduled for April 1st at 6:00 PM.
+No votes were taken, but the committee agreed to continue discussing these topics at the next meeting. The proposed BRT route will also undergo further community outreach and engagement before any final decisions are made.
 
