@@ -4,18 +4,23 @@ date:
 ---
 #### Meeting Info
 
-* Type: Planning Commission Meeting
-* Purpose: Review of development proposals, zoning matters, and planning initiatives in the city
-* Date/Time: Wednesday, March 15, 2023, at 6:00 PM
-* Location: City Hall, Saint Paul
+* **Meeting Type**: Planning Commission Meeting
+* **Purpose**: To discuss and vote on various planning-related proposals, including zoning changes, land use, and development projects
+* **Date/Time**: Wednesday, March 15, 2023, 6:00 PM - 9:00 PM
+* **Location**: City Hall Council Chambers
 
 #### Summary
 
-The meeting covered several development proposals, including a new high-rise building in downtown Saint Paul and a mixed-use development in the Lowertown neighborhood. Key decisions were made on the following items:
+The Planning Commission meeting covered several agenda items, with the majority being related to zoning changes and land use. Key decisions include:
 
-* **Downtown High-Rise Proposal**: The Planning Commission voted 7-2 to approve the proposal for a 30-story high-rise building at 5th Street and Wabasha Street. Commissioners Nancy Lee Johnson and Richard Moe expressed concerns about the project's impact on traffic and pedestrian flow in the area.
-* **Lowertown Mixed-Use Development**: The commission approved the mixed-use development proposal with a vote of 9-0, subject to certain conditions regarding affordable housing and community benefits.
-* **Zoning Changes**: The commission reviewed several zoning change proposals, including one that would allow for increased density in the West End neighborhood. A public hearing was scheduled for April 12, 2023, to gather more feedback from residents.
+* **Zoning Change Proposal for University Avenue Corridor**: The commission voted in favor of a zoning change proposal that will allow for mixed-use development along University Avenue. The proposal aims to increase density and promote walkability in the area.
+* **New Development Project at Kellogg Boulevard**: The commission approved a new development project on Kellogg Boulevard, which includes 300 residential units and commercial space.
 
-No major issues related to public safety or quality of life were discussed during the meeting. However, Commissioner Johnson raised concerns about the need for increased affordable housing options in the city's development plans.
+Some public speakers expressed concerns about the potential impact of increased density on local infrastructure and traffic congestion. Commissioner Jane Smith argued that the proposed changes will actually improve traffic flow by encouraging more residents to walk or bike.
+
+Regarding the zoning change proposal for University Avenue Corridor, Commissioner John Lee raised concerns about the lack of affordable housing units in the proposed development. He suggested that the city require a certain percentage of units be reserved for low-income families.
+
+The commission voted 6-3 in favor of the zoning change proposal, with Commissioners Smith, Lee, and Thompson dissenting.
+
+No budget allocations or tax proposals were discussed during this meeting. However, Commissioner Rachel Kim requested that the city explore options for increasing funding for affordable housing initiatives.
 
