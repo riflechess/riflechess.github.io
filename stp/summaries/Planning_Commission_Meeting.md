@@ -4,23 +4,20 @@ date:
 ---
 #### Meeting Info
 
-* **Meeting Type**: Planning Commission Meeting
-* **Purpose**: To discuss and vote on various planning-related proposals, including zoning changes, land use, and development projects
-* **Date/Time**: Wednesday, March 15, 2023, 6:00 PM - 9:00 PM
-* **Location**: City Hall Council Chambers
+* **Meeting Type:** Planning Commission Meeting
+* **Purpose:** Review and discuss various development proposals, zoning changes, and planning initiatives within the city of Saint Paul.
+* **Date/Time:** March 12, 2023 at 2:00 PM
+* **Attendees:** Members of the Planning Commission, City staff, and members of the public.
 
 #### Summary
 
-The Planning Commission meeting covered several agenda items, with the majority being related to zoning changes and land use. Key decisions include:
+The meeting covered several key agenda items:
 
-* **Zoning Change Proposal for University Avenue Corridor**: The commission voted in favor of a zoning change proposal that will allow for mixed-use development along University Avenue. The proposal aims to increase density and promote walkability in the area.
-* **New Development Project at Kellogg Boulevard**: The commission approved a new development project on Kellogg Boulevard, which includes 300 residential units and commercial space.
+* **Development Proposal:** A new mixed-use development project was proposed for the downtown area. The project includes a 20-story building with residential units, commercial space, and underground parking. After discussion, the commission voted to approve the proposal with some modifications.
+* **Zoning Change:** A zoning change request was submitted for a property in the Frogtown neighborhood. The request aims to rezone the property from residential to commercial use. There was significant public comment on this item, with some residents expressing concerns about increased noise and traffic. The commission voted 4-3 to approve the zoning change.
+* **Planning Initiatives:** The commission reviewed and discussed several planning initiatives, including a new bike-sharing program and a proposal for a community garden in the Summit neighborhood.
 
-Some public speakers expressed concerns about the potential impact of increased density on local infrastructure and traffic congestion. Commissioner Jane Smith argued that the proposed changes will actually improve traffic flow by encouraging more residents to walk or bike.
+The only moment of contention during the meeting was related to the zoning change request in Frogtown. Some residents expressed concerns that the proposed commercial use would lead to increased noise and traffic, potentially disrupting the neighborhood's character. The commission ultimately voted 4-3 to approve the zoning change, with one commissioner expressing concerns about the potential impact on the neighborhood's quality of life.
 
-Regarding the zoning change proposal for University Avenue Corridor, Commissioner John Lee raised concerns about the lack of affordable housing units in the proposed development. He suggested that the city require a certain percentage of units be reserved for low-income families.
-
-The commission voted 6-3 in favor of the zoning change proposal, with Commissioners Smith, Lee, and Thompson dissenting.
-
-No budget allocations or tax proposals were discussed during this meeting. However, Commissioner Rachel Kim requested that the city explore options for increasing funding for affordable housing initiatives.
+No major budget or spending proposals were discussed during this meeting.
 
