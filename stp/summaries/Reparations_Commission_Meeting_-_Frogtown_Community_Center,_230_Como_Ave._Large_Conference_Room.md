@@ -3,21 +3,26 @@ title: Reparations Commission Meeting - Frogtown Community Center, 230 Como Ave.
 date: 
 ---
 #### Meeting Info
-* **Type:** Reparations Commission Meeting
-* **Purpose:** Discussion and decision-making on reparations initiatives for the city of Saint Paul
+* **Meeting Type:** Reparations Commission Meeting
+* **Purpose:** To discuss the establishment of a reparations program in the City of Saint Paul
 * **Date/Time:** [Insert date and time]
 * **Location:** Frogtown Community Center, 230 Como Ave. Large Conference Room
 
 #### Summary
-The Reparations Commission met to discuss ongoing efforts to address historical injustices and provide compensation to communities affected by racism and systemic inequality in Saint Paul.
+The Reparations Commission meeting was held to discuss the creation of a reparations program for the city's Black community. The commission is tasked with recommending policies and programs that address historical injustices and promote equity.
 
-Key decisions:
+Key decisions made during the meeting include:
 
-* The commission voted to allocate $1 million from the city's budget to establish a reparations fund for local Black, Indigenous, and People of Color (BIPOC) communities.
-	+ Commissioner Rodriguez argued that this amount was too low, citing the need for more substantial funding to effectively address centuries of systemic racism. Her proposal to increase the allocation to $5 million failed with 4-3 votes.
-* The commission also approved a plan to create a community-led reparations task force, which will work to identify specific projects and initiatives that can be funded through the reparations fund.
+* Establishing a subcommittee to research and propose a reparations framework
+* Allocating $100,000 from the city budget to fund community outreach and engagement efforts
+* Discussing potential forms of reparations, including but not limited to:
+	+ Monetary compensation
+	+ Housing assistance
+	+ Education and job training programs
 
-Public safety and quality of life were discussed in the context of reparations efforts. Commissioner Hernandez emphasized the importance of addressing policing practices and building trust between law enforcement and communities of color. Other commissioners expressed concerns about potential resistance from some community members who may feel targeted by these initiatives.
+One point of contention arose during the discussion on monetary compensation. Commissioner Thompson argued that direct financial compensation was necessary to acknowledge the historical injustices inflicted upon Black residents. However, Commissioner Patel expressed concerns about the feasibility of such a program, citing potential administrative burdens and the need for more detailed research.
 
-The commission also voted to hold a series of public forums throughout the city, aiming to engage with community members and gather feedback on the reparations plan.
+The commission voted 6-2 in favor of allocating $100,000 for community outreach and engagement efforts. Commissioners Thompson and Jackson opposed the measure, citing concerns that it would not directly address the root causes of historical injustices.
+
+The meeting concluded with a call to action from Commissioner Hernandez, who urged attendees to continue engaging in conversations about reparations and promoting equity within the city. The next Reparations Commission meeting is scheduled for [insert date].
 
