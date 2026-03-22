@@ -3,27 +3,22 @@ title: City Council on 2026-03-18 3:30 PM - Councilmember Kim may be participati
 date: 2026-03-18
 ---
 #### Meeting Info
-**Meeting Type:** City Council Meeting
-**Date/Time:** 2026-03-18, 3:30 PM
-**Councilmember Kim may be participating remotely.**
+**Type:** City Council Meeting
+**Purpose:** Regular City Council Meeting to discuss various city business and ordinances
+**Date/Time:** March 18, 2026, 3:30 PM
+**Attendees:** Various City Council members, Public Housing Agency representatives, and other stakeholders
 
 #### Summary
 
-The meeting began with a recognition of Eid al-Fatir and the Muslim community's contributions to St. Paul. A resolution was adopted unanimously.
+The meeting began with a resolution recognizing Eid al-Fatir and celebrating the holiday's significance to the Muslim community in St. Paul. This was followed by the final adoption of Ordinance 26-16, which rezone property at 325 Commercial Street from H1 Residential to I1 Light Industrial.
 
-Next, two ordinances were up for final adoption: one granting Xcel Energy permission to rezone property at 325 Commercial Street from H1 Residential to I1 Light Industrial, and another temporarily extending the pre-eviction notice period from 30 days to 60 days in Section 193.04 of the Legislative Code.
+Next, the council discussed Ordinance 26-18, amending Section 193.04 of the Legislative Code to temporarily extend the pre-eviction notice period in Section 193.04 from 30 days to 60 days. The Public Housing Agency (PHA) expressed concerns about being exempted from this ordinance, citing potential harm to their funding and ability to provide housing services.
 
-The discussion on the second ordinance centered around a proposed amendment exempting the St. Paul Public Housing Agency (PHA) from the temporary extension. The PHA argued that this exemption was necessary due to their unique funding situation and concerns about federal funding. However, some council members questioned the logic behind exempting the PHA while still providing tenant protections for other residents.
+The council debated the amendment, with some members questioning the PHA's exemption and others expressing support for the ordinance. Council Member Johnson raised concerns about the potential impact on tenants and suggested delaying the vote to allow further research and discussion.
 
-Councilmember Johnson expressed her concern about creating exemptions and setting a precedent for future carve-outs. She also asked questions about the demographic data of eviction filings and was granted a week to review it.
+After a one-week layover was agreed upon, the meeting continued with Item 19, which dealt with establishing minimum qualifications for the position of fire chief. The Department of TER presented changes to the requirements, including a bachelor's degree or higher and no substitution for education. The public hearing for this item was closed, and it will be laid over until March 25th.
 
-The discussion on the second ordinance continued with questions from council members, including Ms. Kim, Ms. Yang, and Ms. Johnson. They inquired about the impact of the amendment on the PHA's funding, the reporting timeline, and income verification.
+The meeting concluded with legislative hearing consent agenda items 23 through 31 being approved as amended. Other business included news from the wards, including the St. Paul NAACP hosting a meeting with the mayor at Hallie Q. Brown Community Center and a coffee and conversations event about the Rondo renovation plan in Council Member Bowie's ward.
 
-After considering the pros and cons, the council decided to lay over the ordinance for a week to allow further research and discussion.
-
-The meeting also included presentations from various departments, including a public hearing on a resolution approving the application of Allianz Field for a sound level variance. The consent agenda was adopted as amended.
-
-Finally, news from the wards was shared, including updates on the St. Paul NAACP meeting with the mayor, the Rondo renovation plan, and the launch of the small business incubator at the Rondo Community Land Trust.
-
-The meeting adjourned after a lively discussion and exchange of ideas among council members and stakeholders.
+The CVS building in Midway was also mentioned, as it has finally been demolished after years of being an eyesore in the community.
 
