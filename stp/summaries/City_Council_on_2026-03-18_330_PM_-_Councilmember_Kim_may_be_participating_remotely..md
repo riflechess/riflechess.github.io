@@ -4,21 +4,25 @@ date: 2026-03-18
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Regular City Council Meeting to discuss various city business and ordinances
+**Purpose:** Second reading of ordinances and resolutions, public hearing on grievances about federal immigration operations, adoption of consent agenda items
 **Date/Time:** March 18, 2026, 3:30 PM
-**Attendees:** Various City Council members, Public Housing Agency representatives, and other stakeholders
+**Attendees:** Mayor's representative, City Council members, staff from various departments
 
 #### Summary
 
-The meeting began with a resolution recognizing Eid al-Fatir and celebrating the holiday's significance to the Muslim community in St. Paul. This was followed by the final adoption of Ordinance 26-16, which rezone property at 325 Commercial Street from H1 Residential to I1 Light Industrial.
+The meeting consisted of three main topics: the second reading and public hearing of ordinances related to fire chief qualifications and sound level variances for amplified sound events, a public hearing on grievances about federal immigration operations, and adoption of consent agenda items.
 
-Next, the council discussed Ordinance 26-18, amending Section 193.04 of the Legislative Code to temporarily extend the pre-eviction notice period in Section 193.04 from 30 days to 60 days. The Public Housing Agency (PHA) expressed concerns about being exempted from this ordinance, citing potential harm to their funding and ability to provide housing services.
+**Ordinance 26-16:** The council adopted Ordinance 26-16, which grants Xcel Energy permission to rezone property at 325 Commercial Street from H1 Residential to I1 Light Industrial. This ordinance amends Chapter 60 of the Legislative Code pertaining to the zoning map.
 
-The council debated the amendment, with some members questioning the PHA's exemption and others expressing support for the ordinance. Council Member Johnson raised concerns about the potential impact on tenants and suggested delaying the vote to allow further research and discussion.
+**Resolution 26-461:** The council unanimously adopted Resolution 26-461, recognizing Eid al-Fatir and celebrating St. Paul residents who observe this holiday. Councilmember Kim expressed her gratitude for the Muslim community's contributions to the city and emphasized the importance of inclusivity and respect for all faiths.
 
-After a one-week layover was agreed upon, the meeting continued with Item 19, which dealt with establishing minimum qualifications for the position of fire chief. The Department of TER presented changes to the requirements, including a bachelor's degree or higher and no substitution for education. The public hearing for this item was closed, and it will be laid over until March 25th.
+**Ordinance 26-18:** The council discussed Ordinance 26-18, which amends Section 193.04 of the Legislative Code to temporarily extend the pre-eviction notice period from 30 days to 60 days. Councilmember Johnson proposed an amendment to exempt the St. Paul Public Housing Agency and Section 8 properties from this ordinance due to concerns about federal funding. The council debated the pros and cons of the amendment, with some members expressing concerns about potential impacts on tenants.
 
-The meeting concluded with legislative hearing consent agenda items 23 through 31 being approved as amended. Other business included news from the wards, including the St. Paul NAACP hosting a meeting with the mayor at Hallie Q. Brown Community Center and a coffee and conversations event about the Rondo renovation plan in Council Member Bowie's ward.
+**Ordinance 26-17:** The council held a public hearing for Ordinance 26-17, which establishes minimum qualifications for the vacancy of fire chief. A representative from the Department of Public Safety presented the changes to the ordinance, including a requirement that candidates have a bachelor's degree or higher and meet specific experience requirements.
 
-The CVS building in Midway was also mentioned, as it has finally been demolished after years of being an eyesore in the community.
+**Resolution 26-67:** The council adopted Resolution 26-67, authorizing the Police Department to accept a grant for intensive comprehensive peace officer education and training from the State of Minnesota.
+
+**Public Hearing on Grievances about Federal Immigration Operations:** A public hearing was held regarding grievances about federal immigration operations. No one spoke during the public hearing portion of this item.
+
+The meeting concluded with adoption of consent agenda items, news from the wards, and announcements of upcoming events in St. Paul.
 
