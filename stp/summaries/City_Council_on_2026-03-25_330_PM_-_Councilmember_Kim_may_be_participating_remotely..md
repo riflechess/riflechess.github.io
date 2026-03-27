@@ -4,23 +4,28 @@ date: 2026-03-25
 ---
 #### Meeting Info
 **Meeting Type:** City Council Meeting
-**Date/Time:** 2026-03-25, 3:30 PM
+**Date/Time:** March 25, 2026, 3:30 PM
 **Location:** City Hall
-**Context:** The meeting included the swearing-in of Nicole Tonder as the new city clerk, resolutions to recognize community leaders and individuals for their contributions, discussion on public safety and quality of life issues, and consideration of ordinances related to immigration enforcement and tenant protections.
+**Attendees:** City Council Members, Staff, Public Speakers
+**Purpose:** To discuss and vote on various resolutions and ordinances related to public safety, housing, immigration enforcement, and community development.
 
 #### Summary
 
-* The meeting began with the swearing-in of Nicole Tonder as the new city clerk.
-* Resolution 26-502 was introduced by Council Vice President Yang to recognize Toshua Vang's contributions to the Hmong community and declare March 25th, 2026 as Tishul Vang Day in St. Paul.
-* The resolution was adopted with a unanimous vote.
-* A second resolution (26-503) was introduced by Council Vice President Yang to honor Jack Byers, Executive Director of the Payne Phelan Community Council, and proclaim Sunday, March 29th, 2026 as Jack Byers Day in St. Paul. The council members praised Byers for his dedication to community service.
-* A motion was made to adopt the amendment (version 2) related to Ordinance 26-17, which requires the city to reopen the public hearing on this item due to substantive changes.
-* Council Member Coleman explained the changes and expressed her support for the amendment. The amendment was approved with a unanimous vote.
-* Resolution 26-412 was considered, which relates to tobacco product shops licensing fees and penalties. Monica Schaefer from the City Attorney's office presented the case against White Bear Tobacco Marketplace Inc., arguing that they had sold tobacco products to underage buyers twice within two years. Council Vice President Yang supported the recommended presumptive matrix penalty of $1,000 and hearing fees.
-* The council voted in favor of the resolution with a 7-0 vote.
-* Ordinance 26-17 was considered for final adoption after the public hearing on April 1st. However, due to concerns from Council Member Johnson about the language used in some emails regarding the amendment, it failed to pass with a 2-5 vote.
-* The council then voted to adopt the ordinance (Ordinance 26-19) as is, which adds Chapter 44A to the Administrative Code related to training, reporting, and programming on civil immigration laws and enforcement practices. This was seen as a significant step in addressing concerns about immigration enforcement and public safety in the city.
-* The meeting concluded with some news from the wards, including upcoming events and developments.
+The meeting began with the swearing-in of Nicole Tonder as the new Interim City Clerk. Vice President Yang introduced a resolution recognizing Toshua Vang for his contributions and leadership in the Hmong community, and also declared Wednesday, March 25th, 2026, as Tishul Vang Day in the City of St. Paul.
 
-Note: There were no major disagreements or contentions during the meeting that would warrant further explanation beyond what is summarized above.
+The meeting then moved on to discuss Resolution 26-503, which recognized District 5's Executive Director, Jack Byers, for his service and proclaimed Sunday, March 29th, 2026, as Jack Byers Day in the city.
+
+Council Member Yang introduced a motion to approve the recommendations of the City Attorney's office regarding the tobacco product shop license held by White Bear Tobacco Marketplace Incorporated. The resolution was adopted with seven in favor and none opposed.
+
+The meeting then discussed Ordinance 26-17, which established the minimum qualifications for the vacancy of Fire Chief. Council Member Coleman introduced an amendment to the ordinance, which included requirements for additional qualifying experience to be considered as a substitute for education. The amendment was approved with seven in favor and none opposed.
+
+Council Member Johnson expressed concerns about the proposed exemption for public housing tenants from the 60-day pre-eviction notice period. She argued that this exemption would undermine the purpose of the ordinance, which is to protect renters from eviction. Vice President Yang also expressed concerns about the exemption, citing potential harm to public housing tenants and the city's reputation.
+
+The meeting then moved on to discuss Ordinance 26-19, which added Chapter 44A to the Administrative Code related to training, reporting, and programming regarding civil immigration laws and enforcement practices under the separation ordinance. The Chief Policy Officer, Tim Greenfield, presented a comprehensive report on the proposed ordinance, addressing concerns about regulating or limiting federal immigration activity.
+
+Council Member Bowie expressed concerns about the HR department's involvement in creating standardized training for employees. She asked if the HR department had been involved in deliberations about this required training.
+
+The meeting concluded with several items related to public hearings and consent agenda items. The Council President adjourned the meeting, and Vice President Yang announced news from the wards, including a community conversation on the impact of immigration rates on housing at the Eastside Freedom Library and an egg hunt at McDonough Rec Center.
+
+The main points of contention during the meeting were related to the proposed exemption for public housing tenants from the 60-day pre-eviction notice period, which was opposed by several Council Members.
 
