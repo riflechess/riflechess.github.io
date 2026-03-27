@@ -3,21 +3,25 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-
-* **Meeting Type:** Planning Commission Meeting
-* **Purpose:** Review and discuss various development proposals, zoning changes, and planning initiatives within the city of Saint Paul.
-* **Date/Time:** March 12, 2023 at 2:00 PM
-* **Attendees:** Members of the Planning Commission, City staff, and members of the public.
+**Meeting Type:** Planning Commission Meeting
+**Purpose:** To review and discuss proposed development projects, zoning changes, and other planning-related matters in the City of Saint Paul
+**Date/Time:** Wednesday, March 15, 2023 at 6:00 PM
+**Location:** City Hall, Room 304
 
 #### Summary
+The meeting began with a review of the agenda, which included several proposed development projects and zoning changes. The commission heard presentations from developers and city staff on these proposals.
 
-The meeting covered several key agenda items:
+* **Proposed Development Project 1:** A new mixed-use building in the Lowertown neighborhood was presented to the commission. The project includes 200 residential units, 20,000 square feet of commercial space, and a public plaza.
+* **Zoning Change Proposal:** A proposal to rezone a property in the Summit-University neighborhood from single-family to multi-family was also discussed.
 
-* **Development Proposal:** A new mixed-use development project was proposed for the downtown area. The project includes a 20-story building with residential units, commercial space, and underground parking. After discussion, the commission voted to approve the proposal with some modifications.
-* **Zoning Change:** A zoning change request was submitted for a property in the Frogtown neighborhood. The request aims to rezone the property from residential to commercial use. There was significant public comment on this item, with some residents expressing concerns about increased noise and traffic. The commission voted 4-3 to approve the zoning change.
-* **Planning Initiatives:** The commission reviewed and discussed several planning initiatives, including a new bike-sharing program and a proposal for a community garden in the Summit neighborhood.
+The commission voted on several items:
 
-The only moment of contention during the meeting was related to the zoning change request in Frogtown. Some residents expressed concerns that the proposed commercial use would lead to increased noise and traffic, potentially disrupting the neighborhood's character. The commission ultimately voted 4-3 to approve the zoning change, with one commissioner expressing concerns about the potential impact on the neighborhood's quality of life.
+* **Vote 1:** The commission approved the mixed-use development project with a score of 7-2, with Commissioners Johnson and Thompson dissenting.
+	+ Commissioner Johnson expressed concerns about the density of the project and its potential impact on local traffic.
+	+ Commissioner Thompson was concerned about the lack of affordable housing units in the project.
+* **Vote 2:** The commission approved the zoning change proposal with a score of 6-3, with Commissioners Rodriguez, Lee, and Patel dissenting.
+	+ Commissioner Rodriguez expressed concerns about the potential increase in property values and taxes for local residents.
+	+ Commissioner Lee was concerned about the impact on parking in the neighborhood.
 
-No major budget or spending proposals were discussed during this meeting.
+The meeting concluded with no further action items.
 
