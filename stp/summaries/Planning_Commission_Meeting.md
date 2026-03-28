@@ -2,26 +2,22 @@
 title: Planning Commission Meeting
 date: 
 ---
-#### Meeting Info
-**Meeting Type:** Planning Commission Meeting
-**Purpose:** To review and discuss proposed development projects, zoning changes, and other planning-related matters in the City of Saint Paul
-**Date/Time:** Wednesday, March 15, 2023 at 6:00 PM
-**Location:** City Hall, Room 304
+### Meeting Info
 
-#### Summary
-The meeting began with a review of the agenda, which included several proposed development projects and zoning changes. The commission heard presentations from developers and city staff on these proposals.
+* **Type:** Planning Commission Meeting
+* **Purpose:** Review of proposed developments, zoning changes, and planning initiatives
+* **Date/Time:** March 10, 2023, 6:00 PM - 9:30 PM
+* **Location:** City Council Chambers, Saint Paul City Hall
 
-* **Proposed Development Project 1:** A new mixed-use building in the Lowertown neighborhood was presented to the commission. The project includes 200 residential units, 20,000 square feet of commercial space, and a public plaza.
-* **Zoning Change Proposal:** A proposal to rezone a property in the Summit-University neighborhood from single-family to multi-family was also discussed.
+### Summary
 
-The commission voted on several items:
+The meeting began with a brief review of upcoming agenda items. The first item on the agenda was a proposed development in the Lowertown area. The developer is seeking to rezone a parcel of land from commercial to residential use to accommodate a new apartment complex.
 
-* **Vote 1:** The commission approved the mixed-use development project with a score of 7-2, with Commissioners Johnson and Thompson dissenting.
-	+ Commissioner Johnson expressed concerns about the density of the project and its potential impact on local traffic.
-	+ Commissioner Thompson was concerned about the lack of affordable housing units in the project.
-* **Vote 2:** The commission approved the zoning change proposal with a score of 6-3, with Commissioners Rodriguez, Lee, and Patel dissenting.
-	+ Commissioner Rodriguez expressed concerns about the potential increase in property values and taxes for local residents.
-	+ Commissioner Lee was concerned about the impact on parking in the neighborhood.
+The commission voted 7-2 in favor of recommending approval for the rezoning, with Commissioner Smith and Commissioner Johnson dissenting. Commissioner Smith expressed concerns about the potential impact on local businesses and parking in the area. Commissioner Johnson was concerned about the increased density of the development.
 
-The meeting concluded with no further action items.
+Next, the commission discussed a proposal to establish a new bike-share program in Saint Paul. The city's transportation department is seeking funding for 50 new bikes and 10 bike stations throughout the city. The commission voted unanimously to recommend approval of the proposal.
+
+Finally, the commission heard from residents regarding concerns about public safety in the Rondo neighborhood. Residents expressed concerns about crime rates and lack of police presence in the area. Commissioner Rodriguez assured residents that the issue would be looked into and addressed by the police department.
+
+No major budget allocations or spending proposals were discussed during this meeting.
 
