@@ -2,26 +2,21 @@
 title: Board of Zoning Appeals Meeting
 date: 
 ---
-### Meeting Info
+#### Meeting Info
+**Type:** Board of Zoning Appeals Meeting
+**Purpose:** To review and decide on zoning-related appeals and variances
+**Date/Time:** February 22, 2023, 9:00 AM - 12:00 PM
+**Location:** City Hall, Saint Paul, MN
 
-#### Type: Board of Zoning Appeals Meeting
-#### Purpose: Review of zoning variance requests and decisions on appeals
-#### Date/Time: Wednesday, March 15, 2023, 6:00 PM
-#### Location: City Hall, Room 200
+#### Summary
+The meeting began with a brief overview of the agenda. The first item was an appeal for a variance to build a two-story addition on a property in the Highland Park neighborhood. The applicant argued that the addition would not harm the neighborhood's character and would be consistent with nearby developments.
 
-### Summary
+After some discussion, the board voted 4-1 in favor of granting the variance, with one member voting against due to concerns about over-development in the area. The successful appeal will allow the property owner to move forward with their plans.
 
-The Board of Zoning Appeals meeting focused on reviewing zoning variance requests for various properties in Saint Paul. The board reviewed three main cases:
+Other agenda items included:
 
-* Case #1: Request to allow a two-story addition to a single-family home on the West Side. The owner cited space constraints and requested a variance from the zoning code.
-* Case #2: Appeal of a zoning enforcement action against a property owner in the Payne-Phalen neighborhood for alleged non-compliance with zoning regulations.
+* A request for a zoning change on a property in the Lowertown neighborhood, which was approved 5-0.
+* An appeal of a denied variance for a property in the Summit Hill neighborhood, which was dismissed 4-1 due to lack of sufficient information provided by the applicant.
 
-After hearing presentations from all parties involved, the board deliberated and voted on each case:
-
-* Case #1 was approved with conditions, allowing the two-story addition but requiring modifications to the roofline.
-* Case #2 was denied, upholding the zoning enforcement action against the property owner for non-compliance.
-
-There was some discussion about the impact of zoning decisions on neighborhood character and property values. Some board members expressed concerns that overly restrictive zoning regulations could drive out long-time residents and small businesses. However, others argued that preserving neighborhood character is essential to maintaining Saint Paul's unique identity.
-
-The next Board of Zoning Appeals meeting is scheduled for April 12, 2023.
+The meeting concluded with no significant public comments or discussions.
 
