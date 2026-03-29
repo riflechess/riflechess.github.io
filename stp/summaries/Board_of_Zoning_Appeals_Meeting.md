@@ -3,20 +3,19 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Board of Zoning Appeals Meeting
-**Purpose:** To review and decide on zoning-related appeals and variances
-**Date/Time:** February 22, 2023, 9:00 AM - 12:00 PM
-**Location:** City Hall, Saint Paul, MN
+**Meeting Type:** Board of Zoning Appeals
+**Purpose:** Review and decide on zoning variance requests
+**Date/Time:** Wednesday, March 15th, 2023, 6:00 PM
+**Location:** City Hall, Room 200
 
 #### Summary
-The meeting began with a brief overview of the agenda. The first item was an appeal for a variance to build a two-story addition on a property in the Highland Park neighborhood. The applicant argued that the addition would not harm the neighborhood's character and would be consistent with nearby developments.
+The meeting began with a review of the agenda, which included three zoning variance requests. The first request was from a homeowner in the Summit Hill neighborhood who sought to add a second-story addition to their property, which is currently zoned for single-family residences only.
 
-After some discussion, the board voted 4-1 in favor of granting the variance, with one member voting against due to concerns about over-development in the area. The successful appeal will allow the property owner to move forward with their plans.
+The board voted unanimously (5-0) to approve the request, citing the property's unique architecture and historical significance as reasons for the exception.
 
-Other agenda items included:
+The second request came from a business owner on University Avenue who wanted to expand their existing commercial space. However, neighbors raised concerns about increased noise and parking issues. The board discussed these concerns and ultimately voted 3-2 in favor of approving the expansion, with Commissioner Rodriguez and Chairperson Lee dissenting due to concerns over potential negative impacts on the neighborhood.
 
-* A request for a zoning change on a property in the Lowertown neighborhood, which was approved 5-0.
-* An appeal of a denied variance for a property in the Summit Hill neighborhood, which was dismissed 4-1 due to lack of sufficient information provided by the applicant.
+The third request was from a developer who sought to rezone a vacant lot in the Lowertown neighborhood for a new high-rise apartment building. Neighbors expressed strong opposition to the project, citing concerns over density and lack of community engagement in the planning process. The board voted 4-1 against approving the rezoning, with Commissioner Rodriguez voting in favor and Chairperson Lee dissenting.
 
-The meeting concluded with no significant public comments or discussions.
+The meeting concluded with no further action items or discussion.
 
