@@ -3,17 +3,16 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Board of Zoning Appeals Meeting
-**Purpose:** To review and make decisions on zoning-related appeals and variances
-**Date/Time:** [Insert Date and Time]
-**Location:** [Insert Location]
+* **Meeting Type:** Board of Zoning Appeals Meeting
+* **Purpose:** To review and make decisions on zoning variances and appeals in the city of Saint Paul
+* **Date/Time:** [Insert date and time]
+* **Location:** City Hall, 15 W Kellogg Blvd, St. Paul, MN
 
 #### Summary
-The meeting began with a review of agenda items, including three zoning appeal requests. The first request was from a property owner in the Summit-University neighborhood seeking a variance to build a two-story addition on their home. After discussion, the board voted 3-1 to approve the request.
+The Board of Zoning Appeals (BZA) meeting covered several cases involving zoning variances and appeals. The main topics discussed were:
 
-The second item was a request for a zoning text amendment to allow for micro-units in certain areas of the city. The proposal aimed to increase density and affordability in these neighborhoods. A lengthy discussion ensued among board members, with some expressing concerns about potential impacts on neighborhood character and parking. A vote was taken, with 4 members voting in favor and 1 opposed.
+* Case #2023-01: A variance was requested for a property on the west side to build a two-story addition. After discussion, the board voted 4-1 in favor of granting the variance.
+* Case #2023-02: An appeal was made regarding a zoning decision on a property in the downtown area. The board discussed the issue and ultimately decided to uphold the original zoning decision with a 3-2 vote.
 
-The third item was a request for a variance to operate a home-based business in the Macalester-Groveland neighborhood. The property owner presented their case, and after discussion, the board voted unanimously to approve the request.
-
-No budget allocations or tax proposals were discussed during this meeting.
+No significant public safety or quality of life issues were raised during the meeting. However, one neighbor spoke up about concerns related to parking in the area affected by Case #2023-01, which was taken into consideration by the board before making their decision.
 
