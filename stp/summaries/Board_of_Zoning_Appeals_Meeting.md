@@ -3,16 +3,21 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Board of Zoning Appeals Meeting
-* **Purpose:** To review and make decisions on zoning variances and appeals in the city of Saint Paul
-* **Date/Time:** [Insert date and time]
-* **Location:** City Hall, 15 W Kellogg Blvd, St. Paul, MN
+Meeting Type: Board of Zoning Appeals Meeting
+Purpose: To hear appeals from property owners regarding zoning decisions
+Date/Time: [Insert Date and Time]
+Location: [Insert Location]
+
+The meeting began with a brief explanation of the agenda, which included four appeal cases.
 
 #### Summary
-The Board of Zoning Appeals (BZA) meeting covered several cases involving zoning variances and appeals. The main topics discussed were:
+The first case involved an appeal by a homeowner to allow for a second story addition. The Board voted 4-1 in favor of granting the variance, with one member expressing concerns about the potential impact on neighboring properties' views.
 
-* Case #2023-01: A variance was requested for a property on the west side to build a two-story addition. After discussion, the board voted 4-1 in favor of granting the variance.
-* Case #2023-02: An appeal was made regarding a zoning decision on a property in the downtown area. The board discussed the issue and ultimately decided to uphold the original zoning decision with a 3-2 vote.
+In the second case, a property owner appealed a decision regarding a permitted use variance. After hearing testimony from both sides, the Board voted unanimously to approve the appeal and grant the requested variance.
 
-No significant public safety or quality of life issues were raised during the meeting. However, one neighbor spoke up about concerns related to parking in the area affected by Case #2023-01, which was taken into consideration by the board before making their decision.
+The third case involved an appeal by a business owner seeking permission to expand their operations beyond what was allowed under existing zoning regulations. The discussion turned contentious when one member of the public spoke out against the proposal, citing concerns about traffic congestion in the area. The Board ultimately voted 3-2 in favor of approving the variance, with two members dissenting due to concerns about overdevelopment.
+
+The final case on the agenda was a request for a zoning change to allow for a new mixed-use development. After hearing from developers and neighbors, the Board voted unanimously to approve the proposed zoning change.
+
+There were no major updates or announcements regarding public safety or quality of life issues during this meeting.
 
