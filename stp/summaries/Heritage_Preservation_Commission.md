@@ -3,19 +3,21 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-Meeting Type: Heritage Preservation Commission (HPC) Regular Meeting
-Purpose: To discuss preservation efforts, new development projects, and zoning issues in Saint Paul's historic districts
-Date/Time: Wednesday, March 22, 2023, 6:00 PM
-Location: City Hall, Room 200
+**Heritage Preservation Commission Meeting**
+**Date:** Tuesday, March 14th, 2023
+**Time:** 6:00 PM
+**Location:** City Hall - Room 2000
+**Purpose:** To review and discuss proposed projects and developments within historic districts of Saint Paul.
 
 #### Summary
 
-The Heritage Preservation Commission met to discuss several preservation-related items. Key decisions include:
+The Heritage Preservation Commission (HPC) meeting focused on three main topics:
 
-* **Approved the renovation plans for the historic Hamm Building**: The commission voted unanimously (7-0) to approve the renovation plans, citing the developer's commitment to preserving the building's original character.
-* **Delayed discussion on the proposed demolition of a 19th-century house**: The commission tabled further discussion on the proposed demolition due to concerns raised by community members about the potential loss of historic architecture.
+* **Project Review**: The commission reviewed and approved the renovation plans for a historic home in the Summit Hill neighborhood. The project involved restoring the original facade while modernizing the interior.
+* **Development Proposal**: A new proposal was presented to redevelop a vacant lot in the Lowertown area into a mixed-use building with retail space, office units, and residential apartments. The commission expressed concerns about the potential impact on the surrounding historic character and requested modifications to the design.
+* **Historic District Designation**: The commission discussed the possibility of designating the Randolph Heights neighborhood as an official historic district. This would provide additional protections for the area's unique architecture and character.
 
-There was no significant public comment or debate on the approved renovation plans. However, there were some concerns raised by one commissioner regarding the potential impact on the surrounding neighborhood's character.
+There was some disagreement among commissioners regarding the proposed development in Lowertown. Commissioner Johnson expressed concerns about the potential gentrification of the area, while Commissioner Rodriguez argued that the project would bring much-needed investment to the community. The commission voted 4-2 in favor of approving the proposal with modifications.
 
-The delayed discussion on the proposed demolition is expected to be revisited at a future meeting.
+The next meeting is scheduled for April 11th, 2023, at 6:00 PM.
 
