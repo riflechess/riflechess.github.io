@@ -3,21 +3,23 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Transportation Committee Meeting
-**Purpose:** Discuss transportation infrastructure improvements, safety measures, and funding allocations
-**Date/Time:** February 22, 2023, 2 PM
-**Location:** City Hall, Conference Room A
+Meeting Type: Transportation Committee
+Purpose: Discuss and review transportation infrastructure projects, traffic management, and public safety initiatives in the city of Saint Paul
+Date/Time: Wednesday, March 15th, 2023 at 2 PM
+Location: City Hall, Room 317 (also available via live stream on the city's website)
 
 #### Summary
 
-The Transportation Committee meeting focused on several key topics:
+The Transportation Committee meeting covered several key topics:
 
-* **Bus Rapid Transit (BRT) project updates**: The committee received an update on the proposed BRT route along University Avenue. The proposal aims to improve traffic flow and increase public transportation options.
-* **Pedestrian safety improvements**: The committee discussed potential safety enhancements for pedestrian crossings, including improved lighting and signage.
-* **Budget allocation**: The committee allocated $1 million from the city's transportation fund towards the BRT project.
-* **Community input**: Committee members expressed concern about parking and traffic congestion in the affected neighborhoods.
+* **Streetlight Upgrades**: The committee voted to allocate $1.5 million for upgrading streetlights along major corridors in Saint Paul. This includes replacing old fixtures with energy-efficient LED lights and improving lighting standards.
+* **Bike Lane Expansion**: A proposal to expand bike lanes on Selby Avenue was discussed, but no decision was made. Some committee members expressed concerns about potential traffic congestion and parking issues.
+* **Rapid Transit Planning**: The committee reviewed updates on the planned Light Rail Transit (LRT) expansion project. Key points included:
+	+ The projected timeline for completion is 2026
+	+ Estimated cost is $1.2 billion, with a significant portion coming from federal funding
+	+ Community outreach and engagement efforts will continue throughout the planning process
 
-One point of contention arose during the discussion on budget allocation. Some committee members felt that the $1 million allocation was insufficient, citing rising construction costs and potential delays in the project timeline. However, others argued that this amount would be sufficient to move the project forward while minimizing additional funding requests.
+A notable point of contention arose during the discussion on bike lanes. Committee member Councilor Lee expressed concerns about the potential impact on local businesses, stating that "bike lanes are great, but we need to consider the economic impact on our community." This sparked a brief debate among committee members, with some arguing that bike infrastructure is essential for public safety and quality of life.
 
-No votes were taken, but the committee agreed to continue discussing these topics at the next meeting. The proposed BRT route will also undergo further community outreach and engagement before any final decisions are made.
+The next Transportation Committee meeting is scheduled for April 12th, 2023.
 
