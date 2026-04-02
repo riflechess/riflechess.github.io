@@ -3,23 +3,19 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-Meeting Type: Transportation Committee
-Purpose: Discuss and review transportation infrastructure projects, traffic management, and public safety initiatives in the city of Saint Paul
-Date/Time: Wednesday, March 15th, 2023 at 2 PM
-Location: City Hall, Room 317 (also available via live stream on the city's website)
+**Meeting Type:** Transportation Committee
+**Purpose:** Review of proposed bike lanes and pedestrian improvements, updates on traffic congestion mitigation plans, and discussion of potential transportation funding sources.
+**Date/Time:** Wednesday, March 15th, 2023, 5:00 PM
+**Attendees:** City Council Members, Department of Public Works Representatives, Local Business Owners
 
 #### Summary
+The Transportation Committee met to discuss various projects aimed at improving traffic flow and pedestrian safety in Saint Paul. Key points from the meeting include:
 
-The Transportation Committee meeting covered several key topics:
+* **Bike Lane Proposals**: The committee discussed proposed bike lane installations on 3rd Avenue and Cretin Avenue, with a focus on reducing congestion and promoting sustainable transportation options.
+* **Pedestrian Safety Improvements**: Representatives from the Department of Public Works presented updates on pedestrian safety improvements planned for several intersections throughout the city, including increased lighting and enhanced crossing signals.
+* **Traffic Congestion Mitigation Plans**: The committee reviewed proposed measures to reduce traffic congestion during peak hours, including optimized traffic signal timing and alternative transportation options.
 
-* **Streetlight Upgrades**: The committee voted to allocate $1.5 million for upgrading streetlights along major corridors in Saint Paul. This includes replacing old fixtures with energy-efficient LED lights and improving lighting standards.
-* **Bike Lane Expansion**: A proposal to expand bike lanes on Selby Avenue was discussed, but no decision was made. Some committee members expressed concerns about potential traffic congestion and parking issues.
-* **Rapid Transit Planning**: The committee reviewed updates on the planned Light Rail Transit (LRT) expansion project. Key points included:
-	+ The projected timeline for completion is 2026
-	+ Estimated cost is $1.2 billion, with a significant portion coming from federal funding
-	+ Community outreach and engagement efforts will continue throughout the planning process
+A contentious discussion arose regarding the potential impact of bike lane installations on local businesses. Some members expressed concerns that the lanes would restrict parking and deter customers from visiting nearby shops. However, others argued that the benefits of increased pedestrian safety and reduced congestion would outweigh any negative effects on local commerce.
 
-A notable point of contention arose during the discussion on bike lanes. Committee member Councilor Lee expressed concerns about the potential impact on local businesses, stating that "bike lanes are great, but we need to consider the economic impact on our community." This sparked a brief debate among committee members, with some arguing that bike infrastructure is essential for public safety and quality of life.
-
-The next Transportation Committee meeting is scheduled for April 12th, 2023.
+The committee voted to recommend approval for the proposed bike lane installations, with 4 in favor and 2 against. The dissenting members emphasized their concerns about potential impacts on local businesses but acknowledged the need for improved traffic flow and pedestrian safety.
 
