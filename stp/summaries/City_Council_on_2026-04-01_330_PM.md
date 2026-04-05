@@ -3,25 +3,20 @@ title: City Council on 2026-04-01 3:30 PM
 date: 2026-04-01
 ---
 #### Meeting Info
-**Meeting Type:** City Council meeting
-**Date/Time:** 2026-04-01, 3:30 PM
-**Purpose:** Public meetings for the City of Saint Paul
+Meeting Type: City Council Meeting
+Purpose: Review of various city ordinances, resolutions, and grant applications
+Date/Time: 2026-04-01 3:30 PM
+Relevant Contextual Information: This meeting is part of the regular City Council proceedings. The agenda includes public hearings on several items, including Ordinance 26-17 (Fire Chief qualifications), Ordinance 26-19 (civil immigration laws and enforcement practices), and Resolutions related to grant funding for local businesses.
 
 #### Summary
 
-The city council meeting covered various topics, including liquor licenses, public hearings, and grant funding. The key decisions made were:
+The meeting started with a consent agenda that included the adoption of resolutions 26-505 and 26-535. The latter declared April 7th as National Black Bookstore Day in recognition of Dr. Artika Tyner's contributions to the community through her bookstore, Planting People Growing Justice.
 
-* Resolution 26-505 was approved, allowing Luxe Event Planning and Decor LLC to sell liquor at their new location.
-* Resolution 26-535 declared April 7th as National Black Bookstore Day in the city of St. Paul.
-	+ Dr. Artika Tyner, founder of Planting People Growing Justice, was honored for her work in promoting literacy and community engagement through her bookstore.
-	+ Council members expressed support for the resolution and praised Dr. Tyner's leadership.
-* Ordinance 26-17, establishing minimum qualifications for the Fire Chief position, was laid over to April 15th for final adoption after a public hearing.
-* Ordinance 26-19, adding chapter 44A to the administrative code regarding civil immigration laws, was approved with a public hearing scheduled for April 15th.
-	+ Several residents spoke in favor of the ordinance, citing concerns about police involvement in federal immigration activities and calling for increased transparency and accountability.
-* Resolutions 26-34 and 26-35 were adopted, accepting grant funds for the Metropolitan Council LTB/TBRA Grant Program and the Rondo Revitalize seed grant.
+Council Member Bowie introduced Resolution 26-535, highlighting the importance of recognizing and supporting Black-owned bookstores, which have historically played a vital role in preserving culture, education, and social change. The resolution was adopted with seven votes in favor and none opposed.
 
-Notable moments of contention:
+Following this, the meeting proceeded to public hearings on several items. Kathy Quick spoke in favor of Ordinance 26-19, emphasizing its importance for training employees and establishing clear guidelines for interacting with federal immigration policies and professionals. Other speakers, including Reverend Karen Herring and Jill Toll, shared personal experiences related to ICE raids in St. Paul and the need for accountability in law enforcement.
 
-* A public hearing was held on Ordinance 26-17, with some council members expressing concerns about delaying the final adoption.
-* Residents spoke out against police involvement in federal immigration activities during the public hearing for Ordinance 26-19.
+The public hearings on Ordinances 26-17 (Fire Chief qualifications), 26-19 (civil immigration laws and enforcement practices), and other resolutions concluded with motions to lay over these items until April 15th for final adoption.
+
+The meeting also included announcements from Council Members regarding local events, including the spring holiday carnival in Arlington Hills Community Center and the Black Authors Expo at George Latimer Central Library. Additionally, Vice President Yang announced that the St. Paul Public Schools will be sponsoring a prom dress sale at Hazel Park Rec Center.
 
