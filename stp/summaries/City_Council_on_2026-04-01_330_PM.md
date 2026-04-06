@@ -3,20 +3,30 @@ title: City Council on 2026-04-01 3:30 PM
 date: 2026-04-01
 ---
 #### Meeting Info
-Meeting Type: City Council Meeting
-Purpose: Review of various city ordinances, resolutions, and grant applications
-Date/Time: 2026-04-01 3:30 PM
-Relevant Contextual Information: This meeting is part of the regular City Council proceedings. The agenda includes public hearings on several items, including Ordinance 26-17 (Fire Chief qualifications), Ordinance 26-19 (civil immigration laws and enforcement practices), and Resolutions related to grant funding for local businesses.
+* **Meeting Type:** City Council Meeting
+* **Date/Time:** 2026-04-01, 3:30 PM
+* **Description:** Live and Recorded Public meetings of City Council for the City of Saint Paul
 
 #### Summary
 
-The meeting started with a consent agenda that included the adoption of resolutions 26-505 and 26-535. The latter declared April 7th as National Black Bookstore Day in recognition of Dr. Artika Tyner's contributions to the community through her bookstore, Planting People Growing Justice.
+The meeting began with a consent agenda items 2 through 6, which were approved with some amendments. Resolution 26-505 was approved to grant a liquor license application for Luxe Event Planning and Decor LLC.
 
-Council Member Bowie introduced Resolution 26-535, highlighting the importance of recognizing and supporting Black-owned bookstores, which have historically played a vital role in preserving culture, education, and social change. The resolution was adopted with seven votes in favor and none opposed.
+Council Member Bowie introduced Resolution 26-535, declaring April 7th as National Black Bookstore Day. The resolution honored the legacy of Black-owned bookstores, recognizing their importance in preserving knowledge, promoting literacy, and providing cultural spaces for education and civic engagement. Several council members spoke in support of the resolution, commending Dr. Artika Tyner's leadership and dedication to promoting diversity and inclusivity.
 
-Following this, the meeting proceeded to public hearings on several items. Kathy Quick spoke in favor of Ordinance 26-19, emphasizing its importance for training employees and establishing clear guidelines for interacting with federal immigration policies and professionals. Other speakers, including Reverend Karen Herring and Jill Toll, shared personal experiences related to ICE raids in St. Paul and the need for accountability in law enforcement.
+The public hearing on Ordinance 26-17, establishing the minimum qualifications for the position of Fire Chief, was continued until April 15th due to a motion by Council Member Coleman. Several speakers testified during the public hearing on Ordinance 26-19, which adds training, reporting, and programming related to civil immigration laws and enforcement practices.
 
-The public hearings on Ordinances 26-17 (Fire Chief qualifications), 26-19 (civil immigration laws and enforcement practices), and other resolutions concluded with motions to lay over these items until April 15th for final adoption.
+The council approved several resolutions, including:
 
-The meeting also included announcements from Council Members regarding local events, including the spring holiday carnival in Arlington Hills Community Center and the Black Authors Expo at George Latimer Central Library. Additionally, Vice President Yang announced that the St. Paul Public Schools will be sponsoring a prom dress sale at Hazel Park Rec Center.
+* Resolution Public Hearing 26-34: accepting grant funds for the Metropolitan Council LTB.TBRA Grant Program
+* Resolution Public Hearing 26-35: accepting grant funds for the Rondo Revitalize at 708 Marshall Avenue project
+* Resolution Public Hearing 26-74: approving a sound level variance for the Get in Gear event
+
+Council members also shared news from their wards, including:
+
+* Vice President Yang's announcement of the spring holiday carnival on April 4th
+* Council Member Kim's message of solidarity with the trans community and highlighting the importance of protecting trans rights
+* Council Member Bowie's announcement of the Black Authors Expo and Hallie Q Brown's 97-year anniversary celebration
+* Council Member Johnson's announcement of rec center programming during spring break and the Emergency Rental Assistance Program
+
+The meeting concluded with an adjournment.
 
