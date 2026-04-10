@@ -3,19 +3,28 @@ title: City Council on 2026-04-01 3:30 PM
 date: 2026-04-01
 ---
 #### Meeting Info
-* **Meeting Type:** Saint Paul City Council meeting
+* **Meeting Type:** City Council Meeting
+* **Purpose:** Consideration of various ordinances, resolutions, and consent agenda items
 * **Date/Time:** April 1, 2026 at 3:30 PM
-* **Purpose:** To discuss various city ordinances, resolutions, and public hearings related to the fire chief qualifications, sanctuary cities policies, rental application fees, department of safety and inspections updates, grant funding, and more.
+* **Location:** Saint Paul City Hall
 
 #### Summary
+The meeting began with the Pledge of Allegiance and consideration of the consent agenda, which was adopted with some minor amendments. The resolution to approve a liquor on sale license for Luxe Event Planning and Decor LLC was also passed.
 
-The meeting began with a consent agenda that was adopted with some modifications. The main discussion points included:
+A highlight of the meeting was the introduction of Resolution 26-535, declaring April 7th as National Black Bookstore Day. Council Member Bowie presented the resolution, acknowledging Dr. Artika Tyner's contributions to the community and her work with Planting People Growing Justice. The resolution was adopted unanimously.
 
-* **National Black Bookstore Day:** Council Member Bowie introduced a resolution declaring April 7th as National Black Bookstore Day in recognition of the importance of black-owned bookstores in the community. Dr. Artika Tyner, founder of Planting People and Growing Justice, was present to discuss her work and its impact on the community.
-* **Fire Chief Qualifications:** A public hearing was held on Ordinance 26-17, which establishes minimum qualifications for the fire chief position. The ordinance was laid over until April 15th for final adoption after a motion from Council Member Coleman.
-* **Sanctuary Cities Policies:** Kathy Quick spoke in favor of Ordinance 2619, which provides training and reporting requirements for city employees on interactions with federal immigration policies and professionals. Several other speakers also testified in support of the ordinance.
-* **Rental Application Fees:** A public hearing was held on Ordinance 26-20, deleting Chapter 54 of the Legislative Code pertaining to rental application fees. The public hearing was closed after a motion from Council Member Johnson.
-* **Other Resolutions and Hearings:** Several other resolutions and ordinances were introduced or discussed during the meeting, including grant funding for Ham's Brewery West End and Rondo Revitalize, as well as updates to the department of safety and inspections.
+The public hearing section of the agenda saw several items considered, including Ordinance 26-17 (Minimum Qualifications for Fire Chief) and Ordinance 26-19 (Training, Reporting, and Programming related to Civil Immigration Laws). Public testimony was heard from several residents, who spoke in favor of strengthening sanctuary city policies and increasing accountability within the St. Paul Police Department.
 
-The only notable dissenting opinions came from Kathy Quick, who expressed concerns about the effectiveness of Ordinance 2619 in preventing police involvement in immigration enforcement. No votes were opposed or divided throughout the meeting.
+The meeting concluded with announcements from various council members regarding upcoming events and initiatives, including the Black Authors Expo and the Emergency Rental Assistance Program.
+
+**Notable Decisions:**
+
+* Resolution 26-535 (National Black Bookstore Day) was adopted unanimously
+* Ordinance 26-17 (Minimum Qualifications for Fire Chief) was laid over to April 15th for final adoption
+* Ordinance 26-19 (Training, Reporting, and Programming related to Civil Immigration Laws) is pending further consideration
+
+**Public Safety/Quality of Life:**
+
+* Several residents spoke in favor of strengthening sanctuary city policies and increasing accountability within the St. Paul Police Department
+* The Emergency Rental Assistance Program was announced as available for eligible residents
 
