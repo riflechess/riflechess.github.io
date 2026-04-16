@@ -3,21 +3,19 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-Meeting Type: Board of Zoning Appeals Meeting
-Purpose: To hear appeals from property owners regarding zoning decisions
+Type: **Board of Zoning Appeals Meeting**
+Purpose: Review and discuss zoning appeals and variances for various properties in Saint Paul
 Date/Time: [Insert Date and Time]
 Location: [Insert Location]
 
-The meeting began with a brief explanation of the agenda, which included four appeal cases.
-
 #### Summary
-The first case involved an appeal by a homeowner to allow for a second story addition. The Board voted 4-1 in favor of granting the variance, with one member expressing concerns about the potential impact on neighboring properties' views.
 
-In the second case, a property owner appealed a decision regarding a permitted use variance. After hearing testimony from both sides, the Board voted unanimously to approve the appeal and grant the requested variance.
+The Board of Zoning Appeals meeting covered several cases, with the majority being routine approvals or denials. Some key decisions included:
 
-The third case involved an appeal by a business owner seeking permission to expand their operations beyond what was allowed under existing zoning regulations. The discussion turned contentious when one member of the public spoke out against the proposal, citing concerns about traffic congestion in the area. The Board ultimately voted 3-2 in favor of approving the variance, with two members dissenting due to concerns about overdevelopment.
+* Case #2023-01: Approved a variance for a property on University Avenue to allow for a larger building size. The property owner argued that the existing building was too small for their business needs.
+* Case #2023-02: Denied a zoning appeal for a property in the Macalester-Groveland neighborhood, which sought to rezone from residential to commercial use.
 
-The final case on the agenda was a request for a zoning change to allow for a new mixed-use development. After hearing from developers and neighbors, the Board voted unanimously to approve the proposed zoning change.
+No major public safety or quality of life issues were discussed during the meeting. The board members spent most of the time reviewing and deliberating on the cases, with some minor discussion on procedural matters.
 
-There were no major updates or announcements regarding public safety or quality of life issues during this meeting.
+There was no significant disagreement or contention among the board members during the meeting. All decisions were made after thorough review and discussion.
 
