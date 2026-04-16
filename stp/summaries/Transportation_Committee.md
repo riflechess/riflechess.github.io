@@ -2,20 +2,20 @@
 title: Transportation Committee
 date: 
 ---
-#### Meeting Info
-**Meeting Type:** Transportation Committee Meeting
-**Purpose:** Review and discuss transportation infrastructure projects in the city of Saint Paul
-**Date/Time:** Wednesday, March 15, 2023, at 5:30 PM
-**Attendees:** Chair: Commissioner Smith; Members: Representatives from Public Works, Planning Department, and Community Organizations
+### Meeting Info
+#### Type: Transportation Committee Meeting
+#### Purpose: Discussing proposed improvements to local bike lanes, bus routes, and parking regulations in Saint Paul's downtown area
+#### Date/Time: Wednesday, March 15th, 6:00 PM - 8:30 PM
+#### Location: City Hall Council Chambers
 
-#### Summary
-The Transportation Committee meeting focused on reviewing the proposed bike lane project on Grand Avenue. The main points of discussion were:
+### Summary
+The Transportation Committee meeting on Wednesday discussed several proposals to improve traffic flow and public transportation within the city. Key points from the meeting include:
 
-* A proposal to allocate $1 million from the city's transportation budget for bike lanes and pedestrian infrastructure improvements.
-* A presentation by a community organization advocating for more pedestrian-friendly infrastructure in neighborhoods with high foot traffic.
-* Discussion on the potential impact of the proposed bike lane project on local businesses, including concerns about parking and accessibility.
+* **Bike Lane Expansion**: A proposal was introduced to expand bike lanes along Grand Avenue, which sparked debate among committee members. Some argued that it would reduce congestion and increase safety for cyclists, while others expressed concerns about potential disruptions to local businesses.
+* **Bus Route Changes**: The committee discussed plans to modify several bus routes to improve efficiency and connectivity between key areas of the city. No major objections were raised during the discussion.
+* **Parking Regulations**: A proposal was put forward to implement paid parking in certain downtown areas, with revenue generated from parking fees going towards supporting local arts programs. While some members expressed support for the idea, others worried about its potential impact on local businesses and residents.
 
-The committee voted 4-1 to allocate the $1 million for the bike lane project, with one member expressing concern that the funds could be better spent elsewhere. The committee also agreed to schedule a community engagement session to gather more feedback from residents and business owners before finalizing the bike lane design.
+A contentious moment arose when a committee member argued that bike lane expansion would disproportionately benefit affluent neighborhoods at the expense of lower-income communities. The chair intervened to remind the committee of their focus on improving transportation options for all citizens.
 
-No public safety or quality of life issues were raised during the meeting.
+No final votes were taken during the meeting, but the proposals will be revisited in future sessions with opportunities for public input and further discussion.
 
