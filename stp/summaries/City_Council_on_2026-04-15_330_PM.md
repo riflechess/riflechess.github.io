@@ -3,31 +3,25 @@ title: City Council on 2026-04-15 3:30 PM
 date: 2026-04-15
 ---
 #### Meeting Info
-**Meeting Type:** City Council Meeting
-**Purpose:** Regular Meeting of the St. Paul City Council
-**Date/Time:** April 15, 2026 at 3:30 PM
-**Location:** St. Paul City Hall
+Meeting Type: Saint Paul City Council Meeting
+Date/Time: April 15, 2026, 3:30 PM
+Context: The city council meets to discuss various resolutions and ordinances, including business zoning code studies, public safety initiatives, and grant funding.
 
 #### Summary
 
-The meeting began with a roll call and introduction, followed by the consideration of Consent Agenda items 2-29. Item 13 was pulled for separate consideration due to its importance in updating the city's sign ordinance.
+The meeting began with the adoption of the Consent Agenda items 2-29, with item 13 being pulled for separate consideration. Resolution 26-534 was adopted, initiating a business sign zoning code study to simplify the process for businesses in Saint Paul.
 
-A resolution (26-534) initiating a business sign zoning code study was adopted, which aims to make it easier for businesses to operate in St. Paul. This is a follow-up to a previous Policy Committee meeting where the need for an updated sign ordinance was discussed.
+Council Member Kim introduced Resolution 26-617, honoring Dolores Huerta's legacy and recognizing April 10th as Dolores Huerta Day in St. Paul. The resolution was adopted with support from Council Members Kim, Bowie, and Yang.
 
-Next, a resolution honoring Dolores Huerta's legacy and recognizing April 10th as Dolores Huerta Day in St. Paul was adopted. Council Member Kim led the discussion and introduced guest speakers Norma Garces and Katie Avenia from Academia Cesar Chavez to share their support for the resolution.
+Ordinance 26-17 was adopted, establishing the minimum qualifications for the Fire Chief position. The ordinance also establishes a selection committee to recommend candidates to the Mayor.
 
-The final adoption of Ordinance 26-17, which establishes the minimum qualifications for the Fire Chief position, was approved without controversy. However, a public hearing on Ordinance 26-19 regarding training, reporting, and programming related to civil immigration laws and enforcement practices was postponed until April 22nd due to new information being received.
+Public hearings were held on Ordinances 26-19 and 26-20, but due to new information coming forward, the public hearing on Ordinance 26-19 was continued until April 22nd.
 
-Public hearings were held on various items, including:
+The city council approved resolutions for various grant funding, including a $1.5 million grant from FEMA to support emergency management initiatives.
 
-* Resolution 26-75: authorizing the police department to accept donations from the St. Paul Police Foundation
-* Resolution 26-76: accepting grant funds for a local housing incentives account grant program
-* Resolution 26-84: approving a sound level variance for Breakaway Music Festival
-* Resolution 26-85: authorizing the ALS Superhero Dash event
+Public hearings were also held on several sound level variance requests, with Breakaway Music Festival and ALS Superhero Dash event organizers testifying in favor of their respective proposals.
 
-A public hearing was also held on two special tax assessment cases (items 65 and 85), which resulted in the approval of both assessments. However, concerns were raised by property owners about not being notified before emergency boardings took place.
+In the Legislative Hearing Consent Agenda items 42-114, two special tax assessment cases were considered: RLHTA 26-44 and RLHTA 26-40. Both resolutions were adopted after public hearings.
 
-Finally, Vice President Yang announced several events happening in the city, including a neighborhood cleanup, a personal safety workshop hosted by the St. Paul Police Department, and the opening of the Hanlon Midway Library.
-
-The meeting adjourned with no further business to discuss.
+The meeting concluded with Council Members sharing news from their wards, including a neighborhood cleanup event on April 26th and the opening of the Hanlon Midway Library by summer's end.
 
