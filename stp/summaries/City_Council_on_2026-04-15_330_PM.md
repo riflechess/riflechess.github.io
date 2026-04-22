@@ -3,31 +3,48 @@ title: City Council on 2026-04-15 3:30 PM
 date: 2026-04-15
 ---
 #### Meeting Info
-Title: City Council Meeting
-Date/Time: 2026-04-15, 3:30 PM
-Location: City Hall, St. Paul
-Type: Regular Meeting
+* Type: City Council Meeting
+* Purpose: Final adoption of various ordinances and resolutions
+* Date/Time: April 15, 2026, 3:30 PM
+* Context: This is the final reading and approval of several ordinances and resolutions, some of which were introduced earlier in the meeting.
 
 #### Summary
 
-The City Council met to discuss various agenda items. Key decisions include:
+**Consent Agenda Items**
 
-* **Resolution 26-617:** Honoring the legacy of Dolores Huerta and recognizing April 10, 2026 as Dolores Huerta Day in St. Paul. The resolution was adopted with unanimous support.
-* **Ordinance 26-17:** Establishing minimum qualifications for the Fire Chief position. The ordinance was adopted with unanimous support.
-* **Public Hearings:**
-	+ Resolution 26-75: Authorizing the police department to accept donations from the St. Paul Police Foundation. The resolution was adopted with unanimous support.
-	+ Resolution 26-76: Accepting grant funds for emergency management and terrorism prevention. The resolution was adopted with unanimous support.
-	+ Resolution 26-84: Granting a sound level variance for the Breakaway Music Festival. The resolution was adopted with unanimous support.
-	+ Resolution 26-85: Granting a sound level variance for the ALS Superhero Dash event. The resolution was adopted with unanimous support.
-* **Legislative Hearing Consent Agenda:** Items 42-114 were approved as amended, except for item 65 and 85, which required public hearings.
+* The Consent Agenda was adopted with a vote of 6-0.
+* Resolution 26-534 was pulled from consent for separate consideration. It initiates a study on the city's sign zoning code to make it easier for businesses to hang signs and attract customers.
 
-Controversy arose during the discussion of two special tax assessments (items 65 and 85) for emergency boardings following raids. Property owners James Mernicke and Nathan Arvold expressed concerns about being notified and not being adequately secured after the events. The council ultimately approved the assessments, but noted that they would look into the city's notice procedures.
+**Honoring Dolores Huerta Day in St. Paul**
 
-Other notable news shared during the meeting includes:
+* The council unanimously adopted Resolution 26-617, honoring the legacy of Dolores Huerta and recognizing April 10 as Dolores Huerta Day in St. Paul.
+* Council Member Kim led the discussion and introduced the resolution, highlighting Dolores Huerta's impact on the labor movement and her courage in speaking out about her personal experiences.
 
-* A neighborhood cleanup event on April 26th in Hazel Park.
-* A personal safety virtual workshop hosted by the St. Paul Police Department on April 23rd.
-* The expected reopening of the Hanlon Midway Library before Labor Day, with opening day events to be announced later.
-* A Black Authors Expo at George Latimer's Sinitual Library on Saturday, April 18th.
-* A community trash pickup event on University Avenue on Saturday, April 17th.
+**Fire Chief Qualifications**
+
+* The council unanimously adopted Ordinance 26-17, which establishes minimum qualifications for the position of Fire Chief. This ordinance was introduced earlier in the meeting and had no amendments.
+* Council Member Coleman led the discussion and explained that this ordinance is part of a larger effort to establish a selection committee for the Fire Chief position.
+
+**Civil Immigration Laws and Enforcement Practices**
+
+* The council did not take a final vote on Ordinance 26-19, which adds Chapter 44A to the Administrative Code related to civil immigration laws and enforcement practices. This item will be continued until April 22nd.
+* The city attorney's office recommended this ordinance, but there was no public hearing or discussion.
+
+**Public Hearings**
+
+* There were several public hearings held during the meeting, including one for Breakaway Music Festival's sound level variance request.
+* Council Member Bowie led the discussion on Breakaway Music Festival and highlighted their efforts to improve communication with residents and mitigate concerns about noise and parking.
+* The council unanimously adopted resolutions related to various grants and funding requests.
+
+**Special Tax Assessments**
+
+* The council held a public hearing for two special tax assessment cases (items 42-85). Both cases involved emergency boardings of properties following SWAT raids. 
+* The owners of the properties spoke at the hearing, expressing concerns about being notified after the fact and the adequacy of security measures taken by the city.
+* The council ultimately adopted the recommendations of the legislative hearing officer for both cases.
+
+**Ward News**
+
+* Vice President Yang announced a neighborhood cleanup event in the East Side on April 26th.
+* Council Member Coleman shared news about the Hanlon Midway Library, which is expected to reopen by the end of summer.
+* Other council members mentioned various events and initiatives happening in their wards.
 
