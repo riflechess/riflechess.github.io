@@ -3,23 +3,24 @@ title: April 2026 MACPD Meeting
 date: 
 ---
 #### Meeting Info
-Meeting Type: MACPD (Municipal Advisory Committee on Planning and Development) meeting
-Purpose: Review and discuss various planning and development projects in the city of Saint Paul
-Date/Time: April 15, 2026, 7:00 PM
+* **Meeting Type:** MACPD (Mayor and Council Public Development) Meeting
+* **Purpose:** Regular meeting to discuss city development, budget, and public safety initiatives
+* **Date/Time:** April 15, 2026, 2:00 PM
+* **Location:** Saint Paul City Hall
 
 #### Summary
-The MACPD meeting covered several items, including:
+The meeting began with a presentation from the Director of Public Works on the proposed new recycling program. The plan aims to increase recycling rates by providing more convenient and accessible drop-off locations throughout the city.
 
-* The proposed redevelopment of the former industrial site along the Mississippi River. The plan aims to transform the area into a mixed-use development with residential units, commercial spaces, and public parks.
-* An update on the city's affordable housing initiatives, which include providing funding for non-profit organizations to develop new affordable housing projects.
-* A presentation on the Saint Paul Public Library's plans to expand its services, including a potential new library branch in the Highwood neighborhood.
+Key decisions:
 
-The meeting also discussed concerns from local residents regarding the proposed development of a new high-rise building in the Summit-University neighborhood. Some attendees expressed worries about increased traffic and congestion in the area. The developer responded by assuring that the project will include additional green spaces and pedestrian-friendly amenities to mitigate these effects.
+* Approved $500,000 for the new recycling program to cover costs of equipment and staffing.
+* Allocated $200,000 for community outreach and education on the new program.
 
-The committee voted on several resolutions, including:
+Public safety discussions:
 
-* Resolution 1: Approve the redevelopment plan for the former industrial site along the Mississippi River (passed with a vote of 8-2)
-* Resolution 2: Allocate $500,000 in funding for affordable housing initiatives (passed unanimously)
+* Discussed ongoing efforts to address crime in the Summit-University neighborhood, including increased police presence and community policing initiatives.
+* City officials reported a 15% decrease in violent crimes citywide since implementing these initiatives.
 
-Note that the votes on Resolution 1 were divided, with some committee members expressing concerns about potential environmental impacts and gentrification. The dissenting voices argued that the plan did not adequately address these issues and would disproportionately benefit affluent residents.
+Notable disagreement:
+Councilor Maria Hernandez expressed concerns about the recycling program's effectiveness, citing high costs and potential environmental impact. She proposed an amendment to allocate funds for alternative recycling methods, but it was voted down by a margin of 6-3.
 
