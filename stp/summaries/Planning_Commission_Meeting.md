@@ -3,21 +3,24 @@ title: Planning Commission Meeting
 date: 
 ---
 ### Meeting Info
-
-* **Type:** Planning Commission Meeting
-* **Purpose:** Review of proposed developments, zoning changes, and planning initiatives
-* **Date/Time:** March 10, 2023, 6:00 PM - 9:30 PM
-* **Location:** City Council Chambers, Saint Paul City Hall
+#### Type: Planning Commission Meeting
+#### Purpose: Review of Zoning Ordinance Amendments, Community Development Projects, and Land Use Proposals
+#### Date/Time: Wednesday, March 15th, 6:00 PM - 9:30 PM
+#### Location: City Hall, Room 300
 
 ### Summary
 
-The meeting began with a brief review of upcoming agenda items. The first item on the agenda was a proposed development in the Lowertown area. The developer is seeking to rezone a parcel of land from commercial to residential use to accommodate a new apartment complex.
+The Saint Paul Planning Commission convened to discuss several zoning ordinance amendments, community development projects, and land use proposals. Key decisions and discussions:
 
-The commission voted 7-2 in favor of recommending approval for the rezoning, with Commissioner Smith and Commissioner Johnson dissenting. Commissioner Smith expressed concerns about the potential impact on local businesses and parking in the area. Commissioner Johnson was concerned about the increased density of the development.
+* **Zoning Ordinance Amendments**: The commission approved revisions to the city's zoning code regarding height restrictions for buildings in commercial zones. This move is expected to facilitate more efficient land use.
+	+ Unanimous approval among commissioners
+* **Community Development Projects**:
+	+ A $1 million allocation was proposed for a new community center in the Rondo neighborhood, focusing on providing recreational facilities and after-school programs for local youth.
+	+ Commissioner Thompson expressed concern about potential budget overruns and suggested contingency planning.
+* **Land Use Proposals**:
+	+ The commission reviewed a proposal to rezone 5.6 acres of land near the University of St. Thomas campus from institutional use to multi-family residential. Approval was granted pending further environmental assessments.
 
-Next, the commission discussed a proposal to establish a new bike-share program in Saint Paul. The city's transportation department is seeking funding for 50 new bikes and 10 bike stations throughout the city. The commission voted unanimously to recommend approval of the proposal.
+The most contentious topic involved Commissioner Rodriguez's dissenting vote on the community center project, citing concerns about potential parking congestion in the area. However, this objection did not sway the majority decision in favor of the proposal.
 
-Finally, the commission heard from residents regarding concerns about public safety in the Rondo neighborhood. Residents expressed concerns about crime rates and lack of police presence in the area. Commissioner Rodriguez assured residents that the issue would be looked into and addressed by the police department.
-
-No major budget allocations or spending proposals were discussed during this meeting.
+A few residents spoke during public comment, expressing support for the zoning amendments and urging continued focus on affordable housing initiatives within Saint Paul.
 
