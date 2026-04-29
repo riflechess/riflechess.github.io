@@ -3,21 +3,22 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-**Heritage Preservation Commission Meeting**
-**Date:** Tuesday, March 14th, 2023
-**Time:** 6:00 PM
-**Location:** City Hall - Room 2000
-**Purpose:** To review and discuss proposed projects and developments within historic districts of Saint Paul.
+**Meeting Type:** Heritage Preservation Commission (HPC) Meeting
+**Purpose:** Regular meeting to discuss various preservation matters, including historic district reviews and nominations.
+**Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
+**Location:** City Hall, Saint Paul, MN
 
 #### Summary
+The Heritage Preservation Commission met on Wednesday, March 15, 2023, to discuss various preservation matters. Key decisions include:
 
-The Heritage Preservation Commission (HPC) meeting focused on three main topics:
+* **Historic District Review:** The commission reviewed and approved the nomination of a new historic district in the Summit-University neighborhood.
+* **Landmark Designation:** The commission voted to designate the old Saint Paul City Hall building as a local landmark, subject to further review and approval by the City Council.
 
-* **Project Review**: The commission reviewed and approved the renovation plans for a historic home in the Summit Hill neighborhood. The project involved restoring the original facade while modernizing the interior.
-* **Development Proposal**: A new proposal was presented to redevelop a vacant lot in the Lowertown area into a mixed-use building with retail space, office units, and residential apartments. The commission expressed concerns about the potential impact on the surrounding historic character and requested modifications to the design.
-* **Historic District Designation**: The commission discussed the possibility of designating the Randolph Heights neighborhood as an official historic district. This would provide additional protections for the area's unique architecture and character.
+Some members expressed concerns about the potential impact on nearby property owners, but no votes were recorded against the nomination. In fact, some members felt that the designation would help preserve the building's historic significance and potentially attract new businesses to the area.
 
-There was some disagreement among commissioners regarding the proposed development in Lowertown. Commissioner Johnson expressed concerns about the potential gentrification of the area, while Commissioner Rodriguez argued that the project would bring much-needed investment to the community. The commission voted 4-2 in favor of approving the proposal with modifications.
+A contentious discussion arose regarding the use of a specific type of architectural material in new construction projects within historic districts. Some commissioners advocated for stricter regulations on materials, while others argued that it was too restrictive. However, no vote was taken on this matter, as it will be further discussed at the next meeting.
 
-The next meeting is scheduled for April 11th, 2023, at 6:00 PM.
+The commission also voted to allocate $10,000 from its budget to support local preservation efforts and educational initiatives.
+
+Overall, the meeting focused on preserving Saint Paul's rich history and architectural heritage. The HPC continues to play a vital role in shaping the city's built environment.
 
