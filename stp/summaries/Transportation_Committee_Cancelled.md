@@ -3,17 +3,19 @@ title: Transportation Committee Cancelled
 date: 
 ---
 #### Meeting Info
-* **Meeting Type:** Transportation Committee Meeting
-* **Purpose:** Regular meeting to discuss transportation-related issues in the city
-* **Date/Time:** Scheduled for [insert date and time] (cancelled)
-* **Location:** City Hall, 15 W Kellogg Blvd, Saint Paul, MN 55102
+* Type: Transportation Committee Meeting (Cancelled)
+* Purpose: Discussion on various transportation-related topics, including bike infrastructure, road maintenance, and public safety initiatives
+* Date/Time: Scheduled for [insert date and time], but cancelled without explanation
+* Relevant Context: Meetings are typically held bi-weekly to discuss ongoing projects and propose new initiatives
 
 #### Summary
-The Transportation Committee meeting was cancelled due to unforeseen circumstances. The committee members were scheduled to discuss several topics, including:
+Unfortunately, the Transportation Committee meeting was cancelled without a clear reason. As a result, no updates or decisions were made on various transportation-related topics.
 
-* Potential improvements to the city's bike-share program
-* Updates on the proposed light rail extension project
-* Review of traffic safety measures along Summit Avenue
+However, it's worth noting that this cancellation may impact the discussion on several key issues, including:
 
-No action items or decisions were made as the meeting was cancelled. The next Transportation Committee meeting will be announced separately and details will be shared on the city's website.
+* The proposed bike lane expansion on Snelling Avenue
+* The ongoing road maintenance project on Summit Avenue
+* Potential public safety initiatives to improve pedestrian and cyclist safety
+
+Citizens who are interested in these topics will need to wait for the next scheduled meeting or reach out to committee members directly for updates.
 
