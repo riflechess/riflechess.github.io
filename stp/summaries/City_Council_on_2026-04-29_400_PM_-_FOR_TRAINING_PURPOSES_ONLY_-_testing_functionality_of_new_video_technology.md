@@ -3,22 +3,20 @@ title: City Council on 2026-04-29 4:00 PM - FOR TRAINING PURPOSES ONLY - testing
 date: 2026-04-29
 ---
 #### Meeting Info
-**Meeting Type:** City Council Budget Meeting
-**Date/Time:** 2026-04-29 4:00 PM
-**Purpose:** To review and discuss the city's budget for 2026
-**Context:** This is a training meeting to test new video technology, but it appears that actual budget discussions are being held.
+* **Type**: City Council Meeting
+* **Purpose**: Review of the city's 2026 budget and revenue projections
+* **Date/Time**: April 29, 2026, 4:00 PM
+* **Context**: The meeting is a follow-up to previous discussions on the mayor's budget and the city's financial outlook.
 
 #### Summary
 
-The city council met to discuss the budget for 2026. Deputy Director Logsdon presented on revenue and expenditures, highlighting that Q1 revenues are at 4%, which is comparable to last year's numbers. However, he noted that major revenue sources such as property tax and LGA do not come in until Q2 and Q3.
+The City Council met to review the city's 2026 budget and revenue projections. Deputy Director Logsdon presented an overview of the budget, highlighting that the majority of general fund spending (24%) goes towards salaries for Full-Time Equivalent employees (FTEs). The council discussed various department budgets and expenditures, with some members requesting more detailed information on staff time and bonuses.
 
-Council Member Coleman asked about the impact of the county's delay in offering extended property tax payments, but was reassured that the city will still receive a payment at the end of May with minimal impact on the annual property taxes.
+The meeting also covered revenue projections, which showed a 4% increase in Q1 revenues compared to last year. However, the council noted that property tax and LGA payments from the county are delayed until May and July, respectively, which will impact the city's revenue.
 
-The council also discussed the sources of revenue for various departments, including the City Attorney's Office and the Mayor's Office. Deputy Director Logsdon agreed to provide more specific information on these revenue sources in the future.
+Council President Anchor praised the presentation and encouraged further discussion on the budget. He also acknowledged the city's maintenance of a triple-A rating with Fitch and S&P.
 
-Council President Maker expressed appreciation for the presentation and noted that this is the first of four budget meetings for the year. He emphasized the importance of having a starting point and encouraged continued feedback from council members on what additional information would be helpful.
+The meeting concluded with a call for council members to provide feedback and questions to OFS (Office of Financial Services) on the budget, which will be compiled into a list for future reference.
 
-The meeting concluded with no further questions, but Council President Maker encouraged council members to share any additional comments or requests with him, Vice Chair Yang, and OFS staff.
-
-Note: There was no significant disagreement or arguing during the meeting.
+There were no significant areas of contention or disagreement during the meeting.
 
