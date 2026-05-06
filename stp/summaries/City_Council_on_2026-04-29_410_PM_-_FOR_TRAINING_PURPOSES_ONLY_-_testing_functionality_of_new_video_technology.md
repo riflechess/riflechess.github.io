@@ -3,10 +3,12 @@ title: City Council on 2026-04-29 4:10 PM - FOR TRAINING PURPOSES ONLY - testing
 date: 2026-04-29
 ---
 #### Meeting Info
-Meeting Type: Training Session (Testing new video technology)
-Purpose: Test the functionality of the new video technology for City Council meetings
-Date/Time: 2026-04-29, 4:10 PM
+* Type: City Council meeting for training purposes only
+* Purpose: Testing new video technology for live and recorded public meetings
+* Date/Time: 2026-04-29, 4:10 PM
 
 #### Summary
-No actual discussion or decisions were made during this meeting. The session was used to test the new video technology and appears to be a technical rehearsal. There is no information to summarize regarding agenda items, budget allocations, public safety concerns, or quality of life issues.
+This meeting appears to be a technical rehearsal of the city's new video conferencing system. The agenda items were not discussed in detail, as this was primarily an exercise in testing the technology.
+
+There is no actual business or decision-making taking place during this meeting.
 
