@@ -3,14 +3,17 @@ title: City Council on 2026-04-29 4:10 PM - FOR TRAINING PURPOSES ONLY - testing
 date: 2026-04-29
 ---
 #### Meeting Info
-**Meeting Type**: City Council Training Session
-**Purpose**: Testing new video technology for live and recorded public meetings
-**Date/Time**: 2026-04-29, 4:10 PM (note: this was a training session only, not an actual city council meeting)
+* **Type**: City Council meeting
+* **Purpose**: Testing functionality of new video technology for the city's public meetings (FOR TRAINING PURPOSES ONLY)
+* **Date/Time**: 2026-04-29, 4:10 PM
 
 #### Summary
-This "meeting" was actually a training exercise to test the new video technology for City Council meetings. Since it was just a dry run, there were no actual decisions made or discussions on agenda items.
+This meeting was a training exercise to test the new video technology for live and recorded public meetings. There were no actual agenda items or discussions, as this was an isolated technical test.
 
-The meeting started with some introductory notes, but quickly devolved into repetitive messages saying "We'll be right back." This seemed to be an attempt to simulate the transition between agenda items, but it got stuck in a loop. Despite this, the technical team was able to successfully test the time-stamping feature for agenda items.
+**Key Takeaways**
 
-No actual business or decisions were made during this meeting. If you're interested in staying up-to-date on City Council discussions and decisions, be sure to attend an actual public meeting!
+* The city is exploring new video technology to enhance its public meetings.
+* This test session was a trial run to ensure seamless functionality.
+
+Note: Since there were no real discussions or decisions made during the meeting, there is nothing further to report.
 
