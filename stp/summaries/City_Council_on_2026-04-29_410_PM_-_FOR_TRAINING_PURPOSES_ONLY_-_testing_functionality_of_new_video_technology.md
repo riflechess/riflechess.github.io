@@ -3,11 +3,12 @@ title: City Council on 2026-04-29 4:10 PM - FOR TRAINING PURPOSES ONLY - testing
 date: 2026-04-29
 ---
 #### Meeting Info
-* **Type:** Training meeting for new video technology
-* **Purpose:** Testing functionality of new video technology for City of Saint Paul
-* **Date/Time:** 2026-04-29, 4:10 PM
-* **Description:** Live and Recorded Public meetings of City Council (training purposes only)
+**Meeting Type:** City Council Meeting (Training Purposes Only)
+**Date/Time:** 2026-04-29, 4:10 PM
+**Context:** Testing new video technology for live and recorded public meetings
 
 #### Summary
-This meeting appears to be a technical test of the city's new video technology. The meeting seems to involve repeatedly going back to the same points on the agenda ("We'll be right back") without any actual discussion or decisions being made. It does not appear that any official business was conducted during this meeting, and it is marked as "for training purposes only".
+This meeting appears to be a training session for the new video technology, with repeated announcements of "We'll be right back" without any further content. The agenda items were mentioned but not discussed. It seems that this meeting was intended as a technical test, rather than an actual council meeting.
+
+There is no significant information or decisions to report from this meeting, as it did not involve any real discussions or votes.
 
