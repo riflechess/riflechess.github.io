@@ -3,12 +3,12 @@ title: City Council on 2026-04-29 4:10 PM - FOR TRAINING PURPOSES ONLY - testing
 date: 2026-04-29
 ---
 #### Meeting Info
-* **Meeting Type:** Training/Technical Test of New Video Technology for City Council Meetings
-* **Date/Time:** 2026-04-29, 4:10 PM (note: this appears to be a mock meeting or training session)
-* **Context:** Testing new video technology for live and recorded public meetings
+**Meeting Type:** City Council Meeting (Training Session)
+**Purpose:** Testing of new video technology for live and recorded public meetings
+**Date/Time:** 2026-04-29, 4:10 PM
 
 #### Summary
-This was not an actual City Council meeting, but rather a technical test of the city's new video conferencing equipment. The agenda items were not discussed in detail, as the focus was on testing the functionality of the system.
+This meeting appears to be a training session for testing the new video technology. There is no actual discussion or decision-making taking place. The meeting seems to consist only of announcements that the council will return and technical adjustments being made.
 
-No key decisions or votes were made during this "meeting". The session seemed to be focused solely on ensuring that the technology is working properly for future public meetings. There was no discussion related to public safety, quality of life, business, budget allocations, or any other significant issues affecting Saint Paul residents.
+As this meeting is a test session, there are no decisions or topics to summarize. It's likely that the council will discuss and address actual issues in future meetings once the technology is fully functional.
 
