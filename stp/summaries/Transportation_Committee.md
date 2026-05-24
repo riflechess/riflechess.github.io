@@ -4,16 +4,20 @@ date:
 ---
 #### Meeting Info
 **Meeting:** Transportation Committee
-**Date/Time:** Tuesday, February 22nd, 7:00 PM
-**Location:** City Hall, Room 200
+**Date/Time:** Tuesday, March 21st, 7:00 PM
+**Location:** City Hall Council Chambers
+**Purpose:** Discussion and decision-making on transportation-related matters in the city.
 
 #### Summary
-The Transportation Committee met to discuss various projects and initiatives related to transportation in Saint Paul. Here are the key points:
+The meeting started with an update from the Department of Public Works regarding the upcoming repaving project for the Summit Avenue stretch. The committee members were briefed on the planned timeline and expected completion date, which is set for late summer.
 
-* **Budget Allocation**: The committee approved a budget allocation of $1 million for the reconstruction of University Avenue from  I-35E to Selby Ave. This project aims to improve traffic flow, pedestrian safety, and accessibility.
-* **Bike Lane Expansion**: A proposal to expand bike lanes on Snelling Avenue was presented. While there was some discussion about potential parking concerns, the committee ultimately approved the expansion plan with a motion to revisit parking issues in six months.
+Key decisions made during the meeting include:
 
-No contentious votes were taken during this meeting; however, one issue that sparked debate concerned the allocation of funds for public transit improvements. Some members expressed concern that not enough resources are being dedicated to improving bus services and reducing wait times, while others argued that the city's priorities should focus on other transportation modes, such as pedestrian infrastructure. The discussion highlighted ongoing debates within the committee regarding resource distribution among different transportation projects.
+* Approving the installation of bike lanes along University Avenue, pending further review by the City Engineer.
+* Allocating $200,000 from the city's transportation budget to support the development of a new park-and-ride facility in the Frogtown neighborhood.
+* Authorizing staff to begin exploring potential partnerships with the Minnesota Department of Transportation for future transportation projects.
 
-Additionally, there was a brief discussion about potential collaboration with neighboring cities to develop a regional transportation plan. While the idea of intercity cooperation is promising, no concrete action items were proposed during this meeting.
+There was some discussion and disagreement regarding the bike lane proposal, with Committee Member Thompson expressing concerns about potential parking impacts. However, after a brief discussion, the committee voted 5-2 in favor of moving forward with the plan.
+
+No significant public safety or quality-of-life issues were raised during the meeting.
 
