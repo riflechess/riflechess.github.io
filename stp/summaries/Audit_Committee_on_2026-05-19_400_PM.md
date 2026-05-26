@@ -3,25 +3,24 @@ title: Audit Committee on 2026-05-19 4:00 PM
 date: 2026-05-19
 ---
 #### Meeting Info
-
-* Type: Audit Committee meeting
-* Purpose: To discuss and narrow down the topics for the next audit cycle
-* Date/Time: May 19, 2026, 4:00 PM
-* Attendees: Various committee members, Dr. Britt, Mr. McVeigh, Wilder representatives
+**Meeting Type:** Audit Committee meeting
+**Purpose:** To discuss and select audit topics for the next 12 months
+**Date/Time:** May 19, 2026, 4:00 PM
+**Location:** Live and recorded public meeting of the Audit Committee
 
 #### Summary
 
-The Audit Committee meeting on May 19, 2026, was focused on narrowing down the topics for the next audit cycle. The committee received a comprehensive list of potential topics from a survey and community engagement process.
+The meeting focused on selecting two to three audit topics for the next 12 months. The committee discussed a list of 50 potential topics, including business licensing, district council reform, college savings accounts, opioid settlement funds, and pedestrian safety.
 
-Dr. Britt provided an update on the data practices study, including the synthesis of document and system reviews, literature and benchmarking, and stakeholder engagement surveys. The committee discussed the challenges of getting responses to surveys and the need for more engaged ways of collecting data and information.
+Council Member Johnson highlighted her interest in district councils and suggested that the city's current system might not be working well. She also mentioned the importance of looking at core services and how they are delivered to residents.
 
-The committee then moved on to discussing the next audit topic selection process. Chair Noecker mentioned that they would like to choose two topics from the list, with a goal of having three recommended topics to present to the city council. Mr. McVeigh presented a memo summarizing the survey responses and community engagement feedback.
+Councilor McVeigh emphasized the need for audits to focus on high-risk areas where there are ongoing issues related to city responsibilities under ordinance, statute, or federal law. He suggested considering topics like public safety, public works, and public health.
 
-Committee members discussed various topics, including potholes, business licensing, college savings accounts, district council reform, opioid settlement funds, and more. Some committee members suggested that core services should be prioritized for audit topics, while others recommended focusing on areas with high financial risk.
+The committee narrowed down the list to five potential topics: business licensing, business code functions, street maintenance activities (including potholes), district council reform, and college savings accounts.
 
-The committee narrowed down the list to five potential topics: business licensing, business code functions, street maintenance activities (including potholes), district council reform, and college savings accounts. Some committee members expressed concerns about auditing TIF due to its complexity and the availability of existing data and processes.
+Council Member Dilworth mentioned that tax increment financing (TIF) was on her lower priority list but could be considered as an additional topic. However, there were concerns about TIF being a specialized topic that might require external help from Wilder.
 
-Chair Noecker proposed that a subcommittee be formed to draft specific questions and risk analysis for the top five topics. The subcommittee would then present their findings back to the full committee in July.
+The committee agreed to proceed with the original five topics, with the possibility of adding TIF or other topics in the future. A subcommittee will be formed to draft specific questions and conduct a risk analysis on the selected topics.
 
-The meeting concluded with an adjournment, with some committee members expressing interest in participating in the subcommittee work.
+The meeting was adjourned after discussing various aspects of the audit process and selecting the top five topics for further review.
 
