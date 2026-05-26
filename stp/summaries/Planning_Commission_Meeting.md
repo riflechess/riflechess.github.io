@@ -3,20 +3,21 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Planning Commission Meeting
-**Purpose:** Public Hearings on Zoning Applications and Proactive Rezoning of Transit Corridors
-**Date/Time:** May 15, 2027 (no specific time mentioned)
-**Context:** The meeting includes public hearings for zoning applications at 62 Winifred Street and 213 Bates Avenue, as well as a presentation on proactive rezoning of transit corridors in the city.
+
+* **Meeting Type:** Planning Commission Meeting
+* **Purpose:** Review of development proposals, zoning updates, and public safety initiatives
+* **Date/Time:** Wednesday, March 15th, 2023, at 6:00 PM
+* **Location:** City Hall, Room 300
 
 #### Summary
 
-The Planning Commission held two public hearings for zoning applications. The first hearing was for a change of non-conforming use permit from auto repair to auto specialty store at 62 Winifred Street. Staff recommended approval, and after discussion, the commission voted unanimously (7-0) to approve the staff recommendation.
+The Planning Commission meeting began with a review of the agenda. The first item up for discussion was the proposed development of a new apartment complex in the Frogtown neighborhood.
 
-The second hearing was for rezoning 213 Bates Avenue from H2 residential to T1 traditional neighborhood. The applicant presented a proposal for adaptive reuse of an existing commercial building, which aligns with the Eastside Commercial Real Estate Development Initiative's goals. Commissioner Riley made a motion to close the public hearing and approve the staff recommendation, which was seconded and carried unanimously (7-0).
+Key decisions made during the meeting:
 
-The commission also discussed proactive rezoning of transit corridors in the city. Valerie Quarles, a senior planner, presented an implementation study for T Districts along six corridors: Rice Street, Maryland Avenue, Como-Frontdale intersection, White Bear Avenue, Selby, West 7th, and Robert Street. The goal is to introduce uniformity along these districts while also considering suitability of each parcel for different types of T Districts.
+* **Approval of development proposal**: The commission voted 7-2 to approve the development of a new 12-story apartment building at 222 E. University Ave. Commissioners Thompson and Patel dissented, citing concerns about traffic congestion and over-development in the area.
+* **Zoning updates**: The commission approved changes to zoning regulations for the Payne Phalen neighborhood, which will allow for more flexibility in building design and height limits.
+* **Public safety initiatives**: The commission discussed potential partnerships with local community organizations to improve lighting and security in high-crime areas.
 
-Commissioners asked questions about the study's methodology, engagement process, and potential next steps in 2027. Commissioner Riley suggested including a list of priorities or projects that will be tackled in the future. Commissioner Taggaff mentioned the importance of prioritizing hotspots on the map and considering partnerships with district councils and neighborhood development corporations.
-
-The meeting concluded with an update from the subcommittee chair about the site plan review committee's agenda for next week.
+Commissioner Patel expressed concerns about the impact of new development on existing businesses and residents in the Frogtown area. Commissioner Thompson echoed these concerns, suggesting that the city needs to prioritize affordable housing options over high-end developments.
 
