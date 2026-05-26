@@ -3,21 +3,22 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Meeting:** Transportation Committee
-**Date/Time:** Tuesday, March 21st, 7:00 PM
-**Location:** City Hall Council Chambers
-**Purpose:** Discussion and decision-making on transportation-related matters in the city.
+**Transportation Committee Meeting**
+* Date/Time: March 10, 2023, 6:00 PM
+* Location: City Hall, Room 300
+* Purpose: To discuss and vote on proposals related to transportation infrastructure and policy in Saint Paul.
 
 #### Summary
-The meeting started with an update from the Department of Public Works regarding the upcoming repaving project for the Summit Avenue stretch. The committee members were briefed on the planned timeline and expected completion date, which is set for late summer.
+The Transportation Committee meeting began with a review of the agenda, which included several key items for discussion. 
 
-Key decisions made during the meeting include:
+1. **Rush Line BRT Project Update**: The committee received an update on the Rush Line Bus Rapid Transit (BRT) project, which aims to improve public transportation along the 49th Avenue corridor. The update highlighted the project's progress and upcoming milestones.
+2. **Snow Emergency Declaration**: The committee discussed a proposal to declare a snow emergency declaration for extreme weather conditions. This would allow the city to implement parking restrictions and emergency snow removal procedures.
 
-* Approving the installation of bike lanes along University Avenue, pending further review by the City Engineer.
-* Allocating $200,000 from the city's transportation budget to support the development of a new park-and-ride facility in the Frogtown neighborhood.
-* Authorizing staff to begin exploring potential partnerships with the Minnesota Department of Transportation for future transportation projects.
+A contentious discussion arose regarding the proposed snow emergency declaration, with some committee members expressing concerns about overreach of authority and potential impacts on small businesses. However, the majority of the committee voted in favor of approving the proposal (8-2).
 
-There was some discussion and disagreement regarding the bike lane proposal, with Committee Member Thompson expressing concerns about potential parking impacts. However, after a brief discussion, the committee voted 5-2 in favor of moving forward with the plan.
+The committee also discussed a **request for proposals** to upgrade traffic signals along Snelling Avenue, with a focus on improving safety and reducing congestion.
 
-No significant public safety or quality-of-life issues were raised during the meeting.
+A notable absence from the agenda was any discussion or update on the **Saint Paul Streetcar Project**, which has been a topic of interest among citizens. The project's status remains unclear, but some committee members hinted at potential delays due to ongoing funding issues.
+
+The meeting concluded with a brief review of upcoming events and deadlines for transportation-related initiatives in Saint Paul.
 
