@@ -3,22 +3,25 @@ title: City Council on 2026-05-27 3:30 PM
 date: 2026-05-27
 ---
 #### Meeting Info
-* **Meeting Type:** City Council
-* **Date/Time:** May 27, 2026, 3:30 PM
-* **Context:** Various resolutions and public hearings on different topics, including appointments, grant funding, and climate action plan updates.
+Type: City Council Meeting
+Purpose: Discuss and vote on various resolutions, including appointments, sound level variances, grant funds, and the Climate Action Resilience Plan update
+Date/Time: 2026-05-27 3:30 PM
+Location: City Hall, Saint Paul
 
 #### Summary
-The meeting covered various resolutions and public hearings. The notable items included:
+The meeting covered several key topics:
 
-* Resolution 26-874: Approving Mayor's Appointment of Iye Zhang to serve as the City's Director of the Department of Safety and Inspections. This was adopted unanimously.
-* Resolution 26-886: Exercising the City's authority to opt into and support the Ramsey County Economic Development Authority. A one-week layover was requested, which was approved with seven votes in favor.
-* Resolution 26-841: Amending the findings of fact, conclusion of law, and recommendations submitted by the administrative law judge for MFK Enterprise's auto repair garage and second-hand dealer motor vehicle license. This involved a contentious discussion between the department representative and Mo Kia, the owner of MFK Enterprises. In the end, the council adopted the department's recommendations with seven votes in favor.
-* Resolution 26-791: Approving the mayor's appointment of Mellie McMahon to serve as the city's director of planning and economic development. This was a contentious issue due to concerns about representation and equity in the planning process. Council Member Johnson requested a layover, which was granted two weeks prior to this meeting. After further discussion and conversation with Director McMahon, Council Member Johnson voted against the appointment. The resolution passed with six votes in favor.
-* Resolution Public Hearing 26-120: Approving five applications of the Grand Avenue Business Association for sound level variances for the Grand Old Day event on June 7, 2026. This was adopted unanimously.
-* Resolution Public Hearing 26-121: Accepting grant funds authorizing execution of a grant agreement and amending the operating budget with respect to the city's sponsorship of a Minnesota Department of Employment and Economic Development Redevelopment Grant for the benefit of Afton Parks Development Mixed Use Redevelopment at 841 to 851 Grand Avenue. This was adopted unanimously.
-* Resolution Public Hearing 26-122: Accepting a grant on behalf of the St. Paul Fire Department from the Capital Region Watershed District to support maintenance of the green roof located at the Fire Department Headquarters, Station 1 building, and amending SPFD's 2026 financing and spending plans. This was adopted unanimously.
-* Resolution Public Hearing 26-126: Authorizing the city to accept $6,800,000 in home ARP funds from the United States Department of Housing and Urban Development and amending the 2026 budget to incorporate these funds into the federal grant budget. This was adopted unanimously.
-* The Climate Action Resilience Plan update was also discussed, with several community members testifying in support of the plan. Council Members Jost, Coleman, Bowie, Johnson, Kim, and others expressed their support for the plan, highlighting its importance in addressing climate change, equity, and economic development. The plan was adopted unanimously.
+* Consent agenda items 2 through 11 were adopted with a few modifications.
+* The appointment of Iye Zhang as Director of the Department of Safety and Inspections was approved without opposition.
+* Resolution 26-886, which exercises the city's authority to opt into the Ramsey County Economic Development Authority, was laid over for one week at the request of the county.
+* The City Council voted in favor of adopting Resolution 26-841, which amends the findings of fact and conclusions of law regarding an auto repair garage and second-hand dealer license held by MFK Enterprise. This decision came after a contested case hearing and recommendations from the Department of Safety and Inspections.
+* Vice President Yang made a motion to adopt the department's recommendations in the MFK Enterprise case, with some modifications to address concerns raised by the property owner, Mo Kia.
+* The City Council also approved Resolution 26-812, which establishes a legislative hearing fee waiver pilot program for the remainder of the state.
+* Interim Director Mellie McMahon was appointed as the new Director of Planning and Economic Development, despite some initial reservations from Council Member Johnson. The appointment was seen as a positive step towards economic development in historically under-invested communities.
+* The Grand Avenue Business Association's request for sound level variances for the Grand Old Day event on June 7th was approved without opposition.
+* The City Council voted to accept $6,800,000 in home ARP funds from the United States Department of Housing and Urban Development and amend the 2026 budget accordingly.
+* Resolution Public Hearing 26-120, which authorizes execution of a grant agreement for the Afton Parks Development Mixed Use Redevelopment, was approved without opposition.
+* The Climate Action Resilience Plan update was adopted with some discussion and appreciation for the community engagement process. Council Members expressed their commitment to implementing the plan and addressing climate-related hazards and vulnerabilities.
 
-The meeting concluded with a review of legislative hearing consent agenda items 20 through 27, which were approved with no opposition. Finally, Council President Anker shared some good news from around the wards, including updates on the Walk-On-Tipi Center's grand opening, field improvements at Norrisdale Rec Center, and other community events.
+Note: There were no significant disputes or disagreements on any of the topics discussed during the meeting.
 
