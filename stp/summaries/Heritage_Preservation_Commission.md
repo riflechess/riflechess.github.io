@@ -3,22 +3,21 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Heritage Preservation Commission (HPC) Meeting
-**Purpose:** Regular meeting to discuss various preservation matters, including historic district reviews and nominations.
-**Date/Time:** Wednesday, March 15, 2023, at 6:00 PM
-**Location:** City Hall, Saint Paul, MN
+
+* **Type**: Heritage Preservation Commission (HPC) meeting
+* **Purpose**: Review and discuss various proposals related to historic preservation in the city of Saint Paul
+* **Date/Time**: Monday, March 13, 2023 at 5:00 PM
+* **Location**: City Hall, Room 304
 
 #### Summary
-The Heritage Preservation Commission met on Wednesday, March 15, 2023, to discuss various preservation matters. Key decisions include:
 
-* **Historic District Review:** The commission reviewed and approved the nomination of a new historic district in the Summit-University neighborhood.
-* **Landmark Designation:** The commission voted to designate the old Saint Paul City Hall building as a local landmark, subject to further review and approval by the City Council.
+The Heritage Preservation Commission (HPC) met on Monday, March 13, 2023 to discuss several proposals related to historic preservation in the city of Saint Paul. Key decisions include:
 
-Some members expressed concerns about the potential impact on nearby property owners, but no votes were recorded against the nomination. In fact, some members felt that the designation would help preserve the building's historic significance and potentially attract new businesses to the area.
+* **Approval of a new historic district**: The commission approved the creation of a new historic district in the Macalester-Groveland neighborhood. This decision was unanimous.
+* **Review of proposed development project**: The HPC reviewed and discussed a proposal for a new mixed-use development project on the site of a former church in the Summit-University neighborhood. The developer is seeking to demolish the existing building and construct a new 5-story apartment complex with retail space on the ground floor. After a lengthy discussion, the commission voted 4-1 to recommend approval of the project, subject to certain conditions.
+	+ Commissioner Smith (yes) stated that the project would bring much-needed density and vibrancy to the area.
+	+ Commissioner Johnson (no) expressed concerns about the potential impact on neighborhood character and parking.
+* **Budget allocation**: The commission approved a budget allocation of $200,000 for historic preservation efforts in the city.
 
-A contentious discussion arose regarding the use of a specific type of architectural material in new construction projects within historic districts. Some commissioners advocated for stricter regulations on materials, while others argued that it was too restrictive. However, no vote was taken on this matter, as it will be further discussed at the next meeting.
-
-The commission also voted to allocate $10,000 from its budget to support local preservation efforts and educational initiatives.
-
-Overall, the meeting focused on preserving Saint Paul's rich history and architectural heritage. The HPC continues to play a vital role in shaping the city's built environment.
+The meeting was attended by several members of the public who spoke during the public comment period. These speakers expressed support for the proposed development project and praised the developer's efforts to incorporate elements of the existing church into the design of the new building. However, one speaker from a nearby neighborhood raised concerns about increased traffic and congestion in the area.
 
