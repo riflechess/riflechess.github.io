@@ -5,20 +5,25 @@ date: 2026-05-27
 #### Meeting Info
 **Meeting Type:** City Council Meeting
 **Date/Time:** 2026-05-27, 3:30 PM
-**Purpose:** Live and Recorded Public meetings of City Council on 2026-05-27 3:30 PM for City of Saint Paul
+**Purpose:** Various resolutions and grant agreements for city projects and initiatives.
 
 #### Summary
-The meeting began with the consent agenda items 2 through 11, which were approved after a motion by Vice President Yang. Item 6, Resolution 26-874, was adopted to approve Mayor's Appointment of Iye Zhang to serve as the City's Director of the Department of Safety and Inspections.
 
-Item 8, Resolution 26-886, was laid over for one week at the request of County officials. This decision followed a discussion on the potential impact of waiving the fee for legislative hearings.
+The meeting started with a review of the consent agenda items 2 through 11. After some discussion and voting, the consent agenda was adopted as amended.
 
-The meeting then moved to Item 12, Resolution 26-841, which involved approving an auto repair garage and second-hand dealer motor vehicle license held by MFK Enterprise. The city's Department of Safety and Inspections recommended imposing a $1,000 matrix penalty and amended conditions. After hearing from the appellant, Mo Kia, who expressed concerns about being unfairly blamed for issues related to another business on the same premises, the council voted to adopt the department's recommendations.
+Next, Resolution 26-874 was passed, which approved Mayor's Appointment of Iye Zhang to serve as the City's Director of the Department of Safety and Inspections. The resolution was followed by a swearing-in ceremony for Ms. Zhang.
 
-The meeting continued with Item 13, Resolution 26-812, which approved a legislative hearing fee waiver pilot program. The city would waive fees for appeals of orders to remove or repair a substantial nuisance and special tax assessments. This decision aimed to test the assumption that the $25 appeal fee guarantees someone will show up to the hearing.
+Resolution 26-886 was then discussed, which exercising the city's authority to opt into and support the Ramsey County Economic Development Authority. However, Vice President Yang moved to lay over the item for one week at the request of the county.
 
-Item 14, Resolution 26-791, was passed with a vote of seven in favor and one opposed (Council Member Bowie). The resolution approved the mayor's appointment of Mellie McMahon to serve as the city's director of planning and economic development. Council members praised Director McMahon for her leadership skills and dedication to public service.
+Item 12 was Resolution 26-841, which amended findings of fact, conclusions of law, and recommendations submitted by the administrative law judge concerning an auto repair garage and second-hand dealer motor vehicle license held by MFK Enterprise. The resolution imposed a presumptive matrix penalty and amended license conditions. After some discussion, the council voted to adopt the department's recommendations.
 
-The meeting concluded with Item 19, Resolution Public Hearing 26-120, which accepted grant funds and amended the operating budget to support a Minnesota Department of Employment and Economic Development Redevelopment Grant for Afton Parks Development Mixed Use Redevelopment at 841 to 851 Grand Avenue. The resolution was adopted after a motion by Ms. Jost.
+Resolution 26-812 was then discussed, which approved a legislative hearing fee waiver pilot program for the remainder of the state. Staff reported on the proposal and its benefits in terms of procedural justice. The resolution was passed with seven votes in favor.
 
-Finally, Item 20 through 27 on the legislative hearing consent agenda were approved without any opposition. The meeting ended with announcements of upcoming events and activities in the city.
+The meeting also included an item related to approving the mayor's appointment of Mellie McMahon as Director of Planning and Economic Development. Council Member Johnson discussed her concerns regarding the appointment, but ultimately voted against it due to a lack of urgency and communication from the director on prioritizing community needs. The resolution was passed with six votes in favor.
+
+The council then moved on to public hearing items, including Resolution Public Hearing 26-120, which accepted grant funds for the Grand Avenue Business Association's sound level variances for the Grand Old Day event. The public hearing was closed after no one spoke in opposition, and the resolution was approved.
+
+Other resolutions were also passed during the meeting, including accepting grant funds from the United States Department of Housing and Urban Development (Resolution Public Hearing 26-126), adopting the Climate Action and Resilience Plan update (Resolution Public Hearing 26-130), and approving legislative hearing consent agenda items 20 through 27.
+
+The meeting concluded with good news from around the wards, including updates on Walk-On-Tipi's grand opening, field improvements at Norrisdale Rec Center, Food Truck Friday events, and a celebration for the unveiling of a Dave Winfield statue.
 
