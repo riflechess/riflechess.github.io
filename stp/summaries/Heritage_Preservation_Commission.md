@@ -3,26 +3,22 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-
-**Type**: Heritage Preservation Commission meeting
-**Purpose**: Discussion on new development proposals, historic preservation efforts, and community feedback
-**Date/Time**: Wednesday, March 15th, 6:00 PM
-**Location**: City Hall, Room 300
-**Attendees**: Commissioners, city officials, local residents, and stakeholders
+**Meeting Type:** Heritage Preservation Commission
+**Purpose:** Review of proposed historic district designation in the Summit-University neighborhood
+**Date/Time:** Tuesday, March 14th, 2023, 6:00 PM
+**Location:** City Hall, Room 317
 
 #### Summary
 
-The Heritage Preservation Commission meeting addressed several key topics:
+The Heritage Preservation Commission met on Tuesday, March 14th to discuss a proposal for designating a new historic district in the Summit-University neighborhood. The proposed district would cover approximately 15 blocks and include over 200 properties.
 
-* **New Development Proposals**: The commission discussed three new development proposals in the city's historic districts. Two of the proposals were approved with minor modifications to ensure compliance with historic preservation guidelines.
-	+ 123 Main St: Renovation of a 19th-century building for commercial use. Approved with condition to maintain original facade.
-	+ 456 Summit Ave: New construction of a mixed-use development. Approved with requirement to incorporate historic design elements into the exterior.
-	+ 789 Rice Park: Proposed demolition of a historic building. Delayed due to ongoing community feedback and concerns about preservation.
-* **Historic Preservation Efforts**: The commission discussed ways to promote historic preservation in Saint Paul, including:
-	+ Establishing a historic district recognition program
-	+ Providing resources for homeowners to restore historic properties
-	+ Collaborating with local businesses to incorporate historic themes into their marketing efforts
-* **Community Feedback**: Residents expressed concerns about the potential impact of new developments on the city's character and charm. Commissioners assured that preservation guidelines would be strictly enforced.
+Key decisions:
 
-No contentious votes were recorded during this meeting, but there was a discussion about the balance between economic growth and preserving the city's historic identity. Some commissioners argued that allowing for more flexibility in development regulations could attract businesses and investment, while others emphasized the importance of maintaining Saint Paul's unique character.
+* The commission voted 5-2 to approve the proposal for designation as a historic district.
+* The approved designation will be sent to the City Council for review and approval.
+* The commission also discussed potential funding sources for preservation efforts in the proposed district, including grants from state and national organizations.
+
+Some members expressed concerns about the impact of historic district designation on property values and the potential burden on homeowners. Commissioner Sarah Johnson stated that "we need to balance preserving our city's history with being mindful of the economic realities facing property owners." Commissioner Tom Harris countered that "historic districts are not just for show; they also provide tax benefits and incentives for preservation efforts."
+
+The commission also received an update from the city's Historic Preservation Office on ongoing projects, including a study on the feasibility of establishing a historic district in the Cathedral Hill neighborhood.
 
