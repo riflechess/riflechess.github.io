@@ -3,22 +3,25 @@ title: Library Board on 2026-06-03 1:00 PM
 date: 2026-06-03
 ---
 #### Meeting Info
-Meeting: Library Board
-Date/Time: 2026-06-03, 1:00 PM
-Description: Live and Recorded Public meetings of Library Board for the City of Saint Paul
+* **Meeting Type:** Library Board meeting
+* **Date/Time:** 2026-06-03, 1:00 PM
+* **Context:** The meeting is a live and recorded public meeting of the Library Board for the City of Saint Paul.
 
 #### Summary
-The meeting covered several topics related to library projects in Saint Paul. The first item was a public hearing on Resolution 26-93, which authorizes the St. Paul Public Library Agency to accept $3,150,000 from the Department of Housing and Urban Development for the Hayden Heights Library Reconstruction Project and amends the 2026 St. Paul Public Library budget. After a brief discussion, the motion was approved with a 7-0 vote.
 
-The second item was also a public hearing on Resolution 26-918, which authorizes the library agency to accept Minnesota Department of Education grant funds in the amount of $250,000 to support reconstruction of the Riverview Library and record a property declaration related thereto. This item was approved with a 7-0 vote as well.
+The Library Board discussed several important items during their meeting on June 3rd. 
 
-The third item was a staff report on the Rondo Community Library Update. The presentation covered the current status of the project, including community engagement efforts, updated building plans, and upcoming events. A key feature of the renovation is the play-and-learn space, which will be upgraded to include early learning opportunities and play directly into design elements.
+Firstly, they accepted $80,461 from the Friends of the St. Paul Public Library and amended the library's 2026 financing and spending plans. This donation will be used to support various library initiatives.
 
-Council Member Bowie asked several questions about the project, including the reason for a separate bid on the play-and-learn space and the security presence in the lobby. Director Hartman explained that the opportunity to work on Rondo when it's closed was too good to pass up, and they will be bidding for smaller changes and improvements than the safety improvements.
+Next, they authorized the acceptance of a $3,150,000 grant from the Department of Housing and Urban Development for the Hayden Heights Library Reconstruction Project. The board also approved amending the 2026 St. Paul Public Library Budget to reflect this new funding.
 
-Council Member Bowie also raised concerns about the potential for unsheltered individuals using the library as a refuge and asked if there would be navigators or staff to help redirect them to resources. Director Hartman acknowledged that this is an ongoing conversation at Rondo and that they are exploring ways to engage with it.
+The board then heard an update on the Rondo Community Library project from Deputy Director Rebecca Ryan and Public Services Manager Marlena Okechukwu. They presented a comprehensive plan for renovating the library, which includes safety-focused improvements, tech-rich spaces, and play-and-learn areas. The renovation is expected to be completed in late 2026.
 
-The meeting concluded with several questions from Council Members, including one from Council Member Johnson regarding the proximity of safety specialists to the entryway.
+Council Member Bui asked about the play-and-learn space and whether it would remain in its current location or be relocated. Rebecca Ryan confirmed that the play-and-learn space would indeed stay in the same area, but with some modifications.
 
-In terms of disagreements or areas of contention, there were no major disputes during the meeting. However, Council Member Bowie's concerns about unsheltered individuals and navigators/staff were an area where more discussion was needed to address potential issues with library services.
+The board also discussed safety concerns at Rondo Library, with Council Member Bowie expressing her appreciation for the comprehensive update on the project. She emphasized the importance of prioritizing people's feelings of being welcomed and safe within the library space. Rebecca Ryan assured that the library has taken feedback from community members into consideration and made changes to address these concerns.
+
+Council Member Johnson had a question about the safety specialists and service desk, asking if they would be positioned at the front desk or further back in the lobby. Rebecca Ryan explained that the service desk will be moved closer to the entrance and staff will be proactive in welcoming visitors.
+
+Overall, the meeting provided an update on several important library projects and initiatives, including the Rondo Community Library renovation and the acceptance of grant funding for various library programs.
 
