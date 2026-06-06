@@ -3,25 +3,36 @@ title: Library Board on 2026-06-03 1:00 PM
 date: 2026-06-03
 ---
 #### Meeting Info
-* **Meeting Type:** Library Board meeting
-* **Date/Time:** 2026-06-03, 1:00 PM
-* **Context:** The meeting is a live and recorded public meeting of the Library Board for the City of Saint Paul.
+Type: Library Board Meeting
+Purpose: To discuss updates on the Rondo Community Library project, review resolutions for funding and budget allocations, and address public safety concerns.
+Date/Time: 2026-06-03, 1:00 PM
+Location: Virtual meeting (live and recorded)
 
 #### Summary
 
-The Library Board discussed several important items during their meeting on June 3rd. 
+The meeting began with a presentation by Rebecca Ryan and Marlena Okechukwu on the Rondo Community Library project. They provided an update on the community engagement process, highlighting the feedback received from residents and staff on the project's design and features.
 
-Firstly, they accepted $80,461 from the Friends of the St. Paul Public Library and amended the library's 2026 financing and spending plans. This donation will be used to support various library initiatives.
+Some key points discussed during the presentation include:
 
-Next, they authorized the acceptance of a $3,150,000 grant from the Department of Housing and Urban Development for the Hayden Heights Library Reconstruction Project. The board also approved amending the 2026 St. Paul Public Library Budget to reflect this new funding.
+* The play-and-learn space will be renovated with a separate bid, as it requires unique design considerations.
+* The library's lobby will feature a new entrance, marketplace, and community meeting spaces with updated audio and video equipment.
+* Restroom changes and additions will prioritize user experience and safety.
+* The children's area will remain in its current location but be refurbished to accommodate active play and quiet reading opportunities.
 
-The board then heard an update on the Rondo Community Library project from Deputy Director Rebecca Ryan and Public Services Manager Marlena Okechukwu. They presented a comprehensive plan for renovating the library, which includes safety-focused improvements, tech-rich spaces, and play-and-learn areas. The renovation is expected to be completed in late 2026.
+Council Member Bui asked about the play-and-learn space design, specifically whether it would be relocated or remain in the same area. Marlena Okechukwu confirmed that it would stay in the same location.
 
-Council Member Bui asked about the play-and-learn space and whether it would remain in its current location or be relocated. Rebecca Ryan confirmed that the play-and-learn space would indeed stay in the same area, but with some modifications.
+Council President Neger expressed concerns about safety and security measures in the new design, particularly regarding the placement of staff and resources for vulnerable individuals. Rebecca Ryan and Marlena Okechukwu addressed these concerns by explaining that:
 
-The board also discussed safety concerns at Rondo Library, with Council Member Bowie expressing her appreciation for the comprehensive update on the project. She emphasized the importance of prioritizing people's feelings of being welcomed and safe within the library space. Rebecca Ryan assured that the library has taken feedback from community members into consideration and made changes to address these concerns.
+* Staff will be more visible throughout the library space.
+* The service desk will be moved closer to the entryway.
+* Meeting rooms will be default locked and require reservations or interaction with staff.
 
-Council Member Johnson had a question about the safety specialists and service desk, asking if they would be positioned at the front desk or further back in the lobby. Rebecca Ryan explained that the service desk will be moved closer to the entrance and staff will be proactive in welcoming visitors.
+Council Member Johnson asked about the potential for a separate contractor for each play-and-learn space in other libraries, rather than reusing a single contractor. Rebecca Ryan replied that they intend to use the same contractor for Rondo and Sunray libraries but may consider new bids for future projects.
 
-Overall, the meeting provided an update on several important library projects and initiatives, including the Rondo Community Library renovation and the acceptance of grant funding for various library programs.
+The meeting also covered resolutions for funding and budget allocations, including:
+
+* Resolution 26-93: Authorizing the St. Paul Public Library Agency to accept $3,150,000 from the Department of Housing and Urban Development for the Hayden Heights Library Reconstruction Project.
+* Resolution 26-918: Authorizing the public library agency to accept Minnesota Department of Education grant funds in the amount of $250,000 to support reconstruction of the Riverview Library.
+
+All resolutions were approved with unanimous votes.
 
