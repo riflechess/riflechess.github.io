@@ -3,32 +3,41 @@ title: Library Board on 2026-06-03 1:00 PM
 date: 2026-06-03
 ---
 #### Meeting Info
-Meeting: Library Board
-Date/Time: 2026-06-03, 1:00 PM
-Location: Live and Recorded Public meetings of Library Board for City of Saint Paul
+* **Meeting Type:** Library Board Meeting
+* **Date/Time:** June 3, 2026, 1:00 PM
+* **Description:** Live and Recorded Public meeting of Library Board for City of Saint Paul
 
 #### Summary
 
-The meeting covered various library-related topics, including budget allocations, grant funds, and the Rondo Community Library update.
+The meeting covered several agenda items related to the St. Paul Public Library's budget, grants, and renovations. 
 
-**Key Decisions**
+**Budget and Grants**
 
-* The Library Board approved a $3,150,000 grant from the Department of Housing and Urban Development for the Hayden Heights Library Reconstruction Project.
-* They also approved $250,000 in Minnesota Department of Education grant funds to support reconstruction of the Riverview Library.
-* The Rondo Community Library update was presented by Rebecca Ryan and Marlena Okechukwu, highlighting community engagement efforts, updated building plans, and upcoming events.
+* The Library accepted a $3,150,000 grant from the Department of Housing and Urban Development (HUD) for the Hayden Heights Library Reconstruction Project.
+* The library also received a $250,000 Minnesota Department of Education grant to support the reconstruction of the Riverview Library.
 
-**Disagreements/Controversies**
+**Renovations**
 
-* Vice Chair Bui expressed concern about the play-and-learn space being bid out separately, rather than using a contractor previously used for similar projects.
-* Council Member Bowie raised questions about safety and security measures in the renovated library, highlighting the need for trauma-informed spaces and resources for community members struggling with mental health issues.
+* A public hearing was held for Resolution 26-93, authorizing the library agency to accept the HUD grant and amend the 2026 St. Paul Public Library Budget.
+* The item passed with a unanimous vote (7 in favor, 0 opposed).
+* A second public hearing was held for item three, which also accepted a grant from the Minnesota Department of Education. This item also passed unanimously.
 
-**Budget Allocations**
+**Rondo Community Library Update**
 
-* The Library Board approved funding for various projects, including the Hayden Heights Library Reconstruction Project and the Riverview Library reconstruction.
-* They also discussed budget allocations for other library-related initiatives, such as the Rondo Community Library update.
+* Rebecca Ryan and Marlena Okechukwu presented an update on the Rondo Library Project.
+* The project includes renovations to the entryway, tech-rich spaces, and play-and-learn spaces.
+* The library received a $500,000 State Department of Education grant for multipurpose community centers that will support upgrades to meeting rooms and study rooms.
+* The construction bid has been awarded, and the project is on track to be completed by late 2026.
 
-**Other Notes**
+**Concerns and Discussion**
 
-* Council Member Johnson asked about the location of safety specialists and service desks in the renovated library, expressing concerns about the potential for visitors to access areas without interacting with staff.
-* Vice Chair Bui suggested reviewing the layout and potentially making adjustments if needed.
+* Council Member Bowie expressed concerns about safety and whether the renovations would make the library more welcoming and inclusive for all users.
+* He mentioned that the library should prioritize creating trauma-informed spaces and providing resources for mental health crises.
+* Director Hartman acknowledged the importance of addressing these concerns and stated that ongoing conversations are necessary to balance the need for supportive services with the limits of library services.
+
+**Future Plans**
+
+* The library will host a community update session on June 9th, where attendees can learn more about the renovation project and provide feedback.
+* A public art project is planned for the lobby, which may include a mural or wall covering.
+* The Rondo Legacies through the Generations series will be launched in June, which will feature conversations with elders, teens, and youth to explore the history of Rondo and its future.
 
