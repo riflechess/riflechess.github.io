@@ -3,26 +3,41 @@ title: City Council on 2026-06-03 3:30 PM
 date: 2026-06-03
 ---
 #### Meeting Info
-* **Type**: Saint Paul City Council meeting
-* **Date/Time**: 2026-06-03, 3:30 PM
-* **Location**: Live and Recorded Public meetings of City Council for the City of Saint Paul
+**Meeting Type:** City Council meeting
+**Date/Time:** 2026-06-03, 3:30 PM
+**Location:** [Unknown]
 
 #### Summary
 
-The city council meeting covered several resolutions and ordinances, including:
+The City Council meeting covered several topics, including:
 
-* The adoption of Resolution 26886, which exercises the city's authority to opt into and support the Ramsey County Economic Development Authority.
-* The approval of Ordinance 26-28, which grants a rezoning application for property at 213 Bates Avenue from H2 Residential to T1 Traditional Neighborhood. This change allows for more housing types and neighborhood-serving commercial uses in the Dayton's Bluff neighborhood.
-* Three public hearings were held:
-	+ Resolution 26-124: approved the application of Hot Summer Jazz Festival for a sound level variance for amplified sound during their event on June 19-20 at Mears Park.
-	+ Resolution 26-127: approved the application of United Hmong Family Inc. for a sound level variance for amplified sound during their Hmong International Freedom Festival event on June 26-28 at Como Regional Park.
-	+ Resolution 26-131: approved the application of Minnesota United Football Club for a sound level variance for amplified sound during their concert series events on June 13 and August 15 outside Allianz Field.
+* **Zoning Rezoning of property at 213 Bates Avenue**: The council approved[8D[K
+approved the rezoning of a property from H2 Residential to T1 Traditional N[1D[K
+Neighborhood. This change will allow for a mix of housing types and neighbo[7D[K
+neighborhood-serving commercial uses.
+* **Economic Development Authority**: The council voted to opt into and sup[3D[K
+support the Ramsey County Economic Development Authority, with version two [K
+of the resolution being adopted as amended.
+* **Sound Level Variances**: The council granted sound level variances for [K
+three events: Hot Summer Jazz Festival, Hmong International Freedom Festiva[7D[K
+Festival, and Minnesota United Football Club's Great Long Concert Series. T[1D[K
+These variances allow for amplified sound to be used during these events.
 
-The council also:
+The meeting also included updates on several community events:
 
-* Adopted the legislative hearing consent agenda items, which included extending the compliance date by five weeks for a vehicle abatement order at 314 Wyoming Street East.
-* Heard announcements from the wards, including news about the St. Paul Soapbox Derby and the Bayer LARP district's summer events.
-* Announced upcoming events in the city, including the Asuka Library Board opening on July 18th and Grandel Day this Sunday.
+* **Soapbox Derby**: Council Member Kim reported on the recent Soapbox Derb[4D[K
+Derby event, where St. Paul teams participated in a fun and competitive eve[3D[K
+event.
+* **Bayer LARP District**: Vice President Yang announced the launch of the [K
+Bayer LARP district, which is aimed at supporting local businesses and cele[4D[K
+celebrating diversity, creativity, and resilience in the community.
+* **Asuka Library Board Opening**: Ms. Coleman announced that the Hamlin Mi[2D[K
+Midway Library will be opening on July 18th, with events and activities pla[3D[K
+planned throughout the day.
+* **Grandel Day**: Ms. Jost reported that Grandel Day is happening this Sun[3D[K
+Sunday, with a 5K race, parade, and festivities throughout the day.
 
-There were no major controversies or disputes during the meeting.
+Additionally, Council Member Coleman announced a West 7th community fundrai[7D[K
+fundraiser for the new Dowsman Park playground at Mancini's tomorrow evenin[6D[K
+evening from 5 to 7 PM.
 
