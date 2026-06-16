@@ -2,59 +2,86 @@
 title: Housing  Redevelopment Authority on 2026-06-10 2:00 PM - The video for Item 5 on the HRA agenda can be found between Items 17 and 18 in the Council meeting video.
 date: 2026-06-10
 ---
+Thinking...
+Citizen of Saint Paul summarizing meetings for neighbors/fellow citizens.
+Short summaries, specifically highlighting budget allocations, spending, tax proposals, business-related items, and public safety/quality of life issues.
+
+        *   Markdown format.
+        *   Two sections: "#### Meeting Info" (Type, purpose, date/time, context) and "#### Summary".
+        *   Ignore music/PSAs at the start.
+        *   Highlight disagreements/contention or non-unanimous votes.
+        *   Do not include meta-commentary or instructions from the prompt.
+
+    *   *Meeting Type:* Housing & Redevelopment Authority (HRA) Meeting.
+    *   *Date/Time:* 2026-06-10 at 2:00 PM.
+    *   *Location/Context:* City of Saint Paul.
+    *   *Item 1 (Implicitly the first discussion/introduction):* A project for 1087 Ross Avenue.
+        *   Developer: M&M Real Estate Development LLC (an "emerging and diverse" developer).
+        *   Project: Duplex on HRA-owned land (District 4, Ward 6).
+        *   Details: Two units, each with 3 bedrooms/2 baths + garage. For households at up to 120% AMI.
+        *   Finances: Total cost $906,800; Development gap of $391,800; HRA funding for the gap ($400k authorized later). Intent is to move it back to the tax rolls.
+        *   Status: Move to council for action on June 24th.
+    *   *Item 2 (Emergency Rental Assistance Program - ERAP):*
+        *   Update only, no immediate action needed.
+        *   Purpose: Help those with pending evictions.
+        *   Stats: 257 applications in April/May; 47 processed via lottery; $87,226 paid out.
+        *   Staffing issue: They are currently understaffed (awaiting hiring) but expect full capacity by August.
+        *   Contention/Detail: Discussion regarding AI-generated applications and how to distinguish them from residents using tools for assistance. Consideration of a "bot check" or security screening in the future.
+    *   *Item 3 (Reservation of Funds):*
+        *   Instructional information for upcoming MHFA funding (July 9th deadline).
+        *   Specific Projects:
+            *   Hams West End Apartments ($4M reservation) - Ward 7.
+            *   Gloryville ($2.5M reservation) - Ward 6.
+            *   Face to Face ($5.7M reservation) - Ward 6 (Supportive housing).
+            *   Westminster Vista/Vista Village ($1M + $3.8M components discussed/reserved) - Wards 2 & 5.
+            *   The Aragon ($1.35M reservation) - Ward 7.
+            *   Ramsey Hill ($1.4M reservation) - Ward 1.
+
+    *   *Requirement Check:* Highlight budget/spending? Yes (HRA funds, ERAP payments, MHFA reservations).
+    *   *Requirement Check:* Public safety/quality of life? Yes (Housing affordability, emergency evictions).
+    *   *Requirement Check:* Contentious moments? The AI-generated application discussion is a point of technical detail but shows some administrative concern regarding fraud vs. accessibility.
+
+    *   *Meeting Info Section:*
+        Type: Housing & Redevelopment Authority Meeting
+        Purpose: Reviewing local housing developments, emergency rental assistance updates, and funding reservations for state programs.
+        Date/Time: June 10, 2026, at 2:00 PM
+
+    *   *Summary Construction:*
+        *   Item 1 (Ross Avenue): Focus on the partnership with an emerging developer and the goal of getting land back on tax rolls via affordable housing. Mention the $400k funding for development gap.
+        *   Item 2 (ERAP): Summary of amounts spent ($87,226) and the staffing challenges. Note the concern regarding AI-generated applications as a potential point of fraud vs. user-aid.
+        *   Item 3 (MHFA Funding): List the projects and the reservation amounts. This is high priority for budget/spending transparency.
+
+    *   Wait, "no-brainer" check: Did I mention any music or PSAs? No. Is it in markdown? Yes. Are there two specific sections? Yes.
+...done thinking.
+
 #### Meeting Info
-**Meeting Type:** Housing & Redevelopment Authority (HRA) Meeting  
-**Purpose:** Review of development projects, emergency rental assistance up[2D[K
-updates, and funding reservations for state-level housing grants.  
-**Date/Time:** June 10, 2026, at 2:00 PM  
-**Location:** City of Saint Paul
+**Type:** Housing & Redevelopment Authority (HRA) Meeting
+**Purpose:** To review local housing development projects, provide updates on emergency rental assistance programs, and discuss fund reservations for state-level funding applications.
+**Date/Time:** June 10, 2026, at 2:00 PM
 
 #### Summary
+The meeting covered three primary areas regarding city housing initiatives and funding:
 
-**New Development: 1087 Ross Avenue (Ward 6)**
-The HRA is moving forward with a plan to develop a lot on Ross Avenue. The [K
-project will feature a side-by-side two-story duplex, providing "affordable[11D[K
-"affordable wealth building" ownership for two different families (income u[1D[K
-up to 120% AMI).
-*   **Developer:** M&M Real Estate Development LLC, an emerging and diverse[7D[K
-diverse developer from the Ramsey County program.
-*   **Financials:** The project involves a development gap expenditure of a[1D[K
-approximately $400,000. This uses "Inspiring Communities" funds to ensure t[1D[K
-the units can be sold at an affordable price (estimated at ~$235,000 per un[2D[K
-unit).
-*   **Action Item:** The board will formally authorize the sale of the land[4D[K
-land and the development gap expenditure during a follow-up meeting on June[4D[K
-June 24th.
+**Housing Development (1087 Ross Avenue)**
+The HRA is moving forward with a plan to develop a duplex on HRA-owned land in District 4 (Ward 6). 
+*   **Project Details:** The proposal involves building a side-by-side, two-story duplex featuring 3-bedroom, 2-bath units. The project aims to provide affordable housing and "wealth-building" ownership for families earning up to 120% of the Area Median Income (AMI).
+*   **Budget/Funding:** The total development cost is estimated at $906,800. The HRA will provide a funding gap of approximately $400,000 to cover the difference between construction costs and the anticipated sale price. 
+*   **Goal:** This project is specifically intended to move the land back onto the tax rolls while partnering with an "emerging and diverse" local developer (M&M Real Estate).
 
-**Emergency Rental Assistance Program Update**
-The HRA provided an update on the program designed to help residents facing[6D[K
-facing immediate eviction.
-*   **Current Status:** In April and May, there were 257 applications for a[1D[K
-assistance. Due to limited resources, a lottery system was used to select w[1D[K
-which cases to process. Of those processed, several were approved and paid [K
-out.
-*   **Staffing Challenges:** There was a discussion regarding current staff[5D[K
-staffing levels. The program is currently operating with fewer than the des[3D[K
-desired number of full-time employees due to hiring freezes and personnel l[1D[K
-leaves. Staffing is expected to reach full capacity by August.
-*   **AI & Fraud Prevention:** A portion of the discussion involved how the[3D[K
-the city handles "bot" or AI-generated applications to prevent fraud while [K
-ensuring legitimate residents can still access help.
-*   **Community Outreach:** There was a specific discussion regarding high [K
-eviction rates in the 55106 zip code. Commissioners discussed ways to bette[5D[K
-better engage landlords and tenants in these specific areas to ensure the p[1D[K
-program reaches those who need it most.
+**Emergency Rental Assistance Program (ERAP) Update**
+This was an informational update regarding the program designed to stop evictions for residents at or below 80% AMI.
+*   **Spending:** Between April and May, $87,226 was paid out to landlords to halt eviction proceedings based on a lottery system of applicants.
+*   **Staffing & Operations:** The department is currently navigating staffing shortages due to hiring freezes; they anticipate being at full capacity by August. 
+*   **Points of Discussion:** There was specific discussion regarding the rise of AI-generated applications. While staff are looking for ways to filter out fraud, there was a noted concern about ensuring that residents who use digital tools for assistance aren't accidentally blocked from receiving aid.
 
-**Funding Reservations for State Projects**
-The HRA presented several projects seeking funding from the Minnesota Housi[5D[K
-Housing Finance Agency (MHFA). By "reserving" funds, the city can secure po[2D[K
-points during the state's selection process. The following projects are mov[3D[K
-moving forward with these reservations:
-*   **Hams West End Apartments:** 70 units of affordable housing (adaptive [K
-reuse of brewery buildings).
-*   **Gloryville:** 69 units plus a new 20,000 sq. ft. grocery store.
-*   **Face to Face:** 24 units of permanent supportive housing for youth.
-*   **The Aragon:** 53 units for households at 30-50% AMI.
-*   **Ramsey Hill:** 54 units across six buildings.
-*   **Westminster Vista:** 147 units supported by Section 8 vouchers.
+**Minnesota Housing Finance Agency (MHFA) Funding Reservations**
+The meeting included an overview of several projects seeking state funding. The HRA is moving forward with "reservations" for these projects to qualify them for potential grants and tax credits:
+*   **Hams West End Apartments:** $4 million reservation (Ward 7).
+*   **Gloryville:** $2.5 million reservation (Ward 6); includes a planned grocery store.
+*   **Face to Face:** $5.7 million reservation (Ward 6) for permanent supportive housing for youth.
+*   **The Aragon:** $1.35 million reservation (Ward 7).
+*   **Ramsey Hill:** $1.4 million reservation (Ward 1).
+*   **Westminster Vista:** $1 million reservation (Wards 2 and 5).
+
+Note: Final actions for several of these items are scheduled for a follow-up meeting on June 24th.
 
