@@ -4,54 +4,48 @@ date: 2026-06-10
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Review of TIF districts, police grant approvals, nuisance abat[4D[K
-abatement hearings, and community updates.
+**Purpose:** Consideration of land development financing, public safety gra[3D[K
+grants, nuisance abatement appeals, and community updates.
 **Date/Time:** June 10, 2026, at 3:30 PM
 
 #### Summary
-**TIF Districts and Affordable Housing**
-The council approved the establishment of the Galtier Plaza tax increment f[1D[K
-financing (TIF) district in the Seventh Place redevelopment project area. T[1D[K
-The goal is to leverage taxable property to support affordable housing inve[4D[K
-investments. This was passed unanimously (7-0).
+**Development & Finance**
+*   **Galtier Plaza TIF District:** The Council unanimously approved Resolu[6D[K
+Resolution 26-926 to establish a tax increment financing (TIF) district for[3D[K
+for the Galtier Plaza project. This includes budget amendments and the auth[4D[K
+authorization of a TIF note/loan for the redevelopment area.
 
-**Police Department Grant Approvals**
-Two state grants were approved for the Saint Paul Police Department:
-*   **Auto Theft Prevention:** A grant from the State of Minnesota Bureau o[1D[K
-of Criminal Apprehension for use between 2027 and 2029.
-*   **Pathways to Policing:** A 2026 grant from the Office of Justice.
-Both grants were approved unanimously (7-0) to bolster department capabilit[9D[K
-capabilities and budget.
+**Public Safety & Police Grants**
+*   **Auto Theft Prevention:** The Council unanimously approved Resolution [K
+26-139, authorizing the police department to accept a state grant for the 2[1D[K
+2027–2029 auto theft prevention program.
+*   **Pathways to Policing:** The Council unanimously approved Resolution 2[1D[K
+26-140 to accept a state "pathways to policing" grant for the 2026 budget.
 
-**Nuisance Abatement: 2016 Fremont Avenue**
-There was a significant amount of discussion regarding property maintenance[11D[K
-maintenance at 2016 Fremont Avenue. The owner, Mr. Puhala, expressed frustr[6D[K
-frustration over what he described as a "confusing mess" regarding repeated[8D[K
-repeated orders to clear tall grass and weeds while he attempted to transit[7D[K
-transition the yard into a native planting space.
+**Nuisance Abatement (Contested Case)**
+A significant amount of discussion was dedicated to property at **2016 Frem[4D[K
+Fremont Avenue** regarding an appeal on nuisance abatement for tall grass a[1D[K
+and weeds.
+*   **The Conflict:** The property owner, Mr. Puhala, testified that he has[3D[K
+has been attempting to convert his yard into a "native planting" area. He a[1D[K
+argued that several orders against him were based on a misunderstanding of [K
+what constitutes a managed natural landscape versus unmaintained turf grass[5D[K
+grass. 
+*   **The Decision:** Despite the owner's testimony regarding his efforts a[1D[K
+and the specific contents of his garden, the Council ultimately **sided wit[3D[K
+with the hearing officer’s recommendation.** They voted to find that the nu[2D[K
+nuisance has **not been abated**. This means the Department of Safety and I[1D[K
+Inspections is authorized to take action if the property remains out of com[3D[K
+compliance with city codes.
 
-There was some friction between the owner's testimony and the hearing offic[5D[K
-officer’s report:
-*   The owner claimed that all items—including the grass, logs, and sidewal[7D[K
-sidewalk areas—were in compliance or were part of his planned "native" land[4D[K
-landscape. 
-*   The hearing officer noted that while some progress was made, large amou[4D[K
-amounts of tall grass and weeds remained, and a large log was still sitting[7D[K
-sitting on the property (which is not permitted).
-
-Ultimately, the council voted unanimously to follow the hearing officer's r[1D[K
-recommendation. This means no immediate enforcement action will be taken cu[2D[K
-currently; however, if a city crew finds the yard in violation during their[5D[K
-their next inspection, they will proceed with abatement actions. 
-
-**Public Safety and Community Updates**
-*   **Community Events:** Information was shared regarding "Summer on Pain"[5D[K
-Pain" events at 926 Pain Avenue (free music/food) and upcoming Juneteenth c[1D[K
-celebrations.
-*   **Grants:** The "Open Road Fund" for minority-owned businesses and indi[4D[K
-individuals in the region will open applications on June 19th.
-*   **Infrastructure Issues:** A council member noted that recent storms ca[2D[K
-caused significant power outages in Ward 3, impacting several libraries and[3D[K
-and recreation centers. Residents were directed to contact city forestry or[2D[K
-or community centers for updates on local facility status.
+**Community Updates & Notices**
+*   **Public Events:** The "Play on Pain" summer event was promoted as a fr[2D[K
+free, all-day community gathering at 926 Pain Avenue.
+*   **Grants:** Information was shared regarding the Open Road Fund, which [K
+opens on Juneteenth to provide $50,000 in grants for Black-identifying indi[4D[K
+individuals in the region.
+*   **Infrastructure/Safety:** Ward 3 experienced significant power outages[7D[K
+outages due to recent storms. Residents were directed to contact the city’s[6D[K
+city’s forestry department for fallen trees or issues related to storm dama[4D[K
+damage.
 
