@@ -2,52 +2,30 @@
 title: Audit Committee on 2026-06-16 4:00 PM
 date: 2026-06-16
 ---
-Thinking...
-Citizen of Saint Paul.
-Summarize city meetings for neighbors who don't have time to attend.
-
-        *   Format: Markdown with "#### Meeting Info" and "#### Summary".
-        *   Content of Meeting Info: Type, purpose, date/time, context.
-        *   Summary content: Key decisions (budgets, spending, taxes, business-related items, complaints), public safety, quality of life issues, moments of contention/divided votes.
-        *   Length: Short summaries proportional to the number of topics.
-        *   Exclusions: Ignore music and PSAs at the beginning.
-
-    *   Title: Audit Committee on 2026-06-16 4:00 PM.
-    *   Content: The text is a transcript filled with repetitive "We'll be right back" messages and a single "Well, first, thank you." followed by more repeats.
-    *   Observation: There are no actual meeting minutes, discussion points, budget numbers, public safety debates, or items of business in the provided text. It seems to be an automated transcript for a live stream where nothing happened yet (or it's just filler/re-broadcast tags).
-
-    *   *Meeting Info:*
-        *   Type: Audit Committee Meeting.
-        *   Purpose: Not explicitly stated beyond being an "Audit Committee" meeting.
-        *   Date/Time: June 16, 2026, at 4:00 PM.
-        *   Location/Context: City of Saint Paul.
-
-    *   *Summary:*
-        *   The provided text contains no actual discussion or decisions. It consists entirely of technical "We'll be right back" messages and a standard greeting. Since there are no topics discussed, I cannot report on budgets, safety, or contention.
-
-    *   Wait, as an AI fulfilling the persona of a helpful neighbor/citizen, if there is *no* information in the transcript beyond the title, the summary should reflect that none of the items typically covered (spending, safety, etc.) were discussed because the transcript provided doesn't contain any substance.
-
-    *   Actually, let me look closer at the prompt: "Summarize key decisions... give significant attention to public safety... highlight moments of contention."
-    *   Since the text is literally just a series of "We'll be right back" lines, there are zero topics to summarize.
-
-    *   *Self-Correction/Refinement:* I should still provide the "Meeting Info" clearly based on what *is* available (the title). For the summary, I must state that no specific items were discussed in the provided transcript.
-
-    #### Meeting Info
-    **Type:** Audit Committee Meeting
-    **Purpose:** Oversight and audit functions for the City of Saint Paul
-    **Date/Time:** June 16, 2026, at 4:00 PM
-    **Context:** Live and recorded public meeting.
-
-    #### Summary
-    The provided transcript does not contain any specific discussion points, votes, budget items, or safety concerns. The text consists entirely of transitionary messages ("We'll be right back") and a standard greeting. No decisions were made or reported in this segment.
-...done thinking.
-
 #### Meeting Info
 **Type:** Audit Committee Meeting
-**Purpose:** City audit oversight 
+**Purpose:** Review of a preliminary report on public data request processes and the selection of future audit topics for 2026-2027.
 **Date/Time:** June 16, 2026, at 4:00 PM
-**Context:** Live and recorded public meeting for the City of Saint Paul.
+**Location:** City of Saint Paul
 
 #### Summary
-No specific items, decisions, or discussions were captured in this transcript. The text consists entirely of technical "We'll be right back" prompts and a standard greeting, providing no information regarding budget allocations, public safety, business matters, or community complaints.
+**Public Data Request Process Review**
+The committee reviewed a report regarding the "GovQA" platform, which handles public data requests across all city departments. Key findings included:
+*   **High Volume:** There have been over 75,000 requests since 2022.
+*   **Police Department Impact:** Approximately 95% of these requests are directed at the police department, highlighting a significant workload and stress for those staff members.
+*   **System Challenges:** While the software is useful for tracking, much of the work (searching through emails, manual redactions) remains labor-intensive. There is a noted lack of consistency in how different departments handle these requests.
+*   **Recommendations:** The committee discussed improving internal training, standardizing workflows across all departments, and providing better information to the public to reduce back-and-forth communication.
+
+**Proposed Audit Topics**
+The committee evaluated four potential audit topics for consideration:
+1.  DSI Business Licensing and Building Code Operations (recommended to be audited in 2027 due to system transitions).
+2.  College Savings Accounts (specifically evaluating the "College Bound" programs).
+3.  District Council Reform.
+4.  Street Maintenance and Potholes.
+
+**Points of Contention & Decision Process**
+There was significant discussion regarding which of these topics should be moved forward as one of the three recommendations to the City Council:
+*   **College Savings vs. District Council Reform:** There was a debate over whether "College Savings" requires a full audit or if it could be addressed via internal management. Some members suggested that while it is a priority for the Mayor’s office, its scope might be better served by an administrative review rather than a full formal audit.
+*   **Relationship Management:** A point of concern was raised regarding District Council Reform; because these councils are "eyes and ears" on the ground, the committee wants to ensure that any decision made respects their input and avoids damaging future working relationships.
+*   **Selection Delay:** Due to the complexity of these topics (noting that some could take 6-9 months to complete), the committee did not reach a final unanimous selection for the third slot today. Instead, they will consult with department heads and Dr. Britt to determine specific scopes and timelines before making a final determination in July.
 
