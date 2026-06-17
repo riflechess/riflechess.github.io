@@ -2,68 +2,34 @@
 title: City Council on 2026-06-10 3:30 PM
 date: 2026-06-10
 ---
-Thinking...
-Citizen of Saint Paul summarizing meetings for neighbors/fellow citizens.
-
-        *   Short summaries based on quantity of topics.
-        *   Details on disagreements/arguing or non-unanimous votes.
-        *   Markdown format with "#### Meeting Info" and "#### Summary".
-        *   "Meeting Info": Type, purpose, date/time, context.
-        *   "Summary": Key decisions (budgets, spending, taxes, business, complaints), public safety/quality of life focus.
-        *   Ignore fluff (music/PSAs at the start).
-        *   No imaginary examples/prompts in output.
-
-    *   *Meeting Info:* City Council meeting for the City of Saint Paul on 2026-06-10 at 3:30 PM.
-    *   *Item 4 (implied by context before resolution 26-926):* TIF District. Discussions about affordable housing investment, downtown taxable property space, and the creation/approval of a Tax Increment Financing district for Galtier Plaza (Resolution 26-926). This was passed unanimously (7-0) after HRA vote.
-    *   *Item 5 (actually Resolution 26-139):* Police Department grant approval. "auto theft prevention program" from state of MN Dept of Public Safety/BCA. Unanimous (7-0).
-    *   *Item 6 (actually Resolution 26-140):* "pathways to policing" grant from State of MN Dept of Public Safety Office of Justice. Unanimous (7-0).
-    *   *Item 7 (Legislative Hearing - Item 27/RLHSAO 26-34):* Nuisance abatement for 2016 Fremont Avenue. High contention here. The owner, Mark Puhala, is fighting a "tall grass and weeds" order. There's a conflict between the city's "managed natural landscape" definition and the property's actual status (native plantings vs. just being overgrown). The owner argues that his grass was mowed and what remains are protected plants. The hearing officer recommended finding him in non-compliance. However, Council President Johnson noted that if he *is* compliant, no action will be taken, but if not, the city will take enforcement steps.
-    *   *Vote on Item 27:* Unanimous (7-0) to adopt the legislative hearing officer's recommendation.
-    *   *Consent Agenda:* Items 20-31 approved as recommended by the hearing officer.
-    *   *Closing Remarks:*
-        *   Summer event: "Play on Pain" at 926 Pain Avenue (Wed-Sun, 11 am - 6 pm).
-        *   Open Road Fund for Nexus Community Partners (grant program for Black individuals in MN/ND/SD) opening June 19th.
-        *   Community update: Power outages in Ward 3 after a storm; libraries and rec centers impacted.
-        *   Next meeting: Parks Commission on June 12th regarding tree preservation ordinance.
-
-    *   *Meeting Info Section:*
-        Type: City Council Meeting
-        Purpose: Routine business, public hearings, and budget/grant approvals
-        Date/Time: June 10, 2026, at 3:30 PM
-        Location/Context: St. Paul City Council session
-
-    *   *Summary Section:*
-        *   TIF District (Galtier Plaza): Approval of TIF financing for affordable housing and downtown development.
-        *   Police Grants: Two state grants approved—one for auto theft prevention and one for "Pathways to Policing."
-        *   Nuisance Abatement Dispute (2016 Fremont Ave): This was the most contentious part. The owner claims he's working on a native plant garden; the city is concerned about overgrowth/tall grass. Council ultimately agreed with the hearing officer's recommendation, meaning if the property isn't strictly compliant by next inspection, enforcement will proceed.
-        *   Community Info: "Play on Pain" summer event details and Open Road Fund grants.
-
-    *   Check against rules: No music/PSAs? Yes (the "thank yous" and "testings" were skipped). Highlight disagreement? Yes (Fremont Ave). Public safety? Yes (Police grants). Budget/spending? Yes (TIF and Grants).
-...done thinking.
-
 #### Meeting Info
-**Type:** City Council Meeting
-**Purpose:** Review of legislative items, public hearings, and community updates.
-**Date/Time:** June 10, 2026, at 3:30 PM
-**Context:** Public session for the City of Saint Paul regarding land use, public safety grants, and nuisance abatement.
+**Type:** City Council Meeting  
+**Purpose:** Regular council meeting to address resolutions, ordinances, public safety grants, and land use matters.  
+**Date/Time:** June 10, 2026, at 3:30 PM.
 
 #### Summary
-**Economic Development & TIF Districts**
-The Council approved Resolution 26-926, establishing the Galtier Plaza tax increment financing (TIF) district in the seventh place redevelopment project area. This move is intended to leverage downtown taxable property space to support affordable housing investments. The resolution also includes several related budget amendments and the execution of a TIF development agreement.
 
-**Public Safety & Law Enforcement Grants**
-The Council unanimously approved two significant state grants for the police department:
-*   **Auto Theft Prevention:** A grant from the Minnesota Department of Public Safety (Bureau of Criminal Apprehension) for 2027–2029.
-*   **Pathways to Policing:** A grant from the Minnesota Department of Public Safety (Office of Justice) for 2026.
+**Business Licensing & Enforcement**
+*   **Maryland Supermarket (Item 7):** The Council voted to move from a standard 10-day license suspension to an immediate **revocation** of the tobacco shop license for Maryland Supermarket. This decision was made because the business knowingly sold over 50 flavored tobacco products without the proper permit, despite receiving prior warnings from the Department of Safety and Inspections.
 
-**Nuisance Abatement Dispute (2016 Fremont Avenue)**
-There was significant discussion and testimony regarding a recurring nuisance abatement case at 2016 Fremont Avenue. The property owner, Mr. Mark Puhala, testified against several orders concerning tall grass and weeds.
-*   **The Conflict:** The owner argues that he is transitioning the land into a "managed natural landscape" with native plants and that much of the vegetation has already been mowed to standard. However, city staff noted that the property continues to show significant volumes of overgrown grass and brush in several areas. 
-*   **The Resolution:** While the council acknowledged the owner's efforts to create a native garden, they ultimately voted unanimously to adopt the hearing officer’s recommendation: the nuisance is currently deemed not abated. If a subsequent inspection finds the property is not in compliance with city standards, the Department of Safety and Inspections will take enforcement action.
+**Memorial & Proclamations**
+*   **Legislative Tribute (Item 11):** The Council officially proclaimed June 14, 2026, as "Mark, Melissa, and Gilbert Hortman Day." This follows a state-wide mourning for former State Representative Melissa Hortman and her family. Several members of the state legislature attended to speak on her legacy.
+*   **Heritage Recognitions (Item 10):** The Council passed resolutions recognizing Immigrant Heritage Month, World Refugee Day, and Caribbean American Heritage Month.
 
-**Community Announcements & Updates**
-*   **Summer Events:** The "Play on Pain" event is held at 926 Pain Avenue (Wed–Sun, 11 AM – 6 PM) featuring food, games, and music.
-*   **Grant Opportunities:** The Open Road Fund for Nexus Community Partners will open on June 19th, offering $50,000 in grants for specific community programs.
-*   **Infrastructure Update:** Following recent storms, residents in Ward 3 were notified of power outages affecting several libraries and recreation centers; current status updates are available through the city’s ward offices.
-*   **Upcoming Meeting:** The Parks Commission will meet on June 12th to discuss the tree preservation ordinance.
+**Infrastructure & Development**
+*   **Como Area Alley Reconstruction (Item 13):** Approval was granted for a $350,000 project to repave an alley from gravel to bituminous pavement in the Como area. The funds are sourced from general funds and assessments to address drainage and snow plowing issues.
+*   **Galtier Plaza TIF District (Item 17):** This item involved significant discussion regarding Tax Increment Financing (TIF) for the development of 166 residential units at Galtier Plaza. **Note of Contention:** During the public hearing, a resident expressed strong opposition to the use of TIF funds, arguing that the city should demand more "deeply affordable" units and avoid what he termed "sweetheart deals." However, the Council ultimately approved the establishment of the TIF district after deliberation on the necessity of such funding for urban revitalization.
+*   **Bates Avenue Rezoning (Item 12):** A proposal to rezone 213 Bates Avenue from H2 Residential to T1 Traditional was moved to a final vote scheduled for June 17th.
+
+**Public Safety & Community Grants**
+*   **Hazardous Materials Preparation (Item 15):** The Council approved a $13,000 grant amendment for emergency preparedness in the fire department.
+*   **Auto Theft Prevention (Item 18):** A grant from the State of Minnesota was accepted to fund an auto theft prevention program for 2027-2029.
+*   **Pathways to Policing (Item 19):** The Council approved a state grant to support policing initiatives.
+
+**Land Use & Nuisance Abatement**
+*   **Property Maintenance at 2016 Fremont Avenue (Item 27):** This item involved a **contested dispute** regarding the definition of "managed natural landscapes" vs. "tall grass." The owner argued that their property was in compliance with native planting goals, while city staff maintained it remained overgrown and did not meet legal standards. The Council ultimately voted to uphold the hearing officer’s recommendation for enforcement action if the site is not brought into compliance.
+
+**Other Notable Items**
+*   **Como Zoo Donation (Item 16):** A $500,000 donation from "Como Friends" was approved to support the Como Zoo and Marjorie McNeely Conservatory.
+*   **Pride Festival (Item 14):** A sound level variance was granted for the St. Paul Pride Festival events on June 13-14.
 
