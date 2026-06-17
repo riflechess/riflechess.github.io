@@ -3,55 +3,26 @@ title: Library Board on 2026-06-03 1:00 PM
 date: 2026-06-03
 ---
 #### Meeting Info
-**Meeting Type:** Library Board meeting
-**Purpose:** Review of 2026 financing and spending plans, update on Rondo C[1D[K
-Community Library renovation project
-**Date/Time:** June 3, 2026, 1:00 PM
+**Type:** Library Board Meeting
+**Purpose:** Approval of funding for library reconstruction projects (Hayden Heights and Riverview) and a progress update on the Rondo Community Library project.
+**Date/Time:** June 3, 2026, at 1:00 PM
 
 #### Summary
+The meeting focused primarily on securing funding for several construction projects and reviewing community engagement results for the upcoming Rondo Library renovation.
 
-The Library Board reviewed and approved several resolutions related to libr[4D[K
-library finances and renovations. 
+**Budget & Project Approvals**
+The Board unanimously approved three key items related to budget amendments and the acceptance of funds:
+*   **Hayden Heights Library:** Approved the acceptance of $580,461 from the Friends of the St. Paul Public Library and $3,150,000 from the Department of Housing and Urban Development for reconstruction projects.
+*   **Riverview Library:** Approved a grant of $250,000 from the Minnesota Department of Education to support reconstruction and related property declarations.
 
-* Resolution 26-93 was passed to accept $3,150,000 from the Department of H[1D[K
-Housing and Urban Development for the Hayden Heights Library Reconstruction[14D[K
-Reconstruction Project.
-* The board also authorized the St. Paul Public Library Agency to accept $2[2D[K
-$250,000 in grant funds from the Minnesota Department of Education to suppo[5D[K
-support reconstruction of the Riverview Library.
+**Rondo Community Library Update**
+Staff provided an extensive update on the Rondo project, which involves three simultaneous components: safety-focused entryway renovations ($793,000), technology-rich study spaces, and "play-and-learn" areas for children.
+*   **Construction Status:** A contract has been awarded for the entryway and meeting room updates. The "play-and-learn" portion will go to bid in late June.
+*   **Design Changes:** Based on community feedback (from over 250 survey responses and multiple focus groups), changes were made to improve wayfinding, provide more study rooms, and create a clearer distinction between child and adult spaces. A public art project (likely a mural) is also planned for the lobby.
 
-The Rondo Community Library renovation project was presented by Rebecca Rya[3D[K
-Ryan, Deputy Director for Public Services, and Marlena Okechukwu, Public Se[2D[K
-Services Manager. The presentation highlighted the community engagement pro[3D[K
-process, updated building plans, and upcoming events.
-
-Key points from the presentation:
-
-* The library has awarded the construction bid for the safety and meeting r[1D[K
-room improvement project.
-* The play-and-learn construction bid will be coming out later in June.
-* The Rondo Library will remain on schedule despite doing multiple projects[8D[K
-projects at once.
-* The Transforming Libraries initiative includes tech-rich spaces, play-and[8D[K
-play-and-learn spaces, and multipurpose community centers.
-
-Council Member Bui asked about the play-and-learn space, specifically where[5D[K
-where it would be located within the library. Rebecca Ryan explained that i[1D[K
-it would be in the same location as the current children's area.
-
-The board also discussed safety concerns and how to create a welcoming envi[4D[K
-environment for all users. Council Members Bowie and Johnson emphasized the[3D[K
-the importance of prioritizing people's feelings of safety and welcomeness,[12D[K
-welcomeness, especially for those who may be struggling with mental health [K
-issues or homelessness.
-
-Council Member Johnson asked about the placement of safety specialists and [K
-service desks within the library, expressing concern that they might not be[2D[K
-be accessible to visitors quickly enough. Rebecca Ryan explained that the s[1D[K
-service desk would be moved closer to the entryway, making it easier for pe[2D[K
-people to interact with staff upon entering the space.
-
-The presentation concluded with an update on upcoming events, including a c[1D[K
-community update session and art programs featuring Brianna Williams and Sp[2D[K
-Springboard for the Arts.
+**Public Safety & Community Dynamics**
+A significant portion of the discussion involved the balance between creating a welcoming environment and ensuring public safety at the Rondo location. 
+*   **Safety vs. Inclusion:** Council Member Bui raised questions regarding how the library will handle the "nuanced" reality of its location. There was a detailed discussion on how to ensure the space remains safe for children and families while remaining accessible to all members of the community, including those experiencing homelessness or mental health crises.
+*   **Security Presence:** Staff clarified that safety specialists will maintain a "roaming and interactive presence" rather than staying behind a fixed desk, aiming to be visible throughout the building as soon as people enter the foyer. 
+*   **Facility Layout:** The board discussed moving the service desk closer to the entrance to ensure staff can interact with visitors more quickly. They also reviewed the design of "quiet rooms" and multi-stall restrooms to better accommodate the needs of a diverse population while maintaining safety boundaries.
 
