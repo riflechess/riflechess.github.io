@@ -4,28 +4,31 @@ date: 2026-06-16
 ---
 #### Meeting Info
 **Type:** Audit Committee Meeting
-**Purpose:** Review of a preliminary report on public data request processes and the selection of future audit topics for 2026-2027.
+**Purpose:** Review of a preliminary report on the city's public data request process and selection of future audit topics for 2026-2027.
 **Date/Time:** June 16, 2026, at 4:00 PM
-**Location:** City of Saint Paul
 
 #### Summary
+The committee met to discuss two primary agendas: an evaluation of the current public data request system (GovQA) and the selection of high-priority audit projects for upcoming cycles.
+
 **Public Data Request Process Review**
-The committee reviewed a report regarding the "GovQA" platform, which handles public data requests across all city departments. Key findings included:
-*   **High Volume:** There have been over 75,000 requests since 2022.
-*   **Police Department Impact:** Approximately 95% of these requests are directed at the police department, highlighting a significant workload and stress for those staff members.
-*   **System Challenges:** While the software is useful for tracking, much of the work (searching through emails, manual redactions) remains labor-intensive. There is a noted lack of consistency in how different departments handle these requests.
-*   **Recommendations:** The committee discussed improving internal training, standardizing workflows across all departments, and providing better information to the public to reduce back-and-forth communication.
+The committee reviewed a report on how the city manages public records requests. Key findings include:
+*   **High Volume:** There has been a significant, "startling" increase in the number of requests (over 75,000 tracked recently). The Police Department handles the vast majority—approximately 95%—of these requests.
+*   **Staff Strain:** Because many parts of the process remain manual (searching emails, physical files, etc.), staff are feeling significant pressure to keep up with the growing volume. 
+*   **Recommendations:** To improve quality of life for both staff and the public, the committee is looking into:
+    *   Standardizing workflows across all departments to ensure consistency.
+    *   Better utilization of existing GovQA features through training.
+    *   Improving "front-end" information (FAQs and clearer forms) so that members of the public can find answers without having to file a formal request.
 
-**Proposed Audit Topics**
-The committee evaluated four potential audit topics for consideration:
-1.  DSI Business Licensing and Building Code Operations (recommended to be audited in 2027 due to system transitions).
-2.  College Savings Accounts (specifically evaluating the "College Bound" programs).
-3.  District Council Reform.
-4.  Street Maintenance and Potholes.
+**Selection of Future Audit Topics**
+The committee evaluated several potential audit topics and narrowed them down to four candidates for three available upcoming slots: 1) Business Licensing & Building Code Operations, 2) College Savings Accounts (College Bound), 3) District Council Reform, and 4) Street Maintenance and Potholes.
 
-**Points of Contention & Decision Process**
-There was significant discussion regarding which of these topics should be moved forward as one of the three recommendations to the City Council:
-*   **College Savings vs. District Council Reform:** There was a debate over whether "College Savings" requires a full audit or if it could be addressed via internal management. Some members suggested that while it is a priority for the Mayor’s office, its scope might be better served by an administrative review rather than a full formal audit.
-*   **Relationship Management:** A point of concern was raised regarding District Council Reform; because these councils are "eyes and ears" on the ground, the committee wants to ensure that any decision made respects their input and avoids damaging future working relationships.
-*   **Selection Delay:** Due to the complexity of these topics (noting that some could take 6-9 months to complete), the committee did not reach a final unanimous selection for the third slot today. Instead, they will consult with department heads and Dr. Britt to determine specific scopes and timelines before making a final determination in July.
+**Points of Contention:**
+There was significant discussion regarding which items should be prioritized for the final "third" slot among the candidates:
+*   **Strong Consensus:** The committee agreed that **Business Licensing & Building Code Operations** (DSI) and **Street Maintenance/Potholes** are high priorities. These were deemed essential because they involve core city functions, large budgets, and direct impacts on public safety and quality of life. 
+*   **Debated Topics:** A disagreement/deliberation occurred regarding the choice between **College Savings Accounts** and **District Council Reform**. 
+    *   Some members expressed concern that the "College Bound" proposal was currently too subjective in its scope and might be better served by a report from the administration rather than a full audit.
+    *   Conversely, there is significant pressure to include **District Council Reform**, as those councils have specifically requested an audit of their structure and finances to improve their ability to serve the community.
+
+**Next Steps:**
+Rather than making an immediate snap decision on the third slot, the committee decided to conduct further "due diligence" with department heads and Dr. Britt. They will assess the scope and timeline of each remaining project before making a final determination in July.
 
