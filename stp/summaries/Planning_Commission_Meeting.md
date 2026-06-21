@@ -3,10 +3,10 @@ title: Planning Commission Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Planning Commission Meeting
-**Purpose:** Live and Recorded Public meetings for the City of Saint Paul.
-**Date/Time:** Not specified in provided text.
+- **Meeting Type:** Planning Commission Meeting
+- **Purpose:** Public meeting regarding city planning for the City of Saint Paul
+- **Context:** Live and recorded public meeting
 
 #### Summary
-No specific discussion points, decisions, or community updates were included in the provided text. Please provide a transcript or meeting notes to receive a detailed summary regarding budget allocations, public safety, or local developments.
+The provided information does not include specific details, minutes, or an agenda from a specific session. As no content was included in the transcript, there are no specific decisions, budget allocations, or points of contention to report at this time.
 
