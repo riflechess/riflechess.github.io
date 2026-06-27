@@ -3,28 +3,24 @@ title: City Council on 2026-06-24 3:30 PM
 date: 2026-06-24
 ---
 #### Meeting Info
-**Type:** City Council Meeting  
-**Purpose:** Review of community resolutions, environmental ordinances, and public hearing requests.  
-**Date/Time:** June 24, 2026, at 3:30 PM.
+**Type:** City Council Meeting
+**Purpose:** Regular legislative session and public hearings regarding city resolutions, ordinances, and community recognitions.
+**Date/Time:** June 24, 2026, at 3:30 PM
+**Location:** City of Saint Paul
 
 #### Summary
-**Community Recognitions and Memorials**
-The Council approved several resolutions to honor local figures and cultural icons:
-*   **Resolution 26-1011:** Approved a resolution supporting the ranking of eligible census tracts for designation as "opportunity zones."
-*   **Resolution 26-1028:** Formally honored Lieutenant Colonel Dr. Ku B. Vang, a prominent Hmong community leader and local dentist. The Council proclaimed July 11–13, 2026, as Memorial Days in his honor.
-*   **Resolution 26-1010:** Designated July 6, 2026, as the "Day of Compassion" to celebrate the 91st birthday of the 14th Dalai Lama and recognize the local Tibetan community’s contributions.
+The council approved several resolutions for community recognition and infrastructure improvements. All major votes were unanimous; however, significant discussion occurred regarding the implementation of the Tree Preservation ordinance.
 
-**Public Safety and Inclusion**
-*   **Resolution 26-1022:** The Council officially recognized June 2026 as Pride Month in St. Paul. The resolution includes a commitment to ensure inclusive facilities (such as gender-inclusive restrooms) and affirms the city's stance on protecting and celebrating all residents regardless of sexual orientation or gender identity.
+**Community Recognition & Events**
+*   **Memorial Resolution (Item 13):** The Council unanimously passed a resolution to honor Lieutenant Colonel Dr. Kalbia Vang. July 11–13, 2026, has been officially proclaimed as "Lieutenant Colonel Dr. Kalbia Vang Memorial Days" in recognition of his service as a military member and local businessman.
+*   **Day of Compassion (Item 14):** The Council unanimously approved the designation of July 6, 2026, as "Day of Compassion" to mark the 91st birthday of the 14th Dalai Lama and honor the local Tibetan community.
+*   **Pride Month (Item 15):** The Council unanimously passed a resolution recognizing June 2026 as Pride Month. The resolution emphasizes St. Paul's commitment to inclusive facilities, equal employment policies, and protections for the LGBTQIA2S Plus community.
 
-**Tree Preservation Ordinance (Ongoing Discussion)**
-A significant amount of discussion occurred regarding **Ordinance 25-4**, which establishes new rules for tree preservation during city-sponsored construction projects. 
-*   The goal is to protect the city's tree canopy from damage caused by urban development and severe weather. 
-*   **Details:** The ordinance introduces a requirement for certified arborists, mandatory site surveys, and stricter penalties/restitution for contractors who cause property or environmental damage.
-*   **Current Status:** While not yet adopted into law, the Council reviewed several months of work between the Parks and Public Works departments. Because it requires further public hearing and refinement regarding staffing costs, this item was **laid over until July 8th** for a second reading.
+**Public Safety & Infrastructure**
+*   **Police Department Funding (Item 18):** A public hearing was held regarding the police department’s grant fund; the council approved a resolution authorizing the department to adjust its financing and spending plans.
+*   **Sound Variances (Items 17 & 19):** The Council granted sound level variances for two upcoming events: a boiler testing event at 125 Shepard Road (June 29–July 17) and the Rondo Days Festival on July 18, 2026.
+*   **Tree Preservation Ordinance (Item 16):** This item involved significant discussion regarding city-sponsored construction projects. The ordinance aims to protect the urban tree canopy through mandatory surveys, arborist certifications, and penalties for damage during construction. While passed into a "laid over" status for further review on July 8th, council members specifically discussed the long-term staffing needs of the forestry unit and ensuring that project budgets cover the costs of these new requirements rather than hitting the general fund.
 
-**Public Hearings & Administrative Approvals**
-The council conducted hearings and granted approvals for various local events:
-*   **Sound Variances:** Approved several requests for amplified sound at local sites, including District Energy boiler testing and the Rondo Days Festival in July.
-*   **Infrastructure Awareness:** A brief presentation was given on "Adopt-A-Drain" to educate the public on how clear storm drains prevent flooding and improve watershed health.
+**Environment & Maintenance**
+*   **Storm Drain Program (Item 20):** The Council approved a proposal regarding "Adopt-A-Drain" programs to help manage runoff and keep local waterways clear of debris, specifically highlighting the success of community involvement in maintaining the Mississippi's headwaters.
 
