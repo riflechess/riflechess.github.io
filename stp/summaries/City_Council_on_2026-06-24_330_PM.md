@@ -4,30 +4,28 @@ date: 2026-06-24
 ---
 #### Meeting Info
 **Type:** City Council Meeting  
-**Purpose:** Discussion and voting on various city resolutions, ordinances, and public hearing items.  
+**Purpose:** Regular session to review community resolutions, local ordinances, and public hearing items.  
 **Date/Time:** June 24, 2026, at 3:30 PM.
 
 #### Summary
-The council addressed several community recognitions, environmental protections, and municipal infrastructure matters during this session. All votes passed unanimously; however, the tree preservation ordinance involved significant discussion regarding long-term implementation.
+The meeting covered a variety of topics ranging from community recognitions to infrastructure protections and noise variances. All major votes were unanimous (6-0), with no significant arguments or contentions reported.
 
-**Community Recognition & Proclamations**
-Several resolutions were passed to honor local figures and cultural milestones:
-*   **Resolution 26-1011:** Approved a technical update for selecting census tracts for "opportunity zones."
-*   **Resolution 26-1028:** Recognized the life of Lieutenant Colonel Dr. Ku Blesa Vang, a prominent Hmong community leader and dentist. July 11–13 are officially declared as Memorial Days in his honor.
-*   **Resolution 26-1014:** Declared July 6, 2026, as the "Day of Compassion" to mark the 91st birthday of the Dalai Lama and celebrate the local Tibetan community.
-*   **Resolution 26-1022:** Formally recognized June 2026 as Pride Month, reaffirming city commitments to inclusivity and safety for the LGBTQIA2S+ community.
+**Community Honors and Proclamations**
+*   **Lt. Col. Dr. Ku B. Vang:** The Council officially recognized the life of Dr. Vang, a member of the Hmong community and a veteran dentist. He is proclaimed to have Memorial Days from July 11th through July 13th, 2026.
+*   **Day of Compassion:** Resolution 26-141 was passed to designate July 6, 2026, as the "Day of Compassion" in honor of the Dalai Lama’s 91st birthday and his impact on the local Tibetan community.
+*   **Pride Month:** The Council unanimously approved Resolution 26-1022 recognizing June 2026 as Pride Month, reaffirming the city's commitment to inclusivity and safety for the LGBTQIA2S+ community.
 
-**Environment & Construction (Item 16)**
-A significant portion of the meeting was dedicated to **Ordinance 25-4**, which establishes a framework for tree preservation during city-sponsored construction projects. 
-*   The ordinance aims to protect the urban canopy and improve stormwater management by requiring tree inventories, site surveys, and "tree protection zones" (fencing/barriers) during builds.
-*   **Point of Discussion:** While the council agreed with the goal of protecting trees, there was specific discussion regarding costs and staffing. It was noted that while construction projects will pay for the required assessments, the city needs to determine a sustainable way to fund the ongoing expert staff needed to oversee these protections across all departments.
-*   **Status:** This item was "laid over" (postponed) until July 8th for a second reading and public hearing.
+**Environment and Infrastructure**
+*   **Tree Preservation Ordinance (Ordinance 25-4):** A significant discussion was held regarding new requirements for protecting trees during city-sponsored construction projects. The goal is to create a "proactive, accountable, and transparent system" to protect the urban tree canopy from damage caused by construction activities.
+    *   *Note:* This item was **laid over until July 8th** for a second reading and public hearing.
+    *   *Budget/Funding:* It was clarified that while these requirements may increase the costs of individual projects, those specific project budgets are intended to absorb the costs rather than impacting the general fund.
+*   **Adopt-A-Drain:** The Council approved an initiative encouraging residents (especially youth) to participate in "Adopt-A-Drain" programs to help manage storm drainage and keep local waterways clear of debris.
 
-**Public Safety & Operations**
-The council approved several items related to public safety and city operations:
-*   **Resolution 26-141 & 26-143:** Approved sound level variances for boiler testing at District Energy and the Rondo Days Festival, respectively.
-*   **Resolution 26-142:** Authorized the police department to adjust its funding and spending plans from their grant funds.
+**Public Hearings & Variances**
+The following items were heard during the public hearing portion; no opposition was voiced, and all were approved:
+*   **Sound Variances:** Two sound level variances were granted for industrial boiler testing (District Energy) and a community festival (Rondo Days).
+*   **Police Department Funding:** Resolution 26-142 was adopted, allowing the police department to adjust its financing and spending plans within its grant fund.
 
-**Public Programs (Item 20)**
-The council reviewed the "Adopt-A-Drain" initiative. This program encourages residents to adopt local storm drains to help manage flood risks and keep local waterways clean. No public testimony was provided during this hearing, so it was approved as presented.
+**Consent Agenda**
+The majority of the consent agenda was approved, including a specific resolution (Resolution 26-1011) regarding the ranking of census tracts for "opportunity zones," which was pulled briefly for a technical correction before being unanimously passed.
 
