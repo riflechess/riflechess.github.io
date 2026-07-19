@@ -4,27 +4,34 @@ date: 2026-07-15
 ---
 #### Meeting Info
 **Type:** City Council Meeting  
-**Purpose:** Review of ordinances, resolutions, and legislative hearings regarding city infrastructure, community recognition, and public safety.  
-**Date/Time:** July 15, 2026, at 3:30 PM.
+**Purpose:** Review of resolutions, ordinances regarding city infrastructure, and legislative hearings.  
+**Date/Time:** July 15, 2026, at 3:30 PM  
 
 #### Summary
-The meeting covered a mix of community-focused celebrations, long-term infrastructure improvements, and several high-stakes hearings regarding property rights and city services.
+**Rondo Community Recognition**
+The Council unanimously approved a resolution recognizing the historic legacy and cultural contributions of Rondo-based drill teams and dance groups. Several members of the community spoke during the meeting to share the history of these organizations as "the heartbeat of the Rondo community," emphasizing their role in youth development and cultural preservation.
 
-**Community Recognition & Cultural Legacy**
-*   **Rondo Day Drill Teams:** The Council unanimously adopted Resolution 26-1150 to recognize the historic legacy and contributions of Rondo-based drill teams and dance groups. The discussion highlighted these organizations as vital for youth engagement, cultural preservation, and community healing.
+**Tree Preservation Ordinance**
+A new ordinance was adopted regarding tree preservation for city-sponsored construction projects. The council aims to treat trees as essential public infrastructure rather than an afterthought in development. The goal is to improve urban canopy equity, combat climate change, and enhance the quality of life in neighborhoods with high levels of environmental disparity.
 
-**Infrastructure & Environment**
-*   **Tree Preservation Ordinance:** The Council approved a new ordinance requiring the protection of trees in city-sponsored construction projects. This was presented as a major step toward ensuring environmental equity and "giving trees a voice" during urban development.
-*   **Golf Course Operations (First Reading):** A proposal is in progress to allow Highland Golf Course to operate later with lighting for the driving range, and to permit seasonal winter activities at Como Golf Course. This item will be reviewed further on July 22nd.
-*   **Waste Management:** A new ordinance was introduced to give the City Council more oversight and transparency regarding municipal solid waste contracts. This will also be held over until July 22nd.
+**Golf Course Operations & Waste Management**
+*   **Golf Courses:** A first reading was held for an ordinance allowing Highland and Como golf courses to operate later (until 9:00 PM) and use lighting for more hours. This is intended to increase accessibility, revenue, and variety for the public. 
+*   **Waste Contracts:** The Council reviewed a proposal to give the city council more oversight and transparency regarding municipal solid waste (trash collection) contracts.
 
-**Utility Franchises & Public Safety (Public Hearings)**
-*   **Energy Contracts:** Two public hearings were held regarding electricity and gas franchises with XL Energy. Due to technical concerns regarding how rates are tracked in the legislative text, both items were "laid over" for further review rather than being finalized today.
-*   **Irish Fest Variance:** The council approved a noise variance for amplified sound at Harriet Island Regional Park for an upcoming Irish festival.
+**Utility Franchise Agreements**
+The Council held hearings on franchise agreements with Northern States Power (XL Energy) for both electricity and gas. These items were "laid over" for further consideration. Discussion included concerns about how these 20-year agreements impact residential rates, especially as the city adjusts to changes in large industrial consumers.
 
-**Housing & Tenant Rights (Contention)**
-*   **Rent Stabilization Appeal (1517 Portland Ave):** This was a significant point of discussion regarding habitability. A tenant, appealing a rent hike, argued that the building had serious safety issues, including non-functional fire extinguishers and windows that could not be opened for escape. The council ultimately voted to **grant the tenant's appeal**, siding with the hearing officer’s finding that the landlord failed to meet minimum habitability standards before a price increase could be approved.
+**Irish Fest Sound Variance**
+A resolution was unanimously adopted allowing a sound level variance for the Twin Cities Irish Fest at Harriet Island Regional Park for early August.
 
-**Public Outcry on Homelessness & Evictions**
-*   The final portion of the meeting saw significant public pushback from several residents regarding current city policies on homelessness. Residents expressed frustration over what they described as "unilateral" government decisions and a lack of public hearings regarding the eviction of homeless encampments. This was an emotionally charged segment where citizens demanded more transparency and community input on the safety and housing of the unhoused population.
+**Rent Stabilization Appeal (1517 Portland Ave)**
+The Council heard an appeal from a tenant regarding a proposed rent increase. The council ultimately **rejected** the landlord's request for a variance to exceed the 3% cap. The decision was based on:
+*   **Habitability Issues:** A report indicated that a bedroom window could not stay open and fire extinguishers were expired.
+*   **Utility Accounting:** Improper ways of passing through utility costs made it impossible to justify the requested increase under current city codes.
+
+**Tree Removal Assessment (720 Cottage Ave East)**
+The Council approved a $4,400 assessment for the removal of a hazardous tree. To assist the homeowner with the cost, they were granted an option to pay the balance over a 10-year period.
+
+**Public Safety and Housing Concerns (Contention)**
+During several segments of the meeting—particularly during the discussion on tree removals—members of the public expressed significant frustration regarding "encampment evictions." Residents expressed anger over what they described as a lack of transparency and urgency regarding city plans to clear homeless camps. These speakers demanded an immediate, dedicated public hearing on the matter, citing concerns for public health and the safety of residents currently living in those areas.
 
