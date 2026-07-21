@@ -3,24 +3,30 @@ title: City Council on 2026-07-15 3:30 PM
 date: 2026-07-15
 ---
 #### Meeting Info
-**Type:** City Council Meeting
-**Purpose:** Discussion and vote on city ordinances, resolutions, and public hearings regarding local infrastructure, cultural preservation, utility contracts, and community events.
-**Date/Time:** July 15, 2026, at 3:30 PM
+**Type:** City Council Meeting  
+**Purpose:** Regular legislative session to discuss city ordinances, resolutions, and community developments.  
+**Date/Time:** July 15, 2026, at 3:30 PM.
 
 #### Summary
-The council addressed several items ranging from local heritage to municipal infrastructure and utilities.
+**Cultural Heritage & Community Preservation**
+*   **Rondo Day Recognition:** The Council unanimously approved Resolution 26-1150. This resolution recognizes the long history and community contributions of Rondo-based drill teams and dance groups. There was significant community testimony highlighting the importance of these organizations in building unity and local identity.
 
-*   **Cultural Preservation & Community Heritage:** The council unanimously passed a resolution recognizing the historic legacy of Rondo drill teams and dance groups. This was highlighted as an important effort to preserve the cultural history of the neighborhood.
-*   **Tree Preservation Ordinance:** A new ordinance was adopted regarding tree preservation for city-sponsored projects. This follows a 16-month legislative process aimed at ensuring environmental equity and protecting the urban canopy during construction.
-*   **Golf Course Operations:** The council heard a first reading on an ordinance to allow more flexible operating hours (up to 9:00 PM) and lighting at Highland and Como Golf Courses to increase accessibility and revenue. This was laid over for further consideration.
-*   **Waste Management & Utility Franchises:**
-    *   A move to require City Council approval on municipal solid waste contracts was introduced to increase transparency and oversight.
-    *   During hearings for **electric and gas franchise agreements (XL Energy)**, residents expressed concerns regarding high franchise fees and the impact of rising costs on residential consumers. There were specific requests for the city to correct technical errors in the rate charts before final approval. 
-*   **Public Events:** A sound variance was approved for an Irish Fest event at Harriet Island Regional Park in early August.
-*   **Tree Removal Assessment:** The council heard a petition regarding a $4,400 tax assessment for a hazardous tree removal; the proposal included a 10-year payment plan to assist the property owner.
+**Environment & Infrastructure**
+*   **Tree Preservation Ordinance:** The Council adopted Ordinance 25-4, which adds a specific chapter to the St. Paul Administrative Code regarding tree preservation for city-sponsored construction projects. This aims to treat trees as vital public infrastructure rather than an afterthought during development, focusing on equity and climate goals.
 
-**Items of Note/Contention:**
-The most significant point of contention occurred during the discussion of the legislative hearing items. While the council was presiding over a **tree removal assessment**, several residents took the floor to protest the lack of public hearings regarding **encampment evictions and homelessness**. 
+**Utility & Public Land Management**
+*   **Golf Course Improvements:** Ordinance 26-35 (regarding lighting at Highland Golf Course and other facilities) was introduced for its first reading. It intends to allow longer operating hours and increased revenue for the parks department.
+*   **Waste Contracts:** Ordinance 26-36 was reviewed regarding the need for greater Council oversight and public transparency on municipal solid waste contracts.
+*   **Utility Franchises:** The council heard discussions regarding electrical (XL Energy) and gas franchises. There were specific concerns raised by a resident regarding ensuring that legislative text accurately reflects contract durations to avoid issues with rate calculations.
 
-These citizens voiced strong concerns about "public safety" and "quality of life," arguing that the city’s silence on these matters is resulting in harm to vulnerable residents. The rhetoric during this segment was intense, with residents stating they would continue to protest until the council addresses the lack of transparency regarding the eviction plans for nearby camps.
+**Housing & Neighborhood Safety**
+*   **Rent Stabilization Appeal (1517 Portland Ave):** This was a point of contention and heavy deliberation. A landlord sought a rent variance of nearly 18% due to rising costs. However, the Council ultimately sided with the tenant's appeal and **denied the landlord’s request**. The decision was based on "habitability" issues, specifically:
+    *   Fire safety concerns (expired fire extinguishers).
+    *   Emergency egress violations (a bedroom window that could not be opened/left open).
+    *   Improper utility billing procedures.
+*   **Public Safety & Homelessness:** During the public hearing portion of the meeting, several residents expressed significant frustration regarding the lack of a public hearing on "encampment evictions." They called for more transparency and urged the city to address the safety and health impacts on those currently experiencing homelessness before displacements occur.
+
+**Other Notables**
+*   **Irish Fest:** A resolution was approved allowing a sound variance for amplified music at Harriet Island Regional Park in early August.
+*   **Tree Removal Assessment:** The council ratified a special tax assessment for a dangerous tree removal at 720 Cottage Avenue East, with the option of a 10-year payment plan for the owner.
 
