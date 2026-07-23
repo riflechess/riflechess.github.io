@@ -4,9 +4,10 @@ date:
 ---
 #### Meeting Info
 **Type:** Neighborhood STAR Board Meeting
-**Purpose:** Public meeting regarding Neighborhood STAR programs for the City of Saint Paul
-**Date/Time:** Not specified
+**Purpose:** Public meeting regarding Neighborhood STAR programs in Saint Paul
+**Date/Time:** Not specified (Live and Recorded)
+**Context:** Official City of Saint Paul public record.
 
 #### Summary
-The provided information identifies this as a live and recorded public meeting for the Neighborhood STAR Board. Because no specific transcript or notes were included in the input, there are no specific details available regarding budget allocations, business updates, or public safety concerns at this time.
+No specific discussion points, budget allocations, safety concerns, or items of contention were provided in the text for this summary. This entry appears to be a notice regarding the availability of live and recorded recordings for the meeting.
 
