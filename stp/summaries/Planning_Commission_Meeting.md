@@ -4,9 +4,9 @@ date:
 ---
 #### Meeting Info
 **Type:** Planning Commission Meeting
-**Purpose:** Live and recorded public meetings regarding city planning.
-**Context:** City of Saint Paul proceedings.
+**Purpose:** Public meeting regarding city planning for the City of Saint Paul.
+**Date/Time:** Not specified in provided documentation.
 
 #### Summary
-No specific details, decisions, or discussion points were provided in the source text for this meeting date. Therefore, there are no updates available regarding budget allocations, business impacts, or public safety matters at this time.
+No specific decisions, budget allocations, or public safety concerns were detailed in the provided information. The notice serves as a general heading for the Planning Commission’s recorded and live public meetings for the City of Saint Paul.
 
