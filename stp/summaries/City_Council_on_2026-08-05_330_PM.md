@@ -4,34 +4,36 @@ date: 2026-08-05
 ---
 #### Meeting Info
 **Type:** City Council Meeting  
-**Purpose:** Discussion of city ordinances, budget adjustments, and public hearings regarding municipal services and community projects.  
+**Purpose:** Review of city ordinances, budget resolutions, and public hearings regarding local infrastructure, safety, and municipal policy.  
 **Date/Time:** August 5, 2026, at 3:30 PM.
 
 #### Summary
 
-**Tenant Protection & Ballot Initiative (High Contention)**
-There was a significant debate regarding a ballot initiative for tenant protections sponsored by "Safe Homes St. Paul." 
-*   **The Support:** Supporters emphasized the importance of community engagement and pointed to similar successful ordinances in Duluth as evidence that the proposal is viable. They argued that since the organization met all legal requirements for a petition, it should be put directly to the voters.
-*   **The Opposition:** Opponents, including Council Members Johnson and Jost, expressed concern over the specific language of the ordinance. They argued that because the document was flagged by city attorneys as potentially unconstitutional or legally unenforceable in its current form, putting it on a ballot would "set voters up for failure." 
-*   **Result:** The motion failed (5-2 vote).
+**Tenant Protections & Ballot Initiatives (Significant Contention)**
+There was a significant debate regarding a "right to repair" ordinance put forward as a ballot initiative by Safe Homes St. Paul. 
+*   **The Support:** Some council members supported the move, arguing it would empower residents and engage the community in democracy. They noted that similar language had been successfully passed in Duluth.
+*   **The Opposition:** Other council members opposed the measure due to legal concerns from the City Attorney’s office. They argued that the ordinance as written conflicts with state law and the U.S. Constitution, potentially making it unenforceable if passed by voters. 
+*   **Outcome:** The motion failed with a vote of 5 against and 2 in favor.
 
-**Public Safety and Emergency Services Budgeting**
-Several items were approved regarding funding for our first responders and infrastructure:
-*   **Fire Department:** A $360,000 adjustment was made to provide hazardous materials response training. Additionally, $500,000 was allocated for the Minnesota Air Rescue Team's equipment and training.
-*   **Police Department:** The council approved several budget adjustments for grant programs, including a $35,000 donation from the St. Paul Police Foundation and a $25,000 port security grant.
-*   **Community Safety:** A small funding adjustment ($202.88) was approved specifically to support the Fire Explorers Program.
+**Public Safety & Infrastructure Updates**
+The council approved several measures related to public safety, emergency services, and infrastructure:
+*   **Fire & Rescue:** Approved $360,000 for hazardous materials response training, $500,000 for the Minnesota Air Rescue Team equipment/training, and a reimbursement of over $21,000 from the City of Edina. 
+*   **Police:** Accepted a $35,000 donation from the St. Paul Police Foundation and an additional $25,000 grant for port security.
+*   **Parks & Recreation:** Approved a $250,000 grant to improve trail connections near the mounds maintenance facility and accepted a $2.28 million donation from Como Friends for the Como Zoo and Marjorie McNeely Conservatory. 
+*   **EV Infrastructure:** Accepted a $50,000 grant to purchase two curbside EV chargers.
 
-**Parks and Quality of Life**
-*   **Golf Course Expansion:** The council approved changes to allow for mini-golf courses and extended hours (until 10 p.m.) for lit facilities, such as the Highland National Driving Range, to increase community access and city revenue.
-*   **Park Grants:** Significant funding was secured through various grants, including a $250,000 grant for trail connections near the Mounds maintenance facility and a large donation ($2.28 million) from Como Friends to support the Como Zoo and Marjorie McNeely Conservatory.
-*   **Sound Variances:** The city approved sound level variances for "India Fest 2026" and several upcoming events at Wabasha Brewing Company.
+**Economic & Community Development**
+*   **Golf Courses:** Ordinance 26-35 was adopted, allowing for miniature golf courses and permitting some facilities (specifically the Highland National Driving Range) to operate with lights until 10:00 PM.
+*   **Waste Management:** New rules were established requiring City Council approval for mixed municipal solid waste contracts.
+*   **Commercial Growth:** A $400,000 one-time transfer was approved for the Commercial Corridors Program.
+*   **Minimum Wage:** The council moved to eliminate the city's provisional 90-day minimum wage rate specifically for workers aged 14 to 17.
 
-**Labor and Personnel (Public Hearing)**
-A proposal was introduced to move the Deputy City Clerk position into an "Unclassified Service" (non-union/appointed) role. This drew significant pushback during the public hearing from local union representatives, who characterized the move as "union busting." They argued that the role has historically been a union position and that there is no logistical reason it needs to be unrepresented. This item was tabled until August 12th for further consideration.
+**Labor & Staffing (Public Hearing)**
+A public hearing was held regarding the Deputy City Clerk position. 
+*   **Conflict:** Union representatives from AFSCME Local 2508 expressed strong opposition, arguing that making the role an "appointed" (non-union) position would be "union busting" and remove a long-standing civil service role. They argued there is no need for the role to be non-represented to allow for signing authority.
+*   **Status:** The matter was laid over until August 12th for final consideration following the public comments.
 
-**Economic Development & Infrastructure**
-*   **Business Support:** The council approved an ordinance requiring City Council approval for mixed municipal solid waste contracts.
-*   **EV Infrastructure:** $50,000 in grant funding was accepted to install two curbside EV chargers and perform related site work.
-*   **Commercial Corridors:** A one-time transfer of $400,000 was approved to support the Commercial Corridors Program citywide.
-*   **Vacant Buildings:** Regarding a specific property at 1047 Arcade Street (intended for a cannabis farm), the council granted a 90-day waiver on vacant building fees while the owner works to resolve issues with the "Poly" permit system.
+**Property & Land Use**
+*   **Vacant Buildings:** A 90-day waiver on vacant building fees was granted for the property at 1047 Arcade Street to allow time for code compliance and permit resolution.
+*   **Sound Variances:** The council approved sound level variances for "India Fest 2026" and a series of events for Wabasha Brewing Company.
 
