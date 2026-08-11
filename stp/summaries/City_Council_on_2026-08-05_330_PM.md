@@ -4,32 +4,33 @@ date: 2026-08-05
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Legislative hearings on ordinances, resolutions, and public policy updates.
-**Date/Time:** August 5, 2026, at 3:30 PM
-**Location:** Saint Paul City Hall
-
-***
+**Purpose:** Legislative review, public hearings, and budget approvals.
+**Date/Time:** August 5, 2026, at 3:30 PM.
 
 #### Summary
+The council addressed several key items involving tenant rights, local infrastructure, labor relations, and various budget allocations for city services.
 
-**Tenant Protection & Ballot Initiative (Contested)**
-A significant amount of debate occurred regarding a "right to repair" initiative submitted by Safe Homes St. Paul. While several council members were strongly in favor of allowing the item to go to a public vote—citing the importance of community engagement and tenant rights—others voted against it due to legal concerns. The opposition argued that the specific language of the ordinance was potentially unconstitutional or inconsistent with state law, making it "enforceable" for the city and clear for the voters. The motion to put the item on the ballot failed (2-5), as several members wanted to ensure the ordinance could be legally implemented before involving the public.
+**Tenant Protection Ordinance (High Contention)**
+There was a significant debate regarding a petition to put a "Right to Repair" / tenant protection ordinance on the ballot. 
+*   **Support:** Proponents argued that it is important for democracy that voters decide on these issues and noted that similar language has been successfully implemented in other cities, like Duluth.
+*   **Opposition/Concerns:** Opponents (including a majority of the council) expressed strong concerns regarding the legal viability of the specific wording provided by the petition organizers. They argued that because the ordinance was deemed "unlawful" by city attorneys due to conflicts with state law and constitutional issues, putting it on the ballot would mislead voters and could not be enforced if passed.
+*   **Outcome:** The motion failed with a 5-2 vote against the resolution to put the item on the ballot.
 
-**City Personnel & Labor Relations**
-A proposal was discussed to move the Deputy City Clerk position into an "unclassified" (non-union) status. This sparked significant pushback during the public hearing from union representatives and residents who argued that this would result in the loss of a union job. They requested that the role remain within the civil service to ensure continuity and maintain existing labor protections. The item has been laid over until August 12th for further consideration.
+**Public Works & Community Assets**
+*   **Golf Courses:** A new ordinance was adopted to allow miniature golf and permit golf courses (specifically the Highland National Driving Range) to use lighting for operations until 10:00 PM to increase community access and revenue.
+*   **EV Infrastructure:** The council approved a $50,000 grant to purchase two curbside EV chargers and perform associated site work.
+*   **Parks & Recreation:** Several budget approvals were made for trail connections near the Mounds maintenance facility and a significant donation ($2.28M) was accepted from "Como Friends" to support the Como Zoo and Marjorie McNeely Conservatory.
 
-**Public Safety & Infrastructure Investments**
-The Council approved several items related to public safety and infrastructure:
-*   **Fire & Police:** Approved various funds, including $360,000 for a hazardous materials response agreement with the State of Minnesota, $500,000 for the Minnesota Air Rescue Team training/equipment, and $21k in reimbursement from the City of Edina.
-*   **Parks & Community:** Approved $250,000 for trail connections and various grant funds to support the Como Zoo and Marjorie McNeely Conservatory. 
-*   **Green Energy:** Approved a $50,000 grant for the installation of two curbside EV chargers.
+**Labor & Personnel**
+*   **Deputy City Clerk Role:** A public hearing was held regarding moving the Deputy City Clerk position to an unclassified (non-union) status. Labor representatives expressed strong opposition, arguing that this would remove a union job and they requested it remain a certified civil service position. This item will be reconsiderated on August 12.
 
-**Business Development & Quality of Life**
-*   **Golf Courses:** The council approved an ordinance updating rules for local golf courses to allow miniature golf and permit lighted courses (such as the Highland National Driving Range) to operate until 10:00 PM to increase community use and revenue.
-*   **Noise Variances:** Sound level variances were approved for "India Fest 2026" on State Capitol Grounds and for upcoming events at Wabasha Brewing Company.
+**Public Safety & Infrastructure Grants**
+The council unanimously approved several grants and budget adjustments for public safety:
+*   $350,000+ total in various funds for hazardous materials response and training equipment for the Minnesota Air Rescue Team.
+*   A $25,000 grant for port security.
+*   A reimbursement from the City of Edina for Task Force 1 activities.
 
-**Other Notable Decisions**
-*   **Vacant Buildings:** A 90-day waiver was granted for the property at 1047 Arcade Street to help the owner transition out of the vacant building program.
-*   **Minimum Wage:** The council moved to lay over an ordinance regarding the removal of the provisional 90-day minimum wage rate for workers aged 14–17 until August 12th.
-*   **Waste Management:** A new rule was adopted requiring City Council approval for mixed municipal solid waste contracts.
+**Administrative & Land Use**
+*   **Vacant Buildings:** A 90-day waiver was granted for a property at 1047 Arcade Street to move off the vacant building list, contingent on them obtaining certificates. The owner noted frustration with the city's "Poly" system during this process.
+*   **Sound Variances:** Two variances were approved for amplified sounds: one for India Fest 2026 and another for the Wabasha Brewing Company event series.
 
