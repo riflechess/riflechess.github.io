@@ -3,10 +3,10 @@ title: Transportation Committee
 date: 
 ---
 #### Meeting Info
-**Type:** Transportation Committee Meeting  
-**Purpose:** Public meeting regarding city transportation matters for the City of Saint Paul.  
-**Date/Time:** Not specified in provided text.
+**Type:** Transportation Committee Meeting
+**Purpose:** Live and Recorded Public meetings for the City of Saint Paul
+**Context:** General committee announcement
 
 #### Summary
-No specific topics, budget items, or discussions were included in the provided text. Please provide a transcript or minutes if you would like a detailed summary of the specific decisions and concerns discussed during the session.
+No specific discussion points, budget updates, or public safety issues were provided in the text. The provided information serves as a general notice that Transportation Committee meetings are live and recorded for the public.
 
