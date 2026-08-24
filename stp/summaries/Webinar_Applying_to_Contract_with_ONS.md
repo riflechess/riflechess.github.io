@@ -3,30 +3,33 @@ title: Webinar: Applying to Contract with ONS
 date: 
 ---
 #### Meeting Info
-**Type:** Webinar
-**Purpose:** Information session for organizations interested in applying for 2027 professional service contracts with the Office of Neighborhood Safety (ONS).
-**Context:** The ONS works to support the city's public safety ecosystem by addressing crime, violence, and quality of life issues through partnerships with local organizations.
+**Type:** Information Webinar
+**Purpose:** Guidance for organizations applying for 2027 Professional Service Agreements with the Office of Neighborhood Safety (ONS).
+**Context:** The webinar served to outline specific funding opportunities, application requirements, and the scope of work for community partners in the city's public safety ecosystem.
 
 #### Summary
-The webinar outlined the application process and funding opportunities for the 2027 contract cycle. The Office of Neighborhood Safety is seeking to partner with organizations to address five specific pillars related to public safety and community well-being:
+The Office of Neighborhood Safety (ONS) is seeking to contract with community organizations for the 2027 fiscal year. The focus of these contracts is to improve the quality of life for Saint Paul residents through three main internal initiatives: Project Peace (violence prevention), Familiar Faces (homeless outreach), and the Neighborhood Safety Community Council (NSCC) for public oversight.
 
-*   **Violence Prevention:** Culturally specific services to connect young people to stable communities of support.
-*   **Homelessness Services:** Stabilization services for unhoused neighbors, particularly those frequently using emergency services or facing justice system hurdles.
-*   **Health Outreach:** Expanding mental health and chemical health outreach, specifically targeting individuals aged 25 and older.
-*   **Capacity Building:** Support for small organizations (less than 10 years of history) to improve operations and services.
-*   **Justice Prevention:** Providing workforce development and education for people at risk of entering the justice system.
+**Key Funding Areas for 2027:**
+The city is looking for partners to address five specific needs:
+*   **Culturally Specific Violence Prevention:** Targeting youth and engaging with Mong, Karen, Somali, Latino, and African-American communities.
+*   **Stabilization for Unhoused Neighbors:** Providing services for individuals frequently using shelters, emergency services, or those involved in the justice system.
+*   **Chemical and Mental Health Outreach:** Expanding services for individuals aged 25 and older, specifically to interrupt drug use and distribution in city parks, libraries, and other public properties.
+*   **Capacity Building:** Targeted at small organizations (under 10 years of operating history) to help them expand and refine their services.
+*   **Justice Involvement Support:** Providing workforce development and education for individuals at risk of entering the justice system.
 
-**Key Contract & Budget Details:**
-*   **Contract Type:** These are **professional service agreements**, not grants. They are structured as reimbursement models where organizations perform the work and invoice the city.
-*   **Funding Amounts:** Contracts are capped at **$40,000** for the year (January 1, 2027, to December 31, 2027). There is a minimum of **$10,000** for logistical purposes.
-*   **Additional Support:** Selected partners will participate in "cohort learning," which provides coaching and collective impact materials.
-*   **Language Access:** Applications and information can be requested in Hmong, Karen, Somali, or Spanish.
+**Contract and Budget Details:**
+*   **Contract Type:** These are "Professional Service Agreements" rather than grants. This means the city is hiring organizations to perform specific work under city purchasing rules.
+*   **Budget Limits:** Each contract is capped at $40,000 for the year (Jan 1, 2027 – Dec 31, 2027). To reduce administrative burden, the city prefers contracts that do not require the full $40,000, but there is a minimum requirement of $10,000.
+*   **Contract Volume:** The city has secured funding to contract with at least four, and ideally 4–6, different agencies.
+*   **Reporting:** Contractors will be required to provide quarterly reports on key performance indicators.
+*   **Support:** Selected contractors will participate in "cohort learning" to receive coaching and and be part of a supportive work group.
 
-**Selection Process & Logistics:**
-*   **Evaluation:** Proposals are reviewed by a task force comprised mostly of members from the Neighborhood Safety Community Council (NSCC), who are local residents appointed by the Mayor and City Council.
-*   **Key Deadlines:** 
-    *   Questions regarding the application must be submitted by **August 28**.
-    *   Final budgets must be submitted by **September 7**.
-    *   Notice of acceptance or denial will be issued by **September 25, 2026**.
-*   **Budget Security:** During the Q&A, it was confirmed that despite current city budget deficits, the funds for these 2027 contracts have been secured and are not expected to be impacted.
+**Application Process & Timeline:**
+*   **Question Deadline:** Questions regarding the application must be submitted by August 28.
+*   **FAQ Release:** Detailed FAQs and evaluation criteria will be made public on August 31.
+*   **Notification:** Selected organizations will be notified on or before September 25, 2026.
+
+**Public Safety & Quality of Life:**
+The meeting emphasized that while the office works with various community partners, the specific scope of work must align with the ONS mission: preventing gun violence, community violence, and providing support for unhoused residents.
 
