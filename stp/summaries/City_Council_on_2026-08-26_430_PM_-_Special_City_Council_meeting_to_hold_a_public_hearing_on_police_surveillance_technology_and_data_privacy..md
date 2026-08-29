@@ -3,31 +3,23 @@ title: City Council on 2026-08-26 4:30 PM - Special City Council meeting to hold
 date: 2026-08-26
 ---
 #### Meeting Info
-**Type:** Special City Council Meeting
-**Purpose:** Public hearing on police surveillance technology and data privacy.
+**Type:** Special City Council Meeting (Public Hearing)
+**Purpose:** Public hearing regarding police surveillance technology and data privacy.
 **Date/Time:** August 26, 2026, at 4:30 PM.
-**Context:** The session was dedicated entirely to public testimony regarding the use of Automated License Plate Readers (ALPR), drones, and AI-powered surveillance tools by local law enforcement.
 
 #### Summary
-The meeting was dominated by public testimony regarding the ethics, legality, and safety implications of surveillance technologies. Residents provided extensive testimony centered on three main areas:
+The meeting served as a public hearing specifically focused on the city's use of surveillance technologies, including Automated License Plate Readers (ALPR) and drones. The primary focus of the public testimony was a push for the city to end contracts with specific surveillance providers and establish stricter oversight.
 
-**Concerns Regarding Specific Vendors (Flock, Skydio, and Axon)**
-*   **Flock:** Significant opposition was voiced regarding the Flock system. Residents argued that these cameras are prone to errors, can be used for "stalking" and harassment, and may facilitate illegal data sharing with federal immigration authorities (ICE). Many speakers supported a previous council resolution to end the city's contract with Flock.
-*   **Skydio:** There was intense criticism regarding the city’s contract with Skydio (drones). Residents highlighted the company's ties to military technologies and expressed outrage over the lack of transparency regarding the specific terms and costs of the contract.
-*   **Axon:** Residents urged the council to distance the city from Axon, citing concerns over the growth of a "surveillance state" and the potential for misuse of their data.
+**Key Issues and Concerns:**
+*   **Specific Technologies & Vendors:** Residents voiced significant opposition to "Flock" cameras, "Axon" systems, and "Skydio" drones. The concerns regarding these tools included:
+    *   **Legal Compliance:** Testimony indicated that certain contracts (specifically Flock) may currently violate Minnesota state statutes regarding the sharing of data with state-wide databases.
+    *   **Data Privacy:** Citizens expressed alarm over "Orwellian" levels of surveillance and the potential for "predictive policing" and "pre-crime" technologies.
+    *   **Third-Party Data Sharing:** There is a major concern regarding how surveillance data is shared with federal agencies (such as ICE) and the impact this has on the city's status as a "sanctuary" community.
+*   **Public Safety & Quality of Life:** Several speakers highlighted the "human cost" of these technologies, noting that AI-driven systems are prone to errors and can lead to the harassment of innocent citizens or the over-policing of specific neighborhoods.
+*   **Transparency & Budget:** Residents expressed frustration over a perceived lack of transparency regarding the current contracts. There were calls for the city to disclose exactly how much money is being spent on these programs and to prioritize those funds for other community services.
 
-**Public Safety and Quality of Life**
-*   **Privacy vs. Safety:** A recurring theme was that surveillance is not a substitute for community safety. Residents warned that AI-powered systems are not "accurate" but rather "deterministic" tools that can lead to misidentifications and the erosion of the Fourth Amendment.
-*   **Sanctuary Status:** Multiple residents argued that using data-sharing platforms like Flock undermines St. Paul’s status as a sanctuary city, as these tools provide an "easy" way for federal agencies to track and target residents.
-*   **"Orwellian" Concerns:** Several speakers described the current trajectory of surveillance as "Orwellian," likening the city's growing network of sensors to an "open-air prison" that creates a climate of fear rather than security.
+**Contention and Decisions:**
+While the session was a hearing for public testimony rather than a deliberation between council members, the sentiment from the community was overwhelmingly unified in opposition to the current surveillance infrastructure. 
 
-**Transparency and Governance**
-*   **Hidden Contracts:** A major point of contention was the lack of public oversight regarding these contracts. Residents expressed frustration that some agreements (particularly with Skydio) appeared to have been bypassed or hidden from the public, leading to a lack of accountability regarding how taxpayer money is spent.
-*   **Budgetary Concerns:** Speakers argued that the high cost of maintaining and upgrading these surveillance systems is a significant liability and that those funds would be better spent on essential community services, such as library funding and general infrastructure.
-
-**Conclusion**
-The hearing concluded with a unified call from the public for the Council to:
-1.  Immediately cancel contracts with Skydio, Flock, and Axon.
-2.  Ban the use of AI-powered mass surveillance.
-3.  Increase transparency by releasing all existing contracts and oversight documents related to surveillance technology.
+The session concluded with a motion to close the public hearing. This motion was passed unanimously by the council (7-0). The council indicated that they would be reviewing the testimony provided by the citizens to determine the next steps regarding these contracts and the associated legislation.
 
