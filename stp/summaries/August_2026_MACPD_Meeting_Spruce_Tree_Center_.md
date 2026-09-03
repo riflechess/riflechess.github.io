@@ -3,11 +3,11 @@ title: August 2026 MACPD Meeting Spruce Tree Center
 date: 
 ---
 #### Meeting Info
-- **Type:** MACPD Meeting
-- **Location:** Spruce Tree Center
-- **Date:** August 2026
-- **Context:** Live and recorded public meeting for the City of Saint Paul.
+**Type:** MACPD Meeting
+**Purpose:** Public Meeting for the City of Saint Paul
+**Date/Time:** August 2026
+**Location:** Spruce Tree Center
 
 #### Summary
-The provided information consists only of the meeting's title and location details. There are no specific discussions, budget allocations, public safety updates, or community debates recorded in the source text to summarize at this time.
+The provided documentation contains only the meeting title and location details. There were no specific discussion points, budget allocations, safety reports, or community concerns included in the text provided for this date.
 
