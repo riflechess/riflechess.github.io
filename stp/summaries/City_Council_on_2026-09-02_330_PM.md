@@ -3,31 +3,30 @@ title: City Council on 2026-09-02 3:30 PM
 date: 2026-09-02
 ---
 #### Meeting Info
-**Type:** City Council Meeting
-**Purpose:** Review of city resolutions, public hearings on property and safety issues, and staff appointments.
-**Date/Time:** September 2, 2026, at 3:30 PM.
+- **Type:** City Council Meeting
+- **Purpose:** Review of legislative items, public hearings on safety/infrastructure, and administrative updates.
+- **Date/Time:** September 2, 2026, at 3:30 PM.
 
 #### Summary
-**Police Drone Grant and Surveillance Concerns**
-The Council discussed a proposal for the police department to apply for a $200,000 federal grant (for fiscal year 27-28) to expand the city's drone program. While the funds are intended specifically for equipment (Skydio drones) and not for additional staffing, the item sparked significant debate regarding transparency and public trust. Council members expressed concerns about the intersection of new technology and privacy, specifically referencing previous discussions regarding "FLOG" (facial recognition) and the need for clearer regulations on surveillance. Because several members requested more time to investigate the contract and the specific protections in place, the council voted unanimously to **delay the decision for one week** to allow for a deeper look into the details.
+The council addressed several key items ranging from public safety technology to community developments and local property issues.
 
-**New Staff Appointments and Community Recognition**
-The council approved and performed a swearing-in ceremony for three new staff members:
-*   Corinne Dennis (Communications Lead)
-*   Reggie Evans (Reparations Legislative Aide)
-*   Joanna Zimney (Legislative Hearing Officer)
+**Police Drone Program and Grant Application**
+A significant portion of the meeting focused on Resolution 26-1399, which would authorize the police department to apply for a $200,000 federal grant to expand their drone program.
+- **The Debate:** Council members expressed concerns regarding the intersection of policing technology and public privacy. Specifically, there was a need to clarify how this drone program differs from recently debated surveillance technologies (like "FLOG").
+- **Decision:** Due to these concerns and a desire for more transparency regarding the Skydio/Axon contract and data retention policies, the council voted for a **one-week layover**. This allows members to review the specifics of the contract and the department's policies before making a final decision on the grant.
 
-Additionally, the council officially proclaimed September 2, 2026, as "JC Johnson Becker Day" to recognize his work in coordinating the inaugural State of the Youth Address.
+**Staff Appointments and Community Recognition**
+- **New Hires:** The council approved the appointment of three new staff members: Corinne Dennis (Communications Lead), Reggie Evans (Reparations Legislative Aide), and Joanna Zimney (Legislative Hearing Officer).
+- **Youth Recognition:** The council unanimously approved a resolution declaring September 2, 2026, as "JC Johnson Becker Day" to honor a student leader who spearheaded the first "State of the Youth" address.
 
-**Public Hearings and Safety Measures**
-Several items were addressed regarding public safety and city maintenance:
-*   **Sound Variances:** The council approved sound level variances for several upcoming events, including the TommyFest Homecoming, the Croen-Durham Hall football events, and the Walk for Water.
-*   **Fire Department Funding:** Several resolutions were passed regarding training funds, equipment sales, and land sales to support fire department operations.
-*   **Property Development:** A resolution was adopted regarding a performance deposit for repairs at 947 Fremont Avenue, establishing a schedule for forfeiting funds if work remains unfinished.
+**Public Safety and Fire Department Budgeting**
+Several items were passed regarding the Fire Department’s operational budget:
+- **Training & Equipment:** Approvals were made for training funds ($108,118) and the sale of unused equipment/land to adjust and balance the department's spending plans.
+- **Sound Variances:** The council approved three sound-level variances for upcoming community events: TommyFest, various football games at O'Shaughnessy Stadium, and the Walk for Water event.
 
-**Contested Property Dispute (777 Ohio Street)**
-There was significant contention regarding a sewer line repair at 777 Ohio Street. The city had performed emergency work to clear a "non-livable" condition in a home. However, the owner’s family appeared during the public hearing to dispute the $6,800 charge. They provided evidence and testimonies alleging that the city's work was not performed correctly and that several items on the invoice—specifically the digging and pipe replacement—were never actually completed. Due to these "serious factual disputes" regarding the work performed, the council chose **not** to resolve the issue immediately, instead referring the case back to the legislative hearing committee to investigate the discrepancies before a final decision is made.
-
-**Ward Updates**
-The council noted a back-to-school backpack giveaway occurring on September 10 from 4:00 PM to 6:00 PM at the Hmong American Partnership Building.
+**Property and Infrastructure Disputes**
+- **947 Fremont Avenue:** The council discussed a performance deposit for a contractor who failed to complete repairs. They adopted a motion to begin forfeiting the remaining $10,000 deposit in increments to ensure the work is completed on the remaining timeline.
+- **777 Ohio Street (Sewer Issues):** A public hearing was held regarding a dispute over a $6,800 bill for a sewer line clearance. 
+    - **Conflict:** Community members testified that the city’s records of the work performed did not match the actual work completed by private plumbers. 
+    - **Result:** Because of the significant discrepancies between the city's billing and the residents' accounts of the work, the council opted to refer the matter back to the legislative hearing for a deeper investigation.
 
