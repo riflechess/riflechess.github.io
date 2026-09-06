@@ -3,10 +3,11 @@ title: Test Video
 date: 
 ---
 #### Meeting Info
-**Type:** Test Recording
-**Purpose:** Testing live and recorded public meetings for the City of Saint Paul
+**Type:** Test Video
+**Purpose:** Public meeting recording
 **Date/Time:** Not specified
+**Context:** This recording is listed as a "Test Video" for the City of Saint Paul.
 
 #### Summary
-This was a test recording. No specific agenda items, budget allocations, public safety matters, or community concerns were discussed.
+No specific topics, budget allocations, or public safety issues were discussed in this segment. As it was a test recording, no decisions were made or content was presented for the community to review.
 
