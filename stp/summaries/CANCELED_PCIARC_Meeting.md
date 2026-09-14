@@ -3,11 +3,10 @@ title: CANCELED PCIARC Meeting
 date: 
 ---
 #### Meeting Info
-- **Type:** PCIARC Meeting
-- **Purpose:** Canceled
-- **Date/Time:** Not applicable (Meeting was canceled)
-- **Context:** City of Saint Paul
+**Type:** PCIARC Meeting
+**Purpose:** Public meeting for the City of Saint Paul
+**Status:** Canceled
 
 #### Summary
-The meeting was canceled and did not take place. As a result, there are no decisions, budget updates, or public safety matters to report for this session.
+This meeting was canceled. As a result, no discussions took place, and no decisions were made regarding budget allocations, public safety, or other city matters.
 
