@@ -6,8 +6,7 @@ date:
 **Type:** Working Group Meeting
 **Purpose:** Public Administrative Citations Implementation
 **Location:** City Hall, Basement Room 41
-**Context:** Meeting held for the City of Saint Paul.
 
 #### Summary
-The meeting was held to discuss the **Public Administrative Citations Implementation** for the City of Saint Paul. Because only the meeting header was provided, there are no specific details regarding budget allocations, safety concerns, or community disagreements to report at this time.
+The meeting was convened to discuss the implementation of the Public Administrative Citations program for the City of Saint Paul. Because only the header information was provided, no specific details regarding budget allocations, safety issues, or points of contention were recorded.
 
