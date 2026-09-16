@@ -3,10 +3,10 @@ title: Cultural STAR Board Meeting
 date: 
 ---
 #### Meeting Info
-- **Meeting Type:** Cultural STAR Board Meeting
-- **Purpose:** Public meeting regarding cultural initiatives for the City of Saint Paul.
-- **Context:** This was a live and recorded public session.
+**Type:** Cultural STAR Board Meeting
+**Purpose:** Public meeting for the City of Saint Paul
+**Context:** Live and Recorded Public Meeting
 
 #### Summary
-No specific agenda items, budget allocations, or community debates were provided in the available text. The documentation confirms only the meeting title and its status as a public session for the city's Cultural STAR Board.
+The provided text only contains the meeting title and description. No specific discussion points, budget items, public safety updates, or community concerns were included in the provided notes.
 
