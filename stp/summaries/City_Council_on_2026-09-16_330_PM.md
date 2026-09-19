@@ -4,34 +4,31 @@ date: 2026-09-16
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Discussion of infrastructure grants, Port Authority budget, utility franchise agreements, and community updates.
+**Purpose:** Consideration of infrastructure grants, Port Authority budget reports, utility franchise agreements, and various operational resolutions.
 **Date/Time:** September 16, 2026, at 3:30 PM.
 
 #### Summary
-**Safe Streets for All Funding**
-The Council approved Resolution 26-1460, authorizing the city to enter into a grant agreement with the Federal Highway Administration.
-*   **Budget:** Total of $18.1 million ($14M Federal, $4M State).
-*   **Project:** Improvements over 40 miles of high-injury roads. 
-*   **Scope:** Includes low-cost safety enhancements such as high-visibility crosswalks, curb extensions, traffic circles, and median refuges. The project has a five-year implementation timeline starting in 2027.
+**Safe Streets for All Grant**
+The Council approved a resolution to enter into a grant agreement with the Federal Highway Administration. This $18.1 million funding package (comprising a $14 million federal grant and a $4 million state match) is earmarked for 40 miles of city and county roadways. The funds will support low-cost safety improvements such as high-visibility crosswalks, traffic circles, and median refuges. The project has a five-year implementation timeline starting in 2027.
 
 **St. Paul Port Authority 2027 Budget**
-The Council reviewed the Port Authority’s budget and expansion plans.
-*   **TIF Success:** The Port reported that several TIF districts will be decertified ahead of schedule, which is expected to return approximately $66 million to the general tax base.
-*   **Infrastructure:** Major projects include a $18 million dock wall rehabilitation and an $800,000 grade separation study to improve traffic flow at the Southport Terminal.
-*   **Budget Request:** The Port requested a $75,000 increase in the operating property tax levy specifically to cover inflationary costs for personnel and benefits.
+The Port Authority presented its 2027 budget to the Council. Key highlights include:
+*   **Economic Impact:** The Port is highlighted as a major economic engine, with only 35% of its operating budget coming from the property tax levy.
+*   **TIF Success:** The Port reported significant success with TIF districts, and they are moving forward with the early decertification of several districts, which will return roughly $66 million to the general tax base.
+*   **Levy Request:** The Port requested a $75,000 increase in the mandatory property tax levy for 2027 to specifically offset the costs of inflation on personnel and benefits.
 
-**Utility Franchise Agreements & Equity Concerns**
-There was significant discussion and public testimony regarding the updates to the gas and electric franchise agreements with Xcel Energy (Northern States Power).
-*   **Contentious Point:** A community member provided testimony regarding the equity of current franchise fee structures. Specifically, it was noted that current rules may exclude low-income residents living in older "legacy" apartment buildings from certain discounts because they do not own the property.
-*   **Resolution:** The council is moving forward with ordinances (including 26-40, 26-41, and 26-43) to make the fee structures more equitable and provide better protections for low-income residents.
+**Utility Franchise Agreements (Gas and Electric)**
+Several items regarding franchise agreements with Northern States Power (dba XL Energy) were discussed.
+*   **Contention/Discussion Point:** During the public hearing for the gas franchise agreement, a resident provided detailed testimony regarding the "low-income" designation. The concern was that the current agreement might exclude many low-income residents who live in apartments/multi-unit buildings because they do not pay the gas bill directly, whereas the current logic favors those who own property. 
+*   **Equity Measures:** The council noted that the new agreements are designed to be more equitable by raising the rates for commercial entities and lowering them for residential customers.
+*   **Status:** Most of these items were laid over for final adoption on September 23.
 
-**Public Safety & Construction**
-*   **Fire Department:** The Council approved $30,000 for a state grant to support staffing for an apprenticeship program and accepted $5,467 from a scrap metal recycling sale.
-*   **Infrastructure Construction:** A special sound variance was approved for Xcel Energy to perform work under the railroad tracks at Eagle Parkway and Shepard Road. While the work involves 24/7 operation, the city confirmed that the primary noise (a generator) would be shielded by a barrier.
+**Public Safety and Infrastructure**
+*   **Fire Department:** The Council approved a $5,467 grant for scrap metal recycling and a $30,000 state grant to support a staffing apprenticeship program.
+*   **Maintenance & Operations:** Several resolutions were passed regarding the maintenance of the 7th Place Mall (2025-2026) and the Grand Snelling parking lot (2027), as well as a resolution to repair a sanitary sewer line on private property.
+*   **Sound Variances:** The Council approved multiple sound variances for public events, including the Medtronic Twin Cities Marathon and various sports events. 
+*   **Xcel Energy Construction:** A specific variance was approved for a 24/7 construction project at Eagle Parkway and Shepard Road. A council member pushed for details on the noise; Xcel Energy explained that the 24/7 operation is necessary for jacking casings under railroad tracks and that they will use noise barriers to mitigate the sound of the generators.
 
-**Community Updates**
-Several neighborhood events and milestones were announced:
-*   **Aldi:** A new Aldi is opening in Ward 2 with "sneak preview" events scheduled for the week of September 21st.
-*   **Events:** Upcoming highlights include the Frogtown Arts Festival, the Capitol Fest, and several community meetings regarding the future of local recreation centers and libraries.
-*   **Voter Education:** A statewide voter education initiative will be held at local libraries on September 21st.
+**General Announcements**
+The meeting concluded with several community updates, including upcoming farmers' markets, the Frogtown Arts Festival, a public library voting education night, and the upcoming opening of an Aldi grocery store in Ward 2.
 
