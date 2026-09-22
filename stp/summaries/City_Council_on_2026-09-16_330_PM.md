@@ -4,36 +4,30 @@ date: 2026-09-16
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Discussion of infrastructure grants, Port Authority budget, and utility franchise agreements.
+**Purpose:** Regular Meeting / Budget Presentation / Public Hearings
 **Date/Time:** September 16, 2026, at 3:30 PM
+**Context:** The meeting covered infrastructure grants, the St. Paul Port Authority’s 2027 budget, and several ordinances regarding utility franchise fees and sound variances.
 
 #### Summary
-**Safe Streets for All Grant (Resolution 26-1460)**
-The Council approved a grant agreement with the Federal Highway Administration to secure approximately $18.1 million for the "Safe Streets for All" initiative. This funding will be used to improve roughly 40 miles of city and county roads. The project focuses on low-cost, high-impact safety improvements such as:
-*   High-visibility crosswalks and curb extensions.
-*   Traffic circles and median refuges.
-*   Reflective signal backplates.
-The project has a five-year implementation timeline starting in 2027.
 
-**St. Paul Port Authority 2027 Budget (SR 26-185)**
-The Port Authority presented its 2027 budget and highlighted several major infrastructure projects, including a $18 million dock wall rehabilitation and a grade separation study at the Southport Terminal to address traffic issues caused by train blockages.
-*   **Tax Levy:** The Port Authority requested a $75,000 increase in the mandatory property tax levy for 2027. The Port noted that this is primarily to cover inflationary costs for personnel and benefits rather than new programs.
-*   **TIF Success:** The Port highlighted several TIF districts successfully being "decertified," which will return approximately $66 million to the general tax base.
+**Infrastructure and Public Safety**
+*   **Safe Streets for All Grant:** The Council approved Resolution 26-1460, authorizing a partnership with the Federal Highway Administration. This secures approximately $18.1 million in funding (a $14 million federal grant and a $4 million state match) to improve 40 miles of high-injury roadway.
+    *   **Planned Improvements:** The funds will be used for "bread and butter" safety features, including high-visibility crosswalks, curb extensions, traffic circles, and median refuges.
+    *   **Timeline:** Construction is slated to begin in 2029, with a full project completion goal by 2030.
+*   **Fire Department Funding:** Two resolutions were approved to bolster the Fire Department: one for $5,467 from scrap metal sales and another for a $30,000 state grant to support staffing for an apprenticeship program.
 
-**Utility Franchise Agreements & Public Testimony**
-Several items regarding Xcel Energy gas and electric franchise agreements were discussed. These items received significant public attention regarding equity and inclusion:
-*   **Contention on Multi-Family Housing:** During the hearing for the gas franchise, a resident (Mr. Purdy) provided detailed testimony regarding the distinction between single-family homes and multi-family "legacy" buildings. He pointed out that current agreements might exclude residents in multi-family units from certain discounts. 
-*   **Resolution:** Council members acknowledged this specific gap regarding "non-homestead low-income rentals" and committed to following up with staff to ensure these residents are not unfairly excluded from the benefits of the new agreement.
+**St. Paul Port Authority (2027 Budget)**
+The Port Authority presented its budget for 2027. Key takeaways include:
+*   **Efficient Spending:** The Port’s operations are heavily supported by non-tax sources; only about 35% of their operating budget comes from the property tax levy.
+*   **Tax Base Growth:** The Port highlighted several "success stories" regarding TIF (Tax Increment Financing) districts. They are moving to "decertify" several districts, which will return approximately $66 million to the general tax base over the coming years.
+*   **Property Development:** Ongoing projects include the redevelopment of the former St. Joseph's Hospital site and the Kmart site.
 
-**Public Safety and Infrastructure**
-The Council approved several items related to public safety and local maintenance:
-*   **Fire Department Funding:** Allocations were approved for scrap metal revenue ($5,467) and a state grant ($30,000) to support a new apprenticeship program.
-*   **Sanitary Sewer:** Approval was granted for the repair of a sanitary sewer line on private properties.
-*   **Construction Noise Mitigation:** A specific inquiry was made regarding a 24/7 construction project at the intersection of Eagle Parkway and Shepard Road. Xcel Energy representatives clarified that while heavy machinery will run 24/7 in a protected trench box to meet railroad requirements, noise barriers will be used to mitigate the impact on nearby residents.
+**Utility Franchise Fees and Community Impact**
+A series of items (Items 18–21) regarding Xcel Energy (formerly Northern States Power) franchise fees were discussed. 
+*   **Contention/Discussion:** There was significant discussion regarding the "equity" of these rates. A member of the public pointed out that while the new agreements offer lower rates for low-income owners, the current structure may exclude many low-income residents living in "legacy" apartments who do not pay their gas bills directly. Council members acknowledged this concern and committed to following up with staff to ensure the transition is fair for all types of housing.
+*   **Construction Noise:** A variance was approved for Xcel Energy to perform 24/7 construction work near Eagle Parkway and Shepherd Road. While 24/7 operations were questioned due to noise concerns, the city was assured that the primary noise (a generator) would be mitigated by a barrier and that most work occurs inside a trench box below ground.
 
-**Community Updates**
-Council members shared several community notices, including:
-*   A community meeting on September 21 regarding the proposed closure of the Duluth and Case Recreation Center.
-*   Information on a public safety/health fair at the Dunning Rec Center on September 13.
-*   Announcement of the opening of an Aldi grocery store in Ward 2 next week.
+**Other Business & Community Updates**
+*   **Sound Variances:** Approvals were granted for several upcoming events, including the University of St. Thomas football season, the Medtronic Twin Cities Marathon, and several community festivals.
+*   **Community Noticess:** Several upcoming community events were shared, including a free farmers market at Rice and Arlington Ball Field, the Frogtown Arts Festival, and an upcoming Aldi grocery store "sneak preview" in Ward 2.
 
