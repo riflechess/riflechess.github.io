@@ -3,25 +3,30 @@ title: Public Administrative Citations Implementation Working Group - City Hall,
 date: 
 ---
 #### Meeting Info
-**Type:** Public Working Group Meeting
-**Purpose:** Discussion of the implementation and development of an administrative citation ordinance.
+**Type:** Working Group Meeting
+**Purpose:** Discussion of the implementation and policy design for administrative citations (civil fines) to improve city code enforcement.
 **Location:** City Hall, Basement Room 41
-**Key Presenter:** Tim Greenfield, Chief Policy Officer to the City Council.
+**Context:** The city is seeking a "middle ground" enforcement tool that is more significant than a warning but less severe than a criminal citation. This process follows a multi-year legislative push and a voter-approved referendum to grant the city the authority to issue these citations.
 
 #### Summary
-The meeting focused on the city's multi-year process to establish an "administrative citation" system. This system is intended to create a "middle ground" for enforcement: providing a way to penalize city code violations without immediately jumping to criminal citations or severe license revocations. Currently, Saint Paul is one of the few major cities in Minnesota without this specific tool.
+The primary focus of the meeting was to outline the legislative path for administrative citations and to gather input on the specific areas where the city should first apply this authority. The ordinance is currently being drafted by the city attorney's office and will eventually require a three-reading process before the City Council.
 
-**Key project components include:**
-*   **Proposed Scope:** The city plans to use these citations for a variety of issues, including:
-    *   Minimum wage and wage theft.
-    *   Building code violations.
-    *   Animal control (specifically dog bites).
+**Key Decisions & Policy Goals:**
+*   **The "Missing Middle" of Enforcement:** The city aims to use administrative citations for issues where current enforcement is inadequate. For example, currently, if a property owner fails to mow a lawn, the city can offer a warning or a notice to correct the issue, but they cannot issue a non-criminal fine. The new ordinance would allow for a civil fine to be issued if the owner refuses to comply.
+*   **Strategic Implementation:** The working group is tasked with helping the city decide which specific ordinances should be updated first. Potential areas discussed include:
+    *   Building codes and safety violations.
+    *   Animal control (specifically issues like dog bites).
     *   Tenant protections and rent stabilization.
-    *   Short-term rentals (Airbnb) and skyway ordinances.
-    *   Quality of life issues like lawn maintenance and sidewalk permits.
-*   **Legal & Equity Requirements:** Per the city charter, any fine must be imposed "equitably." A major point of discussion is ensuring the system is accessible to all residents, regardless of their economic status, and ensuring that the appeal process is handled by impartial parties.
-*   **Due Process:** The ordinance must satisfy constitutional requirements, including adequate notice and a meaningful opportunity to be heard.
+    *   Short-term rental regulations (e.g., Airbnb).
+    *   Wage theft and minimum wage violations.
+    *   Public right-of-way issues (sidewalk and driveway permits).
 
-**Current Status & Next Steps:**
-The ordinance is currently being drafted by the city attorney's office. The working group's role is to provide "real-world" input on how these programs should function, particularly regarding the appeals process and how the city should handle instances where a person claims they cannot pay a fine due to financial hardship. The final ordinance is intended to be introduced to the council in the coming months, with a goal of having the program fully established in the near future.
+**Public Safety and Quality of Life:**
+The panel emphasized that the goal is "compliance, not punishment." By introducing a tiered system, the city hopes to address quality-of-life issues more effectively. The aim is to create a system that is "equitable" and "just," ensuring that enforcement is tailored to the specific violation rather than defaulting to the extreme of criminal prosecution.
+
+**Areas of Discussion and Potential Contention:**
+The most significant points of deliberation involved the **"Ability to Pay"** and the **Equity of Enforcement**:
+*   **Equity Requirements:** The city charter requires that any monetary penalty be imposed equitably. There was a specific discussion on how to handle residents who may have significant financial hardships. 
+*   **The "Calculator" vs. Manual Review:** There was a discussion on how to practically determine if a citation is "equitable." The group explored whether to use a "calculator" (an algorithm based on income/benefits) to automatically determine a reduced fine or to have a hearing officer manually review a person's circumstances. 
+*   **Neutrality:** A point of focus is ensuring that the hearing officers—those who would hear a contest of a citation—are sufficiently independent from the departments issuing the citations to ensure a fair and impartial process.
 
