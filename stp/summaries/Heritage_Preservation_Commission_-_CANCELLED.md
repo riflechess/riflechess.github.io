@@ -3,10 +3,10 @@ title: Heritage Preservation Commission - CANCELLED
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Heritage Preservation Commission
-**Status:** CANCELLED
-**Note:** No meeting took place; official records indicate the session was canceled before it could occur.
+**Type:** Heritage Preservation Commission Meeting
+**Status:** Cancelled
+**Location:** City of Saint Paul
 
 #### Summary
-The Heritage Preservation Commission meeting was cancelled. As a result, no decisions were made, no budget items were discussed, and no public safety or quality of life issues were addressed during this period.
+The Heritage Preservation Commission meeting was cancelled. As no meeting took place, there are no updates regarding budget allocations, business matters, or public safety concerns to report for this period.
 
