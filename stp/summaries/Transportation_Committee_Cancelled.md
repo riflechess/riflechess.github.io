@@ -3,10 +3,10 @@ title: Transportation Committee Cancelled
 date: 
 ---
 #### Meeting Info
-**Type:** Transportation Committee Meeting
-**Status:** Cancelled
-**Location:** City of Saint Paul
+- **Type:** Transportation Committee Meeting
+- **Status:** Cancelled
+- **Location:** City of Saint Paul
 
 #### Summary
-The live and recorded public meetings for the Transportation Committee have been cancelled. As a result, no specific items, budget allocations, or public safety issues were discussed or decided upon during this period.
+The Transportation Committee meeting was cancelled. As a result, no discussions, votes, or decisions regarding transportation, budget, or public safety were held during this scheduled time.
 
