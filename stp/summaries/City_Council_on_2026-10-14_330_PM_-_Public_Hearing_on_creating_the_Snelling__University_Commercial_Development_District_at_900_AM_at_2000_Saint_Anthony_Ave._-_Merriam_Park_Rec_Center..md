@@ -3,27 +3,29 @@ title: City Council on 2026-10-14 3:30 PM - Public Hearing on creating the Snell
 date: 2026-10-14
 ---
 #### Meeting Info
-**Type:** City Council Meeting
-**Purpose:** Public Hearing on several infrastructure assessments, a study on autonomous vehicles, and various land use/grant approvals.
-**Date/Time:** October 14, 2026, at 3:30 PM (with 9:00 AM special hearings).
+**Type:** City Council Meeting / Public Hearings
+**Purpose:** Consideration of various infrastructure projects, land use permits, and budget items.
+**Date/Time:** October 14, 2026, at 3:30 PM
+**Location:** 2000 Saint Anthony Ave. - Merriam Park Rec Center
 
 #### Summary
-The meeting covered several items regarding city infrastructure, public safety technology, and local land use. While the council votes were unanimous, there was significant public pushback regarding the costs associated with road and alley improvements.
+The council addressed several items primarily involving infrastructure improvements, land use, and urban planning. While many items were passed unanimously, several topics involving local property costs and city technology saw significant community input and debate.
 
-**Autonomous Vehicles & Public Safety**
-The Council approved a resolution requiring the Planning Commission’s Transportation Committee to study autonomous vehicles. The focus is on their impact on labor, transportation workers, and disability advocates. The council wants to establish "guardrails" and conduct independent analysis before this technology becomes widespread in St. Paul.
+**Infrastructure and Property Assessments**
+The Council reviewed several "Special Assessment" resolutions (Items 34-41). These are essentially local charges to property owners adjacent to improvements like street reconstruction, paving, and alley work.
+*   **Pelham Boulevard (Item 40):** This was a major point of discussion. The project included significant infrastructure work, including a transition from concrete to asphalt, updated lighting, and a move to a 24-foot road width. While the council's staff highlighted successes in tree preservation, several residents expressed strong opposition to the resulting assessment costs.
+*   **Contention:** During the public hearing for Pelham Boulevard, several residents testified that the assessments were "excessive" and that the removal of trees and increase in pavement had actually decreased property values rather than increased them. One attorney for a commercial property also argued that the city's assessment methodology was "arbitrary" and lacked specific analysis for individual lots. Despite these objections, the council moved to approve the assessments, noting that the city’s current policy is intended to manage these costs across the board and that the project is nearly complete.
+*   **Other Assessment Items:** Several other projects, including those on University Avenue, Pleasant Avenue, and various alley improvements (such as the area bounded by 7th, Woodward, and Railroad), were approved following the standard assessment procedures.
 
-**Infrastructure Assessments & Business Impacts (High Contention)**
-Several segments of the meeting were dedicated to ratifying special assessments for road and alley reconstructions (University Avenue, Pleasant Avenue, and Pelham Boulevard). These items drew significant and vocal complaints from residents and business owners:
-*   **Cost Concerns:** Property owners expressed "alarm" and "outrage" regarding high assessment amounts, with one commercial property owner reporting a $95,000 assessment. Residents noted these costs are difficult to manage alongside high property taxes.
-*   **Property Value & Quality of Life:** On Pelham Boulevard, multiple residents testified that the project resulted in "more concrete and less green." There were specific complaints regarding the loss of mature trees and the removal of green space, with some residents arguing that these changes actually decrease property values despite the infrastructure improvements.
-*   **Assessment Fairnes:** One business owner questioned why certain properties in a shared alley were not being assessed, while another legal representative argued that the assessment methodology was "arbitrary" and requested a reduction for properties that do not see a direct "special benefit."
+**Land Use and Property Management**
+*   **Carondelet Fields (Item 43):** A preliminary plat was approved for this area. It was clarified that this is a technical move to simplify legal descriptions (moving from "metes and bounds" to "lot and block") and does not involve any changes to property usage or plans for new development.
+*   **Water Services (Item 23):** The council approved an ordinance to allow for the transfer of certain real property used by St. Paul Regional Water Services to the Board of Water Commissioners.
 
-**Land Use & Development**
-*   **Carondelet Fields:** The council approved a preliminary plat to simplify property descriptions from "Old English" (metes and bounds) to modern lot and block numbers. There are no plans for new development or changes in land use.
-*   **Highland Bridge:** A final plat was approved for the Highland Bridge area.
+**Public Safety and Technology Concerns**
+*   **Autonomous Vehicles (Item 32):** The council unanimously approved a resolution to have the Planning Commission's Transportation Committee study the impact of autonomous vehicles on labor and community safety. The goal is to create "guardrails" before this technology becomes widespread in St. Paul.
+*   **Surveillance and Data Transparency (Item 44):** A significant moment of contention occurred during this item. Residents testified regarding a lack of transparency regarding a contract between the St. Paul Police Department and Axon, specifically involving the use of Skydio AI-powered drones. Two residents expressed concerns over the lack of public oversight and the potential for these tools to be used in ways that compromise community safety and privacy. The council paused the meeting briefly to address the scope of these concerns.
 
-**Business Support & Grants**
-*   **Torre de San Miguel:** The council approved a grant for the benefit of the property at 58 Eastwood Street.
-*   **SKD Auto Tech LLC:** The council approved a neighborhood sales tax revitalization program grant and business subsidy requirements for this local business.
+**Budget and Business Development**
+*   **Grant Funding (Item 44):** The council approved the acceptance of grant funds and the amendment of the operating budget for the benefit of a property at 58 Eastwood Street.
+*   **Small Business Support (Item 47):** The council approved the use of neighborhood sales tax revitalization funds and business subsidies for SKD Auto Tech LLC.
 
