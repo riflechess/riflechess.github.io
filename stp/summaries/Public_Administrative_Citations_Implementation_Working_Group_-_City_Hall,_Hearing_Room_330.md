@@ -3,13 +3,11 @@ title: Public Administrative Citations Implementation Working Group - City Hall,
 date: 
 ---
 #### Meeting Info
-**Meeting Type:** Working Group Meeting
+**Type:** Working Group Meeting
 **Purpose:** Public Administrative Citations Implementation
 **Location:** City Hall, Hearing Room 330
-**Context:** City of Saint Paul municipal proceedings
+**Context:** City of Saint Paul administrative proceedings.
 
 #### Summary
-The meeting was convened for the Public Administrative Citations Implementation Working Group. The primary focus of this group is the development and implementation of administrative citations within the city. 
-
-Because only the meeting header and title were provided, specific details regarding budget allocations, public safety measures, or items of contention are not available at this time.
+The meeting was convened to discuss the implementation of public administrative citations. Because no specific discussion details, budget figures, or transcripts were provided, there are no specific items regarding public safety, business impacts, or points of contention to report at this time.
 
