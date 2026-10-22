@@ -3,10 +3,10 @@ title: Heritage Preservation Commission
 date: 
 ---
 #### Meeting Info
-**Type:** Heritage Preservation Commission Meeting
-**Purpose:** Public meeting regarding the preservation of local heritage for the City of Saint Paul.
-**Context:** This is a live and recorded public meeting.
+- **Meeting Type:** Heritage Preservation Commission
+- **Purpose:** Public meetings regarding the preservation of heritage sites within the City of Saint Paul.
+- **Context:** These sessions are recorded and broadcast for public access.
 
 #### Summary
-The provided text contains only the opening identification of the meeting. There were no specific topics, budget items, public safety discussions, or contentions recorded in this portion of the proceedings.
+No specific discussion points, budget allocations, or public safety concerns were detailed in the provided information. The meeting serves as the official forum for the Heritage Preservation Commission.
 
