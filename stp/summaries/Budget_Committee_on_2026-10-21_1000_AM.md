@@ -3,26 +3,27 @@ title: Budget Committee on 2026-10-21 10:00 AM
 date: 2026-10-21
 ---
 #### Meeting Info
-**Type:** Budget Committee Meeting
-**Purpose:** Discussion of standard operating procedures (SOPs) for honorary street co-naming and associated costs.
-**Date/Time:** October 21, 2026, at 10:00 AM
-**Context:** St. Paul City budget and policy planning for community-requested street signs.
+- **Type:** Budget Committee Meeting
+- **Purpose:** Review of the Office of Technology and Communications (OTC) 2027 budget proposal.
+- **Date/Time:** October 21, 2026, at 10:00 AM.
+- **Context:** Presentation by OTC Director Jamie Oscales regarding the transition from "emergency mode" following a 2025 cyber attack to long-term infrastructure modernization.
 
 #### Summary
-The committee discussed the logistics, costs, and standard operating procedures for "honorary street co-naming." This involves adding a commemorative name to a street without replacing the official legal name.
+The meeting focused on the 2027 budget for the Office of Technology and Communications (OTC). The primary goals for the upcoming year involve transitioning the city’s technology infrastructure from reactive "emergency" fixes into a proactive, resilient system.
 
-**Key Decisions & Budgetary Notes:**
-*   **Signage Costs:** It was clarified that the estimated cost for producing and installing a set of four signs is approximately $775 (roughly $200 per sign). 
-*   **Funding Source:** There was a consensus that all costs associated with honorary co-naming (including manufacturing and installation) must be borne by the applicant or sponsoring organization; no city funds or taxpayer dollars are to be used for these specific signs.
-*   **Policy Framework:** The committee evaluated two primary proposals (from Ward 1 and Ward 7) to create a consistent, transparent review process. Both proposals emphasize that these names are for commemoration only and must not conflict with emergency response or official street names.
+**Key Budget & Infrastructure Decisions:**
+*   **Infrastructure Overhaul:** The "Project Bedrock" initiative was highlighted as a major plan to modernize the city's aging and insecure core network infrastructure.
+*   **General Fund Adjustments:** The budget will increase by approximately $1 million. Key changes include:
+    *   **New Roles:** Adding three positions for "Enterprise Portfolio Governance" to ensure technology projects are prioritized and managed cohesively across all departments.
+    *   **GIS Integration:** Adding three GIS (Geographic Information Systems) positions. This is a budget-neutral move, shifting roles from Public Works to the OTC to provide better location-based services for the entire city, including public safety.
+    *   **Cost Reductions:** To balance the budget, the OTC is eliminating two vacant positions and reducing spending on professional services and website support (specifically for stpaul.gov 2.0).
+*   **Cybersecurity Funding:** $100,000 was requested to complete the "after-action" implementation plan following the 2025 cyber attack. This is intended to ensure the city remains prepared for future disruptions.
 
-**Public Safety & Quality of Life:**
-*   **Infrastructure Concerns:** A significant portion of the discussion centered on the resources required to maintain these signs. Public Works recommended clear designations for road segments and limits on the number of intersections to ensure clarity.
-*   **Emergency Response:** Concerns were raised regarding how these signs might impact the ability of first responders to quickly identify locations during emergencies.
+**Significant Costs & Security:**
+*   **Technology Licensing:** A significant spike in the "central service fund" was noted due to the rising costs of Microsoft enterprise licenses (driven by security requirements) and a global increase in hardware costs linked to the AI boom.
+*   **Public Safety & Stability:** The transition to newer, more secure systems is intended to protect the city from ongoing cyber threats. The current systems are processing a high volume of alerts, and the new tools are successfully blocking numerous attempted attacks.
 
-**Moments of Contention:**
-The meeting featured significant disagreement regarding the necessity and scope of the co-naming program:
-*   **Resource Allocation:** Councilmember Jost expressed strong opposition to the co-naming program. She argued that the city's resources and the attention of public works staff should be prioritized toward critical infrastructure and public safety issues, such as pedestrian safety, copper wire theft, street lighting, and repainting street markings.
-*   **Institutional Role:** There was debate regarding the role of the Heritage Preservation Commission (HPC). While one proposal utilized the HPC as the primary reviewer, staff and other members noted that the HPC’s focus is on building environments, and they may not be the appropriate body to oversee honorary naming.
-*   **"Slippery Slope":** There was a concern that without strict limits on how many names could be granted, the city could face a "slippery slope" where every street is co-named, creating a significant and ongoing administrative and maintenance burden for the city.
+**Points of Contention & Inquiry:**
+*   **Staffing Levels:** There was a specific discussion regarding the request for three new "Enterprise Portfolio Governance" positions. The Council inquired if a "minimum viable" number—such as one or two staff members—could be used instead of three. The Director defended the request for three, explaining that this is the minimum number required to provide full coverage, prevent staff burnout from competing demands, and ensure that infrastructure projects are not siloed in individual departments.
+*   **Cyber Spending:** Council members asked for clarification on whether any unspent or unplanned costs from the 2025 cyber incident remained. The Director indicated that while the $100,000 is for future improvements, all primary costs from the initial incident have been accounted for.
 
