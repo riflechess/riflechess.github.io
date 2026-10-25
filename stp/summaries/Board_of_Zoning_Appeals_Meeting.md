@@ -3,10 +3,10 @@ title: Board of Zoning Appeals Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Board of Zoning Appeals Meeting
-**Purpose:** Public meeting regarding zoning appeals for the City of Saint Paul.
-**Context:** Live and recorded public meeting.
+Type: Board of Zoning Appeals Meeting
+Purpose: Public review of zoning appeals for the City of Saint Paul
+Context: Live and recorded public meeting
 
 #### Summary
-No specific discussion points, decisions, or content regarding budget allocations, business matters, public safety, or community disputes were provided in the source text.
+The provided documentation does not include specific details regarding individual cases, budget allocations, business impacts, or public safety issues. No contested items or specific decisions were recorded in the provided text.
 
