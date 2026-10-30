@@ -4,24 +4,27 @@ date: 2026-10-28
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Public hearings, legislative readings, and resolution approvals.
-**Date/Time:** October 28, 2026, at 3:30 PM.
-**Context:** The meeting included several first readings for new ordinances, public hearings on local land use and safety, and the adoption of several resolutions regarding city funding and police department grants.
+**Purpose:** Routine legislative review, public hearings, and public safety/infrastructure resolutions.
+**Date/Time:** October 28, 2026, at 3:30 PM
+**Context:** The meeting included several first-readings of ordinances, public hearings regarding local zoning, and the adoption of several public safety and service-related resolutions.
 
 #### Summary
-**New Business & Infrastructure**
-*   **Mobile Saunas Pilot:** The Council reviewed the first reading for a new ordinance allowing mobile saunas in regional parks, starting with a pilot at Como Regional Park. The proposal includes a $106 annual licensing fee.
-*   **Garbage Service Updates:** The Council held a first reading for the 2027 garbage rates. While there will be a price increase (roughly 5–7.5% depending on bin size), the city is implementing several service improvements, including better "bulky item" management and a transition to more consistent billing.
-*   **Liquor Licensing District:** The Council approved "Version 2" of an ordinance creating a special commercial development district near the University and Snelling intersection. This allows for the addition of up to three on-sale liquor licenses to support local business growth.
 
-**Public Safety & Community Support**
-*   **Police Department Grants:** Two resolutions were passed to accept significant funding for the police department. One ($22,000) supports the Women's Leadership Conference and the Honor Guard, while a larger grant ($508,350) was accepted for the "Toward Zero Deaths" program to fund traffic enforcement and safety initiatives.
-*   **Grant Funding for "The Aragon":** The council approved a resolution to accept grant funds for the property at 470 White Bear Avenue.
+**Public Safety & Law Enforcement**
+*   **Police Funding & Safety:** The Council approved two significant resolutions for the police department. One includes a **$508,350 grant** from the Minnesota Department of Public Safety to fund officer overtime specifically for traffic enforcement, including impaired driving, pedestrian safety, and speeding. A second resolution approved a $22,000 donation for the Women's Leadership Conference and the Honor Guard.
+*   **Public Safety Concerns:** During the hearing for 2094 Goodrich, several residents raised serious concerns regarding the potential lack of fire safety and clear evacuation routes for a high-density occupancy layout.
 
-**Public Hearings & Contention Points**
-*   **Tree of Lights (Noise & Quality of Life):** A public hearing was held regarding a noise variance for the Salvation Army's Tree of Lights. There was significant tension between the need for "city vibrancy" and the "quality of life" for nearby residents. To resolve this, the Council approved a compromise (Version 2) that limits the volume to 80 decibels at night, restricts bass frequencies, and requires the speakers to be turned away from residential areas.
-*   **2094 Goodrich Appeal (Significant Disagreement):** This item featured the most contention. A local resident and multiple community members argued that the building at 2094 Goodrich is being marketed as a "triplex" (3 units) to bypass stricter regulations for multi-family housing, while it actually functions as a "high-intensity" 18-bedroom facility.
-    *   **The Conflict:** Critics argued the building is a "rooming house" in disguise, posing safety risks (overcrowding) and a threat to neighborhood stability. They argued the city was ignoring the reality of the building's size in favor of a legal loophole.
-    *   **The Vote:** The vote was **not unanimous**. While the majority moved to deny the appeal (sticking to the legal definition of the building as a triplex), Councilmember Bowie cast a dissenting vote, indicating a split on how to handle the tension between strict zoning enforcement and the practical impacts on the neighborhood.
-*   **Carpentry Wages:** A public hearing was held regarding an ordinance allowing for federal residential prevailing wages for carpenters on specific low-income housing projects. This was supported by the Carpenters Union as a way to ensure fair wages while lowering barriers to building affordable housing.
+**Community Quality of Life & Services**
+*   **Garbage Collection Rates (Ordinance 26-56):** The council reviewed the base-level garbage rates for 2027. While costs are increasing—specifically a **3.5% increase in collection/bulky fees** and a **12% increase in disposal fees**—the council noted these figures are consistent with national averages. The resolution also clarified several operational items, such as requirements for keeping trash bins clean and updated notices for yard waste pickup.
+*   **Tree of Lights (Resolution 26-291):** A compromise was reached regarding the "Tree of Lights" at Rice Park. To balance the needs of the Salvation Army (who provide the display) and nearby residents, the council approved a "Version 2" of the resolution. This version limits the sound to **80 decibels after 8:00 PM** and caps bass frequencies at 80 hertz to reduce the impact on nearby homes.
+*   **Mobile Saunas (Ordinance 26-53):** The council initiated the first reading for a pilot program to allow mobile saunas in regional parks, starting at Como Regional Park. A licensing fee of $106 will be established for providers.
+
+**Zoning & Business Development**
+*   **Rice Street Rezoning (Ordinance 26-55):** A proposal was discussed to rezone property at 1201 Rice Street to a General Business District to allow for a mix of retail and auto sales. This is set for a public hearing next week.
+*   **University/Snelling District (Ordinance 26-49):** The council unanimously approved "Version 2" of a plan to create a commercial development district in this area to increase vibrancy while managing the transition of the neighborhood.
+*   **Grant Funding (Resolution 26-264):** The council approved the acceptance of grant funds for the Arden at 470 White Bear Avenue.
+
+**Notable Points of Contention**
+*   **2094 Goodrich Appeal (Ordinance 26-5):** This was the most contentious item of the meeting. The council reviewed an appeal regarding a triplex development. Many residents and some council members expressed concern that the building, while labeled as a "triplex," would actually function as a high-density "rooming house" or "partyplex" with 18 bedrooms and a large common area. Concerns were raised about the loss of neighborhood character, increased traffic, and the potential for "overcrowding."
+    *   **The Vote:** The vote was **not unanimous**. Councilmember Bowie voted against the motion to deny the appeal (the only dissenting vote), while the other five members voted in favor of denying the appeal based on the current wording of the zoning code.
 
