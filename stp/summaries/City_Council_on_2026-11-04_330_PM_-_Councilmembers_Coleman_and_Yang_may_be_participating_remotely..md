@@ -4,32 +4,26 @@ date: 2026-11-04
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Legislative review, public hearings on utility fees, and zoning amendments.
+**Purpose:** Legislative items, zoning updates, public hearings, and setting 2027 service rates.
 **Date/Time:** November 4, 2026, at 3:30 PM.
+**Context:** Several items were laid over for further consideration or final adoption in late November/early December.
 
 #### Summary
-**Commission Stipends and Policy Debate**
-There was a notable discussion regarding the ordinance to increase stipends for city commissions and boards. While the council agreed that increasing these stipends is necessary for recruitment and diversity, **Councilmember Johnson expressed concern regarding the specific wording of the ordinance.** She argued against "striking out" the actual dollar amounts in favor of a "catch-all" provision that would allow the city director to set the amount. Councilmember Coleman (the sponsor) acknowledged these concerns and indicated a willingness to discuss alternative ways to ensure transparency while still increasing the stipends. This item was laid over for further discussion.
+**Commission Stipends & Transparency**
+The Council discussed an ordinance to increase stipends for members of city commissions and boards. While the Council agreed on the need for higher pay to ensure better recruitment and diversity, there was **notable contention** regarding the drafting of the ordinance. Councilmember Johnson expressed concern over the "strike through" of specific stipend amounts in favor of a "catch-all" provision that would allow the city director to set the amounts. She argued for a more transparent, clearly defined ordinance rather than a system that relies on internal budget discussions to determine pay. The item was passed for a first reading, with the Council open to further amendment before the public hearing on November 18.
 
-**Zoning and Solar Access**
-The council reviewed a package of minor zoning code amendments. A key point of interest for residents involves a change to the 10,000-square-foot threshold for land disturbance and a new rule regarding solar panels. The update aims to allow solar panels to be installed up to the roof edge on narrow lots, even if they were previously considered "legal non-conforming" setbacks. This is intended to make solar energy more accessible for homeowners.
+**Zoning and Business Development**
+*   **Solar Access:** A minor zoning amendment was discussed to allow for solar panels on homes with "legal non-conforming" setbacks. This change aims to make solar installation more feasible for homeowners on narrow lots.
+*   **Unreal LLC Project:** The Council approved a job creation fund and the city's sponsorship of a Minnesota Investment Fund for a project by Unreal LLC at the Snelling University complex (400 Snelling Avenue North).
+*   **Mr. Tire / 1201 Rice Street:** The Council moved to approve a rezoning of 1201 Rice Street from a Traditional Neighborhood District to a General Business District. Local residents and business advocates supported the move, noting it would provide essential automotive services and job creation for the local community.
 
-**Public Safety and Community Well-being**
-*   **Mobile Saunas:** A public hearing was held regarding the permit for mobile saunas in city parks. Residents testified heavily in favor of the initiative, citing the mental health benefits and the unique role saunas play in building community and "rehearsing" peaceful coexistence.
-*   **Solid Waste & Recycling:** The city received reports on the "Big Belly" solar-powered trash bins (which alert staff when full to reduce waste) and discussed the 2027 fee structure. There is a proposal to adjust how these fees are distributed among different types of residential properties to more accurately reflect the use of these services.
+**Public Safety and Quality of Life**
+*   **Mobile Saunas:** A public hearing was held regarding a new ordinance to allow and license mobile saunas on city park property. Local business owners and residents supported the initiative, highlighting the health benefits of saunas and their potential for community building.
+*   **Infrastructure & Environment:** The Council approved a resolution for enhanced street-sweeping activities within the Capital Region Watershed District and allocated $150,000 for the 2027 Clean Energy Tax Credit PrEP contract.
 
-**Business and Economic Development**
-*   **Unreal LLC:** The council approved a job creation fund and a Minnesota Investment Fund for a project near 400 Snelling Avenue North in the United Village development.
-*   **Mr. Tire (1201 Rice Street):** A rezoning application was heard for a local car lot. Supporters highlighted that this would provide necessary vehicle rentals and sales for the community, specifically noting it would help residents navigate the neighborhood more easily.
-
-**Infrastructure and Utilities**
-The council held several public hearings regarding the **2027 rate settings** for:
-*   Water charges and fees.
-*   Sanitary and storm sewer rates.
-*   Solid waste service fees.
-*   Recycling service fees (which include a request for a $829,109 grant from Ramsey County).
-*   Enhanced street-sweeping activities in the Capital Region.
-*   The Clean Energy Tax Credit program.
-
-Most of the fee-related items were laid over for final adoption in late November or early December.
+**2027 Budget and Service Rates**
+Several items were discussed regarding the setting of fees for the 2027 calendar year. While these items were moved to a later date for final adoption (December 2), the following updates were provided:
+*   **Solid Waste (Garbage):** Plans were discussed to consolidate waste management with the Parks department to improve efficiency and introduce "Big Belly" solar-powered bins in several locations (including Rice Park).
+*   **Recycling:** A proposal was made to increase the 2027 recycling fee to account for hauler contract increases, alongside an application for over $829,000 in grant funds to support and expand local recycling programs.
+*   **Water and Sewer:** The Council moved to establish the 2027 rates for water, sanitary sewer, and storm sewer services.
 
