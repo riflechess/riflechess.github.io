@@ -4,27 +4,32 @@ date: 2026-11-04
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** Legislative proceedings, public hearings on city ordinances, and budget-related resolutions.
-**Date/Time:** November 4, 2026, at 3:30 PM.
+**Purpose:** Review of legislative updates, 2027 budget preparations, zoning amendments, and land use proposals.
+**Date/Time:** November 4, 2026, at 3:30 PM
+**Context:** Discussion of upcoming fee structures, public safety/diversity in governance, and local business development.
 
 #### Summary
-**Commission Stipends & Retention**
-There was a detailed discussion regarding an ordinance to increase stipends for city commissions and boards (specifically mentioning the PCARC). The goal is to improve retention and diversity by making it easier for individuals with childcare or work obligations to serve. 
-*   **Point of Contention:** While there was general agreement that stipends should be increased, there was specific disagreement regarding the ordinance language. Councilmember Johnson expressed concern over "striking out" specific dollar amounts in the current ordinance. She argued that using a "catch-all" phrase allowing the city director to set the amount in the annual budget lacks the transparency usually provided by the three-reading ordinance process. Councilmember Coleman acknowledged the feedback and noted that the council remains open to refining the mechanism for these payments. The matter is laid over for a public hearing on November 18.
+**Commission Stipend Discussion**
+There was a focused discussion regarding increasing stipends for city commissions and boards to improve recruitment and diversity. 
+*   **Point of Contention:** Councilmember Johnson raised concerns regarding the specific wording of the ordinance. She argued against "striking through" specific stipend amounts in favor of a "catch-all" phrase that would allow the city director to set the amount based on the budget. She advocated for clear, transparent figures in the ordinance so that potential members know what to expect. Councilmember Coleman expressed openness to feedback on the mechanism for these adjustments. The matter is currently laid over for further consideration.
 
-**Zoning and Local Business Development**
-*   **Zoning Code Updates:** A package of minor amendments was reviewed, including a significant change regarding solar panels. The goal is to allow solar installations to go closer to property lines on narrow lots, which currently complicates projects that are near the legal limit.
-*   **Unreal LLC (Snelling Avenue):** The council moved to approve several resolutions regarding a project near 400 Snelling Avenue North (United Village), including a job creation fund and a Minnesota Investment Fund.
-*   **Rice Street Rezoning:** A proposal to rezone 1201 Rice Street to a General Business District was heard. Public testimony was strongly in favor, with local business owners and residents supporting the expansion of car sales and repair services (Mr. Tire) to the area.
-*   **Mobile Saunas:** A public hearing was held regarding an ordinance to allow mobile saunas on park property. Several residents testified in favor, highlighting the health benefits and the potential for these sites to serve as community-building hubs.
+**Zoning and Solar Access**
+The Council reviewed a package of minor zoning code amendments. A notable change involves land disturbance thresholds for site plan reviews. Additionally, the council discussed updates to make it easier for residents with narrow lots to install solar panels, specifically addressing issues where panels would otherwise be restricted by property setbacks.
 
-**Public Works and Utilities (2027 Rates)**
-Several items regarding utility and waste fees for 2027 were reviewed. These are critical for city operations and resident costs:
-*   **Waste Management:** Plans were presented for "Solid Waste" and "Recycling" fees. The 2027 proposals include specific fees for 1-4 unit dwellings and 5+ unit buildings. The council is also looking at a $829,109 grant to support recycling programs.
-*   **Water and Sewer:** Resolutions were reviewed to establish 2027 water fees and sanitary/storm sewer rates.
-*   **Street Sweeping:** A resolution was adopted to partner with the Capital Region Watershed District for enhanced street-sweeping in specific areas.
+**Business Development and Economic Growth**
+*   **Unreal LLC:** The Council approved two measures (Resolution 26-311 and 26-1827) for a project near 400 Snelling Avenue North in the United Village development, including a job creation fund and state investment funding.
+*   **1201 Rice Street:** The Council is moving forward with a rezoning request to convert this property into a general business district (B3). Support from the community highlighted the creation of local jobs and the availability of affordable car rentals and sales.
 
-**General Budget & Infrastructure**
-*   **Clean Energy:** The council approved a $150,000 budget allocation for the 2027 Clean Energy Tax Credit PrEP contract.
-*   **Legislative Consent:** A series of legislative hearing items (32-39) were approved as a package.
+**Publicity and Quality of Life (Mobile Saunas)**
+A new ordinance was introduced to permit mobile saunas on park property. During the public hearing, several residents testified in favor, citing the health benefits of saunas and their role in community building. The proposal includes a fee structure for these vendors to benefit the park system.
+
+**2027 Utility and Waste Rate Proposals**
+Several items were laid over for final adoption in December to set the 2027 rates for various city services:
+*   **Garbage/Waste:** A proposal to standardize fees for all residential units (including those with 5+ units) and the implementation of "Big Belly" solar-powered bins in parks to reduce labor costs.
+*   **Recycling:** A proposed fee increase for 2027 and a request for a grant of approximately $829,109 from Ramsey County to support recycling programs.
+*   **Water and Sewer:** Resolutions were laid over to establish the 2027 rates for water, sanitary sewer, and storm sewer services.
+
+**Additional Approvals**
+*   **Street Sweeping:** A resolution was approved to partner with the Capital Region Watershed District for enhanced street-sweeping.
+*   **Clean Energy:** $150,000 was budgeted for the 2027 Clean Energy Tax Credit project.
 
