@@ -3,10 +3,10 @@ title: Site Plan Review Committee Meeting - Canceled
 date: 
 ---
 #### Meeting Info
-**Type:** Site Plan Review Committee Meeting
-**Purpose:** Canceled
-**Context:** City of Saint Paul
+- **Meeting Type:** Site Plan Review Committee Meeting
+- **Status:** Canceled
+- **Location:** City of Saint Paul
 
 #### Summary
-The Site Plan Review Committee meeting was canceled. No decisions, discussions, or votes took place.
+The Site Plan Review Committee meeting was canceled. As a result, no topics were discussed, and no decisions or votes were recorded.
 
