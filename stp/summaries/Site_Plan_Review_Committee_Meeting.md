@@ -3,10 +3,10 @@ title: Site Plan Review Committee Meeting
 date: 
 ---
 #### Meeting Info
-**Type:** Site Plan Review Committee Meeting
-**Purpose:** Review of site plans for the City of Saint Paul.
-**Context:** This is a public meeting, both live and recorded.
+- **Meeting Type:** Site Plan Review Committee Meeting
+- **Organization:** City of Saint Paul
+- **Context:** Publicly recorded and live meeting
 
 #### Summary
-The provided documentation identifies this as a Site Plan Review Committee meeting for the City of Saint Paul. Because the input consists only of the meeting title and general description, there are no specific project details, budget allocations, public safety concerns, or points of contention to report at this time.
+The meeting was convened by the Site Plan Review Committee for the City of Saint Paul. The primary purpose was to conduct a review of site plans for city projects. No specific decisions, budget allocations, or points of contention were provided in the text.
 
