@@ -8,5 +8,5 @@ date:
 **Location:** City of Saint Paul
 
 #### Summary
-The Site Plan Review Committee meeting was canceled. As a result, no decisions were made, no votes were taken, and no specific projects or budgetary items were discussed.
+The Site Plan Review Committee Meeting was canceled. As no meeting took place, there were no discussions, votes, or decisions regarding land use, business developments, or public safety issues to report.
 
