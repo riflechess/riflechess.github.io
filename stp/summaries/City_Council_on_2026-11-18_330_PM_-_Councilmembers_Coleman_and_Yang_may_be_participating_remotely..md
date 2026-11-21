@@ -4,24 +4,33 @@ date: 2026-11-18
 ---
 #### Meeting Info
 **Type:** City Council Meeting
-**Purpose:** City business, appointments, and public hearings
-**Date/Time:** November 18, 2026, at 3:30 PM
-**Context:** Several appointments were confirmed, and significant discussions occurred regarding police funding, surveillance technology, and local property disputes.
+**Purpose:** Review of appointments, infrastructure updates, and public safety funding.
+**Date/Time:** November 18, 2026, at 3:30 PM.
+**Context:** The meeting included several significant appointments for city leadership and a series of discussions regarding federal grants for public safety technology and municipal safety.
 
 #### Summary
-**Key Appointments and Community Projects**
-*   **Personnel Appointments:** The Council approved the appointment of new members to the Parks and Recreation Commission (Lizbeth Martinez-Mota and Adelyn Tao) and the Mayor’s Advisory Council for People with Disabilities (Mariah Anderson).
-*   **New Fire Chief:** In a significant move for public safety, the Council unanimously approved the appointment of **Jeremiah Melquist as the new Chief of the St. Paul Fire Department**. The appointment was met with high praise from the council and the fire department leadership.
-*   **Public Facilities:** A new ordinance was approved to allow **mobile saunas** in city parks.
-*   **Waste Management:** The council approved an update to the legislative code regarding garbage service rates and procedures, effective January 2027.
-*   **Sustainability:** The "Sustainable Building Ordinance" was introduced. While it won't be voted on immediately, the council is looking to adjust thresholds to focus on larger projects with significant environmental impacts.
+**Key Appointments & Community Roles**
+*   **Parks and Recreation Commission:** The Council approved the appointment of Adeline Tao and Lizbeth Martinez-Mota to two-year terms.
+*   **Fire Chief Appointment:** In a high-profile move for public safety, the Council unanimously approved the appointment of **Jeremiah Melquist** as the new Chief of the St. Paul Fire Department. 
 
-**Zoning and Property Updates**
-*   **Rice Street Rezoning:** A request to rezone property at 1201 Rice Street from T2 to B3 was **denied**. The council decided that the current zoning better supports the city's goals for transit-oriented, multi-use development.
-*   **Property Disputes:** Several cases regarding fence heights and nuisance abatements (including a property on Dale Street and one on Edmond Avenue) were **laid over** (postponed) to gather more information or further refine the specific legal dimensions of the variances.
+**Infrastructure & Local Government**
+*   **Mobile Saunas:** An ordinance was adopted to allow mobile saunas in city parks, a move aimed at supporting local traditions during the winter.
+*   **Garbage Services:** The Council approved an ordinance to update and set rates for base-level garbage services starting in early 2027.
+*   **Zoning Denial:** A request by Rice Holding Company, LLC to re-zone a property from T2 (Traditional Neighborhood District) to B3 (General Business District) was **denied**. The Council cited a need to preserve high-density, transit-supported land use in the area.
+*   **Sustainable Building Ordinance:** The Council reviewed updates to the Sustainable Building Ordinance (SBO). The item was laid over until December 2nd for a second reading.
 
-**Contested Items & Public Safety Concerns**
-*   **Police Stipends (Item 38):** There was **disagreement regarding the wording** of the ordinance to increase stipends for the Police Civilian Internal Affairs Review Commission. While everyone agreed the stipends needed to increase, Councilmember Johnson withdrew her motion to approve the current version because it lacked specific transparency regarding how the stipend amounts would be set. The item was tabled until December 2nd.
-*   **CCTV and Surveillance (Items 42 & 43):** These items involved federal grants for CCTV systems and record management (Axon). **Significant community opposition** was voiced regarding the "fear of surveillance" and the potential for "AI-enabled" technology. While the police department clarified that the funds are intended for maintaining existing equipment rather than expanding the reach of the cameras, the council moved to **lay over** both items to ensure more clarity and transparency regarding how the money is spent and what specific capabilities the equipment has.
-*   **Grant Funding:** The council approved several grants for the department, including one for K-9 officers and another for the "Minnesota Task Force 1" reimbursement.
+**Public Safety & Technology Grants (Significant Discussion/Contention)**
+Several items regarding federal grants (JAG and others) for police equipment and technology were reviewed. These items drew significant attention and debate:
+*   **CCTV and Records Management (RMS):** The Council discussed accepting approximately $1 million for CCTV improvements and funding for an updated records management system. 
+*   **Contention Points:** Public testimony and some council members raised concerns regarding "over-surveillance," the potential for "AI-enabled" technology, and the risks associated with a "monopoly" contract with a single provider (Axon).
+*   **Result:** Due to a lack of clarity regarding the specific scope of the technology and how it might impact community trust or privacy, the Council **voted to lay these items over** until December 2nd to allow for a more detailed review of the contracts and spending plans.
+
+**Police Department Stipends (Non-Unanimous/Contentious)**
+*   **Item 38 (Police Civilian Internal Affairs Review Commission):** A resolution was introduced to increase stipends for the commission.
+*   **Point of Contention:** Councilmember Johnson expressed concern regarding the specific language of the ordinance. She argued that the current wording—which left stipend amounts to the "discretion of the director"—lacked the transparency and consistency used for other city commissions.
+*   **Result:** To ensure the ordinance was drafted in a way that was clear and consistent with other city policies, she withdrew her motion to pass it as written. The item was laid over until December 2nd for further drafting.
+
+**Property & Neighborhood Issues**
+*   **Fence Variance:** A significant discussion took place regarding a variance for a fence at 775 Edmond Avenue. The debate centered on balancing a neighbor's safety and privacy concerns against building codes. The item was ultimately **laid over** to allow for a clearer determination on the specific requirements for a safe and durable structure.
+*   **Small Adjustments:** The Council approved a few other minor items, including a reimbursement for a fire task force, a grant for K-9 officers, and a stipend for a city official to attend a conference.
 
