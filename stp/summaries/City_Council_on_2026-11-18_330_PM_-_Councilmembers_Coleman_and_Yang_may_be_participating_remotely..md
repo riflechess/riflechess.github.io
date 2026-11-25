@@ -3,30 +3,27 @@ title: City Council on 2026-11-18 3:30 PM - Councilmembers Coleman and Yang may 
 date: 2026-11-18
 ---
 #### Meeting Info
-**Meeting Type:** City Council Meeting
-**Purpose:** Regular city business, including personnel appointments, infrastructure, public safety grants, and zoning adjustments.
+**Type:** City Council Meeting
+**Purpose:** Review of city appointments, legislative ordinances, and public hearings regarding public safety and infrastructure.
 **Date/Time:** November 18, 2026, at 3:30 PM
-**Context:** The council addressed several key items regarding city leadership, community safety, and local infrastructure projects.
+**Context:** The meeting included the appointment of high-level city officials, the adoption of several local ordinances, and extensive public testimony regarding police surveillance and local zoning.
 
 #### Summary
-**Personnel and Leadership Appointments**
-*   **Fire Chief Appointment:** The council unanimously approved the appointment of **Jeremiah Melquist** as the new Chief of the St. Paul Fire Department. The appointment received strong support from council members and department representatives, who highlighted his experience and commitment to the city.
-*   **Parks and Recreation:** Appointments were approved for **Lizbeth Martinez-Mota** and **Adelin Tao** to serve on the Parks and Recreation Commission.
+**Key Appointments**
+The Council unanimously approved several key leadership appointments:
+*   **Parks and Recreation Commission:** Lizbeth Martinez-Mota and Adelyn Tao were appointed to two-year terms.
+*   **Fire Chief:** Jeremiah Melquist was officially appointed as the Chief of the St. Paul Fire Department.
 
-**Public Safety and Infrastructure**
-*   **Mobile Saunas:** The council approved a new ordinance to allow mobile saunas in public parks, aligning with local interests in winter traditions.
-*   **Waste Management:** An ordinance was adopted to update the operational procedures and set rates for base-level garbage service starting in early 2027.
-*   **K-9 and Training:** The council approved a donation to the Police Department for the purchase and care of K-9 officers, as well as a reimbursement for a task force.
-*   **Upcoming Legislation:** The council reviewed and "laid over" (delayed) a series of items regarding the **Sustainable Building Ordinance** and **Administrative Citations** to allow for more public feedback and internal planning.
+**City Ordinances and Business**
+*   **Mobile Saunas:** The Council approved an ordinance allowing mobile saunas to be placed on city property, including in parks.
+*   **Garbage Services:** A resolution was adopted to update the operational procedures and set the rates for base-level garbage services starting January 1, 2027.
+*   **Zoning Denial:** A request to re-zone 1201 Rice Street from a "Traditional Neighborhood District" to a "General Business District" was **denied**. The Council determined that the current zoning is better suited for transit-oriented development and that changing it would discourage high-density, mixed-use growth.
+*   **Safety Training:** The Council approved a grant to provide reimbursement to the Minnesota Task Force 1 and approved a stipend for city officials to attend a national competition in Chicago.
 
-**Areas of Contention and Public Discussion**
-*   **Police Technology and Surveillance (Items 42, 43, & 44):** There was significant public pushback regarding several federal grants (JAG and others) intended for CCTV improvements and records management systems. 
-    *   **The Conflict:** Residents expressed strong concerns over "hidden" terms in contracts with the provider **Axon**, specifically regarding AI-enabled technologies and the potential for increased surveillance. 
-    *   **The Resolution:** While the city needs the funding to maintain current systems (which are currently failing or outdated), the council was criticized for a lack of transparency regarding the specifics of the Axon contract. To address these concerns, the council voted to **lay these items over** until December 2nd to obtain a more detailed, itemized breakdown of how the funds will be spent and what specific technologies will be utilized.
-*   **Fence Variance and Safety (Item 48):** A public hearing was held regarding a fence variance at 775 Edmond Avenue.
-    *   **The Conflict:** The resident testified about a long-standing issue involving privacy and alleged harassment/stalking. There was a detailed discussion regarding the specific height of the fence required to provide safety while remaining within city code.
-    *   **The Resolution:** Because of the complexity of the site and the specific safety requirements mentioned by the resident, the council opted to lay the matter over to ensure the final resolution accurately reflects the required safety measures.
-
-**Zoning Updates**
-*   **Rice Street Rezoning:** The council moved to **deny** the rezoning of 1201 Rice Street from T2 to B3. The reasoning was that the current zoning better supports the city's transit-oriented development goals and prevents the expansion of auto-related businesses in that specific corridor.
+**Public Safety and Community Concerns**
+*   **CCTV and Records Management (Items 43 & 44):** There was significant discussion regarding grants from the Department of Justice to update the city's CCTV system and Records Management System (RMS). During the public hearing, several residents expressed strong opposition to these measures, citing concerns over "surveillance," the use of AI, and a lack of transparency regarding the contract with Axon. 
+    *   **Contention:** While the Assistant Chief noted the funds are intended for maintenance of existing systems rather than expansion, Council members expressed concerns regarding the "monopoly" of the current vendor and the lack of itemized clarity in the contracts. Due to these concerns, the Council voted to **lay these items over** to December 2nd to seek further information.
+*   **Police Oversight (Item 38):** The Council discussed increasing stipends for the Police Civilian Internal Affairs Review Commission. 
+    *   **Contention:** There was a disagreement regarding the specific language of the ordinance. Councilmember Johnson expressed concern that the current wording did not provide enough transparency regarding how stipends are determined. Consequently, the motion to approve the item as written was not passed, and the matter was **laid over** for further discussion.
+*   **Zoning Variance (Item 48):** A variance was granted for a residential property at 775 Edmond Avenue to increase the height of a fence. This followed testimony regarding a long-standing issue of "voyeurism" and a lack of safety/privacy for the residents. The Council ultimately approved the increase to ensure the safety and privacy of the residents.
 
